@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.41.0">
+<page position="absolute" top="0" left="0" height="1536" width="1152">
+	<fontspec id="0" size="70" family="Times" color="#ffffff"/>
+	<fontspec id="1" size="70" family="Times" color="#ffffff"/>
+	<fontspec id="2" size="25" family="Times" color="#ffffff"/>
+<image top="0" left="0" width="1152" height="1536" src="cover.png"/>
+<text top="337" left="242" width="416" height="96" font="0"><b>explore key  </b></text>
+<text top="424" left="242" width="504" height="96" font="0"><b>data on the P20</b></text>
+<text top="511" left="242" width="584" height="89" font="1"><a name="SELECT">select your region:</a></text>
+<text top="1181" left="421" width="175" height="36" font="2"><a href="#LAC"><b>Latin America  </b></a></text>
+<text top="1213" left="421" width="196" height="36" font="2"><a href="#LAC"><b>&amp; the Caribbean</b></a></text>
+<text top="1113" left="884" width="100" height="36" font="2"><a href="#Oceania"><b>Oceania</b></a></text>
+<text top="1067" left="664" width="72" height="36" font="2"><a href="#Africa"><b>Africa</b></a></text>
+<text top="897" left="318" width="209" height="36" font="2"><a href="#MDR"><b>more developed </b></a></text>
+<text top="929" left="318" width="92" height="36" font="2"><a href="#MDR"><b>regions</b></a></text>
+<text top="941" left="877" width="52" height="36" font="2"><a href="#Asia"><b>Asia</b></a></text>
+</page>
+{% for region in regions %}
+<page position="absolute" top="0" left="0" height="{{ region.height }}" width="1152">
+	<fontspec id="3" size="21" family="Times" color="#ffffff"/>
+	<fontspec id="4" size="70" family="Times" color="#453e43"/>
+	<fontspec id="5" size="46" family="Times" color="#e9443a"/>
+	<fontspec id="6" size="34" family="Times" color="#453e43"/>
+	<fontspec id="7" size="34" family="Times" color="#453e43"/>
+	<fontspec id="8" size="18" family="Times" color="#e9443a"/>
+	<fontspec id="9" size="25" family="Times" color="#453e43"/>
+	<fontspec id="10" size="24" family="Times" color="#e9443a"/>
+	<fontspec id="11" size="24" family="Times" color="#847f84"/>
+	<text top="84" left="951" width="111" height="32" font="3"><a href="#SELECT"><b>all regions</b></a></text>
+	<text top="107" left="72" width="192" height="96" font="4"><a name="{{ region.name }}"><b>{{ region.name }}</b></a></text>
+	{% for subregion in region.subregions %}
+		<text top="257" left="72" width="336" height="64" font="5"><b>{{ subregion.name }}</b></text>
+		<line x1="72" x2="1162" y1="321" y2="321" on="1" off="0" color="red"></line>
+		{% for country in subregion.countries %}
+			<text top="360" left="72" width="110" height="44" font="6"><a href="{{ country.name }}">{{ country.name }}</a></text>
+			<image top="360" left="1100" width="20" height="40" src="arrow.png"/>
+			<line x1="72" x2="1162" y1="405" y2="405" on="1" off="0" color="red"></line>
+		{% endfor %}
+	{% endfor %}
+</page>
+{% endfor %}
+{% for region in regions %}
+	{% for subregion in region.subregions %}
+		{% for country in subregion.countries %}
+		<page position="absolute" top="0" left="0" height="12000" width="1152">
+			<fontspec id="12" size="34" family="Times" color="#ffffff"/>
+			<fontspec id="13" size="24" family="Times" color="#847f84"/>
+			<fontspec id="14" size="13" family="Times" color="#e9443a"/>
+			<fontspec id="15" size="22" family="Times" color="#453e43"/>
+			<fontspec id="16" size="22" family="Times" color="#aaa6ab"/>
+			<fontspec id="17" size="22" family="Times" color="#453e43"/>
+			<fontspec id="18" size="31" family="Times" color="#ffffff"/>
+			<fontspec id="19" size="31" family="Times" color="#f8c1b2"/>
+		<text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
+		<text top="197" left="72" width="594" height="96" font="0"><b>{{ country.name }}</b></text>
+		<text top="477" left="72" width="905" height="44" font="12">Agenda 2030 includes the specific commitment to Leave </text>
+		<text top="531" left="72" width="900" height="44" font="12">No One Behind. Together with Sustainable Development </text>
+		<text top="585" left="72" width="965" height="44" font="12">Goal 10 to reduce inequality, this requires faster than average </text>
+		<text top="639" left="72" width="990" height="44" font="12">progress for the poorest. The test is whether the gap between </text>
+		<text top="693" left="72" width="881" height="44" font="12">the poorest 20% of people (the P20) and everyone else </text>
+		<text top="747" left="72" width="453" height="44" font="12">is reducing or getting wider. </text>
+		<text top="837" left="72" width="974" height="44" font="12">The P20 Initiative uses data to show whether the poorest 20% </text>
+		<text top="891" left="72" width="956" height="44" font="12">of people are getting their fair share of attention, investment </text>
+		<text top="945" left="72" width="1009" height="44" font="12">and opportunity. It uses three bellwether indicators of progress: </text>
+		<text top="999" left="72" width="979" height="44" font="12">income, nutrition and civil registration and it promotes all data </text>
+		<text top="1053" left="72" width="990" height="44" font="12">being disaggregated by Income Quintile, Gender, Geography, </text>
+		<text top="1107" left="72" width="298" height="44" font="12">Age and Disability. </text>
+		<text top="1197" left="72" width="912" height="47" font="12">This profile provides key available data about the status </text>
+		<text top="1251" left="72" width="514" height="47" font="12">of the P20 in [COUNTRY NAME].</text>
+		<text top="1571" left="162" width="625" height="64" font="5"><b>The P20 in [COUNTRY NAME]</b></text>
+		<text top="1674" left="72" width="710" height="44" font="6">[XX] people in [COUNTRY NAME] are among </text>
+		<text top="1728" left="72" width="763" height="44" font="6">the poorest 20% of the world’s population – the </text>
+		<text top="1782" left="72" width="739" height="44" font="6">global P20.  That is [X]% of the total population </text>
+		<text top="1836" left="72" width="609" height="44" font="6">and they live on less than $2.54 a day.  </text>
+		<text top="1926" left="72" width="729" height="44" font="6">The national P20 – the poorest 20% of people </text>
+		<text top="1980" left="72" width="789" height="44" font="6">within [COUNTRY NAME] – live on between $[XX] </text>
+		<text top="2034" left="72" width="786" height="44" font="6">and $[XX] a day compared with an average $[XX] </text>
+		<text top="2088" left="72" width="460" height="44" font="6">for the rest of the population.</text>
+		<text top="2187" left="72" width="600" height="35" font="13"><b>Source: </b><a href="template.html#3">Development Initiatives based on PovcalNet</a></text>
+		<text top="2190" left="672" width="5" height="20" font="14"><a href="template.html#3">1</a></text>
+		<text top="2471" left="162" width="161" height="64" font="5"><b>Income</b></text>
+		<text top="2574" left="72" width="765" height="44" font="6">In 2000 the gap between the P20 and everyone </text>
+		<text top="2628" left="72" width="775" height="44" font="6">else in [COUNTRY NAME] was $[0.00] and in 2013 </text>
+		<text top="2682" left="72" width="206" height="44" font="6">it was $[0.00]</text>
+		<text top="3591" left="72" width="600" height="35" font="13"><b>Source: </b>Development Initiatives based on PovcalNet</text>
+		<text top="3731" left="162" width="195" height="64" font="5"><b>Nutrition</b></text>
+		<text top="3834" left="72" width="785" height="44" font="6">Nutrition is fundamental to the ability to learn and </text>
+		<text top="3888" left="72" width="786" height="44" font="6">earn. Children who experience poor nutrition can </text>
+		<text top="3942" left="72" width="615" height="44" font="6">suffer lifelong disadvantage as a result. </text>
+		<text top="4032" left="72" width="716" height="44" font="6">In [COUNTRY NAME], [X] % of under five year </text>
+		<text top="4086" left="72" width="684" height="44" font="6">olds experienced stunting. In the P20 [xx]% </text>
+		<text top="4140" left="72" width="705" height="44" font="6">experienced stunting compared with [XX] % </text>
+		<text top="4194" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+		<text top="5103" left="72" width="765" height="35" font="13"><b>Source: </b>Development Initiatives based on UNICEF-WHO joint child </text>
+		<text top="5140" left="72" width="251" height="32" font="11">malnutrition <a href="template.html#3">estimates</a></text>
+		<text top="5142" left="323" width="8" height="20" font="14"><a href="template.html#3">2</a></text>
+		<text top="5279" left="162" width="367" height="64" font="5"><b>Birth registration</b></text>
+		<text top="5382" left="72" width="749" height="44" font="6">If you are born into the poorest 20% of people, </text>
+		<text top="5436" left="72" width="669" height="44" font="6">you are much less likely to have your birth </text>
+		<text top="5490" left="72" width="745" height="44" font="6">registered, which can affect access to services, </text>
+		<text top="5544" left="72" width="735" height="44" font="6">welfare, and rights. Globally about [XX] million </text>
+		<text top="5598" left="72" width="693" height="44" font="6">people have not had their births registered. </text>
+		<text top="5688" left="72" width="734" height="44" font="6">In [COUNTRY NAME] [XX]% of births in the P20 </text>
+		<text top="5742" left="72" width="717" height="44" font="6">are registered compared [XX] % in the rest of </text>
+		<text top="5796" left="72" width="239" height="44" font="6">the population.</text>
+		<text top="6732" left="72" width="690" height="44" font="6">Birth registration rates in [COUNTRY NAME]  </text>
+		<text top="6786" left="72" width="443" height="44" font="6">have [increased/decreased]</text>
+		<text top="6885" left="72" width="987" height="35" font="13"><b>Source: </b>Development Initiatives based on World Bank World Development Indicators: </text>
+		<text top="6922" left="72" width="418" height="32" font="11">Completeness of birth registration %</text>
+		<text top="6924" left="490" width="8" height="20" font="14"><a href="template.html#3">3</a></text>
+		<text top="7061" left="162" width="215" height="64" font="5"><b>Education</b></text>
+		<text top="7164" left="72" width="613" height="44" font="6">Education is fundamental to a person’s </text>
+		<text top="7218" left="72" width="202" height="44" font="6">life chances. </text>
+		<text top="7308" left="72" width="677" height="44" font="6">In [COUNTRY NAME] [xx]% of people have </text>
+		<text top="7362" left="72" width="640" height="44" font="6">completed secondary school education.</text>
+		<text top="8298" left="72" width="726" height="44" font="6">[XX]% of people in the P20 have completed a </text>
+		<text top="8352" left="72" width="797" height="44" font="6">secondary education compared with [XX]% of the </text>
+		<text top="8406" left="72" width="347" height="44" font="6">rest of the population.</text>
+		<text top="9315" left="72" width="498" height="35" font="13"><b>Source: </b>Demographic Health Surveys (DHS)</text>
+		<text top="9455" left="162" width="144" height="64" font="5"><b>Health</b></text>
+		<text top="9558" left="72" width="777" height="44" font="6">Poor health plays a major part in keeping people </text>
+		<text top="9612" left="72" width="801" height="44" font="6">in poverty. If you are among the P20 you are more </text>
+		<text top="9666" left="72" width="763" height="44" font="6">likely to suffer from preventable diseases and to </text>
+		<text top="9720" left="72" width="182" height="44" font="6">die earlier.  </text>
+		<text top="9810" left="72" width="790" height="44" font="6">In [COUNTRY NAME] the Under Five Mortality rate </text>
+		<text top="9864" left="72" width="143" height="44" font="6">is [XX]%  </text>
+		<text top="9954" left="72" width="702" height="44" font="6">The under five mortality rate among the P20 </text>
+		<text top="10008" left="72" width="713" height="44" font="6">is [XX]% compared with [XX]% the rest of the </text>
+		<text top="10062" left="72" width="179" height="44" font="6">population.</text>
+		<text top="10971" left="72" width="889" height="35" font="13"><b>Source: </b>Development Initiatives based on Demographic Health Surveys (DHS)</text>
+		<text top="11367" left="72" width="15" height="34" font="10">1 </text>
+		<text top="11368" left="108" width="501" height="32" font="11">Year of latest available data: 2013 (2011 $PPP)</text>
+		<text top="11421" left="72" width="21" height="34" font="10">2 </text>
+		<text top="11422" left="108" width="957" height="32" font="11">Based on latest available data which varies between countries – see original source</text>
+		<text top="11475" left="72" width="21" height="34" font="10">3 </text>
+		<text top="11476" left="108" width="957" height="32" font="11">Based on latest available data which varies between countries – see original source</text>
+		<text top="2766" left="72" width="424" height="48" font="7"><b>Benin consumption trends</b></text>
+		<text top="3391" left="90" width="0" height="30" font="15">average daily consumption per person, USD 201</text>
+		<text top="2889" left="90" width="0" height="30" font="15">1 PPP</text>
+		<text top="3419" left="199" width="47" height="30" font="16">1980</text>
+		<text top="3419" left="464" width="47" height="30" font="16">1990</text>
+		<text top="3419" left="726" width="52" height="30" font="16">2000</text>
+		<text top="3419" left="994" width="46" height="30" font="16">2010</text>
+		<text top="2852" left="121" width="39" height="30" font="16">$90</text>
+		<text top="2912" left="121" width="39" height="30" font="16">$80</text>
+		<text top="2972" left="123" width="37" height="30" font="16">$70</text>
+		<text top="3032" left="121" width="39" height="30" font="16">$60</text>
+		<text top="3092" left="122" width="38" height="30" font="16">$50</text>
+		<text top="3152" left="121" width="39" height="30" font="16">$40</text>
+		<text top="3212" left="122" width="38" height="30" font="16">$30</text>
+		<text top="3272" left="122" width="38" height="30" font="16">$20</text>
+		<text top="3332" left="127" width="33" height="30" font="16">$10</text>
+		<text top="3392" left="134" width="25" height="30" font="16">$0</text>
+		<text top="3488" left="138" width="130" height="30" font="17">National P20</text>
+		<text top="3488" left="380" width="192" height="30" font="17">Rest of population</text>
+		<text top="4278" left="72" width="424" height="48" font="7"><b>Benin consumption trends</b></text>
+		<text top="4903" left="90" width="0" height="30" font="15">average daily consumption per person, USD 201</text>
+		<text top="4401" left="90" width="0" height="30" font="15">1 PPP</text>
+		<text top="4931" left="199" width="47" height="30" font="16">1980</text>
+		<text top="4931" left="464" width="47" height="30" font="16">1990</text>
+		<text top="4931" left="726" width="52" height="30" font="16">2000</text>
+		<text top="4931" left="994" width="46" height="30" font="16">2010</text>
+		<text top="4364" left="121" width="39" height="30" font="16">$90</text>
+		<text top="4424" left="121" width="39" height="30" font="16">$80</text>
+		<text top="4484" left="123" width="37" height="30" font="16">$70</text>
+		<text top="4544" left="121" width="39" height="30" font="16">$60</text>
+		<text top="4604" left="122" width="38" height="30" font="16">$50</text>
+		<text top="4664" left="121" width="39" height="30" font="16">$40</text>
+		<text top="4724" left="122" width="38" height="30" font="16">$30</text>
+		<text top="4784" left="122" width="38" height="30" font="16">$20</text>
+		<text top="4844" left="127" width="33" height="30" font="16">$10</text>
+		<text top="4904" left="134" width="25" height="30" font="16">$0</text>
+		<text top="5000" left="138" width="130" height="30" font="17">National P20</text>
+		<text top="5000" left="380" width="192" height="30" font="17">Rest of population</text>
+		<text top="5880" left="72" width="424" height="48" font="7"><b>Benin consumption trends</b></text>
+		<text top="6505" left="90" width="0" height="30" font="15">average daily consumption per person, USD 201</text>
+		<text top="6003" left="90" width="0" height="30" font="15">1 PPP</text>
+		<text top="6533" left="199" width="47" height="30" font="16">1980</text>
+		<text top="6533" left="464" width="47" height="30" font="16">1990</text>
+		<text top="6533" left="726" width="52" height="30" font="16">2000</text>
+		<text top="6533" left="994" width="46" height="30" font="16">2010</text>
+		<text top="5966" left="121" width="39" height="30" font="16">$90</text>
+		<text top="6026" left="121" width="39" height="30" font="16">$80</text>
+		<text top="6086" left="123" width="37" height="30" font="16">$70</text>
+		<text top="6146" left="121" width="39" height="30" font="16">$60</text>
+		<text top="6206" left="122" width="38" height="30" font="16">$50</text>
+		<text top="6266" left="121" width="39" height="30" font="16">$40</text>
+		<text top="6326" left="122" width="38" height="30" font="16">$30</text>
+		<text top="6386" left="122" width="38" height="30" font="16">$20</text>
+		<text top="6446" left="127" width="33" height="30" font="16">$10</text>
+		<text top="6506" left="134" width="25" height="30" font="16">$0</text>
+		<text top="6602" left="138" width="130" height="30" font="17">National P20</text>
+		<text top="6602" left="380" width="192" height="30" font="17">Rest of population</text>
+		<text top="7446" left="72" width="424" height="48" font="7"><b>Benin consumption trends</b></text>
+		<text top="8071" left="90" width="0" height="30" font="15">average daily consumption per person, USD 201</text>
+		<text top="7569" left="90" width="0" height="30" font="15">1 PPP</text>
+		<text top="8099" left="199" width="47" height="30" font="16">1980</text>
+		<text top="8099" left="464" width="47" height="30" font="16">1990</text>
+		<text top="8099" left="726" width="52" height="30" font="16">2000</text>
+		<text top="8099" left="994" width="46" height="30" font="16">2010</text>
+		<text top="7532" left="121" width="39" height="30" font="16">$90</text>
+		<text top="7592" left="121" width="39" height="30" font="16">$80</text>
+		<text top="7652" left="123" width="37" height="30" font="16">$70</text>
+		<text top="7712" left="121" width="39" height="30" font="16">$60</text>
+		<text top="7772" left="122" width="38" height="30" font="16">$50</text>
+		<text top="7832" left="121" width="39" height="30" font="16">$40</text>
+		<text top="7892" left="122" width="38" height="30" font="16">$30</text>
+		<text top="7952" left="122" width="38" height="30" font="16">$20</text>
+		<text top="8012" left="127" width="33" height="30" font="16">$10</text>
+		<text top="8072" left="134" width="25" height="30" font="16">$0</text>
+		<text top="8168" left="138" width="130" height="30" font="17">National P20</text>
+		<text top="8168" left="380" width="192" height="30" font="17">Rest of population</text>
+		<text top="8490" left="72" width="424" height="48" font="7"><b>Benin consumption trends</b></text>
+		<text top="9115" left="90" width="0" height="30" font="15">average daily consumption per person, USD 201</text>
+		<text top="8613" left="90" width="0" height="30" font="15">1 PPP</text>
+		<text top="9143" left="199" width="47" height="30" font="16">1980</text>
+		<text top="9143" left="464" width="47" height="30" font="16">1990</text>
+		<text top="9143" left="726" width="52" height="30" font="16">2000</text>
+		<text top="9143" left="994" width="46" height="30" font="16">2010</text>
+		<text top="8576" left="121" width="39" height="30" font="16">$90</text>
+		<text top="8636" left="121" width="39" height="30" font="16">$80</text>
+		<text top="8696" left="123" width="37" height="30" font="16">$70</text>
+		<text top="8756" left="121" width="39" height="30" font="16">$60</text>
+		<text top="8816" left="122" width="38" height="30" font="16">$50</text>
+		<text top="8876" left="121" width="39" height="30" font="16">$40</text>
+		<text top="8936" left="122" width="38" height="30" font="16">$30</text>
+		<text top="8996" left="122" width="38" height="30" font="16">$20</text>
+		<text top="9056" left="127" width="33" height="30" font="16">$10</text>
+		<text top="9116" left="134" width="25" height="30" font="16">$0</text>
+		<text top="9212" left="138" width="130" height="30" font="17">National P20</text>
+		<text top="9212" left="380" width="192" height="30" font="17">Rest of population</text>
+		<text top="10146" left="72" width="424" height="48" font="7"><b>Benin consumption trends</b></text>
+		<text top="10771" left="90" width="0" height="30" font="15">average daily consumption per person, USD 201</text>
+		<text top="10269" left="90" width="0" height="30" font="15">1 PPP</text>
+		<text top="10799" left="199" width="47" height="30" font="16">1980</text>
+		<text top="10799" left="464" width="47" height="30" font="16">1990</text>
+		<text top="10799" left="726" width="52" height="30" font="16">2000</text>
+		<text top="10799" left="994" width="46" height="30" font="16">2010</text>
+		<text top="10232" left="121" width="39" height="30" font="16">$90</text>
+		<text top="10292" left="121" width="39" height="30" font="16">$80</text>
+		<text top="10352" left="123" width="37" height="30" font="16">$70</text>
+		<text top="10412" left="121" width="39" height="30" font="16">$60</text>
+		<text top="10472" left="122" width="38" height="30" font="16">$50</text>
+		<text top="10532" left="121" width="39" height="30" font="16">$40</text>
+		<text top="10592" left="122" width="38" height="30" font="16">$30</text>
+		<text top="10652" left="122" width="38" height="30" font="16">$20</text>
+		<text top="10712" left="127" width="33" height="30" font="16">$10</text>
+		<text top="10772" left="134" width="25" height="30" font="16">$0</text>
+		<text top="10868" left="138" width="130" height="30" font="17">National P20</text>
+		<text top="10868" left="380" width="192" height="30" font="17">Rest of population</text>
+		{% endfor %}
+	{% endfor %}
+{% endfor %}
+<text top="11690" left="72" width="531" height="43" font="18">If you would like more information  </text>
+<text top="11735" left="72" width="555" height="43" font="18">or to speak to us, please get in touch:</text>
+<text top="11816" left="72" width="480" height="43" font="18">Zach Christensen, Senior Analyst </text>
+<text top="11861" left="72" width="431" height="41" font="19"><a href="mailto:Zach.Christensen%40devinit.org?subject=">Zach.Christensen@devinit.org</a></text>
+<text top="84" left="832" width="230" height="32" font="3"><a href="template.html#2"><b>all countries in region</b></a></text>
+</page>
+</pdf2xml>
