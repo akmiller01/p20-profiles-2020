@@ -32,7 +32,7 @@
 <text top="257" left="72" width="336" height="64" font="5"><b>Northern Africa</b></text>
 <text top="360" left="72" width="110" height="44" font="6"><a>Algeria</a></text>
 <text top="450" left="72" width="90" height="44" font="6"><a>Egypt</a></text>
-<text top="540" left="72" width="358" height="44" font="6"><a>Libyan Arab Jamahiriya</a></text>
+<text top="540" left="72" width="358" height="44" font="6"><a>State of Libya</a></text>
 <text top="630" left="72" width="145" height="44" font="6"><a>Morocco</a></text>
 <text top="720" left="72" width="105" height="44" font="6"><a>Tunisia</a></text>
 <text top="810" left="72" width="244" height="44" font="6"><a>Western Sahara</a></text>
@@ -525,7 +525,7 @@
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Africa"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
-<text top="197" left="72" width="594" height="96" font="0"><b>Libyan Arab Jamahiriya</b></text>
+<text top="197" left="72" width="594" height="96" font="0"><b>State of Libya</b></text>
 <text top="477" left="72" width="905" height="44" font="8">Agenda 2030 includes the specific commitment to Leave </text>
 <text top="531" left="72" width="900" height="44" font="8">No One Behind. Together with Sustainable Development </text>
 <text top="585" left="72" width="965" height="44" font="8">Goal 10 to reduce inequality, this requires faster than average </text>
