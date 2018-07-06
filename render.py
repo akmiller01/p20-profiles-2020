@@ -20,8 +20,8 @@ class ReportMaker(object):
     def __init__(self, countries, template_folder, pdf_file):
         pdfmetrics.registerFont(TTFont('Geomanist', 'fonts/Geomanist-Regular.ttf'))
         pdfmetrics.registerFont(TTFont('Geomanist-Bold', 'fonts/Geomanist-Bold.ttf'))
-        pdfmetrics.registerFont(TTFont('Geomanist-Italic', 'fonts/Geomanist-Italic.ttf'))
-        addMapping('Geomanist',0,0,'Geomanist-Regular')
+        pdfmetrics.registerFont(TTFont('Geomanist-Italic', 'fonts/Geomanist-RegularItalic.ttf'))
+        addMapping('Geomanist',0,0,'Geomanist')
         addMapping('Geomanist',0,1,'Geomanist-Italic')
         addMapping('Geomanist',1,0,'Geomanist-Bold')
 
