@@ -126,6 +126,17 @@ class ReportMaker(object):
                 self.c.setDash(int(line.get("on")),int(line.get("off")))
                 self.c.setStrokeColor(line.get("color"))
                 self.c.line(int(line.get("x1")),self.height-int(line.get("y1")),int(line.get("x2")),self.height-int(line.get("y2")))
+            for button in page.findall("button"):
+                padtop = int(button.get("pt")) if button.get("pt") else 0
+                padbottom = int(button.get("pb")) if button.get("pb") else 0
+                padleft = int(button.get("pl")) if button.get("pl") else 0
+                padright = int(button.get("pr")) if button.get("pr") else 0
+                top = (self.height - int(button.get("top")))+padtop
+                bottom = ((top-padtop) - int(button.get("height")))-padbottom
+                left = int(button.get("left"))-padleft
+                right = ((left+padleft) + int(button.get("width")))+padright
+                rect = (left, bottom, right, top)
+                self.c.linkAbsolute("", button.get("href"), rect, Border='[0 0 0]')
 
             self.c.showPage()
 
