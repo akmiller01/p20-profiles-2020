@@ -288,7 +288,7 @@
 	<fontspec id="17" size="34" family="Times" color="#f8c1b2"/>
 	<fontspec id="18" size="31" family="Times" color="#ffffff"/>
 	<fontspec id="19" size="31" family="Times" color="#f8c1b2"/>
-<image top="0" left="0" width="1152" height="11592" src="li_profile_bg.png"/>
+<image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#LAC"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
 <text top="197" left="72" width="594" height="96" font="0"><b>Country long name</b></text>
@@ -393,7 +393,7 @@
 
 	
 <page number="9" position="absolute" top="0" left="0" height="8065" width="1152">
-<image top="0" left="0" width="1152" height="8065" src="hi_profile_bg.png"/>
+<image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#LAC"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
 <text top="197" left="72" width="594" height="96" font="0"><b>Country long name</b></text>

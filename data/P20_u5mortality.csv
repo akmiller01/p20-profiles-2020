@@ -1,0 +1,278 @@
+"CountryName","Year","U5Mortality.NP20","U5Mortality.Rest"
+"Afghanistan","2015",81,56.5
+"Albania","2008",34,17.5
+"Angola","2015",102,70.25
+"Angola","2011",106,97.25
+"Armenia","2015",15,
+"Armenia","2010",25,20.25
+"Armenia","2005",52,27.5
+"Armenia","2000",61,43.25
+"Azerbaijan","2006",63,55.5
+"Bangladesh","2014",62,51
+"Bangladesh","2011",78,58
+"Bangladesh","2007",86,68.25
+"Bangladesh","2004",121,86.75
+"Bangladesh","1999",140,97.25
+"Bangladesh","1996",141,120
+"Bangladesh","1993",186,134.75
+"Benin","2011",88,69.75
+"Benin","2006",151,127.25
+"Benin","2001",198,145.5
+"Benin","1996",208,171.75
+"Bolivia (Plurinational State of)","2008",116,57.75
+"Bolivia (Plurinational State of)","2003",119,77.5
+"Bolivia (Plurinational State of)","1998",146,74.75
+"Bolivia (Plurinational State of)","1994",176,110.75
+"Bolivia (Plurinational State of)","1989",,
+"Botswana","1988",,
+"Brazil","1996",99,38.75
+"Brazil","1986",,
+"Burkina Faso","2010",175,136.25
+"Burkina Faso","2003",206,186.5
+"Burkina Faso","1998",247,213
+"Burkina Faso","1993",199,203.75
+"Burundi","2016",119,70.25
+"Burundi","2010",152,119.25
+"Burundi","1987",,
+"Cambodia","2014",76,37.25
+"Cambodia","2010",90,57.5
+"Cambodia","2005",127,94.5
+"Cambodia","2000",155,107
+"Cameroon","2011",184,106.5
+"Cameroon","2004",189,128.75
+"Cameroon","1998",199,125.5
+"Cameroon","1991",201,128.75
+"Central African Republic","1994",193,147.25
+"Chad","2014",161,144.25
+"Chad","2004",176,208
+"Chad","1996",171,207
+"Colombia","2015",27,
+"Colombia","2010",29,18.75
+"Colombia","2005",39,20.75
+"Colombia","2000",39,23.25
+"Colombia","1995",52,31.75
+"Colombia","1990",45,31.5
+"Colombia","1986",,
+"Comoros","2012",52,48.25
+"Comoros","1996",129,104
+"Congo","2011",89,76.75
+"Congo","2005",135,117.25
+"Bolivia (Plurinational State of)","2013",117,108.25
+"Bolivia (Plurinational State of)","2007",184,145
+"Cote d'Ivoire","2011",138,106.75
+"Cote d'Ivoire","2005",150,119.5
+"Cote d'Ivoire","1998",229,148.75
+"Cote d'Ivoire","1994",190,135
+"Dominican Republic","2013",42,30
+"Dominican Republic","2007",53,31.5
+"Dominican Republic","2002",66,35.5
+"Dominican Republic","1999",82,
+"Dominican Republic","1996",90,49.25
+"Dominican Republic","1991",,
+"Dominican Republic","1986",,
+"Ecuador","1987",,
+"Egypt","2014",42,27
+"Egypt","2008",49,28.5
+"Egypt","2005",75,42
+"Egypt","2003",84,46
+"Egypt","2000",98,59.75
+"Egypt","1995",147,76.25
+"Egypt","1992",,
+"Egypt","1988",,
+"El Salvador","1985",,
+"Eritrea","2002",100,105.5
+"Eritrea","1995",152,151.75
+"Ethiopia","2016",90,78.5
+"Ethiopia","2011",137,100.75
+"Ethiopia","2005",130,129.75
+"Ethiopia","2000",159,193.75
+"Gabon","2012",75,59.25
+"Gabon","2000",93,88.75
+"Gambia","2013",70,58
+"Ghana","2014",92,63.25
+"Ghana","2008",103,77.25
+"Ghana","2003",128,103
+"Ghana","1998",134,97.5
+"Ghana","1993",156,122.75
+"Ghana","1988",,
+"Guatemala","2014",56,31
+"Guatemala","1998",78,58.25
+"Guatemala","1995",89,71
+"Guatemala","1987",,
+"Guinea","2012",168,117.25
+"Guinea","2005",217,173.25
+"Guinea","1999",230,180.75
+"Guyana","2009",32,42
+"Guyana","2005",39,52.5
+"Haiti","2012",104,86
+"Haiti","2005",125,90.5
+"Haiti","2000",164,128.5
+"Haiti","1994",163,131
+"Honduras","2011",39,26
+"Honduras","2005",50,32
+"India","2015",75,42
+"India","2005",118,69.75
+"India","1998",141,83.75
+"India","1992",155,103.5
+"Indonesia","2012",70,34.75
+"Indonesia","2007",77,42.75
+"Indonesia","2002",77,46.75
+"Indonesia","1997",109,56.75
+"Indonesia","1994",,
+"Indonesia","1991",,
+"Indonesia","1987",,
+"Jordan","2012",29,17.75
+"Jordan","2009",36,29.5
+"Jordan","2007",30,20.5
+"Jordan","2002",34,27
+"Jordan","1997",42,31.5
+"Jordan","1990",54,40.25
+"Kazakhstan","1999",82,56.5
+"Kazakhstan","1995",48,47.75
+"Kenya","2014",57,55.5
+"Kenya","2008",98,78.25
+"Kenya","2003",149,99.5
+"Kenya","1998",136,92
+"Kenya","1993",129,81
+"Kenya","1989",,
+"Kyrgyzstan","2012",36,32.25
+"Kyrgyzstan","1997",96,67.25
+"Lesotho","2014",77,95.5
+"Lesotho","2009",107,104
+"Lesotho","2004",113,99
+"Liberia","2013",130,107
+"Liberia","2009",176,151
+"Liberia","2007",138,139.75
+"Liberia","1986",,
+"Madagascar","2008",106,72.25
+"Madagascar","2003",142,96.5
+"Madagascar","1997",195,148
+"Madagascar","1992",,
+"Malawi","2015",83,71.5
+"Malawi","2010",133,125
+"Malawi","2004",183,149
+"Malawi","2000",238,191.75
+"Malawi","1992",253,233.5
+"Maldives","2009",28,26
+"Mali","2012",112,100
+"Mali","2006",233,204.5
+"Mali","2001",248,229.5
+"Mali","1995",298,236.5
+"Mali","1987",,
+"Mauritania","2000",98,102.5
+"Mexico","1987",,
+"Republic of Moldova","2005",29,25
+"Morocco","2003",78,43.75
+"Morocco","1992",112,71.5
+"Morocco","1987",,
+"Mozambique","2011",129,101.25
+"Mozambique","2003",196,166.5
+"Mozambique","1997",277,190.5
+"Myanmar","2015",99,56
+"Namibia","2013",67,55.25
+"Namibia","2006",92,60.75
+"Namibia","2000",63,59.25
+"Namibia","1992",110,86.5
+"Nepal","2016",62,40
+"Nepal","2011",75,56.25
+"Nepal","2006",98,71
+"Nepal","2001",130,98.5
+"Nepal","1996",156,130
+"Nicaragua","2001",64,35.5
+"Nicaragua","1998",69,49.5
+"Niger","2012",144,153.5
+"Niger","2006",206,218.5
+"Niger","1998",282,300.5
+"Niger","1992",,
+"Nigeria","2013",190,121.75
+"Nigeria","2010",193,138.5
+"Nigeria","2008",219,148.25
+"Nigeria","2003",257,191.5
+"Nigeria","1990",240,174.25
+"Pakistan","2012",119,86.25
+"Pakistan","2006",121,82.75
+"Pakistan","1990",125,117.75
+"Paraguay","1990",57,42
+"Peru","2012",36,20.5
+"Peru","2011",44,18.25
+"Peru","2010",39,21.5
+"Peru","2009",47,23.25
+"Peru","2007",59,28.25
+"Peru","2004",58,
+"Peru","2000",93,43.25
+"Peru","1996",110,47.5
+"Peru","1991",136,64
+"Peru","1986",,
+"Philippines","2013",52,23.75
+"Philippines","2008",59,28.5
+"Philippines","2003",66,31.5
+"Philippines","1998",80,43
+"Philippines","1993",94,50
+"Rwanda","2014",84,60.75
+"Rwanda","2010",119,96.5
+"Rwanda","2007",161,126.5
+"Rwanda","2005",211,172.75
+"Rwanda","2000",246,197
+"Rwanda","1992",144,168
+"Sao Tome and Principe","2008",90,64.75
+"Senegal","2016",91,47
+"Senegal","2015",87,58
+"Senegal","2014",92,51.25
+"Senegal","2012",90,67
+"Senegal","2010",119,74.5
+"Senegal","2008",142,82.25
+"Senegal","2005",183,114
+"Senegal","1997",181,124.5
+"Senegal","1992",,
+"Senegal","1986",,
+"Sierra Leone","2013",186,169.5
+"Sierra Leone","2008",211,154.25
+"South Africa","1998",87,45.5
+"Sri Lanka","1987",,
+"Sudan","1989",,
+"Swaziland","2006",117,102.5
+"Tajikistan","2012",58,45
+"United Republic of Tanzania","2015",78,77.5
+"United Republic of Tanzania","2010",103,88.75
+"United Republic of Tanzania","2007",129,106.25
+"United Republic of Tanzania","2004",137,128.25
+"United Republic of Tanzania","1999",160,160.5
+"United Republic of Tanzania","1996",140,144.75
+"United Republic of Tanzania","1991",,
+"Thailand","1987",,
+"Timor-Leste","2016",55,36.5
+"Timor-Leste","2009",87,79
+"Togo","2013",120,82.5
+"Togo","1998",168,132.75
+"Togo","1988",,
+"Trinidad and Tobago","1987",,
+"Tunisia","1988",,
+"Turkey","2003",81,35
+"Turkey","1998",85,50
+"Turkey","1993",125,64
+"Turkmenistan","2000",106,83.75
+"Uganda","2016",88,68.5
+"Uganda","2011",123,100.25
+"Uganda","2009",116,95
+"Uganda","2006",165,136
+"Uganda","2000",192,144.75
+"Uganda","1995",192,145.5
+"Uganda","1988",,
+"Ukraine","2007",23,
+"Uzbekistan","1996",70,50.25
+"Viet Nam","2002",53,24.75
+"Viet Nam","1997",63,38.75
+"Yemen","2013",69,53
+"Yemen","1997",163,107.5
+"Yemen","1991",,
+"Zambia","2013",100,73.75
+"Zambia","2007",124,138.25
+"Zambia","2001",192,158.5
+"Zambia","1996",212,186
+"Zambia","1992",,
+"Zimbabwe","2015",102,76.5
+"Zimbabwe","2010",85,74.5
+"Zimbabwe","2005",72,68.5
+"Zimbabwe","1999",99,87
+"Zimbabwe","1994",85,72.75
+"Zimbabwe","1988",,
