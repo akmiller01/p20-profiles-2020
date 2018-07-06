@@ -25,247 +25,253 @@
 	<fontspec id="5" size="46" family="Times" color="#e9443a"/>
 	<fontspec id="6" size="34" family="Times" color="#453e43"/>
 	<fontspec id="7" size="34" family="Times" color="#453e43"/>
+<image top="0" left="0" width="1152" height="6138" src="toc1.png"/>
 <text top="84" left="951" width="111" height="32" font="3"><a href="#ALL"><b>all regions</b></a></text>
 <text top="107" left="72" width="192" height="96" font="4"><b>Africa</b></text>
 <text top="107" left="72" width="192" height="96" font="4"><a name="Africa"></a></text>
 <text top="257" left="72" width="336" height="64" font="5"><b>Northern Africa</b></text>
-<text top="360" left="72" width="110" height="44" font="6"><a href="#">Algeria</a></text>
-<text top="450" left="72" width="90" height="44" font="6"><a href="#">Egypt</a></text>
-<text top="540" left="72" width="358" height="44" font="6"><a href="#">Libyan Arab Jamahiriya</a></text>
-<text top="630" left="72" width="145" height="44" font="6"><a href="#">Morocco</a></text>
-<text top="720" left="72" width="105" height="44" font="6"><a href="#">Tunisia</a></text>
-<text top="810" left="72" width="244" height="44" font="6"><a href="#">Western Sahara</a></text>
+<text top="360" left="72" width="110" height="44" font="6"><a>Algeria</a></text>
+<text top="450" left="72" width="90" height="44" font="6"><a>Egypt</a></text>
+<text top="540" left="72" width="358" height="44" font="6"><a>Libyan Arab Jamahiriya</a></text>
+<text top="630" left="72" width="145" height="44" font="6"><a>Morocco</a></text>
+<text top="720" left="72" width="105" height="44" font="6"><a>Tunisia</a></text>
+<text top="810" left="72" width="244" height="44" font="6"><a>Western Sahara</a></text>
 <text top="959" left="72" width="413" height="64" font="5"><b>Sub-Saharan Africa</b></text>
 <text top="1097" left="72" width="222" height="48" font="7"><b>Eastern Africa</b></text>
-<text top="1188" left="72" width="120" height="44" font="6"><a href="#">Burundi</a></text>
-<text top="1278" left="72" width="147" height="44" font="6"><a href="#">Comoros</a></text>
-<text top="1368" left="72" width="120" height="44" font="6"><a href="#">Djibouti</a></text>
-<text top="1458" left="72" width="97" height="44" font="6"><a href="#">Eritrea</a></text>
-<text top="1548" left="72" width="125" height="44" font="6"><a href="#">Ethiopia</a></text>
-<text top="1638" left="72" width="97" height="44" font="6"><a href="#">Kenya</a></text>
-<text top="1728" left="72" width="194" height="44" font="6"><a href="#">Madagascar</a></text>
-<text top="1818" left="72" width="113" height="44" font="6"><a href="#">Malawi</a></text>
-<text top="1908" left="72" width="141" height="44" font="6"><a href="#">Mauritius</a></text>
-<text top="1998" left="72" width="131" height="44" font="6"><a href="#">Mayotte</a></text>
-<text top="2088" left="72" width="211" height="44" font="6"><a href="#">Mozambique</a></text>
-<text top="2178" left="72" width="129" height="44" font="6"><a href="#">Réunion</a></text>
-<text top="2268" left="72" width="128" height="44" font="6"><a href="#">Rwanda</a></text>
-<text top="2358" left="72" width="123" height="44" font="6"><a href="#">Somalia</a></text>
-<text top="2448" left="72" width="98" height="44" font="6"><a href="#">Sudan</a></text>
-<text top="2538" left="72" width="125" height="44" font="6"><a href="#">Uganda</a></text>
-<text top="2628" left="72" width="438" height="44" font="6"><a href="#">United Republic of Tanzania</a></text>
-<text top="2718" left="72" width="118" height="44" font="6"><a href="#">Zambia</a></text>
-<text top="2808" left="72" width="172" height="44" font="6"><a href="#">Zimbabwe</a></text>
+<text top="1188" left="72" width="120" height="44" font="6"><a>Burundi</a></text>
+<text top="1278" left="72" width="147" height="44" font="6"><a>Comoros</a></text>
+<text top="1368" left="72" width="120" height="44" font="6"><a>Djibouti</a></text>
+<text top="1458" left="72" width="97" height="44" font="6"><a>Eritrea</a></text>
+<text top="1548" left="72" width="125" height="44" font="6"><a>Ethiopia</a></text>
+<text top="1638" left="72" width="97" height="44" font="6"><a>Kenya</a></text>
+<text top="1728" left="72" width="194" height="44" font="6"><a>Madagascar</a></text>
+<text top="1818" left="72" width="113" height="44" font="6"><a>Malawi</a></text>
+<text top="1908" left="72" width="141" height="44" font="6"><a>Mauritius</a></text>
+<text top="1998" left="72" width="131" height="44" font="6"><a>Mayotte</a></text>
+<text top="2088" left="72" width="211" height="44" font="6"><a>Mozambique</a></text>
+<text top="2178" left="72" width="129" height="44" font="6"><a>Réunion</a></text>
+<text top="2268" left="72" width="128" height="44" font="6"><a>Rwanda</a></text>
+<text top="2358" left="72" width="123" height="44" font="6"><a>Somalia</a></text>
+<text top="2448" left="72" width="98" height="44" font="6"><a>Sudan</a></text>
+<text top="2538" left="72" width="125" height="44" font="6"><a>Uganda</a></text>
+<text top="2628" left="72" width="438" height="44" font="6"><a>United Republic of Tanzania</a></text>
+<text top="2718" left="72" width="118" height="44" font="6"><a>Zambia</a></text>
+<text top="2808" left="72" width="172" height="44" font="6"><a>Zimbabwe</a></text>
 <text top="2933" left="72" width="220" height="48" font="7"><b>Middle Africa</b></text>
-<text top="3024" left="72" width="112" height="44" font="6"><a href="#">Angola</a></text>
-<text top="3114" left="72" width="168" height="44" font="6"><a href="#">Cameroon</a></text>
-<text top="3204" left="72" width="377" height="44" font="6"><a href="#">Central African Republic</a></text>
-<text top="3294" left="72" width="84" height="44" font="6"><a href="#">Chad</a></text>
-<text top="3384" left="72" width="109" height="44" font="6"><a href="#">Congo</a></text>
-<text top="3474" left="72" width="548" height="44" font="6"><a href="#">Democratic Republic of the Congo</a></text>
-<text top="3564" left="72" width="276" height="44" font="6"><a href="#">Equatorial Guinea</a></text>
-<text top="3654" left="72" width="109" height="44" font="6"><a href="#">Gabon</a></text>
-<text top="3744" left="72" width="362" height="44" font="6"><a href="#">Sao Tome and Principe</a></text>
+<text top="3024" left="72" width="112" height="44" font="6"><a>Angola</a></text>
+<text top="3114" left="72" width="168" height="44" font="6"><a>Cameroon</a></text>
+<text top="3204" left="72" width="377" height="44" font="6"><a>Central African Republic</a></text>
+<text top="3294" left="72" width="84" height="44" font="6"><a>Chad</a></text>
+<text top="3384" left="72" width="109" height="44" font="6"><a>Congo</a></text>
+<text top="3474" left="72" width="548" height="44" font="6"><a>Democratic Republic of the Congo</a></text>
+<text top="3564" left="72" width="276" height="44" font="6"><a>Equatorial Guinea</a></text>
+<text top="3654" left="72" width="109" height="44" font="6"><a>Gabon</a></text>
+<text top="3744" left="72" width="362" height="44" font="6"><a>Sao Tome and Principe</a></text>
 <text top="3869" left="72" width="251" height="48" font="7"><b>Southern Africa</b></text>
-<text top="3960" left="72" width="153" height="44" font="6"><a href="#">Botswana</a></text>
-<text top="4050" left="72" width="126" height="44" font="6"><a href="#">Lesotho</a></text>
-<text top="4140" left="72" width="131" height="44" font="6"><a href="#">Namibia</a></text>
-<text top="4230" left="72" width="189" height="44" font="6"><a href="#">South Africa</a></text>
-<text top="4320" left="72" width="158" height="44" font="6"><a href="#">Swaziland</a></text>
+<text top="3960" left="72" width="153" height="44" font="6"><a>Botswana</a></text>
+<text top="4050" left="72" width="126" height="44" font="6"><a>Lesotho</a></text>
+<text top="4140" left="72" width="131" height="44" font="6"><a>Namibia</a></text>
+<text top="4230" left="72" width="189" height="44" font="6"><a>South Africa</a></text>
+<text top="4320" left="72" width="158" height="44" font="6"><a>Swaziland</a></text>
 <text top="4445" left="72" width="241" height="48" font="7"><b>Western Africa</b></text>
-<text top="4536" left="72" width="87" height="44" font="6"><a href="#">Benin</a></text>
-<text top="4626" left="72" width="194" height="44" font="6"><a href="#">Burkina Faso</a></text>
-<text top="4716" left="72" width="190" height="44" font="6"><a href="#">Cape Verde</a></text>
-<text top="4806" left="72" width="202" height="44" font="6"><a href="#">Côte d’Ivoire</a></text>
-<text top="4896" left="72" width="124" height="44" font="6"><a href="#">Gambia</a></text>
-<text top="4986" left="72" width="103" height="44" font="6"><a href="#">Ghana</a></text>
-<text top="5076" left="72" width="112" height="44" font="6"><a href="#">Guinea</a></text>
-<text top="5166" left="72" width="220" height="44" font="6"><a href="#">Guinea-Bissau</a></text>
-<text top="5256" left="72" width="104" height="44" font="6"><a href="#">Liberia</a></text>
-<text top="5346" left="72" width="65" height="44" font="6"><a href="#">Mali</a></text>
-<text top="5436" left="72" width="163" height="44" font="6"><a href="#">Mauritania</a></text>
-<text top="5526" left="72" width="87" height="44" font="6"><a href="#">Niger</a></text>
-<text top="5616" left="72" width="113" height="44" font="6"><a href="#">Nigeria</a></text>
-<text top="5706" left="72" width="127" height="44" font="6"><a href="#">Senega</a>l</text>
-<text top="5796" left="72" width="195" height="44" font="6"><a href="#">Sierra Leone</a></text>
-<text top="5886" left="72" width="82" height="44" font="6"><a href="#">Togo</a></text>
+<text top="4536" left="72" width="87" height="44" font="6"><a>Benin</a></text>
+<text top="4626" left="72" width="194" height="44" font="6"><a>Burkina Faso</a></text>
+<text top="4716" left="72" width="190" height="44" font="6"><a>Cape Verde</a></text>
+<text top="4806" left="72" width="202" height="44" font="6"><a>Côte d’Ivoire</a></text>
+<text top="4896" left="72" width="124" height="44" font="6"><a>Gambia</a></text>
+<text top="4986" left="72" width="103" height="44" font="6"><a>Ghana</a></text>
+<text top="5076" left="72" width="112" height="44" font="6"><a>Guinea</a></text>
+<text top="5166" left="72" width="220" height="44" font="6"><a>Guinea-Bissau</a></text>
+<text top="5256" left="72" width="104" height="44" font="6"><a>Liberia</a></text>
+<text top="5346" left="72" width="65" height="44" font="6"><a>Mali</a></text>
+<text top="5436" left="72" width="163" height="44" font="6"><a>Mauritania</a></text>
+<text top="5526" left="72" width="87" height="44" font="6"><a>Niger</a></text>
+<text top="5616" left="72" width="113" height="44" font="6"><a>Nigeria</a></text>
+<text top="5706" left="72" width="127" height="44" font="6"><a>Senega</a>l</text>
+<text top="5796" left="72" width="195" height="44" font="6"><a>Sierra Leone</a></text>
+<text top="5886" left="72" width="82" height="44" font="6"><a>Togo</a></text>
 </page>
 <page number="3" position="absolute" top="0" left="0" height="5680" width="1152">
+<image top="0" left="0" width="1152" height="5680" src="toc2.png"/>
 <text top="84" left="951" width="111" height="32" font="3"><a href="#ALL"><b>all regions</b></a></text>
 <text top="107" left="72" width="138" height="96" font="4"><b>Asia</b></text>
 <text top="107" left="72" width="138" height="96" font="4"><a name="Asia"></a></text>
 <text top="257" left="72" width="258" height="64" font="5"><b>Central Asia</b></text>
-<text top="360" left="72" width="174" height="44" font="6"><a href="#">Kazakhstan</a></text>
-<text top="450" left="72" width="171" height="44" font="6"><a href="#">Kyrgyzstan</a></text>
-<text top="540" left="72" width="140" height="44" font="6"><a href="#">Tajikistan</a></text>
-<text top="630" left="72" width="208" height="44" font="6"><a href="#">Turkmenistan</a></text>
-<text top="720" left="72" width="172" height="44" font="6"><a href="#">Uzbekistan</a></text>
+<text top="360" left="72" width="174" height="44" font="6"><a>Kazakhstan</a></text>
+<text top="450" left="72" width="171" height="44" font="6"><a>Kyrgyzstan</a></text>
+<text top="540" left="72" width="140" height="44" font="6"><a>Tajikistan</a></text>
+<text top="630" left="72" width="208" height="44" font="6"><a>Turkmenistan</a></text>
+<text top="720" left="72" width="172" height="44" font="6"><a>Uzbekistan</a></text>
 <text top="869" left="72" width="260" height="64" font="5"><b>Eastern Asia</b></text>
-<text top="972" left="72" width="89" height="44" font="6"><a href="#">China</a></text>
-<text top="1062" left="72" width="761" height="44" font="6"><a href="#">China, Hong Kong Special Administrative Region</a></text>
-<text top="1152" left="72" width="689" height="44" font="6"><a href="#">China, Macao Special Administrative Region</a></text>
-<text top="1242" left="72" width="611" height="44" font="6"><a href="#">Democratic People’s Republic of Korea</a></text>
-<text top="1332" left="72" width="91" height="44" font="6"><a href="#">Japan</a></text>
-<text top="1422" left="72" width="150" height="44" font="6"><a href="#">Mongolia</a></text>
-<text top="1512" left="72" width="279" height="44" font="6"><a href="#">Republic of Korea</a></text>
+<text top="972" left="72" width="89" height="44" font="6"><a>China</a></text>
+<text top="1062" left="72" width="761" height="44" font="6"><a>China, Hong Kong Special Administrative Region</a></text>
+<text top="1152" left="72" width="689" height="44" font="6"><a>China, Macao Special Administrative Region</a></text>
+<text top="1242" left="72" width="611" height="44" font="6"><a>Democratic People’s Republic of Korea</a></text>
+<text top="1332" left="72" width="91" height="44" font="6"><a>Japan</a></text>
+<text top="1422" left="72" width="150" height="44" font="6"><a>Mongolia</a></text>
+<text top="1512" left="72" width="279" height="44" font="6"><a>Republic of Korea</a></text>
 <text top="1661" left="72" width="405" height="64" font="5"><b>South-Eastern Asia</b></text>
-<text top="1764" left="72" width="285" height="44" font="6"><a href="#">Brunei Darussalam</a></text>
-<text top="1854" left="72" width="165" height="44" font="6"><a href="#">Cambodia</a></text>
-<text top="1944" left="72" width="153" height="44" font="6"><a href="#">Indonesia</a></text>
-<text top="2034" left="72" width="535" height="44" font="6"><a href="#">Lao People’s Democratic Republic</a></text>
-<text top="2124" left="72" width="135" height="44" font="6"><a href="#">Malaysia</a></text>
-<text top="2214" left="72" width="148" height="44" font="6"><a href="#">Myanmar</a></text>
-<text top="2304" left="72" width="168" height="44" font="6"><a href="#">Philippines</a></text>
-<text top="2394" left="72" width="161" height="44" font="6"><a href="#">Singapore</a></text>
-<text top="2484" left="72" width="132" height="44" font="6"><a href="#">Thailand</a></text>
-<text top="2574" left="72" width="185" height="44" font="6"><a href="#">Timor-Leste</a></text>
-<text top="2664" left="72" width="145" height="44" font="6"><a href="#">Viet Nam</a></text>
+<text top="1764" left="72" width="285" height="44" font="6"><a>Brunei Darussalam</a></text>
+<text top="1854" left="72" width="165" height="44" font="6"><a>Cambodia</a></text>
+<text top="1944" left="72" width="153" height="44" font="6"><a>Indonesia</a></text>
+<text top="2034" left="72" width="535" height="44" font="6"><a>Lao People’s Democratic Republic</a></text>
+<text top="2124" left="72" width="135" height="44" font="6"><a>Malaysia</a></text>
+<text top="2214" left="72" width="148" height="44" font="6"><a>Myanmar</a></text>
+<text top="2304" left="72" width="168" height="44" font="6"><a>Philippines</a></text>
+<text top="2394" left="72" width="161" height="44" font="6"><a>Singapore</a></text>
+<text top="2484" left="72" width="132" height="44" font="6"><a>Thailand</a></text>
+<text top="2574" left="72" width="185" height="44" font="6"><a>Timor-Leste</a></text>
+<text top="2664" left="72" width="145" height="44" font="6"><a>Viet Nam</a></text>
 <text top="2813" left="72" width="299" height="64" font="5"><b>Southern Asia</b></text>
-<text top="2916" left="72" width="184" height="44" font="6"><a href="#">Afghanistan</a></text>
-<text top="3006" left="72" width="183" height="44" font="6"><a href="#">Bangladesh</a></text>
-<text top="3096" left="72" width="108" height="44" font="6"><a href="#">Bhutan</a></text>
-<text top="3186" left="72" width="76" height="44" font="6"><a href="#">India</a></text>
-<text top="3276" left="72" width="384" height="44" font="6"><a href="#">Iran (Islamic Republic of)</a></text>
-<text top="3366" left="72" width="140" height="44" font="6"><a href="#">Maldives</a></text>
-<text top="3456" left="72" width="94" height="44" font="6"><a href="#">Nepal</a></text>
-<text top="3546" left="72" width="125" height="44" font="6"><a href="#">Pakistan</a></text>
-<text top="3636" left="72" width="136" height="44" font="6"><a href="#">Sri Lanka</a></text>
+<text top="2916" left="72" width="184" height="44" font="6"><a>Afghanistan</a></text>
+<text top="3006" left="72" width="183" height="44" font="6"><a>Bangladesh</a></text>
+<text top="3096" left="72" width="108" height="44" font="6"><a>Bhutan</a></text>
+<text top="3186" left="72" width="76" height="44" font="6"><a>India</a></text>
+<text top="3276" left="72" width="384" height="44" font="6"><a>Iran (Islamic Republic of)</a></text>
+<text top="3366" left="72" width="140" height="44" font="6"><a>Maldives</a></text>
+<text top="3456" left="72" width="94" height="44" font="6"><a>Nepal</a></text>
+<text top="3546" left="72" width="125" height="44" font="6"><a>Pakistan</a></text>
+<text top="3636" left="72" width="136" height="44" font="6"><a>Sri Lanka</a></text>
 <text top="3785" left="72" width="285" height="64" font="5"><b>Western Asia</b></text>
-<text top="3888" left="72" width="131" height="44" font="6"><a href="#">Armenia</a></text>
-<text top="3978" left="72" width="165" height="44" font="6"><a href="#">Azerbaijan</a></text>
-<text top="4068" left="72" width="115" height="44" font="6"><a href="#">Bahrain</a></text>
-<text top="4158" left="72" width="110" height="44" font="6"><a href="#">Cyprus</a></text>
-<text top="4248" left="72" width="128" height="44" font="6"><a href="#">Georgia</a></text>
-<text top="4338" left="72" width="61" height="44" font="6"><a href="#">Iraq</a></text>
-<text top="4428" left="72" width="82" height="44" font="6"><a href="#">Israel</a></text>
-<text top="4518" left="72" width="106" height="44" font="6"><a href="#">Jordan</a></text>
-<text top="4608" left="72" width="106" height="44" font="6"><a href="#">Kuwait</a></text>
-<text top="4698" left="72" width="138" height="44" font="6"><a href="#">Lebanon</a></text>
-<text top="4788" left="72" width="470" height="44" font="6"><a href="#">Occupied Palestinian Territory</a></text>
-<text top="4878" left="72" width="97" height="44" font="6"><a href="#">Oman</a></text>
-<text top="4968" left="72" width="87" height="44" font="6"><a href="#">Qatar</a></text>
-<text top="5058" left="72" width="196" height="44" font="6"><a href="#">Saudi Arabia</a></text>
-<text top="5148" left="72" width="324" height="44" font="6"><a href="#">Syrian Arab Republic</a></text>
-<text top="5238" left="72" width="103" height="44" font="6"><a href="#">Turkey</a></text>
-<text top="5328" left="72" width="329" height="44" font="6"><a href="#">United Arab Emirates</a></text>
-<text top="5418" left="72" width="108" height="44" font="6"><a href="#">Yemen</a></text>
+<text top="3888" left="72" width="131" height="44" font="6"><a>Armenia</a></text>
+<text top="3978" left="72" width="165" height="44" font="6"><a>Azerbaijan</a></text>
+<text top="4068" left="72" width="115" height="44" font="6"><a>Bahrain</a></text>
+<text top="4158" left="72" width="110" height="44" font="6"><a>Cyprus</a></text>
+<text top="4248" left="72" width="128" height="44" font="6"><a>Georgia</a></text>
+<text top="4338" left="72" width="61" height="44" font="6"><a>Iraq</a></text>
+<text top="4428" left="72" width="82" height="44" font="6"><a>Israel</a></text>
+<text top="4518" left="72" width="106" height="44" font="6"><a>Jordan</a></text>
+<text top="4608" left="72" width="106" height="44" font="6"><a>Kuwait</a></text>
+<text top="4698" left="72" width="138" height="44" font="6"><a>Lebanon</a></text>
+<text top="4788" left="72" width="470" height="44" font="6"><a>Occupied Palestinian Territory</a></text>
+<text top="4878" left="72" width="97" height="44" font="6"><a>Oman</a></text>
+<text top="4968" left="72" width="87" height="44" font="6"><a>Qatar</a></text>
+<text top="5058" left="72" width="196" height="44" font="6"><a>Saudi Arabia</a></text>
+<text top="5148" left="72" width="324" height="44" font="6"><a>Syrian Arab Republic</a></text>
+<text top="5238" left="72" width="103" height="44" font="6"><a>Turkey</a></text>
+<text top="5328" left="72" width="329" height="44" font="6"><a>United Arab Emirates</a></text>
+<text top="5418" left="72" width="108" height="44" font="6"><a>Yemen</a></text>
 </page>
 <page number="4" position="absolute" top="0" left="0" height="4266" width="1152">
+<image top="0" left="0" width="1152" height="4266" src="toc3.png"/>
 <text top="84" left="951" width="111" height="32" font="3"><a href="#ALL"><b>all regions</b></a></text>
 <text top="107" left="72" width="467" height="96" font="4"><b>Latin America  </b></text>
 <text top="193" left="72" width="598" height="96" font="4"><b>and the Caribbean</b></text>
 <text top="193" left="72" width="598" height="96" font="4"><a name="LAC"></a></text>
 <text top="344" left="72" width="226" height="64" font="5"><b>Caribbean</b></text>
-<text top="446" left="72" width="94" height="44" font="6"><a href="#">Aruba</a></text>
-<text top="536" left="72" width="140" height="44" font="6"><a href="#">Bahamas</a></text>
-<text top="626" left="72" width="149" height="44" font="6"><a href="#">Barbados</a></text>
-<text top="716" left="72" width="84" height="44" font="6"><a href="#">Cuba</a></text>
-<text top="806" left="72" width="314" height="44" font="6"><a href="#">Dominican Republic</a></text>
-<text top="896" left="72" width="136" height="44" font="6"><a href="#">Grenada</a></text>
-<text top="986" left="72" width="198" height="44" font="6"><a href="#">Guadeloupe</a></text>
-<text top="1076" left="72" width="69" height="44" font="6"><a href="#">Haiti</a></text>
-<text top="1166" left="72" width="125" height="44" font="6"><a href="#">Jamaica</a></text>
-<text top="1256" left="72" width="170" height="44" font="6"><a href="#">Martinique</a></text>
-<text top="1346" left="72" width="312" height="44" font="6"><a href="#">Netherlands Antilles</a></text>
-<text top="1436" left="72" width="180" height="44" font="6"><a href="#">Puerto Rico</a></text>
-<text top="1526" left="72" width="164" height="44" font="6"><a href="#">Saint Lucia</a></text>
-<text top="1616" left="72" width="522" height="44" font="6"><a href="#">Saint Vincent and the Grenadines</a></text>
-<text top="1706" left="72" width="327" height="44" font="6"><a href="#">Trinidad and Tobago</a></text>
-<text top="1796" left="72" width="423" height="44" font="6"><a href="#">United States Virgin Islands</a></text>
+<text top="446" left="72" width="94" height="44" font="6"><a>Aruba</a></text>
+<text top="536" left="72" width="140" height="44" font="6"><a>Bahamas</a></text>
+<text top="626" left="72" width="149" height="44" font="6"><a>Barbados</a></text>
+<text top="716" left="72" width="84" height="44" font="6"><a>Cuba</a></text>
+<text top="806" left="72" width="314" height="44" font="6"><a>Dominican Republic</a></text>
+<text top="896" left="72" width="136" height="44" font="6"><a>Grenada</a></text>
+<text top="986" left="72" width="198" height="44" font="6"><a>Guadeloupe</a></text>
+<text top="1076" left="72" width="69" height="44" font="6"><a>Haiti</a></text>
+<text top="1166" left="72" width="125" height="44" font="6"><a>Jamaica</a></text>
+<text top="1256" left="72" width="170" height="44" font="6"><a>Martinique</a></text>
+<text top="1346" left="72" width="312" height="44" font="6"><a>Netherlands Antilles</a></text>
+<text top="1436" left="72" width="180" height="44" font="6"><a>Puerto Rico</a></text>
+<text top="1526" left="72" width="164" height="44" font="6"><a>Saint Lucia</a></text>
+<text top="1616" left="72" width="522" height="44" font="6"><a>Saint Vincent and the Grenadines</a></text>
+<text top="1706" left="72" width="327" height="44" font="6"><a>Trinidad and Tobago</a></text>
+<text top="1796" left="72" width="423" height="44" font="6"><a>United States Virgin Islands</a></text>
 <text top="1946" left="72" width="345" height="64" font="5"><b>Central America</b></text>
-<text top="2048" left="72" width="92" height="44" font="6"><a href="#">Belize</a></text>
-<text top="2138" left="72" width="163" height="44" font="6"><a href="#">Costa Rica</a></text>
-<text top="2228" left="72" width="170" height="44" font="6"><a href="#">El Salvador</a></text>
-<text top="2318" left="72" width="171" height="44" font="6"><a href="#">Guatemala</a></text>
-<text top="2408" left="72" width="153" height="44" font="6"><a href="#">Honduras</a></text>
-<text top="2498" left="72" width="117" height="44" font="6"><a href="#">Mexico</a></text>
-<text top="2588" left="72" width="160" height="44" font="6"><a href="#">Nicaragua</a></text>
-<text top="2678" left="72" width="124" height="44" font="6"><a href="#">Panama</a></text>
+<text top="2048" left="72" width="92" height="44" font="6"><a>Belize</a></text>
+<text top="2138" left="72" width="163" height="44" font="6"><a>Costa Rica</a></text>
+<text top="2228" left="72" width="170" height="44" font="6"><a>El Salvador</a></text>
+<text top="2318" left="72" width="171" height="44" font="6"><a>Guatemala</a></text>
+<text top="2408" left="72" width="153" height="44" font="6"><a>Honduras</a></text>
+<text top="2498" left="72" width="117" height="44" font="6"><a>Mexico</a></text>
+<text top="2588" left="72" width="160" height="44" font="6"><a>Nicaragua</a></text>
+<text top="2678" left="72" width="124" height="44" font="6"><a>Panama</a></text>
 <text top="2828" left="72" width="314" height="64" font="5"><b>South America</b></text>
-<text top="2930" left="72" width="153" height="44" font="6"><a href="#">Argentina</a></text>
-<text top="3020" left="72" width="450" height="44" font="6"><a href="#">Bolivia (Plurinational State of)</a></text>
-<text top="3110" left="72" width="82" height="44" font="6"><a href="#">Brazil</a></text>
-<text top="3200" left="72" width="79" height="44" font="6"><a href="#">Chile</a></text>
-<text top="3290" left="72" width="154" height="44" font="6"><a href="#">Colombia</a></text>
-<text top="3380" left="72" width="129" height="44" font="6"><a href="#">Ecuador</a></text>
-<text top="3470" left="72" width="225" height="44" font="6"><a href="#">French Guiana</a></text>
-<text top="3560" left="72" width="121" height="44" font="6"><a href="#">Guyana</a></text>
-<text top="3650" left="72" width="145" height="44" font="6"><a href="#">Paraguay</a></text>
-<text top="3740" left="72" width="70" height="44" font="6"><a href="#">Peru</a></text>
-<text top="3830" left="72" width="146" height="44" font="6"><a href="#">Suriname</a></text>
-<text top="3920" left="72" width="133" height="44" font="6"><a href="#">Uruguay</a></text>
-<text top="4010" left="72" width="535" height="44" font="6"><a href="#">Venezuela (Bolivarian Republic of)</a></text>
+<text top="2930" left="72" width="153" height="44" font="6"><a>Argentina</a></text>
+<text top="3020" left="72" width="450" height="44" font="6"><a>Bolivia (Plurinational State of)</a></text>
+<text top="3110" left="72" width="82" height="44" font="6"><a>Brazil</a></text>
+<text top="3200" left="72" width="79" height="44" font="6"><a>Chile</a></text>
+<text top="3290" left="72" width="154" height="44" font="6"><a>Colombia</a></text>
+<text top="3380" left="72" width="129" height="44" font="6"><a>Ecuador</a></text>
+<text top="3470" left="72" width="225" height="44" font="6"><a>French Guiana</a></text>
+<text top="3560" left="72" width="121" height="44" font="6"><a>Guyana</a></text>
+<text top="3650" left="72" width="145" height="44" font="6"><a>Paraguay</a></text>
+<text top="3740" left="72" width="70" height="44" font="6"><a>Peru</a></text>
+<text top="3830" left="72" width="146" height="44" font="6"><a>Suriname</a></text>
+<text top="3920" left="72" width="133" height="44" font="6"><a>Uruguay</a></text>
+<text top="4010" left="72" width="535" height="44" font="6"><a>Venezuela (Bolivarian Republic of)</a></text>
 </page>
 <page number="5" position="absolute" top="0" left="0" height="1536" width="1152">
+<image top="0" left="0" width="1152" height="1536" src="toc4.png"/>
 <text top="84" left="951" width="111" height="32" font="3"><a href="#ALL"><b>all regions</b></a></text>
 <text top="107" left="72" width="268" height="96" font="4"><b>Oceania</b></text>
 <text top="107" left="72" width="268" height="96" font="4"><a name="Oceania"></a></text>
-<text top="270" left="72" width="132" height="44" font="6"><a href="#">Australia</a></text>
-<text top="360" left="72" width="40" height="44" font="6"><a href="#">Fiji</a></text>
-<text top="450" left="72" width="262" height="44" font="6"><a href="#">French Polynesia</a></text>
-<text top="540" left="72" width="95" height="44" font="6"><a href="#">Guam</a></text>
-<text top="630" left="72" width="508" height="44" font="6"><a href="#">Micronesia (Federated States of)</a></text>
-<text top="720" left="72" width="244" height="44" font="6"><a href="#">New Caledonia</a></text>
-<text top="810" left="72" width="211" height="44" font="6"><a href="#">New Zealand</a></text>
-<text top="900" left="72" width="302" height="44" font="6"><a href="#">Papua New Guinea</a></text>
-<text top="990" left="72" width="108" height="44" font="6"><a href="#">Samoa</a></text>
-<text top="1080" left="72" width="258" height="44" font="6"><a href="#">Solomon Islands</a></text>
-<text top="1170" left="72" width="98" height="44" font="6"><a href="#">Tonga</a></text>
-<text top="1260" left="72" width="128" height="44" font="6"><a href="#">Vanuatu</a></text>
+<text top="270" left="72" width="132" height="44" font="6"><a>Australia</a></text>
+<text top="360" left="72" width="40" height="44" font="6"><a>Fiji</a></text>
+<text top="450" left="72" width="262" height="44" font="6"><a>French Polynesia</a></text>
+<text top="540" left="72" width="95" height="44" font="6"><a>Guam</a></text>
+<text top="630" left="72" width="508" height="44" font="6"><a>Micronesia (Federated States of)</a></text>
+<text top="720" left="72" width="244" height="44" font="6"><a>New Caledonia</a></text>
+<text top="810" left="72" width="211" height="44" font="6"><a>New Zealand</a></text>
+<text top="900" left="72" width="302" height="44" font="6"><a>Papua New Guinea</a></text>
+<text top="990" left="72" width="108" height="44" font="6"><a>Samoa</a></text>
+<text top="1080" left="72" width="258" height="44" font="6"><a>Solomon Islands</a></text>
+<text top="1170" left="72" width="98" height="44" font="6"><a>Tonga</a></text>
+<text top="1260" left="72" width="128" height="44" font="6"><a>Vanuatu</a></text>
 </page>
 <page number="6" position="absolute" top="0" left="0" height="4284" width="1152">
+<image top="0" left="0" width="1152" height="4284" src="toc5.png"/>
 <text top="84" left="951" width="111" height="32" font="3"><a href="#ALL"><b>all regions</b></a></text>
 <text top="107" left="72" width="231" height="96" font="4"><b>Europe</b></text>
 <text top="107" left="72" width="231" height="96" font="4"><a name="Europe"></a></text>
 <text top="257" left="72" width="322" height="64" font="5"><b>Eastern Europe</b></text>
-<text top="360" left="72" width="117" height="44" font="6"><a href="#">Albania</a></text>
-<text top="450" left="72" width="112" height="44" font="6"><a href="#">Belarus</a></text>
-<text top="540" left="72" width="382" height="44" font="6"><a href="#">Bosnia and Herzegovina</a></text>
-<text top="630" left="72" width="125" height="44" font="6"><a href="#">Bulgaria</a></text>
-<text top="720" left="72" width="112" height="44" font="6"><a href="#">Croatia</a></text>
-<text top="810" left="72" width="245" height="44" font="6"><a href="#">Czech Republic</a></text>
-<text top="900" left="72" width="110" height="44" font="6"><a href="#">Estonia</a></text>
-<text top="990" left="72" width="117" height="44" font="6"><a href="#">Greece</a></text>
-<text top="1080" left="72" width="135" height="44" font="6"><a href="#">Hungary</a></text>
-<text top="1170" left="72" width="90" height="44" font="6"><a href="#">Latvia</a></text>
-<text top="1260" left="72" width="138" height="44" font="6"><a href="#">Lithuania</a></text>
-<text top="1350" left="72" width="199" height="44" font="6"><a href="#">Montenegro</a></text>
-<text top="1440" left="72" width="108" height="44" font="6"><a href="#">Poland</a></text>
-<text top="1530" left="72" width="330" height="44" font="6"><a href="#">Republic of Moldova</a></text>
-<text top="1620" left="72" width="137" height="44" font="6"><a href="#">Romania</a></text>
-<text top="1710" left="72" width="293" height="44" font="6"><a href="#">Russian Federation</a></text>
-<text top="1800" left="72" width="98" height="44" font="6"><a href="#">Serbia</a></text>
-<text top="1890" left="72" width="128" height="44" font="6"><a href="#">Slovakia</a></text>
-<text top="1980" left="72" width="132" height="44" font="6"><a href="#">Slovenia</a></text>
-<text top="2070" left="72" width="699" height="44" font="6"><a href="#">The former Yugoslav Republic of Macedonia</a></text>
-<text top="2160" left="72" width="119" height="44" font="6"><a href="#">Ukraine</a></text>
+<text top="360" left="72" width="117" height="44" font="6"><a>Albania</a></text>
+<text top="450" left="72" width="112" height="44" font="6"><a>Belarus</a></text>
+<text top="540" left="72" width="382" height="44" font="6"><a>Bosnia and Herzegovina</a></text>
+<text top="630" left="72" width="125" height="44" font="6"><a>Bulgaria</a></text>
+<text top="720" left="72" width="112" height="44" font="6"><a>Croatia</a></text>
+<text top="810" left="72" width="245" height="44" font="6"><a>Czech Republic</a></text>
+<text top="900" left="72" width="110" height="44" font="6"><a>Estonia</a></text>
+<text top="990" left="72" width="117" height="44" font="6"><a>Greece</a></text>
+<text top="1080" left="72" width="135" height="44" font="6"><a>Hungary</a></text>
+<text top="1170" left="72" width="90" height="44" font="6"><a>Latvia</a></text>
+<text top="1260" left="72" width="138" height="44" font="6"><a>Lithuania</a></text>
+<text top="1350" left="72" width="199" height="44" font="6"><a>Montenegro</a></text>
+<text top="1440" left="72" width="108" height="44" font="6"><a>Poland</a></text>
+<text top="1530" left="72" width="330" height="44" font="6"><a>Republic of Moldova</a></text>
+<text top="1620" left="72" width="137" height="44" font="6"><a>Romania</a></text>
+<text top="1710" left="72" width="293" height="44" font="6"><a>Russian Federation</a></text>
+<text top="1800" left="72" width="98" height="44" font="6"><a>Serbia</a></text>
+<text top="1890" left="72" width="128" height="44" font="6"><a>Slovakia</a></text>
+<text top="1980" left="72" width="132" height="44" font="6"><a>Slovenia</a></text>
+<text top="2070" left="72" width="699" height="44" font="6"><a>The former Yugoslav Republic of Macedonia</a></text>
+<text top="2160" left="72" width="119" height="44" font="6"><a>Ukraine</a></text>
 <text top="2309" left="72" width="347" height="64" font="5"><b>Western Europe</b></text>
-<text top="2412" left="72" width="106" height="44" font="6"><a href="#">Austria</a></text>
-<text top="2502" left="72" width="128" height="44" font="6"><a href="#">Belgium</a></text>
-<text top="2592" left="72" width="245" height="44" font="6"><a href="#">Channel Islands</a></text>
-<text top="2682" left="72" width="141" height="44" font="6"><a href="#">Denmark</a></text>
-<text top="2772" left="72" width="112" height="44" font="6"><a href="#">Finland</a></text>
-<text top="2862" left="72" width="105" height="44" font="6"><a href="#">France</a></text>
-<text top="2952" left="72" width="145" height="44" font="6"><a href="#">Germany</a></text>
-<text top="3042" left="72" width="115" height="44" font="6"><a href="#">Iceland</a></text>
-<text top="3132" left="72" width="108" height="44" font="6"><a href="#">Ireland</a></text>
-<text top="3222" left="72" width="64" height="44" font="6"><a href="#">Italy</a></text>
-<text top="3312" left="72" width="201" height="44" font="6"><a href="#">Luxembourg</a></text>
-<text top="3402" left="72" width="86" height="44" font="6"><a href="#">Malta</a></text>
-<text top="3492" left="72" width="191" height="44" font="6"><a href="#">Netherlands</a></text>
-<text top="3582" left="72" width="126" height="44" font="6"><a href="#">Norway</a></text>
-<text top="3672" left="72" width="131" height="44" font="6"><a href="#">Portugal</a></text>
-<text top="3762" left="72" width="86" height="44" font="6"><a href="#">Spain</a></text>
-<text top="3852" left="72" width="130" height="44" font="6"><a href="#">Sweden</a></text>
-<text top="3942" left="72" width="183" height="44" font="6"><a href="#">Switzerland</a></text>
-<text top="4032" left="72" width="837" height="44" font="6"><a href="#">United Kingdom of Great Britain and Northern Ireland</a></text>
+<text top="2412" left="72" width="106" height="44" font="6"><a>Austria</a></text>
+<text top="2502" left="72" width="128" height="44" font="6"><a>Belgium</a></text>
+<text top="2592" left="72" width="245" height="44" font="6"><a>Channel Islands</a></text>
+<text top="2682" left="72" width="141" height="44" font="6"><a>Denmark</a></text>
+<text top="2772" left="72" width="112" height="44" font="6"><a>Finland</a></text>
+<text top="2862" left="72" width="105" height="44" font="6"><a>France</a></text>
+<text top="2952" left="72" width="145" height="44" font="6"><a>Germany</a></text>
+<text top="3042" left="72" width="115" height="44" font="6"><a>Iceland</a></text>
+<text top="3132" left="72" width="108" height="44" font="6"><a>Ireland</a></text>
+<text top="3222" left="72" width="64" height="44" font="6"><a>Italy</a></text>
+<text top="3312" left="72" width="201" height="44" font="6"><a>Luxembourg</a></text>
+<text top="3402" left="72" width="86" height="44" font="6"><a>Malta</a></text>
+<text top="3492" left="72" width="191" height="44" font="6"><a>Netherlands</a></text>
+<text top="3582" left="72" width="126" height="44" font="6"><a>Norway</a></text>
+<text top="3672" left="72" width="131" height="44" font="6"><a>Portugal</a></text>
+<text top="3762" left="72" width="86" height="44" font="6"><a>Spain</a></text>
+<text top="3852" left="72" width="130" height="44" font="6"><a>Sweden</a></text>
+<text top="3942" left="72" width="183" height="44" font="6"><a>Switzerland</a></text>
+<text top="4032" left="72" width="837" height="44" font="6"><a>United Kingdom of Great Britain and Northern Ireland</a></text>
 </page>
 <page number="7" position="absolute" top="0" left="0" height="1536" width="1152">
+<image top="0" left="0" width="1152" height="1536" src="toc6.png"/>
 <text top="84" left="951" width="111" height="32" font="3"><a href="#ALL"><b>all regions</b></a></text>
 <text top="107" left="72" width="473" height="96" font="4"><b>North America</b></text>
 <text top="107" left="72" width="473" height="96" font="4"><a name="NA"></a></text>
-<text top="270" left="72" width="120" height="44" font="6"><a href="#">Canada</a></text>
-<text top="360" left="72" width="388" height="44" font="6"><a href="#">United States of America</a></text>
+<text top="270" left="72" width="120" height="44" font="6"><a>Canada</a></text>
+<text top="360" left="72" width="388" height="44" font="6"><a>United States of America</a></text>
 </page>
 
 	
@@ -282,6 +288,7 @@
 	<fontspec id="17" size="34" family="Times" color="#f8c1b2"/>
 	<fontspec id="18" size="31" family="Times" color="#ffffff"/>
 	<fontspec id="19" size="31" family="Times" color="#f8c1b2"/>
+<image top="0" left="0" width="1152" height="11592" src="li_profile_bg.png"/>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
 <text top="197" left="72" width="594" height="96" font="0"><b>Country long name</b></text>
 <text top="477" left="72" width="905" height="44" font="8">Agenda 2030 includes the specific commitment to Leave </text>
@@ -307,7 +314,7 @@
 <text top="1980" left="72" width="789" height="44" font="6">within Country name – live on between $[XX] </text>
 <text top="2034" left="72" width="786" height="44" font="6">and $[XX] a day compared with an average $[XX] </text>
 <text top="2088" left="72" width="460" height="44" font="6">for the rest of the population.</text>
-<text top="2187" left="72" width="600" height="35" font="9"><b>Source: </b><a href="DVIJ6369-P20-Country-Template-Pages-180704.html#8">Development Initiatives based on PovcalNet</a></text>
+<text top="2187" left="72" width="600" height="35" font="9"><b>Source: </b><a href="#country-slug1">Development Initiatives based on PovcalNet</a></text>
 <text top="2190" left="672" width="5" height="20" font="11"><a href="#country-slug1">1</a></text>
 <text top="2471" left="162" width="160" height="64" font="5"><b>income</b></text>
 <text top="2574" left="72" width="765" height="44" font="6">In 2000 the gap between the P20 and everyone </text>
@@ -323,7 +330,7 @@
 <text top="4248" left="72" width="696" height="44" font="6">experienced stunting compared with [XX]% </text>
 <text top="4302" left="72" width="448" height="44" font="6">of the rest of the population.</text>
 <text top="5139" left="72" width="765" height="35" font="9"><b>Source: </b>Development Initiatives based on UNICEF-WHO joint child </text>
-<text top="5176" left="72" width="251" height="32" font="10">malnutrition <a href="DVIJ6369-P20-Country-Template-Pages-180704.html#8">estimates</a></text>
+<text top="5176" left="72" width="251" height="32" font="10">malnutrition <a href="#country-slug2">estimates</a></text>
 <text top="5178" left="323" width="8" height="20" font="11"><a href="#country-slug2">2</a></text>
 <text top="5315" left="162" width="369" height="64" font="5"><b>birth registration</b></text>
 <text top="5418" left="72" width="674" height="44" font="6">Civil Registration means people count and </text>
@@ -486,12 +493,13 @@
 <text top="11285" left="72" width="480" height="43" font="18">Zach Christensen, Senior Analyst </text>
 <text top="11330" left="72" width="446" height="43" font="19"><a href="mailto:Zach.Christensen%40devinit.org?subject=">Zach.Christensen@devinit.org</a></text>
 <text top="11411" left="72" width="434" height="43" font="18">See more about this work at  </text>
-<text top="11456" left="72" width="332" height="43" font="19"><a href="www.devinit.org/p20i">www.devinit.org/p20i</a></text>
+<text top="11456" left="72" width="332" height="43" font="19"><a href="http://www.devinit.org/p20i">www.devinit.org/p20i</a></text>
 </page>
 
 
 	
 <page number="9" position="absolute" top="0" left="0" height="8065" width="1152">
+<image top="0" left="0" width="1152" height="8065" src="hi_profile_bg.png"/>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
 <text top="197" left="72" width="594" height="96" font="0"><b>Country long name</b></text>
 <text top="477" left="72" width="905" height="44" font="8">Agenda 2030 includes the specific commitment to Leave </text>
@@ -517,7 +525,7 @@
 <text top="1980" left="72" width="789" height="44" font="6">within Country name – live on between $[XX] </text>
 <text top="2034" left="72" width="786" height="44" font="6">and $[XX] a day compared with an average $[XX] </text>
 <text top="2088" left="72" width="460" height="44" font="6">for the rest of the population.</text>
-<text top="2187" left="72" width="600" height="35" font="9"><b>Source: </b><a href="DVIJ6369-P20-Country-Template-Pages-180704.html#8">Development Initiatives based on PovcalNet</a></text>
+<text top="2187" left="72" width="600" height="35" font="9"><b>Source: </b><a href="#country-slug1">Development Initiatives based on PovcalNet</a></text>
 <text top="2190" left="672" width="5" height="20" font="11"><a href="#country-slug1">1</a></text>
 <text top="2471" left="162" width="160" height="64" font="5"><b>income</b></text>
 <text top="2574" left="72" width="765" height="44" font="6">In 2000 the gap between the P20 and everyone </text>
@@ -618,7 +626,7 @@
 <text top="7757" left="72" width="480" height="43" font="18">Zach Christensen, Senior Analyst </text>
 <text top="7802" left="72" width="446" height="43" font="19"><a href="mailto:Zach.Christensen%40devinit.org?subject=">Zach.Christensen@devinit.org</a></text>
 <text top="7883" left="72" width="434" height="43" font="18">See more about this work at  </text>
-<text top="7928" left="72" width="332" height="43" font="19"><a href="www.devinit.org/p20i">www.devinit.org/p20i</a></text>
+<text top="7928" left="72" width="332" height="43" font="19"><a href="http://www.devinit.org/p20i">www.devinit.org/p20i</a></text>
 <text top="84" left="832" width="230" height="32" font="3"><a href="#LAC"><b>all countries in region</b></a></text>
 </page>
 
