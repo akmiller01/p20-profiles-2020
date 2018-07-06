@@ -61,7 +61,8 @@ class ReportMaker(object):
     def createDocument(self):
         """"""
         for page in self.e.findall("page"):
-            self.c.setPageSize((int(page.get("width")),int(page.get("height"))))
+            self.width, self.height =  int(page.get("width")), int(page.get("height"))
+            self.c.setPageSize((self.width,self.height))
             for image in page.findall("image"):
                 src = self.template_folder+"/"+image.get("src")
                 logo = Image(src)
