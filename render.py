@@ -171,7 +171,7 @@ if __name__ == "__main__":
         {
             "longname":"Country long name",
             "name":"Country name",
-            "slug":"country-slug",
+            "slug":"country-slug-two",
             "regionslug":"LAC",
             "lowincome":False,
         }
