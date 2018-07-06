@@ -18,12 +18,12 @@ class ReportMaker(object):
 
     #----------------------------------------------------------------------
     def __init__(self, countries, template_folder, pdf_file):
-        pdfmetrics.registerFont(TTFont('Arial', 'fonts/Arial.ttf'))
-        pdfmetrics.registerFont(TTFont('Arial-Bold', 'fonts/Arial-Bold.ttf'))
-        pdfmetrics.registerFont(TTFont('Arial-Italic', 'fonts/Arial-Italic.ttf'))
-        addMapping('Arial',0,0,'Arial')
-        addMapping('Arial',0,1,'Arial-Italic')
-        addMapping('Arial',1,0,'Arial-Bold')
+        pdfmetrics.registerFont(TTFont('Geomanist', 'fonts/Geomanist-Regular.ttf'))
+        pdfmetrics.registerFont(TTFont('Geomanist-Bold', 'fonts/Geomanist-Bold.ttf'))
+        pdfmetrics.registerFont(TTFont('Geomanist-Italic', 'fonts/Geomanist-Italic.ttf'))
+        addMapping('Geomanist',0,0,'Geomanist-Regular')
+        addMapping('Geomanist',0,1,'Geomanist-Italic')
+        addMapping('Geomanist',1,0,'Geomanist-Bold')
 
         self.styles = getSampleStyleSheet()
         self.template_folder = template_folder
@@ -89,7 +89,7 @@ class ReportMaker(object):
 
                     style = ParagraphStyle(
                         'default',
-                        fontName="Arial",
+                        fontName="Geomanist",
                         leading=fontSizeAdj,
                         fontSize=fontSizeAdj,
                         borderPadding = int(font["padding"]),
@@ -118,7 +118,7 @@ class ReportMaker(object):
 
                     style = ParagraphStyle(
                         'default',
-                        fontName="Arial",
+                        fontName="Geomanist",
                         leading=fontSizeAdj,
                         fontSize=fontSizeAdj,
                         borderPadding = int(font["padding"]),
