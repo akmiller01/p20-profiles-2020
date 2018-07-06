@@ -101,6 +101,7 @@
 <page number="3" position="absolute" top="0" left="0" height="5680" width="1152">
 <image top="8" left="0" width="1152" height="5680" src="toc2.png"/>
 <text top="0" left="0" width="138" height="96" font="4"><a name="Asia"></a></text>
+<button top="84" left="951" width="111" height="32" pl="45" pr="17" pt="7" pb="25" href="ALL"/>
 <text top="84" left="951" width="111" height="32" font="3"><a href="#ALL"><b>all regions</b></a></text>
 <text top="107" left="72" width="138" height="96" font="4"><b>Asia</b></text>
 <text top="257" left="72" width="258" height="64" font="5"><b>Central Asia</b></text>
@@ -162,6 +163,7 @@
 <page number="4" position="absolute" top="0" left="0" height="4266" width="1152">
 <image top="8" left="0" width="1152" height="4266" src="toc3.png"/>
 <text top="0" left="0" width="467" height="96" font="4"><a name="LAC"></a></text>
+<button top="84" left="951" width="111" height="32" pl="45" pr="17" pt="7" pb="25" href="ALL"/>
 <text top="84" left="951" width="111" height="32" font="3"><a href="#ALL"><b>all regions</b></a></text>
 <text top="107" left="72" width="467" height="96" font="4"><b>Latin America  </b></text>
 <text top="193" left="72" width="598" height="96" font="4"><b>and the Caribbean</b></text>
@@ -209,6 +211,7 @@
 <page number="5" position="absolute" top="0" left="0" height="1536" width="1152">
 <image top="8" left="0" width="1152" height="1536" src="toc4.png"/>
 <text top="0" left="0" width="268" height="96" font="4"><a name="Oceania"></a></text>
+<button top="84" left="951" width="111" height="32" pl="45" pr="17" pt="7" pb="25" href="ALL"/>
 <text top="84" left="951" width="111" height="32" font="3"><a href="#ALL"><b>all regions</b></a></text>
 <text top="107" left="72" width="268" height="96" font="4"><b>Oceania</b></text>
 <text top="270" left="72" width="132" height="44" font="6"><a href="#australia">Australia</a></text>
@@ -227,6 +230,7 @@
 <page number="6" position="absolute" top="0" left="0" height="4284" width="1152">
 <image top="8" left="0" width="1152" height="4284" src="toc5.png"/>
 <text top="0" left="0" width="231" height="96" font="4"><a name="Europe"></a></text>
+<button top="84" left="951" width="111" height="32" pl="45" pr="17" pt="7" pb="25" href="ALL"/>
 <text top="84" left="951" width="111" height="32" font="3"><a href="#ALL"><b>all regions</b></a></text>
 <text top="107" left="72" width="231" height="96" font="4"><b>Europe</b></text>
 <text top="257" left="72" width="322" height="64" font="5"><b>Eastern Europe</b></text>
@@ -275,6 +279,7 @@
 <page number="7" position="absolute" top="0" left="0" height="1536" width="1152">
 <image top="8" left="0" width="1152" height="1536" src="toc6.png"/>
 <text top="0" left="0" width="473" height="96" font="4"><a name="NA"></a></text>
+<button top="84" left="951" width="111" height="32" pl="45" pr="17" pt="7" pb="25" href="ALL"/>
 <text top="84" left="951" width="111" height="32" font="3"><a href="#ALL"><b>all regions</b></a></text>
 <text top="107" left="72" width="473" height="96" font="4"><b>North America</b></text>
 <text top="270" left="72" width="120" height="44" font="6"><a href="#canada">Canada</a></text>
