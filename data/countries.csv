@@ -1,0 +1,197 @@
+longname,name,slug,regionslug,lowincome
+Algeria,Algeria,algeria,Africa,TRUE
+Egypt,Egypt,egypt,Africa,TRUE
+Libyan Arab Jamahiriya,Libya,libya,Africa,TRUE
+Morocco,Morocco,morocco,Africa,TRUE
+Tunisia,Tunisia,tunisia,Africa,TRUE
+Western Sahara,Western Sahara,western-sahara,Africa,TRUE
+Burundi,Burundi,burundi,Africa,TRUE
+Comoros,Comoros,comoros,Africa,TRUE
+Djibouti,Djibouti,djibouti,Africa,TRUE
+Eritrea,Eritrea,eritrea,Africa,TRUE
+Ethiopia,Ethiopia,ethiopia,Africa,TRUE
+Kenya,Kenya,kenya,Africa,TRUE
+Madagascar,Madagascar,madagascar,Africa,TRUE
+Malawi,Malawi,malawi,Africa,TRUE
+Mauritius,Mauritius,mauritius,Africa,TRUE
+Mayotte,Mayotte,mayotte,Africa,TRUE
+Mozambique,Mozambique,mozambique,Africa,TRUE
+Réunion,Réunion,reunion,Africa,TRUE
+Rwanda,Rwanda,rwanda,Africa,TRUE
+Somalia,Somalia,somalia,Africa,TRUE
+Sudan,Sudan,sudan,Africa,TRUE
+Uganda,Uganda,uganda,Africa,TRUE
+United Republic of Tanzania,Tanzania,tanzania,Africa,TRUE
+Zambia,Zambia,zambia,Africa,TRUE
+Zimbabwe,Zimbabwe,zimbabwe,Africa,TRUE
+Angola,Angola,angola,Africa,TRUE
+Cameroon,Cameroon,cameroon,Africa,TRUE
+Central African Republic,CAR,car,Africa,TRUE
+Chad,Chad,chad,Africa,TRUE
+Congo,Congo,congo,Africa,TRUE
+Democratic Republic of the Congo,the DRC,drc,Africa,TRUE
+Equatorial Guinea,Equatorial Guinea,equatorial-guinea,Africa,TRUE
+Gabon,Gabon,gabon,Africa,TRUE
+Sao Tome and Principe,Sao Tome and Principe,sao-tome-and-principe,Africa,TRUE
+Botswana,Botswana,botswana,Africa,TRUE
+Lesotho,Lesotho,lesotho,Africa,TRUE
+Namibia,Namibia,namibia,Africa,TRUE
+South Africa,South Africa,south-africa,Africa,TRUE
+Swaziland,Swaziland,swaziland,Africa,TRUE
+Benin,Benin,benin,Africa,TRUE
+Burkina Faso,Burkina Faso,burkina-faso,Africa,TRUE
+Cape Verde,Cape Verde,cape-verde,Africa,TRUE
+Côte d’Ivoire,Côte d’Ivoire,cote-d-ivoire,Africa,TRUE
+Gambia,Gambia,gambia,Africa,TRUE
+Ghana,Ghana,ghana,Africa,TRUE
+Guinea,Guinea,guinea,Africa,TRUE
+Guinea-Bissau,Guinea-Bissau,guinea-bissau,Africa,TRUE
+Liberia,Liberia,liberia,Africa,TRUE
+Mali,Mali,mali,Africa,TRUE
+Mauritania,Mauritania,mauritania,Africa,TRUE
+Niger,Niger,niger,Africa,TRUE
+Nigeria,Nigeria,nigeria,Africa,TRUE
+Senegal,Senegal,senegal,Africa,TRUE
+Sierra Leone,Sierra Leone,sierra-leone,Africa,TRUE
+Togo,Togo,togo,Africa,TRUE
+Kazakhstan,Kazakhstan,kazakhstan,Asia,TRUE
+Kyrgyzstan,Kyrgyzstan,kyrgyzstan,Asia,TRUE
+Tajikistan,Tajikistan,tajikistan,Asia,TRUE
+Turkmenistan,Turkmenistan,turkmenistan,Asia,TRUE
+Uzbekistan,Uzbekistan,uzbekistan,Asia,TRUE
+China,China,china,Asia,TRUE
+"China, Hong Kong Special Administrative Region",Hong Kong,hong-kong,Asia,TRUE
+"China, Macao Special Administrative Region",Macao,macao,Asia,TRUE
+Democratic People’s Republic of Korea,The DPRK,dprk,Asia,TRUE
+Japan,Japan,japan,Asia,TRUE
+Mongolia,Mongolia,mongolia,Asia,TRUE
+Republic of Korea,Korea,korea,Asia,TRUE
+Brunei Darussalam,Brunei Darussalam,brunei-darussalam,Asia,TRUE
+Cambodia,Cambodia,cambodia,Asia,TRUE
+Indonesia,Indonesia,indonesia,Asia,TRUE
+Lao People’s Democratic Republic,Laos,laos,Asia,TRUE
+Malaysia,Malaysia,malaysia,Asia,TRUE
+Myanmar,Myanmar,myanmar,Asia,TRUE
+Philippines,Philippines,philippines,Asia,TRUE
+Singapore,Singapore,singapore,Asia,TRUE
+Thailand,Thailand,thailand,Asia,TRUE
+Timor-Leste,Timor-Leste,timor-leste,Asia,TRUE
+Viet Nam,Viet Nam,viet-nam,Asia,TRUE
+Afghanistan,Afghanistan,afghanistan,Asia,TRUE
+Bangladesh,Bangladesh,bangladesh,Asia,TRUE
+Bhutan,Bhutan,bhutan,Asia,TRUE
+India,India,india,Asia,TRUE
+Iran (Islamic Republic of),Iran,iran,Asia,TRUE
+Maldives,Maldives,maldives,Asia,TRUE
+Nepal,Nepal,nepal,Asia,TRUE
+Pakistan,Pakistan,pakistan,Asia,TRUE
+Sri Lanka,Sri Lanka,sri-lanka,Asia,TRUE
+Armenia,Armenia,armenia,Asia,TRUE
+Azerbaijan,Azerbaijan,azerbaijan,Asia,TRUE
+Bahrain,Bahrain,bahrain,Asia,TRUE
+Cyprus,Cyprus,cyprus,Asia,TRUE
+Georgia,Georgia,georgia,Asia,TRUE
+Iraq,Iraq,iraq,Asia,TRUE
+Israel,Israel,israel,Asia,TRUE
+Jordan,Jordan,jordan,Asia,TRUE
+Kuwait,Kuwait,kuwait,Asia,TRUE
+Lebanon,Lebanon,lebanon,Asia,TRUE
+Occupied Palestinian Territory,Palestine,palestine,Asia,TRUE
+Oman,Oman,oman,Asia,TRUE
+Qatar,Qatar,qatar,Asia,TRUE
+Saudi Arabia,Saudi Arabia,saudi-arabia,Asia,TRUE
+Syrian Arab Republic,Syria,syria,Asia,TRUE
+Turkey,Turkey,turkey,Asia,TRUE
+United Arab Emirates,the UAE,uae,Asia,TRUE
+Yemen,Yemen,yemen,Asia,TRUE
+Aruba,Aruba,aruba,LAC,TRUE
+Bahamas,Bahamas,bahamas,LAC,TRUE
+Barbados,Barbados,barbados,LAC,TRUE
+Cuba,Cuba,cuba,LAC,TRUE
+Dominican Republic,Dominican Republic,dominican-republic,LAC,TRUE
+Grenada,Grenada,grenada,LAC,TRUE
+Guadeloupe,Guadeloupe,guadeloupe,LAC,TRUE
+Haiti,Haiti,haiti,LAC,TRUE
+Jamaica,Jamaica,jamaica,LAC,TRUE
+Martinique,Martinique,martinique,LAC,TRUE
+Netherlands Antilles,Netherlands Antilles,netherlands-antilles,LAC,TRUE
+Puerto Rico,Puerto Rico,puerto-rico,LAC,TRUE
+Saint Lucia,Saint Lucia,saint-lucia,LAC,TRUE
+Saint Vincent and the Grenadines,Saint Vincent,saint-vincent,LAC,TRUE
+Trinidad and Tobago,Trinidad and Tobago,trinidad-and-tobago,LAC,TRUE
+United States Virgin Islands,the US Virgin Islands,us-virgin-islands,LAC,TRUE
+Belize,Belize,belize,LAC,TRUE
+Costa Rica,Costa Rica,costa-rica,LAC,TRUE
+El Salvador,El Salvador,el-salvador,LAC,TRUE
+Guatemala,Guatemala,guatemala,LAC,TRUE
+Honduras,Honduras,honduras,LAC,TRUE
+Mexico,Mexico,mexico,LAC,TRUE
+Nicaragua,Nicaragua,nicaragua,LAC,TRUE
+Panama,Panama,panama,LAC,TRUE
+Argentina,Argentina,argentina,LAC,TRUE
+Bolivia (Plurinational State of),Bolivia,bolivia,LAC,TRUE
+Brazil,Brazil,brazil,LAC,TRUE
+Chile,Chile,chile,LAC,TRUE
+Colombia,Colombia,colombia,LAC,TRUE
+Ecuador,Ecuador,ecuador,LAC,TRUE
+French Guiana,French Guiana,french-guiana,LAC,TRUE
+Guyana,Guyana,guyana,LAC,TRUE
+Paraguay,Paraguay,paraguay,LAC,TRUE
+Peru,Peru,peru,LAC,TRUE
+Suriname,Suriname,suriname,LAC,TRUE
+Uruguay,Uruguay,uruguay,LAC,TRUE
+Venezuela (Bolivarian Republic of),Venezuela,venezuela,LAC,TRUE
+Australia,Australia,australia,Oceania,TRUE
+Fiji,Fiji,fiji,Oceania,TRUE
+French Polynesia,French Polynesia,french-polynesia,Oceania,TRUE
+Guam,Guam,guam,Oceania,TRUE
+Micronesia (Federated States of),Micronesia,micronesia,Oceania,TRUE
+New Caledonia,New Caledonia,new-caledonia,Oceania,TRUE
+New Zealand,New Zealand,new-zealand,Oceania,TRUE
+Papua New Guinea,Papua New Guinea,papua-new-guinea,Oceania,TRUE
+Samoa,Samoa,samoa,Oceania,TRUE
+Solomon Islands,Solomon Islands,solomon-islands,Oceania,TRUE
+Tonga,Tonga,tonga,Oceania,TRUE
+Vanuatu,Vanuatu,vanuatu,Oceania,TRUE
+Albania,Albania,albania,Europe,TRUE
+Belarus,Belarus,belarus,Europe,TRUE
+Bosnia and Herzegovina,Bosnia and Herzegovina,bosnia-and-herzegovina,Europe,TRUE
+Bulgaria,Bulgaria,bulgaria,Europe,TRUE
+Croatia,Croatia,croatia,Europe,TRUE
+Czech Republic,Czech Republic,czech-republic,Europe,TRUE
+Estonia,Estonia,estonia,Europe,TRUE
+Greece,Greece,greece,Europe,TRUE
+Hungary,Hungary,hungary,Europe,TRUE
+Latvia,Latvia,latvia,Europe,TRUE
+Lithuania,Lithuania,lithuania,Europe,TRUE
+Montenegro,Montenegro,montenegro,Europe,TRUE
+Poland,Poland,poland,Europe,TRUE
+Republic of Moldova,Moldova,moldova,Europe,TRUE
+Romania,Romania,romania,Europe,TRUE
+Russian Federation,Russia,russia,Europe,TRUE
+Serbia,Serbia,serbia,Europe,TRUE
+Slovakia,Slovakia,slovakia,Europe,TRUE
+Slovenia,Slovenia,slovenia,Europe,TRUE
+The former Yugoslav Republic of Macedonia,Macedonia,macedonia,Europe,TRUE
+Ukraine,Ukraine,ukraine,Europe,TRUE
+Austria,Austria,austria,Europe,TRUE
+Belgium,Belgium,belgium,Europe,TRUE
+Channel Islands,Channel Islands,channel-islands,Europe,TRUE
+Denmark,Denmark,denmark,Europe,TRUE
+Finland,Finland,finland,Europe,TRUE
+France,France,france,Europe,TRUE
+Germany,Germany,germany,Europe,TRUE
+Iceland,Iceland,iceland,Europe,TRUE
+Ireland,Ireland,ireland,Europe,TRUE
+Italy,Italy,italy,Europe,TRUE
+Luxembourg,Luxembourg,luxembourg,Europe,TRUE
+Malta,Malta,malta,Europe,TRUE
+Netherlands,Netherlands,netherlands,Europe,TRUE
+Norway,Norway,norway,Europe,TRUE
+Portugal,Portugal,portugal,Europe,TRUE
+Spain,Spain,spain,Europe,TRUE
+Sweden,Sweden,sweden,Europe,TRUE
+Switzerland,Switzerland,switzerland,Europe,TRUE
+United Kingdom of Great Britain and Northern Ireland,the United Kingdom,united-kingdom,Europe,TRUE
+Canada,Canada,canada,NA,TRUE
+United States of America,the US,usa,NA,TRUE

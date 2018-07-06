@@ -1,15 +1,13 @@
 import jinja2
-from reportlab.lib.pagesizes import letter
+import pandas as pd
+import progressbar
 from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
-from reportlab.lib.units import mm, inch
 from reportlab.pdfgen import canvas
-from reportlab.platypus import Image, Paragraph, Table
-from xml.etree import ElementTree
+from reportlab.platypus import Image, Paragraph
 from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
 from reportlab.lib.fonts import addMapping
-import re
-from PIL import Image as PILImage
+from xml.etree import ElementTree
 
 
 ########################################################################
@@ -60,7 +58,7 @@ class ReportMaker(object):
     #----------------------------------------------------------------------
     def createDocument(self):
         """"""
-        for page in self.e.findall("page"):
+        for page in progressbar.progressbar(self.e.findall("page")):
             self.width, self.height =  int(page.get("width")), int(page.get("height"))
             self.c.setPageSize((self.width,self.height))
             for image in page.findall("image"):
@@ -160,22 +158,8 @@ class ReportMaker(object):
 
 #----------------------------------------------------------------------
 if __name__ == "__main__":
-    countries = [
-        {
-            "longname":"Country long name",
-            "name":"Country name",
-            "slug":"country-slug",
-            "regionslug":"LAC",
-            "lowincome":True,
-        },
-        {
-            "longname":"Country long name",
-            "name":"Country name",
-            "slug":"country-slug-two",
-            "regionslug":"LAC",
-            "lowincome":False,
-        }
-    ]
+    csv_file = "./data/countries.csv"
+    countries = pd.read_csv(csv_file, keep_default_na=False, na_values=[""]).to_dict('records')
     doc = ReportMaker(countries, "./final_template", "./render/p20_profiles.pdf")
     doc.createDocument()
     doc.savePDF()
