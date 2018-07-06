@@ -74,16 +74,14 @@ class ReportMaker(object):
                     replacement = text.text
 
                     if text.get("shrink"):
-                        fontSize = float(font["size"])
-                        height = int(text.get("height"))
                         textLen = float(len(replacement))
-                        divisor = max(((textLen/25.0)+(2.0/3.0)),1)
-                        fontSizeAdj = int(fontSize / divisor)
-                        fontSizeDiff = int(float(fontSize-fontSizeAdj)/2.0)
-                        heightAdj = height-fontSizeDiff
+                        fontSizeAdj = int(font["size"])
+                        heightAdj = int(text.get("height"))*2 if textLen > 30 else int(text.get("height"))
+                        width = int(text.get("width"))
                     else:
                         fontSizeAdj = int(font["size"])
                         heightAdj = int(text.get("height"))
+                        width = self.width
 
                     style = ParagraphStyle(
                         'default',
@@ -96,23 +94,21 @@ class ReportMaker(object):
                         firstLineIndent=int(font["indent"]),
                     )
 
-                    self.createParagraph(replacement, int(text.get("left")), (int(text.get("top"))+heightAdj),style)
+                    self.createParagraph(replacement, int(text.get("left")), (int(text.get("top"))+heightAdj), width,style)
                 else:
                     innerText = ElementTree.tostring(text.getchildren()[0])
                     font = self.fonts[text.get("font")]
                     replacement = innerText
 
                     if text.get("shrink"):
-                        fontSize = float(font["size"])
-                        height = int(text.get("height"))
                         textLen = float(len(replacement))
-                        divisor = max(((textLen/25.0)+(2.0/3.0)),1)
-                        fontSizeAdj = int(fontSize / divisor)
-                        fontSizeDiff = int(float(fontSize-fontSizeAdj)/2.0)
-                        heightAdj = height-fontSizeDiff
+                        fontSizeAdj = int(font["size"])
+                        heightAdj = int(text.get("height"))*2 if textLen > 30 else int(text.get("height"))
+                        width = int(text.get("width"))
                     else:
                         fontSizeAdj = int(font["size"])
                         heightAdj = int(text.get("height"))
+                        width = self.width
 
                     style = ParagraphStyle(
                         'default',
@@ -125,7 +121,7 @@ class ReportMaker(object):
                         firstLineIndent=int(font["indent"]),
                     )
 
-                    self.createParagraph(replacement, int(text.get("left")), (int(text.get("top"))+heightAdj),style)
+                    self.createParagraph(replacement, int(text.get("left")), (int(text.get("top"))+heightAdj), width, style)
             for line in page.findall("line"):
                 self.c.setDash(int(line.get("on")),int(line.get("off")))
                 self.c.setStrokeColor(line.get("color"))
@@ -143,12 +139,12 @@ class ReportMaker(object):
         return x, y
 
     #----------------------------------------------------------------------
-    def createParagraph(self, ptext, x, y, style=None):
+    def createParagraph(self, ptext, x, y, width, style=None):
         """"""
         if not style:
             style = self.styles["Normal"]
         p = Paragraph(ptext, style=style)
-        p.wrapOn(self.c, self.width, self.height)
+        p.wrapOn(self.c, width, self.height)
         p.drawOn(self.c, *self.coord(x, y))
 
     #----------------------------------------------------------------------
