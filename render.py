@@ -11,16 +11,24 @@ from xml.etree import ElementTree
 
 
 def people(num):
-    return "{:,}".format(round(num))
+    if num is not None:
+        return "{:,}".format(round(num))
+    return "NA"
 
 def dollar(num):
-    return "${0:,.2f}".format(float(num))
+    if num is not None:
+        return "${0:,.2f}".format(float(num))
+    return "NA"
 
 def roundDollar(num):
-    return "${0:,}".format(round(num))
+    if num is not None:
+        return "${0:,}".format(round(num))
+    return "NA"
 
 def percent(num):
-    return "{}%".format(round(num))
+    if num is not None:
+        return "{}%".format(round(num))
+    return "NA"
 
 
 ########################################################################
@@ -183,7 +191,9 @@ class ReportMaker(object):
 #----------------------------------------------------------------------
 if __name__ == "__main__":
     csv_file = "./data/countries_merged.csv"
-    countries = pd.read_csv(csv_file, keep_default_na=False, na_values=[""]).to_dict('records')
+    countries_df = pd.read_csv(csv_file, keep_default_na=False, na_values=[""])
+    countries_df = countries_df.where(countries_df.notnull(), None)
+    countries = countries_df.to_dict('records')
     doc = ReportMaker(countries, "./final_template", "./render/p20_profiles.pdf")
     doc.createDocument()
     doc.savePDF()

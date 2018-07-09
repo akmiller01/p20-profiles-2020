@@ -1,197 +1,197 @@
-longname,name,slug,regionslug,lowincome
-Algeria,Algeria,algeria,Africa,TRUE
-Egypt,Egypt,egypt,Africa,TRUE
-State of Libya,Libya,libya,Africa,TRUE
-Morocco,Morocco,morocco,Africa,TRUE
-Tunisia,Tunisia,tunisia,Africa,TRUE
-Western Sahara,Western Sahara,western-sahara,Africa,FALSE
-Burundi,Burundi,burundi,Africa,TRUE
-Comoros,Comoros,comoros,Africa,TRUE
-Djibouti,Djibouti,djibouti,Africa,TRUE
-Eritrea,Eritrea,eritrea,Africa,TRUE
-Ethiopia,Ethiopia,ethiopia,Africa,TRUE
-Kenya,Kenya,kenya,Africa,TRUE
-Madagascar,Madagascar,madagascar,Africa,TRUE
-Malawi,Malawi,malawi,Africa,TRUE
-Mauritius,Mauritius,mauritius,Africa,TRUE
-Mozambique,Mozambique,mozambique,Africa,TRUE
-Rwanda,Rwanda,rwanda,Africa,TRUE
-Seychelles,Seychelles,seychelles,Africa,TRUE
-Somalia,Somalia,somalia,Africa,TRUE
-South Sudan,South Sudan,south-sudan,Africa,TRUE
-Sudan,Sudan,sudan,Africa,TRUE
-Uganda,Uganda,uganda,Africa,TRUE
-United Republic of Tanzania,Tanzania,tanzania,Africa,TRUE
-Zambia,Zambia,zambia,Africa,TRUE
-Zimbabwe,Zimbabwe,zimbabwe,Africa,TRUE
-Angola,Angola,angola,Africa,TRUE
-Cameroon,Cameroon,cameroon,Africa,TRUE
-Central African Republic,CAR,car,Africa,TRUE
-Chad,Chad,chad,Africa,TRUE
-Congo,Congo,congo,Africa,TRUE
-Democratic Republic of the Congo,the DRC,drc,Africa,TRUE
-Equatorial Guinea,Equatorial Guinea,equatorial-guinea,Africa,TRUE
-Gabon,Gabon,gabon,Africa,TRUE
-Sao Tome and Principe,Sao Tome and Principe,sao-tome-and-principe,Africa,TRUE
-Botswana,Botswana,botswana,Africa,TRUE
-Lesotho,Lesotho,lesotho,Africa,TRUE
-Namibia,Namibia,namibia,Africa,TRUE
-South Africa,South Africa,south-africa,Africa,TRUE
-Swaziland,Swaziland,swaziland,Africa,TRUE
-Benin,Benin,benin,Africa,TRUE
-Burkina Faso,Burkina Faso,burkina-faso,Africa,TRUE
-Cape Verde,Cape Verde,cape-verde,Africa,TRUE
-Côte d’Ivoire,Côte d’Ivoire,cote-d-ivoire,Africa,TRUE
-Gambia,Gambia,gambia,Africa,TRUE
-Ghana,Ghana,ghana,Africa,TRUE
-Guinea,Guinea,guinea,Africa,TRUE
-Guinea-Bissau,Guinea-Bissau,guinea-bissau,Africa,TRUE
-Liberia,Liberia,liberia,Africa,TRUE
-Mali,Mali,mali,Africa,TRUE
-Mauritania,Mauritania,mauritania,Africa,TRUE
-Niger,Niger,niger,Africa,TRUE
-Nigeria,Nigeria,nigeria,Africa,TRUE
-Senegal,Senegal,senegal,Africa,TRUE
-Sierra Leone,Sierra Leone,sierra-leone,Africa,TRUE
-Togo,Togo,togo,Africa,TRUE
-Kazakhstan,Kazakhstan,kazakhstan,Asia,TRUE
-Kyrgyzstan,Kyrgyzstan,kyrgyzstan,Asia,TRUE
-Tajikistan,Tajikistan,tajikistan,Asia,TRUE
-Turkmenistan,Turkmenistan,turkmenistan,Asia,TRUE
-Uzbekistan,Uzbekistan,uzbekistan,Asia,TRUE
-China,China,china,Asia,TRUE
-"China, Hong Kong Special Administrative Region",Hong Kong,hong-kong,Asia,FALSE
-"China, Macao Special Administrative Region",Macao,macao,Asia,FALSE
-Democratic People’s Republic of Korea,The DPRK,dprk,Asia,TRUE
-Japan,Japan,japan,Asia,FALSE
-Mongolia,Mongolia,mongolia,Asia,TRUE
-Republic of Korea,Korea,korea,Asia,FALSE
-Brunei Darussalam,Brunei Darussalam,brunei-darussalam,Asia,FALSE
-Cambodia,Cambodia,cambodia,Asia,TRUE
-Indonesia,Indonesia,indonesia,Asia,TRUE
-Lao People’s Democratic Republic,Laos,laos,Asia,TRUE
-Malaysia,Malaysia,malaysia,Asia,TRUE
-Myanmar,Myanmar,myanmar,Asia,TRUE
-Philippines,Philippines,philippines,Asia,TRUE
-Singapore,Singapore,singapore,Asia,FALSE
-Thailand,Thailand,thailand,Asia,TRUE
-Timor-Leste,Timor-Leste,timor-leste,Asia,TRUE
-Viet Nam,Viet Nam,viet-nam,Asia,TRUE
-Afghanistan,Afghanistan,afghanistan,Asia,TRUE
-Bangladesh,Bangladesh,bangladesh,Asia,TRUE
-Bhutan,Bhutan,bhutan,Asia,TRUE
-India,India,india,Asia,TRUE
-Iran (Islamic Republic of),Iran,iran,Asia,TRUE
-Maldives,Maldives,maldives,Asia,TRUE
-Nepal,Nepal,nepal,Asia,TRUE
-Pakistan,Pakistan,pakistan,Asia,TRUE
-Sri Lanka,Sri Lanka,sri-lanka,Asia,TRUE
-Armenia,Armenia,armenia,Asia,TRUE
-Azerbaijan,Azerbaijan,azerbaijan,Asia,TRUE
-Bahrain,Bahrain,bahrain,Asia,FALSE
-Cyprus,Cyprus,cyprus,Asia,FALSE
-Georgia,Georgia,georgia,Asia,TRUE
-Iraq,Iraq,iraq,Asia,TRUE
-Israel,Israel,israel,Asia,FALSE
-Jordan,Jordan,jordan,Asia,TRUE
-Kuwait,Kuwait,kuwait,Asia,FALSE
-Lebanon,Lebanon,lebanon,Asia,TRUE
-Occupied Palestinian Territory,Palestine,palestine,Asia,TRUE
-Oman,Oman,oman,Asia,FALSE
-Qatar,Qatar,qatar,Asia,FALSE
-Saudi Arabia,Saudi Arabia,saudi-arabia,Asia,FALSE
-Syrian Arab Republic,Syria,syria,Asia,TRUE
-Turkey,Turkey,turkey,Asia,TRUE
-United Arab Emirates,the UAE,uae,Asia,FALSE
-Yemen,Yemen,yemen,Asia,TRUE
-Aruba,Aruba,aruba,LAC,FALSE
-Bahamas,Bahamas,bahamas,LAC,FALSE
-Barbados,Barbados,barbados,LAC,FALSE
-Cuba,Cuba,cuba,LAC,TRUE
-Dominican Republic,Dominican Republic,dominican-republic,LAC,TRUE
-Grenada,Grenada,grenada,LAC,TRUE
-Guadeloupe,Guadeloupe,guadeloupe,LAC,FALSE
-Haiti,Haiti,haiti,LAC,TRUE
-Jamaica,Jamaica,jamaica,LAC,TRUE
-Martinique,Martinique,martinique,LAC,FALSE
-Netherlands Antilles,Netherlands Antilles,netherlands-antilles,LAC,FALSE
-Puerto Rico,Puerto Rico,puerto-rico,LAC,FALSE
-Saint Lucia,Saint Lucia,saint-lucia,LAC,TRUE
-Saint Vincent and the Grenadines,Saint Vincent,saint-vincent,LAC,TRUE
-Trinidad and Tobago,Trinidad and Tobago,trinidad-and-tobago,LAC,FALSE
-United States Virgin Islands,the US Virgin Islands,us-virgin-islands,LAC,FALSE
-Belize,Belize,belize,LAC,TRUE
-Costa Rica,Costa Rica,costa-rica,LAC,TRUE
-El Salvador,El Salvador,el-salvador,LAC,TRUE
-Guatemala,Guatemala,guatemala,LAC,TRUE
-Honduras,Honduras,honduras,LAC,TRUE
-Mexico,Mexico,mexico,LAC,TRUE
-Nicaragua,Nicaragua,nicaragua,LAC,TRUE
-Panama,Panama,panama,LAC,TRUE
-Argentina,Argentina,argentina,LAC,TRUE
-Bolivia (Plurinational State of),Bolivia,bolivia,LAC,TRUE
-Brazil,Brazil,brazil,LAC,TRUE
-Chile,Chile,chile,LAC,FALSE
-Colombia,Colombia,colombia,LAC,TRUE
-Ecuador,Ecuador,ecuador,LAC,TRUE
-French Guiana,French Guiana,french-guiana,LAC,FALSE
-Guyana,Guyana,guyana,LAC,TRUE
-Paraguay,Paraguay,paraguay,LAC,TRUE
-Peru,Peru,peru,LAC,TRUE
-Suriname,Suriname,suriname,LAC,TRUE
-Uruguay,Uruguay,uruguay,LAC,FALSE
-Venezuela (Bolivarian Republic of),Venezuela,venezuela,LAC,TRUE
-Australia,Australia,australia,Oceania,FALSE
-Fiji,Fiji,fiji,Oceania,TRUE
-French Polynesia,French Polynesia,french-polynesia,Oceania,FALSE
-Kiribati,Kiribati,kiribati,Oceania,TRUE
-Micronesia (Federated States of),Micronesia,micronesia,Oceania,TRUE
-New Zealand,New Zealand,new-zealand,Oceania,FALSE
-Papua New Guinea,Papua New Guinea,papua-new-guinea,Oceania,TRUE
-Samoa,Samoa,samoa,Oceania,TRUE
-Solomon Islands,Solomon Islands,solomon-islands,Oceania,TRUE
-Tonga,Tonga,tonga,Oceania,TRUE
-Tuvalu,Tuvalu,tuvalu,Oceania,TRUE
-Vanuatu,Vanuatu,vanuatu,Oceania,TRUE
-Albania,Albania,albania,Europe,TRUE
-Belarus,Belarus,belarus,Europe,TRUE
-Bosnia and Herzegovina,Bosnia and Herzegovina,bosnia-and-herzegovina,Europe,TRUE
-Bulgaria,Bulgaria,bulgaria,Europe,TRUE
-Croatia,Croatia,croatia,Europe,TRUE
-Czech Republic,Czech Republic,czech-republic,Europe,FALSE
-Estonia,Estonia,estonia,Europe,FALSE
-Greece,Greece,greece,Europe,FALSE
-Hungary,Hungary,hungary,Europe,FALSE
-Kosovo,Kosovo,kosovo,Europe,TRUE
-Latvia,Latvia,latvia,Europe,FALSE
-Lithuania,Lithuania,lithuania,Europe,FALSE
-Montenegro,Montenegro,montenegro,Europe,TRUE
-Poland,Poland,poland,Europe,FALSE
-Republic of Moldova,Moldova,moldova,Europe,TRUE
-Romania,Romania,romania,Europe,TRUE
-Russian Federation,Russia,russia,Europe,TRUE
-Serbia,Serbia,serbia,Europe,TRUE
-Slovakia,Slovakia,slovakia,Europe,FALSE
-Slovenia,Slovenia,slovenia,Europe,FALSE
-The former Yugoslav Republic of Macedonia,Macedonia,macedonia,Europe,TRUE
-Ukraine,Ukraine,ukraine,Europe,TRUE
-Austria,Austria,austria,Europe,FALSE
-Belgium,Belgium,belgium,Europe,FALSE
-Denmark,Denmark,denmark,Europe,FALSE
-Finland,Finland,finland,Europe,FALSE
-France,France,france,Europe,FALSE
-Germany,Germany,germany,Europe,FALSE
-Iceland,Iceland,iceland,Europe,FALSE
-Ireland,Ireland,ireland,Europe,FALSE
-Italy,Italy,italy,Europe,FALSE
-Luxembourg,Luxembourg,luxembourg,Europe,FALSE
-Malta,Malta,malta,Europe,FALSE
-Netherlands,Netherlands,netherlands,Europe,FALSE
-Norway,Norway,norway,Europe,FALSE
-Portugal,Portugal,portugal,Europe,FALSE
-Spain,Spain,spain,Europe,FALSE
-Sweden,Sweden,sweden,Europe,FALSE
-Switzerland,Switzerland,switzerland,Europe,FALSE
-United Kingdom of Great Britain and Northern Ireland,the United Kingdom,united-kingdom,Europe,FALSE
-Canada,Canada,canada,NA,FALSE
-United States of America,the US,usa,NA,FALSE
+longname,name,sentencename,slug,regionslug,lowincome
+Algeria,Algeria,Algeria,algeria,Africa,TRUE
+Egypt,Egypt,Egypt,egypt,Africa,TRUE
+State of Libya,Libya,Libya,libya,Africa,TRUE
+Morocco,Morocco,Morocco,morocco,Africa,TRUE
+Tunisia,Tunisia,Tunisia,tunisia,Africa,TRUE
+Western Sahara,Western Sahara,Western Sahara,western-sahara,Africa,FALSE
+Burundi,Burundi,Burundi,burundi,Africa,TRUE
+Comoros,Comoros,Comoros,comoros,Africa,TRUE
+Djibouti,Djibouti,Djibouti,djibouti,Africa,TRUE
+Eritrea,Eritrea,Eritrea,eritrea,Africa,TRUE
+Ethiopia,Ethiopia,Ethiopia,ethiopia,Africa,TRUE
+Kenya,Kenya,Kenya,kenya,Africa,TRUE
+Madagascar,Madagascar,Madagascar,madagascar,Africa,TRUE
+Malawi,Malawi,Malawi,malawi,Africa,TRUE
+Mauritius,Mauritius,Mauritius,mauritius,Africa,TRUE
+Mozambique,Mozambique,Mozambique,mozambique,Africa,TRUE
+Rwanda,Rwanda,Rwanda,rwanda,Africa,TRUE
+Seychelles,Seychelles,Seychelles,seychelles,Africa,TRUE
+Somalia,Somalia,Somalia,somalia,Africa,TRUE
+South Sudan,South Sudan,South Sudan,south-sudan,Africa,TRUE
+Sudan,Sudan,Sudan,sudan,Africa,TRUE
+Uganda,Uganda,Uganda,uganda,Africa,TRUE
+United Republic of Tanzania,Tanzania,Tanzania,tanzania,Africa,TRUE
+Zambia,Zambia,Zambia,zambia,Africa,TRUE
+Zimbabwe,Zimbabwe,Zimbabwe,zimbabwe,Africa,TRUE
+Angola,Angola,Angola,angola,Africa,TRUE
+Cameroon,Cameroon,Cameroon,cameroon,Africa,TRUE
+Central African Republic,CAR,CAR,car,Africa,TRUE
+Chad,Chad,Chad,chad,Africa,TRUE
+Republic of Congo,Congo,Congo,congo,Africa,TRUE
+Democratic Republic of the Congo,DRC,the DRC,drc,Africa,TRUE
+Equatorial Guinea,Equatorial Guinea,Equatorial Guinea,equatorial-guinea,Africa,TRUE
+Gabon,Gabon,Gabon,gabon,Africa,TRUE
+Sao Tome and Principe,Sao Tome and Principe,Sao Tome and Principe,sao-tome-and-principe,Africa,TRUE
+Botswana,Botswana,Botswana,botswana,Africa,TRUE
+Lesotho,Lesotho,Lesotho,lesotho,Africa,TRUE
+Namibia,Namibia,Namibia,namibia,Africa,TRUE
+South Africa,South Africa,South Africa,south-africa,Africa,TRUE
+Swaziland,Swaziland,Swaziland,swaziland,Africa,TRUE
+Benin,Benin,Benin,benin,Africa,TRUE
+Burkina Faso,Burkina Faso,Burkina Faso,burkina-faso,Africa,TRUE
+Cape Verde,Cape Verde,Cape Verde,cape-verde,Africa,TRUE
+Côte d’Ivoire,Côte d’Ivoire,Côte d’Ivoire,cote-d-ivoire,Africa,TRUE
+Gambia,Gambia,Gambia,gambia,Africa,TRUE
+Ghana,Ghana,Ghana,ghana,Africa,TRUE
+Guinea,Guinea,Guinea,guinea,Africa,TRUE
+Guinea-Bissau,Guinea-Bissau,Guinea-Bissau,guinea-bissau,Africa,TRUE
+Liberia,Liberia,Liberia,liberia,Africa,TRUE
+Mali,Mali,Mali,mali,Africa,TRUE
+Mauritania,Mauritania,Mauritania,mauritania,Africa,TRUE
+Niger,Niger,Niger,niger,Africa,TRUE
+Nigeria,Nigeria,Nigeria,nigeria,Africa,TRUE
+Senegal,Senegal,Senegal,senegal,Africa,TRUE
+Sierra Leone,Sierra Leone,Sierra Leone,sierra-leone,Africa,TRUE
+Togo,Togo,Togo,togo,Africa,TRUE
+Kazakhstan,Kazakhstan,Kazakhstan,kazakhstan,Asia,TRUE
+Kyrgyzstan,Kyrgyzstan,Kyrgyzstan,kyrgyzstan,Asia,TRUE
+Tajikistan,Tajikistan,Tajikistan,tajikistan,Asia,TRUE
+Turkmenistan,Turkmenistan,Turkmenistan,turkmenistan,Asia,TRUE
+Uzbekistan,Uzbekistan,Uzbekistan,uzbekistan,Asia,TRUE
+China,China,China,china,Asia,TRUE
+"China, Hong Kong Special Administrative Region",Hong Kong,Hong Kong,hong-kong,Asia,FALSE
+"China, Macao Special Administrative Region",Macao,Macao,macao,Asia,FALSE
+Democratic People’s Republic of Korea,DPRK,the DPRK,dprk,Asia,TRUE
+Japan,Japan,Japan,japan,Asia,FALSE
+Mongolia,Mongolia,Mongolia,mongolia,Asia,TRUE
+Republic of Korea,Korea,Korea,korea,Asia,FALSE
+Brunei Darussalam,Brunei Darussalam,Brunei Darussalam,brunei-darussalam,Asia,FALSE
+Cambodia,Cambodia,Cambodia,cambodia,Asia,TRUE
+Indonesia,Indonesia,Indonesia,indonesia,Asia,TRUE
+Lao People’s Democratic Republic,Laos,Laos,laos,Asia,TRUE
+Malaysia,Malaysia,Malaysia,malaysia,Asia,TRUE
+Myanmar,Myanmar,Myanmar,myanmar,Asia,TRUE
+Philippines,Philippines,the Philippines,philippines,Asia,TRUE
+Singapore,Singapore,Singapore,singapore,Asia,FALSE
+Thailand,Thailand,Thailand,thailand,Asia,TRUE
+Timor-Leste,Timor-Leste,Timor-Leste,timor-leste,Asia,TRUE
+Viet Nam,Viet Nam,Viet Nam,viet-nam,Asia,TRUE
+Afghanistan,Afghanistan,Afghanistan,afghanistan,Asia,TRUE
+Bangladesh,Bangladesh,Bangladesh,bangladesh,Asia,TRUE
+Bhutan,Bhutan,Bhutan,bhutan,Asia,TRUE
+India,India,India,india,Asia,TRUE
+Iran (Islamic Republic of),Iran,Iran,iran,Asia,TRUE
+Maldives,Maldives,the Maldives,maldives,Asia,TRUE
+Nepal,Nepal,Nepal,nepal,Asia,TRUE
+Pakistan,Pakistan,Pakistan,pakistan,Asia,TRUE
+Sri Lanka,Sri Lanka,Sri Lanka,sri-lanka,Asia,TRUE
+Armenia,Armenia,Armenia,armenia,Asia,TRUE
+Azerbaijan,Azerbaijan,Azerbaijan,azerbaijan,Asia,TRUE
+Bahrain,Bahrain,Bahrain,bahrain,Asia,FALSE
+Cyprus,Cyprus,Cyprus,cyprus,Asia,FALSE
+Georgia,Georgia,Georgia,georgia,Asia,TRUE
+Iraq,Iraq,Iraq,iraq,Asia,TRUE
+Israel,Israel,Israel,israel,Asia,FALSE
+Jordan,Jordan,Jordan,jordan,Asia,TRUE
+Kuwait,Kuwait,Kuwait,kuwait,Asia,FALSE
+Lebanon,Lebanon,Lebanon,lebanon,Asia,TRUE
+Occupied Palestinian Territory,Palestine,Palestine,palestine,Asia,TRUE
+Oman,Oman,Oman,oman,Asia,FALSE
+Qatar,Qatar,Qatar,qatar,Asia,FALSE
+Saudi Arabia,Saudi Arabia,Saudi Arabia,saudi-arabia,Asia,FALSE
+Syrian Arab Republic,Syria,Syria,syria,Asia,TRUE
+Turkey,Turkey,Turkey,turkey,Asia,TRUE
+United Arab Emirates,UAE,the UAE,uae,Asia,FALSE
+Yemen,Yemen,Yemen,yemen,Asia,TRUE
+Aruba,Aruba,Aruba,aruba,LAC,FALSE
+Bahamas,Bahamas,the Bahamas,bahamas,LAC,FALSE
+Barbados,Barbados,Barbados,barbados,LAC,FALSE
+Cuba,Cuba,Cuba,cuba,LAC,TRUE
+Dominican Republic,Dominican Republic,the Dominican Republic,dominican-republic,LAC,TRUE
+Grenada,Grenada,Grenada,grenada,LAC,TRUE
+Guadeloupe,Guadeloupe,Guadeloupe,guadeloupe,LAC,FALSE
+Haiti,Haiti,Haiti,haiti,LAC,TRUE
+Jamaica,Jamaica,Jamaica,jamaica,LAC,TRUE
+Martinique,Martinique,Martinique,martinique,LAC,FALSE
+Netherlands Antilles,Netherlands Antilles,the Netherlands Antilles,netherlands-antilles,LAC,FALSE
+Puerto Rico,Puerto Rico,Puerto Rico,puerto-rico,LAC,FALSE
+Saint Lucia,Saint Lucia,Saint Lucia,saint-lucia,LAC,TRUE
+Saint Vincent and the Grenadines,Saint Vincent,Saint Vincent,saint-vincent,LAC,TRUE
+Trinidad and Tobago,Trinidad and Tobago,Trinidad and Tobago,trinidad-and-tobago,LAC,FALSE
+United States Virgin Islands,US Virgin Islands,the US Virgin Islands,us-virgin-islands,LAC,FALSE
+Belize,Belize,Belize,belize,LAC,TRUE
+Costa Rica,Costa Rica,Costa Rica,costa-rica,LAC,TRUE
+El Salvador,El Salvador,El Salvador,el-salvador,LAC,TRUE
+Guatemala,Guatemala,Guatemala,guatemala,LAC,TRUE
+Honduras,Honduras,Honduras,honduras,LAC,TRUE
+Mexico,Mexico,Mexico,mexico,LAC,TRUE
+Nicaragua,Nicaragua,Nicaragua,nicaragua,LAC,TRUE
+Panama,Panama,Panama,panama,LAC,TRUE
+Argentina,Argentina,Argentina,argentina,LAC,TRUE
+Bolivia (Plurinational State of),Bolivia,Bolivia,bolivia,LAC,TRUE
+Brazil,Brazil,Brazil,brazil,LAC,TRUE
+Chile,Chile,Chile,chile,LAC,FALSE
+Colombia,Colombia,Colombia,colombia,LAC,TRUE
+Ecuador,Ecuador,Ecuador,ecuador,LAC,TRUE
+French Guiana,French Guiana,French Guiana,french-guiana,LAC,FALSE
+Guyana,Guyana,Guyana,guyana,LAC,TRUE
+Paraguay,Paraguay,Paraguay,paraguay,LAC,TRUE
+Peru,Peru,Peru,peru,LAC,TRUE
+Suriname,Suriname,Suriname,suriname,LAC,TRUE
+Uruguay,Uruguay,Uruguay,uruguay,LAC,FALSE
+Venezuela (Bolivarian Republic of),Venezuela,Venezuela,venezuela,LAC,TRUE
+Australia,Australia,Australia,australia,Oceania,FALSE
+Fiji,Fiji,Fiji,fiji,Oceania,TRUE
+French Polynesia,French Polynesia,French Polynesia,french-polynesia,Oceania,FALSE
+Kiribati,Kiribati,Kiribati,kiribati,Oceania,TRUE
+Micronesia (Federated States of),Micronesia,Micronesia,micronesia,Oceania,TRUE
+New Zealand,New Zealand,New Zealand,new-zealand,Oceania,FALSE
+Papua New Guinea,Papua New Guinea,Papua New Guinea,papua-new-guinea,Oceania,TRUE
+Samoa,Samoa,Samoa,samoa,Oceania,TRUE
+Solomon Islands,Solomon Islands,the Solomon Islands,solomon-islands,Oceania,TRUE
+Tonga,Tonga,Tonga,tonga,Oceania,TRUE
+Tuvalu,Tuvalu,Tuvalu,tuvalu,Oceania,TRUE
+Vanuatu,Vanuatu,Vanuatu,vanuatu,Oceania,TRUE
+Albania,Albania,Albania,albania,Europe,TRUE
+Belarus,Belarus,Belarus,belarus,Europe,TRUE
+Bosnia and Herzegovina,Bosnia and Herzegovina,Bosnia and Herzegovina,bosnia-and-herzegovina,Europe,TRUE
+Bulgaria,Bulgaria,Bulgaria,bulgaria,Europe,TRUE
+Croatia,Croatia,Croatia,croatia,Europe,TRUE
+Czech Republic,Czech Republic,the Czech Republic,czech-republic,Europe,FALSE
+Estonia,Estonia,Estonia,estonia,Europe,FALSE
+Greece,Greece,Greece,greece,Europe,FALSE
+Hungary,Hungary,Hungary,hungary,Europe,FALSE
+Kosovo,Kosovo,Kosovo,kosovo,Europe,TRUE
+Latvia,Latvia,Latvia,latvia,Europe,FALSE
+Lithuania,Lithuania,Lithuania,lithuania,Europe,FALSE
+Montenegro,Montenegro,Montenegro,montenegro,Europe,TRUE
+Poland,Poland,Poland,poland,Europe,FALSE
+Republic of Moldova,Moldova,Moldova,moldova,Europe,TRUE
+Romania,Romania,Romania,romania,Europe,TRUE
+Russian Federation,Russia,Russia,russia,Europe,TRUE
+Serbia,Serbia,Serbia,serbia,Europe,TRUE
+Slovakia,Slovakia,Slovakia,slovakia,Europe,FALSE
+Slovenia,Slovenia,Slovenia,slovenia,Europe,FALSE
+The former Yugoslav Republic of Macedonia,Macedonia,Macedonia,macedonia,Europe,TRUE
+Ukraine,Ukraine,Ukraine,ukraine,Europe,TRUE
+Austria,Austria,Austria,austria,Europe,FALSE
+Belgium,Belgium,Belgium,belgium,Europe,FALSE
+Denmark,Denmark,Denmark,denmark,Europe,FALSE
+Finland,Finland,Finland,finland,Europe,FALSE
+France,France,France,france,Europe,FALSE
+Germany,Germany,Germany,germany,Europe,FALSE
+Iceland,Iceland,Iceland,iceland,Europe,FALSE
+Ireland,Ireland,Ireland,ireland,Europe,FALSE
+Italy,Italy,Italy,italy,Europe,FALSE
+Luxembourg,Luxembourg,Luxembourg,luxembourg,Europe,FALSE
+Malta,Malta,Malta,malta,Europe,FALSE
+Netherlands,Netherlands,the Netherlands,netherlands,Europe,FALSE
+Norway,Norway,Norway,norway,Europe,FALSE
+Portugal,Portugal,Portugal,portugal,Europe,FALSE
+Spain,Spain,Spain,spain,Europe,FALSE
+Sweden,Sweden,Sweden,sweden,Europe,FALSE
+Switzerland,Switzerland,Switzerland,switzerland,Europe,FALSE
+United Kingdom of Great Britain and Northern Ireland,United Kingdom,the United Kingdom,united-kingdom,Europe,FALSE
+Canada,Canada,Canada,canada,NA,FALSE
+United States of America,US,the US,usa,NA,FALSE
