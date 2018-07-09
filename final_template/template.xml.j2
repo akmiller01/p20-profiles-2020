@@ -603,9 +603,15 @@
 <text top="5526" left="72" width="687" height="44" font="6">are birth registered. If you are born into the </text>
 <text top="5580" left="72" width="752" height="44" font="6">poorest 20% of people you are much less likely </text>
 <text top="5634" left="72" width="466" height="44" font="6">to have your birth registered. </text>
-<text top="5724" left="72" width="734" height="44" font="6">In {{ country.sentencename }} [XX]% of births in the P20 </text>
-<text top="5778" left="72" width="707" height="44" font="6">are registered compared [XX]% in the rest of </text>
-<text top="5832" left="72" width="239" height="44" font="6">the population.</text>
+{% if country.restreg is not none %}
+	<text top="5724" left="72" width="734" height="44" font="6">In {{ country.sentencename }} {{ country.NP20Reg|percent }} of births in the </text>
+	<text top="5778" left="72" width="707" height="44" font="6">national P20 are registered compared to </text>
+	<text top="5832" left="72" width="239" height="44" font="6">{{ country.restreg|percent }} in the rest of the population.</text>
+{% else %}
+	<text top="5724" left="72" width="734" height="44" font="6">Lorum</text>
+	<text top="5778" left="72" width="707" height="44" font="6">ipsum</text>
+	<text top="5832" left="72" width="239" height="44" font="6">dolor</text>
+{% endif %}
 <text top="5916" left="72" width="689" height="48" font="7"><b>birth registration rates for children under 5</b></text>
 <image top="6006" left="74" width="1000" height="600" src="placeholder.png"/>
 <text top="6714" left="72" width="690" height="44" font="6">Birth registration rates in {{ country.sentencename }}  </text>
