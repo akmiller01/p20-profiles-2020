@@ -10,6 +10,19 @@ from reportlab.lib.fonts import addMapping
 from xml.etree import ElementTree
 
 
+def people(num):
+    return "{:,}".format(round(num))
+
+def dollar(num):
+    return "${0:,.2f}".format(float(num))
+
+def roundDollar(num):
+    return "${0:,}".format(round(num))
+
+def percent(num):
+    return "{}%".format(round(num))
+
+
 ########################################################################
 class ReportMaker(object):
     """"""
