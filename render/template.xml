@@ -360,10 +360,10 @@
 <text top="270" left="72" width="132" height="44" font="6"><a href="#australia">Australia</a></text>
 <button top="360" left="72" width="110" height="44" pr="890" pt="10" pb="25" href="fiji"/>
 <text top="360" left="72" width="40" height="44" font="6"><a href="#fiji">Fiji</a></text>
-<button top="450" left="72" width="110" height="44" pr="890" pt="10" pb="25" href="french-polynesia"/>
-<text top="450" left="72" width="262" height="44" font="6"><a href="#french-polynesia">French Polynesia</a></text>
-<button top="540" left="72" width="110" height="44" pr="890" pt="10" pb="25" href="kiribati"/>
-<text top="540" left="72" width="95" height="44" font="6"><a href="#kiribati">Kiribati</a></text>
+<button top="450" left="72" width="110" height="44" pr="890" pt="10" pb="25" href="kiribati"/>
+<text top="450" left="72" width="95" height="44" font="6"><a href="#kiribati">Kiribati</a></text>
+<button top="540" left="72" width="110" height="44" pr="890" pt="10" pb="25" href="marshall-islands"/>
+<text top="540" left="72" width="262" height="44" font="6"><a href="#marshall-islands">Marshall Islands</a></text>
 <button top="630" left="72" width="110" height="44" pr="890" pt="10" pb="25" href="micronesia"/>
 <text top="630" left="72" width="508" height="44" font="6"><a href="#micronesia">Micronesia (Federated States of)</a></text>
 <button top="720" left="72" width="110" height="44" pr="890" pt="10" pb="25" href="new-zealand"/>
@@ -7873,95 +7873,7 @@
 
 
 	
-<page number="69" position="absolute" top="0" left="0" height="8065" width="1152">
-<image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
-<text top="0" left="0" width="594" height="96" font="0"><a name="french-polynesia"></a></text>
-<button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Oceania"/>
-<text top="76" left="832" width="230" height="32" font="3"><a href="#Oceania"><b>all countries in region</b></a></text>
-<text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
-<text top="197" left="72" width="1008" height="96" font="0" shrink="True"><b>French Polynesia</b></text>
-<text top="477" left="72" width="905" height="44" font="8">Agenda 2030 includes the specific commitment to Leave </text>
-<text top="531" left="72" width="900" height="44" font="8">No One Behind. Together with Sustainable Development </text>
-<text top="585" left="72" width="965" height="44" font="8">Goal 10 to reduce inequality, this requires faster than average </text>
-<text top="639" left="72" width="990" height="44" font="8">progress for the poorest. The test is whether the gap between </text>
-<text top="693" left="72" width="881" height="44" font="8">the poorest 20% of people (the P20) and everyone else </text>
-<text top="747" left="72" width="453" height="44" font="8">is reducing or getting wider. </text>
-<text top="837" left="72" width="974" height="44" font="8">The P20 Initiative uses data to show whether the poorest 20% </text>
-<text top="891" left="72" width="956" height="44" font="8">of people are getting their fair share of attention, investment </text>
-<text top="945" left="72" width="1009" height="44" font="8">and opportunity. It uses three bellwether indicators of progress: </text>
-<text top="999" left="72" width="979" height="44" font="8">income, nutrition and civil registration and it promotes all data </text>
-<text top="1053" left="72" width="990" height="44" font="8">being disaggregated by Income Quintile, Gender, Geography, </text>
-<text top="1107" left="72" width="288" height="44" font="8">Age and Disability.</text>
-<text top="1197" left="72" width="912" height="47" font="8">This profile provides key available data about the status </text>
-<text top="1251" left="72" width="514" height="47" font="8">of the P20 in French Polynesia.</text>
-<text top="1551" left="162" width="617" height="64" font="5"><b>the P20 in French Polynesia</b></text>
-
-	<text top="1674" left="72" width="710" height="44" font="6">Lorum </text>
-	<text top="1728" left="72" width="763" height="44" font="6">ipsum</text>
-	<text top="1782" left="72" width="730" height="44" font="6">dolor</text>
-	<text top="1836" left="72" width="600" height="44" font="6">sit.</text>
-	<text top="1926" left="72" width="729" height="44" font="6">Amet</text>
-	<text top="1980" left="72" width="789" height="44" font="6">consectetur</text>
-	<text top="2034" left="72" width="786" height="44" font="6">adipiscing</text>
-	<text top="2088" left="72" width="460" height="44" font="6">elit.</text>
-
-<text top="2187" left="72" width="600" height="35" font="9"><b>Source: </b>Development Initiatives based on PovcalNet</text>
-<text top="2190" left="622" width="5" height="20" font="11"><a href="#french-polynesia1"><b>1</b></a></text>
-<text top="2451" left="162" width="160" height="64" font="5"><b>income</b></text>
-
-	
-		<text top="2574" left="72" width="765" height="44" font="6">Lorum</text>
-		<text top="2628" left="72" width="775" height="44" font="6">ipsum</text>
-		<text top="2682" left="72" width="213" height="44" font="6">dolor.</text>
-	
-
-<text top="2766" left="74" width="535" height="48" font="7"><b>French Polynesia income trends</b></text>
-<image top="2850" left="74" width="1000" height="770" src="placeholder.png"/>
-<text top="3699" left="72" width="600" height="35" font="9"><b>Source: </b>Development Initiatives based on PovcalNet</text>
-<text top="3819" left="162" width="188" height="64" font="5"><b>nutrition</b></text>
-<text top="3942" left="72" width="743" height="44" font="6">In French Polynesia [XX]% of adults are obese.</text>
-<text top="4026" left="72" width="196" height="48" font="7"><b>obesity rate</b></text>
-<image top="4116" left="74" width="1000" height="650" src="placeholder.png"/>
-<text top="4779" left="72" width="882" height="35" font="9"><b>Source: </b>Development Initiatives based on NCD Risk Factor Collaboration 2017</text>
-<text top="4899" left="162" width="219" height="64" font="5"><b>education</b></text>
-<text top="5022" left="72" width="613" height="44" font="6">Education is fundamental to a person’s </text>
-<text top="5076" left="72" width="193" height="44" font="6">life chances.</text>
-<text top="5166" left="72" width="684" height="44" font="6">In French Polynesia [XX]% of people have </text>
-<text top="5220" left="72" width="640" height="44" font="6">completed secondary school education.</text>
-<text top="5304" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
-<image top="5394" left="74" width="1000" height="570" src="placeholder.png"/>
-<text top="5985" left="72" width="879" height="35" font="9"><b>Source: </b>Development Initiatives based on UNESCO Institute for Statistics 2018</text>
-<text top="6066" left="72" width="801" height="44" font="6">Data is not available that allows us to disaggregate </text>
-<text top="6120" left="72" width="766" height="44" font="6">secondary school completion based on income </text>
-<text top="6174" left="72" width="755" height="44" font="6">and therefore we are unable to see completion </text>
-<text top="6228" left="72" width="780" height="44" font="6">rates for the P20 versus the rest of the population </text>
-<text top="6282" left="72" width="226" height="44" font="6">in this country.</text>
-<text top="6411" left="162" width="137" height="64" font="5"><b>health</b></text>
-<text top="6534" left="72" width="777" height="44" font="6">Poor health plays a major part in keeping people </text>
-<text top="6588" left="72" width="801" height="44" font="6">in poverty. If you are among the P20 you are more </text>
-<text top="6642" left="72" width="721" height="44" font="6">likely to suffer from preventable diseases and </text>
-<text top="6696" left="72" width="205" height="44" font="6">to die earlier.</text>
-<text top="6786" left="72" width="709" height="44" font="6">In French Polynesia the under five mortality </text>
-<text top="6840" left="72" width="486" height="44" font="6">rate is [XX] per 1,000 live births.</text>
-<text top="6930" left="72" width="801" height="44" font="6">Data is not available that allows us to disaggregate </text>
-<text top="6984" left="72" width="672" height="44" font="6">under five mortality based on income and </text>
-<text top="7038" left="72" width="747" height="44" font="6">therefore we are unable to see this information </text>
-<text top="7092" left="72" width="694" height="44" font="6">for the P20 versus the rest of the population.</text>
-<text top="7191" left="72" width="975" height="35" font="9"><b>Source: </b>Development Initiatives based on World Bank World Development Indicators</text>
-<text top="7425" left="72" width="15" height="34" font="12">1 </text>
-<text top="7425" left="72" width="15" height="34" font="12"><a name="french-polynesia1"></a></text>
-<text top="7426" left="108" width="501" height="32" font="10">Year of latest available data: 2013 (2011 $PPP)</text>
-<text top="7631" left="72" width="531" height="43" font="18">If you would like more information  </text>
-<text top="7676" left="72" width="555" height="43" font="18">or to speak to us, please get in touch:</text>
-<text top="7757" left="72" width="480" height="43" font="18">Zach Christensen, Senior Analyst </text>
-<text top="7802" left="72" width="446" height="43" font="19"><a href="mailto:Zach.Christensen%40devinit.org?subject=">Zach.Christensen@devinit.org</a></text>
-<text top="7883" left="72" width="434" height="43" font="18">See more about this work at  </text>
-<text top="7928" left="72" width="332" height="43" font="19"><a href="http://www.devinit.org/p20i">www.devinit.org/p20i</a></text>
-</page>
-
-
-	
-<page number="70" position="absolute" top="0" left="0" height="11592" width="1152">
+<page number="69" position="absolute" top="0" left="0" height="11592" width="1152">
 	<fontspec id="8" size="34" family="Times" color="#ffffff"/>
 	<fontspec id="9" size="24" family="Times" color="#847f84"/>
 	<fontspec id="10" size="24" family="Times" color="#847f84"/>
@@ -8098,7 +8010,7 @@
 
 
 	
-<page number="71" position="absolute" top="0" left="0" height="11592" width="1152">
+<page number="70" position="absolute" top="0" left="0" height="11592" width="1152">
 	<fontspec id="8" size="34" family="Times" color="#ffffff"/>
 	<fontspec id="9" size="24" family="Times" color="#847f84"/>
 	<fontspec id="10" size="24" family="Times" color="#847f84"/>
@@ -8235,7 +8147,7 @@
 
 
 	
-<page number="72" position="absolute" top="0" left="0" height="11592" width="1152">
+<page number="71" position="absolute" top="0" left="0" height="11592" width="1152">
 	<fontspec id="8" size="34" family="Times" color="#ffffff"/>
 	<fontspec id="9" size="24" family="Times" color="#847f84"/>
 	<fontspec id="10" size="24" family="Times" color="#847f84"/>
@@ -8370,7 +8282,7 @@
 
 
 	
-<page number="73" position="absolute" top="0" left="0" height="8065" width="1152">
+<page number="72" position="absolute" top="0" left="0" height="8065" width="1152">
 <image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
 <text top="0" left="0" width="594" height="96" font="0"><a name="germany"></a></text>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Europe"/>
@@ -8458,7 +8370,7 @@
 
 
 	
-<page number="74" position="absolute" top="0" left="0" height="11592" width="1152">
+<page number="73" position="absolute" top="0" left="0" height="11592" width="1152">
 	<fontspec id="8" size="34" family="Times" color="#ffffff"/>
 	<fontspec id="9" size="24" family="Times" color="#847f84"/>
 	<fontspec id="10" size="24" family="Times" color="#847f84"/>
@@ -8595,7 +8507,7 @@
 
 
 	
-<page number="75" position="absolute" top="0" left="0" height="8065" width="1152">
+<page number="74" position="absolute" top="0" left="0" height="8065" width="1152">
 <image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
 <text top="0" left="0" width="594" height="96" font="0"><a name="greece"></a></text>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Europe"/>
@@ -8685,7 +8597,7 @@
 
 
 	
-<page number="76" position="absolute" top="0" left="0" height="11592" width="1152">
+<page number="75" position="absolute" top="0" left="0" height="11592" width="1152">
 	<fontspec id="8" size="34" family="Times" color="#ffffff"/>
 	<fontspec id="9" size="24" family="Times" color="#847f84"/>
 	<fontspec id="10" size="24" family="Times" color="#847f84"/>
@@ -8818,7 +8730,7 @@
 
 
 	
-<page number="77" position="absolute" top="0" left="0" height="8065" width="1152">
+<page number="76" position="absolute" top="0" left="0" height="8065" width="1152">
 <image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
 <text top="0" left="0" width="594" height="96" font="0"><a name="guadeloupe"></a></text>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="LAC"/>
@@ -8906,7 +8818,7 @@
 
 
 	
-<page number="78" position="absolute" top="0" left="0" height="11592" width="1152">
+<page number="77" position="absolute" top="0" left="0" height="11592" width="1152">
 	<fontspec id="8" size="34" family="Times" color="#ffffff"/>
 	<fontspec id="9" size="24" family="Times" color="#847f84"/>
 	<fontspec id="10" size="24" family="Times" color="#847f84"/>
@@ -9043,7 +8955,7 @@
 
 
 	
-<page number="79" position="absolute" top="0" left="0" height="11592" width="1152">
+<page number="78" position="absolute" top="0" left="0" height="11592" width="1152">
 	<fontspec id="8" size="34" family="Times" color="#ffffff"/>
 	<fontspec id="9" size="24" family="Times" color="#847f84"/>
 	<fontspec id="10" size="24" family="Times" color="#847f84"/>
@@ -9180,7 +9092,7 @@
 
 
 	
-<page number="80" position="absolute" top="0" left="0" height="11592" width="1152">
+<page number="79" position="absolute" top="0" left="0" height="11592" width="1152">
 	<fontspec id="8" size="34" family="Times" color="#ffffff"/>
 	<fontspec id="9" size="24" family="Times" color="#847f84"/>
 	<fontspec id="10" size="24" family="Times" color="#847f84"/>
@@ -9317,7 +9229,7 @@
 
 
 	
-<page number="81" position="absolute" top="0" left="0" height="11592" width="1152">
+<page number="80" position="absolute" top="0" left="0" height="11592" width="1152">
 	<fontspec id="8" size="34" family="Times" color="#ffffff"/>
 	<fontspec id="9" size="24" family="Times" color="#847f84"/>
 	<fontspec id="10" size="24" family="Times" color="#847f84"/>
@@ -9454,7 +9366,7 @@
 
 
 	
-<page number="82" position="absolute" top="0" left="0" height="11592" width="1152">
+<page number="81" position="absolute" top="0" left="0" height="11592" width="1152">
 	<fontspec id="8" size="34" family="Times" color="#ffffff"/>
 	<fontspec id="9" size="24" family="Times" color="#847f84"/>
 	<fontspec id="10" size="24" family="Times" color="#847f84"/>
@@ -9591,7 +9503,7 @@
 
 
 	
-<page number="83" position="absolute" top="0" left="0" height="11592" width="1152">
+<page number="82" position="absolute" top="0" left="0" height="11592" width="1152">
 	<fontspec id="8" size="34" family="Times" color="#ffffff"/>
 	<fontspec id="9" size="24" family="Times" color="#847f84"/>
 	<fontspec id="10" size="24" family="Times" color="#847f84"/>
@@ -9728,7 +9640,7 @@
 
 
 	
-<page number="84" position="absolute" top="0" left="0" height="8065" width="1152">
+<page number="83" position="absolute" top="0" left="0" height="8065" width="1152">
 <image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
 <text top="0" left="0" width="594" height="96" font="0"><a name="hungary"></a></text>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Europe"/>
@@ -9818,7 +9730,7 @@
 
 
 	
-<page number="85" position="absolute" top="0" left="0" height="8065" width="1152">
+<page number="84" position="absolute" top="0" left="0" height="8065" width="1152">
 <image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
 <text top="0" left="0" width="594" height="96" font="0"><a name="iceland"></a></text>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Europe"/>
@@ -9906,7 +9818,7 @@
 
 
 	
-<page number="86" position="absolute" top="0" left="0" height="11592" width="1152">
+<page number="85" position="absolute" top="0" left="0" height="11592" width="1152">
 	<fontspec id="8" size="34" family="Times" color="#ffffff"/>
 	<fontspec id="9" size="24" family="Times" color="#847f84"/>
 	<fontspec id="10" size="24" family="Times" color="#847f84"/>
@@ -10041,7 +9953,7 @@
 
 
 	
-<page number="87" position="absolute" top="0" left="0" height="11592" width="1152">
+<page number="86" position="absolute" top="0" left="0" height="11592" width="1152">
 	<fontspec id="8" size="34" family="Times" color="#ffffff"/>
 	<fontspec id="9" size="24" family="Times" color="#847f84"/>
 	<fontspec id="10" size="24" family="Times" color="#847f84"/>
@@ -10178,7 +10090,7 @@
 
 
 	
-<page number="88" position="absolute" top="0" left="0" height="11592" width="1152">
+<page number="87" position="absolute" top="0" left="0" height="11592" width="1152">
 	<fontspec id="8" size="34" family="Times" color="#ffffff"/>
 	<fontspec id="9" size="24" family="Times" color="#847f84"/>
 	<fontspec id="10" size="24" family="Times" color="#847f84"/>
@@ -10315,7 +10227,7 @@
 
 
 	
-<page number="89" position="absolute" top="0" left="0" height="11592" width="1152">
+<page number="88" position="absolute" top="0" left="0" height="11592" width="1152">
 	<fontspec id="8" size="34" family="Times" color="#ffffff"/>
 	<fontspec id="9" size="24" family="Times" color="#847f84"/>
 	<fontspec id="10" size="24" family="Times" color="#847f84"/>
@@ -10452,7 +10364,7 @@
 
 
 	
-<page number="90" position="absolute" top="0" left="0" height="8065" width="1152">
+<page number="89" position="absolute" top="0" left="0" height="8065" width="1152">
 <image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
 <text top="0" left="0" width="594" height="96" font="0"><a name="ireland"></a></text>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Europe"/>
@@ -10542,7 +10454,7 @@
 
 
 	
-<page number="91" position="absolute" top="0" left="0" height="8065" width="1152">
+<page number="90" position="absolute" top="0" left="0" height="8065" width="1152">
 <image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
 <text top="0" left="0" width="594" height="96" font="0"><a name="israel"></a></text>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Asia"/>
@@ -10632,7 +10544,7 @@
 
 
 	
-<page number="92" position="absolute" top="0" left="0" height="8065" width="1152">
+<page number="91" position="absolute" top="0" left="0" height="8065" width="1152">
 <image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
 <text top="0" left="0" width="594" height="96" font="0"><a name="italy"></a></text>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Europe"/>
@@ -10722,7 +10634,7 @@
 
 
 	
-<page number="93" position="absolute" top="0" left="0" height="11592" width="1152">
+<page number="92" position="absolute" top="0" left="0" height="11592" width="1152">
 	<fontspec id="8" size="34" family="Times" color="#ffffff"/>
 	<fontspec id="9" size="24" family="Times" color="#847f84"/>
 	<fontspec id="10" size="24" family="Times" color="#847f84"/>
@@ -10859,7 +10771,7 @@
 
 
 	
-<page number="94" position="absolute" top="0" left="0" height="8065" width="1152">
+<page number="93" position="absolute" top="0" left="0" height="8065" width="1152">
 <image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
 <text top="0" left="0" width="594" height="96" font="0"><a name="japan"></a></text>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Asia"/>
@@ -10949,7 +10861,7 @@
 
 
 	
-<page number="95" position="absolute" top="0" left="0" height="11592" width="1152">
+<page number="94" position="absolute" top="0" left="0" height="11592" width="1152">
 	<fontspec id="8" size="34" family="Times" color="#ffffff"/>
 	<fontspec id="9" size="24" family="Times" color="#847f84"/>
 	<fontspec id="10" size="24" family="Times" color="#847f84"/>
@@ -11086,7 +10998,7 @@
 
 
 	
-<page number="96" position="absolute" top="0" left="0" height="11592" width="1152">
+<page number="95" position="absolute" top="0" left="0" height="11592" width="1152">
 	<fontspec id="8" size="34" family="Times" color="#ffffff"/>
 	<fontspec id="9" size="24" family="Times" color="#847f84"/>
 	<fontspec id="10" size="24" family="Times" color="#847f84"/>
@@ -11223,7 +11135,7 @@
 
 
 	
-<page number="97" position="absolute" top="0" left="0" height="11592" width="1152">
+<page number="96" position="absolute" top="0" left="0" height="11592" width="1152">
 	<fontspec id="8" size="34" family="Times" color="#ffffff"/>
 	<fontspec id="9" size="24" family="Times" color="#847f84"/>
 	<fontspec id="10" size="24" family="Times" color="#847f84"/>
@@ -11360,7 +11272,7 @@
 
 
 	
-<page number="98" position="absolute" top="0" left="0" height="11592" width="1152">
+<page number="97" position="absolute" top="0" left="0" height="11592" width="1152">
 	<fontspec id="8" size="34" family="Times" color="#ffffff"/>
 	<fontspec id="9" size="24" family="Times" color="#847f84"/>
 	<fontspec id="10" size="24" family="Times" color="#847f84"/>
@@ -11495,7 +11407,7 @@
 
 
 	
-<page number="99" position="absolute" top="0" left="0" height="11592" width="1152">
+<page number="98" position="absolute" top="0" left="0" height="11592" width="1152">
 	<fontspec id="8" size="34" family="Times" color="#ffffff"/>
 	<fontspec id="9" size="24" family="Times" color="#847f84"/>
 	<fontspec id="10" size="24" family="Times" color="#847f84"/>
@@ -11630,7 +11542,7 @@
 
 
 	
-<page number="100" position="absolute" top="0" left="0" height="8065" width="1152">
+<page number="99" position="absolute" top="0" left="0" height="8065" width="1152">
 <image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
 <text top="0" left="0" width="594" height="96" font="0"><a name="kuwait"></a></text>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Asia"/>
@@ -11718,7 +11630,7 @@
 
 
 	
-<page number="101" position="absolute" top="0" left="0" height="11592" width="1152">
+<page number="100" position="absolute" top="0" left="0" height="11592" width="1152">
 	<fontspec id="8" size="34" family="Times" color="#ffffff"/>
 	<fontspec id="9" size="24" family="Times" color="#847f84"/>
 	<fontspec id="10" size="24" family="Times" color="#847f84"/>
@@ -11855,7 +11767,7 @@
 
 
 	
-<page number="102" position="absolute" top="0" left="0" height="11592" width="1152">
+<page number="101" position="absolute" top="0" left="0" height="11592" width="1152">
 	<fontspec id="8" size="34" family="Times" color="#ffffff"/>
 	<fontspec id="9" size="24" family="Times" color="#847f84"/>
 	<fontspec id="10" size="24" family="Times" color="#847f84"/>
@@ -11992,7 +11904,7 @@
 
 
 	
-<page number="103" position="absolute" top="0" left="0" height="8065" width="1152">
+<page number="102" position="absolute" top="0" left="0" height="8065" width="1152">
 <image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
 <text top="0" left="0" width="594" height="96" font="0"><a name="latvia"></a></text>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Europe"/>
@@ -12082,7 +11994,7 @@
 
 
 	
-<page number="104" position="absolute" top="0" left="0" height="11592" width="1152">
+<page number="103" position="absolute" top="0" left="0" height="11592" width="1152">
 	<fontspec id="8" size="34" family="Times" color="#ffffff"/>
 	<fontspec id="9" size="24" family="Times" color="#847f84"/>
 	<fontspec id="10" size="24" family="Times" color="#847f84"/>
@@ -12217,7 +12129,7 @@
 
 
 	
-<page number="105" position="absolute" top="0" left="0" height="11592" width="1152">
+<page number="104" position="absolute" top="0" left="0" height="11592" width="1152">
 	<fontspec id="8" size="34" family="Times" color="#ffffff"/>
 	<fontspec id="9" size="24" family="Times" color="#847f84"/>
 	<fontspec id="10" size="24" family="Times" color="#847f84"/>
@@ -12354,7 +12266,7 @@
 
 
 	
-<page number="106" position="absolute" top="0" left="0" height="11592" width="1152">
+<page number="105" position="absolute" top="0" left="0" height="11592" width="1152">
 	<fontspec id="8" size="34" family="Times" color="#ffffff"/>
 	<fontspec id="9" size="24" family="Times" color="#847f84"/>
 	<fontspec id="10" size="24" family="Times" color="#847f84"/>
@@ -12491,7 +12403,7 @@
 
 
 	
-<page number="107" position="absolute" top="0" left="0" height="8065" width="1152">
+<page number="106" position="absolute" top="0" left="0" height="8065" width="1152">
 <image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
 <text top="0" left="0" width="594" height="96" font="0"><a name="lithuania"></a></text>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Europe"/>
@@ -12581,7 +12493,7 @@
 
 
 	
-<page number="108" position="absolute" top="0" left="0" height="8065" width="1152">
+<page number="107" position="absolute" top="0" left="0" height="8065" width="1152">
 <image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
 <text top="0" left="0" width="594" height="96" font="0"><a name="luxembourg"></a></text>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Europe"/>
@@ -12671,7 +12583,7 @@
 
 
 	
-<page number="109" position="absolute" top="0" left="0" height="11592" width="1152">
+<page number="108" position="absolute" top="0" left="0" height="11592" width="1152">
 	<fontspec id="8" size="34" family="Times" color="#ffffff"/>
 	<fontspec id="9" size="24" family="Times" color="#847f84"/>
 	<fontspec id="10" size="24" family="Times" color="#847f84"/>
@@ -12806,7 +12718,7 @@
 
 
 	
-<page number="110" position="absolute" top="0" left="0" height="11592" width="1152">
+<page number="109" position="absolute" top="0" left="0" height="11592" width="1152">
 	<fontspec id="8" size="34" family="Times" color="#ffffff"/>
 	<fontspec id="9" size="24" family="Times" color="#847f84"/>
 	<fontspec id="10" size="24" family="Times" color="#847f84"/>
@@ -12943,7 +12855,7 @@
 
 
 	
-<page number="111" position="absolute" top="0" left="0" height="11592" width="1152">
+<page number="110" position="absolute" top="0" left="0" height="11592" width="1152">
 	<fontspec id="8" size="34" family="Times" color="#ffffff"/>
 	<fontspec id="9" size="24" family="Times" color="#847f84"/>
 	<fontspec id="10" size="24" family="Times" color="#847f84"/>
@@ -13080,7 +12992,7 @@
 
 
 	
-<page number="112" position="absolute" top="0" left="0" height="11592" width="1152">
+<page number="111" position="absolute" top="0" left="0" height="11592" width="1152">
 	<fontspec id="8" size="34" family="Times" color="#ffffff"/>
 	<fontspec id="9" size="24" family="Times" color="#847f84"/>
 	<fontspec id="10" size="24" family="Times" color="#847f84"/>
@@ -13216,7 +13128,7 @@
 
 
 	
-<page number="113" position="absolute" top="0" left="0" height="11592" width="1152">
+<page number="112" position="absolute" top="0" left="0" height="11592" width="1152">
 	<fontspec id="8" size="34" family="Times" color="#ffffff"/>
 	<fontspec id="9" size="24" family="Times" color="#847f84"/>
 	<fontspec id="10" size="24" family="Times" color="#847f84"/>
@@ -13353,7 +13265,7 @@
 
 
 	
-<page number="114" position="absolute" top="0" left="0" height="8065" width="1152">
+<page number="113" position="absolute" top="0" left="0" height="8065" width="1152">
 <image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
 <text top="0" left="0" width="594" height="96" font="0"><a name="malta"></a></text>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Europe"/>
@@ -13437,6 +13349,139 @@
 <text top="7802" left="72" width="446" height="43" font="19"><a href="mailto:Zach.Christensen%40devinit.org?subject=">Zach.Christensen@devinit.org</a></text>
 <text top="7883" left="72" width="434" height="43" font="18">See more about this work at  </text>
 <text top="7928" left="72" width="332" height="43" font="19"><a href="http://www.devinit.org/p20i">www.devinit.org/p20i</a></text>
+</page>
+
+
+	
+<page number="114" position="absolute" top="0" left="0" height="11592" width="1152">
+	<fontspec id="8" size="34" family="Times" color="#ffffff"/>
+	<fontspec id="9" size="24" family="Times" color="#847f84"/>
+	<fontspec id="10" size="24" family="Times" color="#847f84"/>
+	<fontspec id="11" size="13" family="Times" color="#e9443a"/>
+	<fontspec id="12" size="24" family="Times" color="#e9443a"/>
+	<fontspec id="13" size="22" family="Times" color="#453e43"/>
+	<fontspec id="14" size="22" family="Times" color="#453e43"/>
+	<fontspec id="15" size="22" family="Times" color="#aaa6ab"/>
+	<fontspec id="16" size="34" family="Times" color="#e9443a"/>
+	<fontspec id="17" size="34" family="Times" color="#f8c1b2"/>
+	<fontspec id="18" size="31" family="Times" color="#ffffff"/>
+	<fontspec id="19" size="31" family="Times" color="#f8c1b2"/>
+<image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
+<text top="0" left="0" width="594" height="96" font="0"><a name="marshall-islands"></a></text>
+<button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Oceania"/>
+<text top="76" left="832" width="230" height="32" font="3"><a href="#Oceania"><b>all countries in region</b></a></text>
+<text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
+<text top="197" left="72" width="1008" height="96" font="0" shrink="True"><b>Marshall Islands</b></text>
+<text top="477" left="72" width="905" height="44" font="8">Agenda 2030 includes the specific commitment to Leave </text>
+<text top="531" left="72" width="900" height="44" font="8">No One Behind. Together with Sustainable Development </text>
+<text top="585" left="72" width="965" height="44" font="8">Goal 10 to reduce inequality, this requires faster than average </text>
+<text top="639" left="72" width="990" height="44" font="8">progress for the poorest. The test is whether the gap between </text>
+<text top="693" left="72" width="881" height="44" font="8">the poorest 20% of people (the P20) and everyone else </text>
+<text top="747" left="72" width="453" height="44" font="8">is reducing or getting wider. </text>
+<text top="837" left="72" width="974" height="44" font="8">The P20 Initiative uses data to show whether the poorest 20% </text>
+<text top="891" left="72" width="956" height="44" font="8">of people are getting their fair share of attention, investment </text>
+<text top="945" left="72" width="1009" height="44" font="8">and opportunity. It uses three bellwether indicators of progress: </text>
+<text top="999" left="72" width="979" height="44" font="8">income, nutrition and civil registration and it promotes all data </text>
+<text top="1053" left="72" width="990" height="44" font="8">being disaggregated by Income Quintile, Gender, Geography, </text>
+<text top="1107" left="72" width="298" height="44" font="8">Age and Disability. </text>
+<text top="1197" left="72" width="912" height="47" font="8">This profile provides key available data about the status </text>
+<text top="1251" left="72" width="514" height="47" font="8">of the P20 in the Marshall Islands.</text>
+<text top="1551" left="162" width="617" height="64" font="5"><b>the P20 in the Marshall Islands</b></text>
+
+	<text top="1674" left="72" width="710" height="44" font="6">Lorum </text>
+	<text top="1728" left="72" width="763" height="44" font="6">ipsum</text>
+	<text top="1782" left="72" width="730" height="44" font="6">dolor</text>
+	<text top="1836" left="72" width="600" height="44" font="6">sit.</text>
+	<text top="1926" left="72" width="729" height="44" font="6">Amet</text>
+	<text top="1980" left="72" width="789" height="44" font="6">consectetur</text>
+	<text top="2034" left="72" width="786" height="44" font="6">adipiscing</text>
+	<text top="2088" left="72" width="460" height="44" font="6">elit.</text>
+
+<text top="2187" left="72" width="600" height="35" font="9"><b>Source: </b>Development Initiatives based on PovcalNet</text>
+<text top="2190" left="622" width="5" height="20" font="11"><a href="#marshall-islands1"><b>1</b></a></text>
+<text top="2451" left="162" width="160" height="64" font="5"><b>income</b></text>
+
+	
+		<text top="2574" left="72" width="765" height="44" font="6">Lorum</text>
+		<text top="2628" left="72" width="775" height="44" font="6">ipsum</text>
+		<text top="2682" left="72" width="213" height="44" font="6">dolor.</text>
+	
+
+<text top="2766" left="74" width="535" height="48" font="7"><b>Marshall Islands income trends</b></text>
+<image top="2850" left="74" width="1000" height="770" src="placeholder.png"/>
+<text top="3699" left="72" width="600" height="35" font="9"><b>Source: </b>Development Initiatives based on PovcalNet</text>
+<text top="3819" left="162" width="188" height="64" font="5"><b>nutrition</b></text>
+<text top="3942" left="72" width="716" height="44" font="6">Nutrition is fundamental to the ability to learn </text>
+<text top="3996" left="72" width="790" height="44" font="6">and earn. Children who experience poor nutrition </text>
+<text top="4050" left="72" width="681" height="44" font="6">can suffer lifelong disadvantage as a result. </text>
+
+	<text top="4140" left="72" width="707" height="44" font="6">Lorum</text>
+	<text top="4194" left="72" width="692" height="44" font="6">ipsum</text>
+	<text top="4248" left="72" width="696" height="44" font="6">dolor</text>
+	<text top="4302" left="72" width="448" height="44" font="6">amet</text>
+
+<text top="4387" left="72" width="973" height="48" font="7"><b>stunting in children in the P20 compared with rest of country</b></text>
+<image top="4477" left="74" width="1000" height="600" src="placeholder.png"/>
+<text top="5139" left="72" width="765" height="35" font="9"><b>Source: </b>Development Initiatives based on UNICEF-WHO joint child </text>
+<text top="5176" left="72" width="251" height="32" font="10">malnutrition estimates</text>
+<text top="5178" left="303" width="8" height="20" font="11"><a href="#marshall-islands2"><b>2</b></a></text>
+<text top="5298" left="162" width="369" height="64" font="5"><b>birth registration</b></text>
+<text top="5418" left="72" width="674" height="44" font="6">Civil Registration means people count and </text>
+<text top="5472" left="72" width="738" height="44" font="6">have rights. Worldwide around 71% of children </text>
+<text top="5526" left="72" width="687" height="44" font="6">are birth registered. If you are born into the </text>
+<text top="5580" left="72" width="752" height="44" font="6">poorest 20% of people you are much less likely </text>
+<text top="5634" left="72" width="466" height="44" font="6">to have your birth registered. </text>
+<text top="5724" left="72" width="734" height="44" font="6">In the Marshall Islands [XX]% of births in the P20 </text>
+<text top="5778" left="72" width="707" height="44" font="6">are registered compared [XX]% in the rest of </text>
+<text top="5832" left="72" width="239" height="44" font="6">the population.</text>
+<text top="5916" left="72" width="689" height="48" font="7"><b>birth registration rates for children under 5</b></text>
+<image top="6006" left="74" width="1000" height="600" src="placeholder.png"/>
+<text top="6714" left="72" width="690" height="44" font="6">Birth registration rates in the Marshall Islands  </text>
+<text top="6768" left="72" width="451" height="44" font="6">have [increased/decreased].</text>
+<text top="6867" left="72" width="987" height="35" font="9"><b>Source: </b>Development Initiatives based on World Bank World Development Indicators: </text>
+<text top="6904" left="72" width="418" height="32" font="10">Completeness of birth registration %</text>
+<text top="6906" left="460" width="8" height="20" font="11"><a href="#marshall-islands3"><b>3</b></a></text>
+<text top="7023" left="162" width="219" height="64" font="5"><b>education</b></text>
+<text top="7146" left="72" width="613" height="44" font="6">Education is fundamental to a person’s </text>
+<text top="7200" left="72" width="202" height="44" font="6">life chances. </text>
+<text top="7290" left="72" width="684" height="44" font="6">In the Marshall Islands [XX]% of people have </text>
+<text top="7344" left="72" width="640" height="44" font="6">completed secondary school education.</text>
+<text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
+<image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
+<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+<text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+<text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
+<image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
+<text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
+<text top="9183" left="162" width="137" height="64" font="5"><b>health</b></text>
+<text top="9306" left="72" width="777" height="44" font="6">Poor health plays a major part in keeping people </text>
+<text top="9360" left="72" width="801" height="44" font="6">in poverty. If you are among the P20 you are more </text>
+<text top="9414" left="72" width="721" height="44" font="6">likely to suffer from preventable diseases and </text>
+<text top="9468" left="72" width="214" height="44" font="6">to die earlier. </text>
+<text top="9558" left="72" width="790" height="44" font="6">In the Marshall Islands the Under Five Mortality rate </text>
+<text top="9612" left="72" width="425" height="44" font="6">is [XX] per 1,000 live births. </text>
+<text top="9702" left="72" width="702" height="44" font="6">The under five mortality rate among the P20 </text>
+<text top="9756" left="72" width="742" height="44" font="6">is [XX] per 1,000 live births compared with [XX] </text>
+<text top="9810" left="72" width="770" height="44" font="6">per 1,000 live births for the rest of the population.</text>
+<text top="9894" left="72" width="370" height="48" font="7"><b>under 5 mortality rates</b></text>
+<image top="9984" left="74" width="1000" height="670" src="placeholder.png"/>
+<text top="10647" left="72" width="889" height="35" font="9"><b>Source: </b>Development Initiatives based on Demographic Health Surveys (DHS)</text>
+<text top="10845" left="72" width="15" height="34" font="12">1 </text>
+<text top="10845" left="72" width="15" height="34" font="12"><a name="marshall-islands1"></a></text>
+<text top="10846" left="108" width="501" height="32" font="10">Year of latest available data: 2013 (2011 $PPP)</text>
+<text top="10899" left="72" width="21" height="34" font="12">2 </text>
+<text top="10899" left="72" width="21" height="34" font="12"><a name="marshall-islands2"></a></text>
+<text top="10900" left="108" width="957" height="32" font="10">Based on latest available data which varies between countries – see original source</text>
+<text top="10953" left="72" width="21" height="34" font="12">3 </text>
+<text top="10953" left="72" width="21" height="34" font="12"><a name="marshall-islands3"></a></text>
+<text top="10954" left="108" width="957" height="32" font="10">Based on latest available data which varies between countries – see original source</text>
+<text top="11159" left="72" width="531" height="43" font="18">If you would like more information  </text>
+<text top="11204" left="72" width="555" height="43" font="18">or to speak to us, please get in touch:</text>
+<text top="11285" left="72" width="480" height="43" font="18">Zach Christensen, Senior Analyst </text>
+<text top="11330" left="72" width="446" height="43" font="19"><a href="mailto:Zach.Christensen%40devinit.org?subject=">Zach.Christensen@devinit.org</a></text>
+<text top="11411" left="72" width="434" height="43" font="18">See more about this work at  </text>
+<text top="11456" left="72" width="332" height="43" font="19"><a href="http://www.devinit.org/p20i">www.devinit.org/p20i</a></text>
 </page>
 
 

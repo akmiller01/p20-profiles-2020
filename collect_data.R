@@ -45,10 +45,21 @@ missing_from_stunting = setdiff(countries$longname,stuntingdata$longname)
 stunting_missing_from_countries = setdiff(stuntingdata$longname,countries$longname)
 
 regdata <- read.csv("data/birthregP20.csv")
+if(!"longname" %in% names(regdata)){setnames(regdata,"CountryName","longname")}
+if(is.factor(regdata$longname)){regdata$longname=unfactor(regdata$longname)}
+regdata$longname[which(regdata$longname=="Cabo Verde")] = "Cape Verde"
+regdata$longname[which(regdata$longname=="Congo")] = "Republic of Congo"
+regdata$longname[which(regdata$longname=="Cote d'Ivoire")] = "Côte d’Ivoire"
+regdata$longname[which(regdata$longname=="Lao People's Democratic Republic")] = "Lao People’s Democratic Republic"
+regdata$longname[which(regdata$longname=="Democratic People's Republic of Korea")] = "Democratic People’s Republic of Korea"
+regdata$longname[which(regdata$longname=="Libyan Arab Jamahiriya")] = "State of Libya"
+missing_from_reg = setdiff(countries$longname,regdata$longname)
+reg_missing_from_countries = setdiff(regdata$longname,countries$longname)
 
 countries <- merge(countries,incomedata,by="longname",all.x=T)
 countries <- merge(countries,gapdata.w,by="longname",all.x=T)
 countries <- merge(countries,stuntingdata,by="longname",all.x=T)
+countries <- merge(countries,regdata,by="longname",all.x=T)
 
 names(countries) = gsub(".","",names(countries),fixed=T)
 write.csv(countries,"data/countries_merged.csv",na="",row.names=F)
