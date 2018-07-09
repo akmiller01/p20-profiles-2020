@@ -517,14 +517,39 @@
 <text top="1197" left="72" width="912" height="47" font="8">This profile provides key available data about the status </text>
 <text top="1251" left="72" width="514" height="47" font="8">of the P20 in {{ country.sentencename }}.</text>
 <text top="1551" left="162" width="617" height="64" font="5"><b>the P20 in {{ country.sentencename }}</b></text>
-<text top="1674" left="72" width="710" height="44" font="6">{{ country.P20pop|people }} people in {{ country.sentencename }} are among </text>
-<text top="1728" left="72" width="763" height="44" font="6">the poorest 20% of the world’s population – the </text>
-<text top="1782" left="72" width="730" height="44" font="6">global P20. That is {{ country.PercentinP20|percent }} of the total population </text>
-<text top="1836" left="72" width="600" height="44" font="6">and they live on less than $2.54 a day. </text>
-<text top="1926" left="72" width="729" height="44" font="6">The national P20 – the poorest 20% of people </text>
-<text top="1980" left="72" width="789" height="44" font="6">within {{ country.sentencename }} – live on between $[XX] </text>
-<text top="2034" left="72" width="786" height="44" font="6">and $[XX] a day compared with an average $[XX] </text>
-<text top="2088" left="72" width="460" height="44" font="6">for the rest of the population.</text>
+{% if country.P20pop is not none %}
+	<text top="1674" left="72" width="710" height="44" font="6">{{ country.P20pop|people }} people in {{ country.sentencename }} are among </text>
+	<text top="1728" left="72" width="763" height="44" font="6">the poorest 20% of the world’s population – the </text>
+	<text top="1782" left="72" width="730" height="44" font="6">global P20. That is {{ country.PercentinP20|percent }} of the total population </text>
+	<text top="1836" left="72" width="600" height="44" font="6">and they live on less than $2.54 a day. </text>
+	{% if country.PercentinP20>0 %}
+		{% if country.minimumincome>2.54 %}
+			<text top="1926" left="72" width="729" height="44" font="6">The national P20 – the poorest 20% of people </text>
+			<text top="1980" left="72" width="789" height="44" font="6">within {{ country.sentencename }} – live on less than {{ country.MaximumIncomeConsumptionNP20|dollar }}</text>
+			<text top="2034" left="72" width="786" height="44" font="6">a day compared with an average {{ country.NationalRestAverage|dollar }} </text>
+			<text top="2088" left="72" width="460" height="44" font="6">for the rest of the population.</text>
+		{% else %}
+			<text top="1926" left="72" width="729" height="44" font="6">The national P20 – the poorest 20% of people </text>
+			<text top="1980" left="72" width="789" height="44" font="6">within {{ country.sentencename }} – live on between {{ country.minimumincome|dollar }} </text>
+			<text top="2034" left="72" width="786" height="44" font="6">and {{ country.MaximumIncomeConsumptionNP20|dollar }} a day compared with an average {{ country.NationalRestAverage|dollar }} </text>
+			<text top="2088" left="72" width="460" height="44" font="6">for the rest of the population.</text>
+		{% endif %}
+	{% else %}
+		<text top="1926" left="72" width="729" height="44" font="6">The national P20 – the poorest 20% of people </text>
+		<text top="1980" left="72" width="789" height="44" font="6">within {{ country.sentencename }} – live on between {{ country.minimumincome|dollar }} </text>
+		<text top="2034" left="72" width="786" height="44" font="6">and {{ country.MaximumIncomeConsumptionNP20|dollar }} a day compared with an average {{ country.NationalRestAverage|dollar }} </text>
+		<text top="2088" left="72" width="460" height="44" font="6">for the rest of the population.</text>
+	{% endif %}
+{% else %}
+	<text top="1674" left="72" width="710" height="44" font="6">Lorum </text>
+	<text top="1728" left="72" width="763" height="44" font="6">ipsum</text>
+	<text top="1782" left="72" width="730" height="44" font="6">dolor</text>
+	<text top="1836" left="72" width="600" height="44" font="6">sit.</text>
+	<text top="1926" left="72" width="729" height="44" font="6">Amet</text>
+	<text top="1980" left="72" width="789" height="44" font="6">consectetur</text>
+	<text top="2034" left="72" width="786" height="44" font="6">adipiscing</text>
+	<text top="2088" left="72" width="460" height="44" font="6">elit.</text>
+{% endif %}
 <text top="2187" left="72" width="600" height="35" font="9"><b>Source: </b>Development Initiatives based on PovcalNet</text>
 <text top="2190" left="622" width="5" height="20" font="11"><a href="#{{ country.slug }}1"><b>1</b></a></text>
 <text top="2451" left="162" width="160" height="64" font="5"><b>income</b></text>
@@ -622,14 +647,39 @@
 <text top="1197" left="72" width="912" height="47" font="8">This profile provides key available data about the status </text>
 <text top="1251" left="72" width="514" height="47" font="8">of the P20 in {{ country.sentencename }}.</text>
 <text top="1551" left="162" width="617" height="64" font="5"><b>the P20 in {{ country.sentencename }}</b></text>
-<text top="1674" left="72" width="710" height="44" font="6">{{ country.P20pop|people }} people in {{ country.sentencename }} are among </text>
-<text top="1728" left="72" width="763" height="44" font="6">the poorest 20% of the world’s population – the </text>
-<text top="1782" left="72" width="730" height="44" font="6">global P20. That is {{ country.PercentinP20|percent }} of the total population </text>
-<text top="1836" left="72" width="591" height="44" font="6">and they live on less than $2.54 a day.</text>
-<text top="1926" left="72" width="729" height="44" font="6">The national P20 – the poorest 20% of people </text>
-<text top="1980" left="72" width="789" height="44" font="6">within {{ country.sentencename }} – live on between $[XX] </text>
-<text top="2034" left="72" width="786" height="44" font="6">and $[XX] a day compared with an average $[XX] </text>
-<text top="2088" left="72" width="460" height="44" font="6">for the rest of the population.</text>
+{% if country.P20pop is not none %}
+	<text top="1674" left="72" width="710" height="44" font="6">{{ country.P20pop|people }} people in {{ country.sentencename }} are among </text>
+	<text top="1728" left="72" width="763" height="44" font="6">the poorest 20% of the world’s population – the </text>
+	<text top="1782" left="72" width="730" height="44" font="6">global P20. That is {{ country.PercentinP20|percent }} of the total population </text>
+	<text top="1836" left="72" width="591" height="44" font="6">and they live on less than $2.54 a day.</text>
+	{% if country.PercentinP20>0 %}
+		{% if country.minimumincome>2.54 %}
+			<text top="1926" left="72" width="729" height="44" font="6">The national P20 – the poorest 20% of people </text>
+			<text top="1980" left="72" width="789" height="44" font="6">within {{ country.sentencename }} – live on less than {{ country.MaximumIncomeConsumptionNP20|dollar }}</text>
+			<text top="2034" left="72" width="786" height="44" font="6">a day compared with an average {{ country.NationalRestAverage|dollar }} </text>
+			<text top="2088" left="72" width="460" height="44" font="6">for the rest of the population.</text>
+		{% else %}
+			<text top="1926" left="72" width="729" height="44" font="6">The national P20 – the poorest 20% of people </text>
+			<text top="1980" left="72" width="789" height="44" font="6">within {{ country.sentencename }} – live on between {{ country.minimumincome|dollar }} </text>
+			<text top="2034" left="72" width="786" height="44" font="6">and {{ country.MaximumIncomeConsumptionNP20|dollar }} a day compared with an average {{ country.NationalRestAverage|dollar }} </text>
+			<text top="2088" left="72" width="460" height="44" font="6">for the rest of the population.</text>
+		{% endif %}
+	{% else %}
+		<text top="1926" left="72" width="729" height="44" font="6">The national P20 – the poorest 20% of people </text>
+		<text top="1980" left="72" width="789" height="44" font="6">within {{ country.sentencename }} – live on between {{ country.minimumincome|dollar }} </text>
+		<text top="2034" left="72" width="786" height="44" font="6">and {{ country.MaximumIncomeConsumptionNP20|dollar }} a day compared with an average {{ country.NationalRestAverage|dollar }} </text>
+		<text top="2088" left="72" width="460" height="44" font="6">for the rest of the population.</text>
+	{% endif %}
+{% else %}
+	<text top="1674" left="72" width="710" height="44" font="6">Lorum </text>
+	<text top="1728" left="72" width="763" height="44" font="6">ipsum</text>
+	<text top="1782" left="72" width="730" height="44" font="6">dolor</text>
+	<text top="1836" left="72" width="600" height="44" font="6">sit.</text>
+	<text top="1926" left="72" width="729" height="44" font="6">Amet</text>
+	<text top="1980" left="72" width="789" height="44" font="6">consectetur</text>
+	<text top="2034" left="72" width="786" height="44" font="6">adipiscing</text>
+	<text top="2088" left="72" width="460" height="44" font="6">elit.</text>
+{% endif %}
 <text top="2187" left="72" width="600" height="35" font="9"><b>Source: </b>Development Initiatives based on PovcalNet</text>
 <text top="2190" left="622" width="5" height="20" font="11"><a href="#{{ country.slug }}1"><b>1</b></a></text>
 <text top="2451" left="162" width="160" height="64" font="5"><b>income</b></text>
