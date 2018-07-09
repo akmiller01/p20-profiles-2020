@@ -40,6 +40,10 @@ class ReportMaker(object):
         self.template_folder = template_folder
         templateLoader = jinja2.FileSystemLoader(searchpath="./{}/".format(self.template_folder))
         templateEnv = jinja2.Environment(loader=templateLoader)
+        templateEnv.filters['people'] = people
+        templateEnv.filters['dollar'] = dollar
+        templateEnv.filters['roundDollar'] = roundDollar
+        templateEnv.filters['percent'] = percent
         TEMPLATE_FILE = "template.xml.j2"
         template = templateEnv.get_template(TEMPLATE_FILE)
 
@@ -178,7 +182,7 @@ class ReportMaker(object):
 
 #----------------------------------------------------------------------
 if __name__ == "__main__":
-    csv_file = "./data/countries.csv"
+    csv_file = "./data/countries_merged.csv"
     countries = pd.read_csv(csv_file, keep_default_na=False, na_values=[""]).to_dict('records')
     doc = ReportMaker(countries, "./final_template", "./render/p20_profiles.pdf")
     doc.createDocument()

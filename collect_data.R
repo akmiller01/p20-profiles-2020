@@ -15,5 +15,8 @@ incomedata$longname[which(incomedata$longname=="Cote d'Ivoire")] = "Côte d’Iv
 incomedata$longname[which(incomedata$longname=="Lao People's Democratic Republic")] = "Lao People’s Democratic Republic"
 missing_from_income = setdiff(countries$longname,incomedata$longname)
 missing_from_countries = setdiff(incomedata$longname,countries$longname)
-missing_from_countries
-# countries <- merge(countries,incomedata)
+missing_from_income
+countries <- merge(countries,incomedata,by="longname",all.x=T)
+
+
+write.csv(countries,"data/countries_merged.csv",na="",row.names=F)
