@@ -14,11 +14,11 @@ Kenya,Kenya,kenya,Africa,TRUE
 Madagascar,Madagascar,madagascar,Africa,TRUE
 Malawi,Malawi,malawi,Africa,TRUE
 Mauritius,Mauritius,mauritius,Africa,TRUE
-Mayotte,Mayotte,mayotte,Africa,FALSE
 Mozambique,Mozambique,mozambique,Africa,TRUE
-Réunion,Réunion,reunion,Africa,FALSE
 Rwanda,Rwanda,rwanda,Africa,TRUE
+Seychelles,Seychelles,seychelles,Africa,TRUE
 Somalia,Somalia,somalia,Africa,TRUE
+South Sudan,South Sudan,south-sudan,Africa,TRUE
 Sudan,Sudan,sudan,Africa,TRUE
 Uganda,Uganda,uganda,Africa,TRUE
 United Republic of Tanzania,Tanzania,tanzania,Africa,TRUE
@@ -144,14 +144,14 @@ Venezuela (Bolivarian Republic of),Venezuela,venezuela,LAC,TRUE
 Australia,Australia,australia,Oceania,FALSE
 Fiji,Fiji,fiji,Oceania,TRUE
 French Polynesia,French Polynesia,french-polynesia,Oceania,FALSE
-Guam,Guam,guam,Oceania,FALSE
+Kiribati,Kiribati,kiribati,Oceania,TRUE
 Micronesia (Federated States of),Micronesia,micronesia,Oceania,TRUE
-New Caledonia,New Caledonia,new-caledonia,Oceania,FALSE
 New Zealand,New Zealand,new-zealand,Oceania,FALSE
 Papua New Guinea,Papua New Guinea,papua-new-guinea,Oceania,TRUE
 Samoa,Samoa,samoa,Oceania,TRUE
 Solomon Islands,Solomon Islands,solomon-islands,Oceania,TRUE
 Tonga,Tonga,tonga,Oceania,TRUE
+Tuvalu,Tuvalu,tuvalu,Oceania,TRUE
 Vanuatu,Vanuatu,vanuatu,Oceania,TRUE
 Albania,Albania,albania,Europe,TRUE
 Belarus,Belarus,belarus,Europe,TRUE
@@ -162,6 +162,7 @@ Czech Republic,Czech Republic,czech-republic,Europe,FALSE
 Estonia,Estonia,estonia,Europe,FALSE
 Greece,Greece,greece,Europe,FALSE
 Hungary,Hungary,hungary,Europe,FALSE
+Kosovo,Kosovo,kosovo,Europe,TRUE
 Latvia,Latvia,latvia,Europe,FALSE
 Lithuania,Lithuania,lithuania,Europe,FALSE
 Montenegro,Montenegro,montenegro,Europe,TRUE
@@ -176,7 +177,6 @@ The former Yugoslav Republic of Macedonia,Macedonia,macedonia,Europe,TRUE
 Ukraine,Ukraine,ukraine,Europe,TRUE
 Austria,Austria,austria,Europe,FALSE
 Belgium,Belgium,belgium,Europe,FALSE
-Channel Islands,Channel Islands,channel-islands,Europe,FALSE
 Denmark,Denmark,denmark,Europe,FALSE
 Finland,Finland,finland,Europe,FALSE
 France,France,france,Europe,FALSE

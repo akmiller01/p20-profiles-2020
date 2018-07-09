@@ -69,16 +69,16 @@
 <text top="1818" left="72" width="113" height="44" font="6"><a href="#malawi">Malawi</a></text>
 <button top="1908" left="72" width="110" height="44" pr="890" pt="10" pb="25" href="mauritius"/>
 <text top="1908" left="72" width="141" height="44" font="6"><a href="#mauritius">Mauritius</a></text>
-<button top="1998" left="72" width="110" height="44" pr="890" pt="10" pb="25" href="mayotte"/>
-<text top="1998" left="72" width="131" height="44" font="6"><a href="#mayotte">Mayotte</a></text>
-<button top="2088" left="72" width="110" height="44" pr="890" pt="10" pb="25" href="mozambique"/>
-<text top="2088" left="72" width="211" height="44" font="6"><a href="#mozambique">Mozambique</a></text>
-<button top="2178" left="72" width="110" height="44" pr="890" pt="10" pb="25" href="reunion"/>
-<text top="2178" left="72" width="129" height="44" font="6"><a href="#reunion">Réunion</a></text>
-<button top="2268" left="72" width="110" height="44" pr="890" pt="10" pb="25" href="rwanda"/>
-<text top="2268" left="72" width="128" height="44" font="6"><a href="#rwanda">Rwanda</a></text>
-<button top="2358" left="72" width="110" height="44" pr="890" pt="10" pb="25" href="somalia"/>
-<text top="2358" left="72" width="123" height="44" font="6"><a href="#somalia">Somalia</a></text>
+<button top="1998" left="72" width="110" height="44" pr="890" pt="10" pb="25" href="mozambique"/>
+<text top="1998" left="72" width="211" height="44" font="6"><a href="#mozambique">Mozambique</a></text>
+<button top="2088" left="72" width="110" height="44" pr="890" pt="10" pb="25" href="rwanda"/>
+<text top="2088" left="72" width="128" height="44" font="6"><a href="#rwanda">Rwanda</a></text>
+<button top="2178" left="72" width="110" height="44" pr="890" pt="10" pb="25" href="seychelles"/>
+<text top="2178" left="72" width="129" height="44" font="6"><a href="#seychelles">Seychelles</a></text>
+<button top="2268" left="72" width="110" height="44" pr="890" pt="10" pb="25" href="somalia"/>
+<text top="2268" left="72" width="123" height="44" font="6"><a href="#somalia">Somalia</a></text>
+<button top="2358" left="72" width="110" height="44" pr="890" pt="10" pb="25" href="south-sudan"/>
+<text top="2358" left="72" width="131" height="44" font="6"><a href="#south-sudan">South Sudan</a></text>
 <button top="2448" left="72" width="110" height="44" pr="890" pt="10" pb="25" href="sudan"/>
 <text top="2448" left="72" width="98" height="44" font="6"><a href="#sudan">Sudan</a></text>
 <button top="2538" left="72" width="110" height="44" pr="890" pt="10" pb="25" href="uganda"/>
@@ -362,27 +362,27 @@
 <text top="360" left="72" width="40" height="44" font="6"><a href="#fiji">Fiji</a></text>
 <button top="450" left="72" width="110" height="44" pr="890" pt="10" pb="25" href="french-polynesia"/>
 <text top="450" left="72" width="262" height="44" font="6"><a href="#french-polynesia">French Polynesia</a></text>
-<button top="540" left="72" width="110" height="44" pr="890" pt="10" pb="25" href="guam"/>
-<text top="540" left="72" width="95" height="44" font="6"><a href="#guam">Guam</a></text>
+<button top="540" left="72" width="110" height="44" pr="890" pt="10" pb="25" href="kiribati"/>
+<text top="540" left="72" width="95" height="44" font="6"><a href="#kiribati">Kiribati</a></text>
 <button top="630" left="72" width="110" height="44" pr="890" pt="10" pb="25" href="micronesia"/>
 <text top="630" left="72" width="508" height="44" font="6"><a href="#micronesia">Micronesia (Federated States of)</a></text>
-<button top="720" left="72" width="110" height="44" pr="890" pt="10" pb="25" href="new-caledonia"/>
-<text top="720" left="72" width="244" height="44" font="6"><a href="#new-caledonia">New Caledonia</a></text>
-<button top="810" left="72" width="110" height="44" pr="890" pt="10" pb="25" href="new-zealand"/>
-<text top="810" left="72" width="211" height="44" font="6"><a href="#new-zealand">New Zealand</a></text>
-<button top="900" left="72" width="110" height="44" pr="890" pt="10" pb="25" href="papua-new-guinea"/>
-<text top="900" left="72" width="302" height="44" font="6"><a href="#papua-new-guinea">Papua New Guinea</a></text>
-<button top="990" left="72" width="110" height="44" pr="890" pt="10" pb="25" href="samoa"/>
-<text top="990" left="72" width="108" height="44" font="6"><a href="#samoa">Samoa</a></text>
-<button top="1080" left="72" width="110" height="44" pr="890" pt="10" pb="25" href="solomon-islands"/>
-<text top="1080" left="72" width="258" height="44" font="6"><a href="#solomon-islands">Solomon Islands</a></text>
-<button top="1170" left="72" width="110" height="44" pr="890" pt="10" pb="25" href="tonga"/>
-<text top="1170" left="72" width="98" height="44" font="6"><a href="#tonga">Tonga</a></text>
+<button top="720" left="72" width="110" height="44" pr="890" pt="10" pb="25" href="new-zealand"/>
+<text top="720" left="72" width="211" height="44" font="6"><a href="#new-zealand">New Zealand</a></text>
+<button top="810" left="72" width="110" height="44" pr="890" pt="10" pb="25" href="papua-new-guinea"/>
+<text top="810" left="72" width="302" height="44" font="6"><a href="#papua-new-guinea">Papua New Guinea</a></text>
+<button top="900" left="72" width="110" height="44" pr="890" pt="10" pb="25" href="samoa"/>
+<text top="900" left="72" width="108" height="44" font="6"><a href="#samoa">Samoa</a></text>
+<button top="990" left="72" width="110" height="44" pr="890" pt="10" pb="25" href="solomon-islands"/>
+<text top="990" left="72" width="258" height="44" font="6"><a href="#solomon-islands">Solomon Islands</a></text>
+<button top="1080" left="72" width="110" height="44" pr="890" pt="10" pb="25" href="tonga"/>
+<text top="1080" left="72" width="98" height="44" font="6"><a href="#tonga">Tonga</a></text>
+<button top="1170" left="72" width="110" height="44" pr="890" pt="10" pb="25" href="tuvalu"/>
+<text top="1170" left="72" width="244" height="44" font="6"><a href="#tuvalu">Tuvalu</a></text>
 <button top="1260" left="72" width="110" height="44" pr="890" pt="10" pb="25" href="vanuatu"/>
 <text top="1260" left="72" width="128" height="44" font="6"><a href="#vanuatu">Vanuatu</a></text>
 </page>
 <page number="6" position="absolute" top="0" left="0" height="4284" width="1152">
-<image top="8" left="0" width="1152" height="4284" src="toc5.png"/>
+<image top="8" left="0" width="1152" height="4284" src="toc5_shift.png"/>
 <text top="0" left="0" width="231" height="96" font="4"><a name="Europe"></a></text>
 <button top="84" left="951" width="111" height="32" pl="45" pr="17" pt="7" pb="25" href="ALL"/>
 <text top="84" left="951" width="111" height="32" font="3"><a href="#ALL"><b>all regions</b></a></text>
@@ -406,37 +406,37 @@
 <text top="990" left="72" width="117" height="44" font="6"><a href="#greece">Greece</a></text>
 <button top="1080" left="72" width="110" height="44" pr="890" pt="10" pb="25" href="hungary"/>
 <text top="1080" left="72" width="135" height="44" font="6"><a href="#hungary">Hungary</a></text>
-<button top="1170" left="72" width="110" height="44" pr="890" pt="10" pb="25" href="latvia"/>
-<text top="1170" left="72" width="90" height="44" font="6"><a href="#latvia">Latvia</a></text>
-<button top="1260" left="72" width="110" height="44" pr="890" pt="10" pb="25" href="lithuania"/>
-<text top="1260" left="72" width="138" height="44" font="6"><a href="#lithuania">Lithuania</a></text>
-<button top="1350" left="72" width="110" height="44" pr="890" pt="10" pb="25" href="montenegro"/>
-<text top="1350" left="72" width="199" height="44" font="6"><a href="#montenegro">Montenegro</a></text>
-<button top="1440" left="72" width="110" height="44" pr="890" pt="10" pb="25" href="poland"/>
-<text top="1440" left="72" width="108" height="44" font="6"><a href="#poland">Poland</a></text>
-<button top="1530" left="72" width="110" height="44" pr="890" pt="10" pb="25" href="moldova"/>
-<text top="1530" left="72" width="330" height="44" font="6"><a href="#moldova">Republic of Moldova</a></text>
-<button top="1620" left="72" width="110" height="44" pr="890" pt="10" pb="25" href="romania"/>
-<text top="1620" left="72" width="137" height="44" font="6"><a href="#romania">Romania</a></text>
-<button top="1710" left="72" width="110" height="44" pr="890" pt="10" pb="25" href="russia"/>
-<text top="1710" left="72" width="293" height="44" font="6"><a href="#russia">Russian Federation</a></text>
-<button top="1800" left="72" width="110" height="44" pr="890" pt="10" pb="25" href="serbia"/>
-<text top="1800" left="72" width="98" height="44" font="6"><a href="#serbia">Serbia</a></text>
-<button top="1890" left="72" width="110" height="44" pr="890" pt="10" pb="25" href="slovakia"/>
-<text top="1890" left="72" width="128" height="44" font="6"><a href="#slovakia">Slovakia</a></text>
-<button top="1980" left="72" width="110" height="44" pr="890" pt="10" pb="25" href="slovenia"/>
-<text top="1980" left="72" width="132" height="44" font="6"><a href="#slovenia">Slovenia</a></text>
-<button top="2070" left="72" width="110" height="44" pr="890" pt="10" pb="25" href="macedonia"/>
-<text top="2070" left="72" width="699" height="44" font="6"><a href="#macedonia">The former Yugoslav Republic of Macedonia</a></text>
-<button top="2160" left="72" width="110" height="44" pr="890" pt="10" pb="25" href="ukraine"/>
-<text top="2160" left="72" width="119" height="44" font="6"><a href="#ukraine">Ukraine</a></text>
-<text top="2309" left="72" width="347" height="64" font="5"><b>Western Europe</b></text>
-<button top="2412" left="72" width="110" height="44" pr="890" pt="10" pb="25" href="austria"/>
-<text top="2412" left="72" width="106" height="44" font="6"><a href="#austria">Austria</a></text>
-<button top="2502" left="72" width="110" height="44" pr="890" pt="10" pb="25" href="belgium"/>
-<text top="2502" left="72" width="128" height="44" font="6"><a href="#belgium">Belgium</a></text>
-<button top="2592" left="72" width="110" height="44" pr="890" pt="10" pb="25" href="channel-islands"/>
-<text top="2592" left="72" width="245" height="44" font="6"><a href="#channel-islands">Channel Islands</a></text>
+<button top="1170" left="72" width="110" height="44" pr="890" pt="10" pb="25" href="kosovo"/>
+<text top="1170" left="72" width="330" height="44" font="6"><a href="#kosovo">Kosovo</a></text>
+<button top="1260" left="72" width="110" height="44" pr="890" pt="10" pb="25" href="latvia"/>
+<text top="1260" left="72" width="90" height="44" font="6"><a href="#latvia">Latvia</a></text>
+<button top="1350" left="72" width="110" height="44" pr="890" pt="10" pb="25" href="lithuania"/>
+<text top="1350" left="72" width="138" height="44" font="6"><a href="#lithuania">Lithuania</a></text>
+<button top="1440" left="72" width="110" height="44" pr="890" pt="10" pb="25" href="montenegro"/>
+<text top="1440" left="72" width="199" height="44" font="6"><a href="#montenegro">Montenegro</a></text>
+<button top="1530" left="72" width="110" height="44" pr="890" pt="10" pb="25" href="poland"/>
+<text top="1530" left="72" width="108" height="44" font="6"><a href="#poland">Poland</a></text>
+<button top="1620" left="72" width="110" height="44" pr="890" pt="10" pb="25" href="moldova"/>
+<text top="1620" left="72" width="330" height="44" font="6"><a href="#moldova">Republic of Moldova</a></text>
+<button top="1710" left="72" width="110" height="44" pr="890" pt="10" pb="25" href="romania"/>
+<text top="1710" left="72" width="137" height="44" font="6"><a href="#romania">Romania</a></text>
+<button top="1800" left="72" width="110" height="44" pr="890" pt="10" pb="25" href="russia"/>
+<text top="1800" left="72" width="293" height="44" font="6"><a href="#russia">Russian Federation</a></text>
+<button top="1890" left="72" width="110" height="44" pr="890" pt="10" pb="25" href="serbia"/>
+<text top="1890" left="72" width="98" height="44" font="6"><a href="#serbia">Serbia</a></text>
+<button top="1980" left="72" width="110" height="44" pr="890" pt="10" pb="25" href="slovakia"/>
+<text top="1980" left="72" width="128" height="44" font="6"><a href="#slovakia">Slovakia</a></text>
+<button top="2070" left="72" width="110" height="44" pr="890" pt="10" pb="25" href="slovenia"/>
+<text top="2070" left="72" width="132" height="44" font="6"><a href="#slovenia">Slovenia</a></text>
+<button top="2160" left="72" width="110" height="44" pr="890" pt="10" pb="25" href="macedonia"/>
+<text top="2160" left="72" width="699" height="44" font="6"><a href="#macedonia">The former Yugoslav Republic of Macedonia</a></text>
+<button top="2250" left="72" width="110" height="44" pr="890" pt="10" pb="25" href="ukraine"/>
+<text top="2250" left="72" width="119" height="44" font="6"><a href="#ukraine">Ukraine</a></text>
+<text top="2399" left="72" width="347" height="64" font="5"><b>Western Europe</b></text>
+<button top="2502" left="72" width="110" height="44" pr="890" pt="10" pb="25" href="austria"/>
+<text top="2502" left="72" width="106" height="44" font="6"><a href="#austria">Austria</a></text>
+<button top="2592" left="72" width="110" height="44" pr="890" pt="10" pb="25" href="belgium"/>
+<text top="2592" left="72" width="128" height="44" font="6"><a href="#belgium">Belgium</a></text>
 <button top="2682" left="72" width="110" height="44" pr="890" pt="10" pb="25" href="denmark"/>
 <text top="2682" left="72" width="141" height="44" font="6"><a href="#denmark">Denmark</a></text>
 <button top="2772" left="72" width="110" height="44" pr="890" pt="10" pb="25" href="finland"/>
@@ -2228,86 +2228,7 @@
 
 
 	
-<page number="23" position="absolute" top="0" left="0" height="8065" width="1152">
-<image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
-<text top="0" left="0" width="594" height="96" font="0"><a name="mayotte"></a></text>
-<button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Africa"/>
-<text top="76" left="832" width="230" height="32" font="3"><a href="#Africa"><b>all countries in region</b></a></text>
-<text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
-<text top="197" left="72" width="1008" height="96" font="0" shrink="True"><b>Mayotte</b></text>
-<text top="477" left="72" width="905" height="44" font="8">Agenda 2030 includes the specific commitment to Leave </text>
-<text top="531" left="72" width="900" height="44" font="8">No One Behind. Together with Sustainable Development </text>
-<text top="585" left="72" width="965" height="44" font="8">Goal 10 to reduce inequality, this requires faster than average </text>
-<text top="639" left="72" width="990" height="44" font="8">progress for the poorest. The test is whether the gap between </text>
-<text top="693" left="72" width="881" height="44" font="8">the poorest 20% of people (the P20) and everyone else </text>
-<text top="747" left="72" width="453" height="44" font="8">is reducing or getting wider. </text>
-<text top="837" left="72" width="974" height="44" font="8">The P20 Initiative uses data to show whether the poorest 20% </text>
-<text top="891" left="72" width="956" height="44" font="8">of people are getting their fair share of attention, investment </text>
-<text top="945" left="72" width="1009" height="44" font="8">and opportunity. It uses three bellwether indicators of progress: </text>
-<text top="999" left="72" width="979" height="44" font="8">income, nutrition and civil registration and it promotes all data </text>
-<text top="1053" left="72" width="990" height="44" font="8">being disaggregated by Income Quintile, Gender, Geography, </text>
-<text top="1107" left="72" width="288" height="44" font="8">Age and Disability.</text>
-<text top="1197" left="72" width="912" height="47" font="8">This profile provides key available data about the status </text>
-<text top="1251" left="72" width="514" height="47" font="8">of the P20 in Mayotte.</text>
-<text top="1551" left="162" width="617" height="64" font="5"><b>the P20 in Mayotte</b></text>
-<text top="1674" left="72" width="710" height="44" font="6">[XX] people in Mayotte are among </text>
-<text top="1728" left="72" width="763" height="44" font="6">the poorest 20% of the world’s population – the </text>
-<text top="1782" left="72" width="730" height="44" font="6">global P20. That is [X]% of the total population </text>
-<text top="1836" left="72" width="591" height="44" font="6">and they live on less than $2.54 a day.</text>
-<text top="1926" left="72" width="729" height="44" font="6">The national P20 – the poorest 20% of people </text>
-<text top="1980" left="72" width="789" height="44" font="6">within Mayotte – live on between $[XX] </text>
-<text top="2034" left="72" width="786" height="44" font="6">and $[XX] a day compared with an average $[XX] </text>
-<text top="2088" left="72" width="460" height="44" font="6">for the rest of the population.</text>
-<text top="2187" left="72" width="600" height="35" font="9"><b>Source: </b>Development Initiatives based on PovcalNet</text>
-<text top="2190" left="622" width="5" height="20" font="11"><a href="#mayotte1"><b>1</b></a></text>
-<text top="2451" left="162" width="160" height="64" font="5"><b>income</b></text>
-<text top="2574" left="72" width="765" height="44" font="6">In 2000 the gap between the P20 and everyone </text>
-<text top="2628" left="72" width="775" height="44" font="6">else in Mayotte was $[0.00] and in 2013 </text>
-<text top="2682" left="72" width="213" height="44" font="6">it was $[0.00].</text>
-<text top="3699" left="72" width="600" height="35" font="9"><b>Source: </b>Development Initiatives based on PovcalNet</text>
-<text top="3819" left="162" width="188" height="64" font="5"><b>nutrition</b></text>
-<text top="3942" left="72" width="743" height="44" font="6">In Mayotte [XX]% of adults are obese.</text>
-<text top="4779" left="72" width="882" height="35" font="9"><b>Source: </b>Development Initiatives based on NCD Risk Factor Collaboration 2017</text>
-<text top="4899" left="162" width="219" height="64" font="5"><b>education</b></text>
-<text top="5022" left="72" width="613" height="44" font="6">Education is fundamental to a person’s </text>
-<text top="5076" left="72" width="193" height="44" font="6">life chances.</text>
-<text top="5166" left="72" width="684" height="44" font="6">In Mayotte [XX]% of people have </text>
-<text top="5220" left="72" width="640" height="44" font="6">completed secondary school education.</text>
-<text top="5985" left="72" width="879" height="35" font="9"><b>Source: </b>Development Initiatives based on UNESCO Institute for Statistics 2018</text>
-<text top="6066" left="72" width="801" height="44" font="6">Data is not available that allows us to disaggregate </text>
-<text top="6120" left="72" width="766" height="44" font="6">secondary school completion based on income </text>
-<text top="6174" left="72" width="755" height="44" font="6">and therefore we are unable to see completion </text>
-<text top="6228" left="72" width="780" height="44" font="6">rates for the P20 versus the rest of the population </text>
-<text top="6282" left="72" width="226" height="44" font="6">in this country.</text>
-<text top="6411" left="162" width="137" height="64" font="5"><b>health</b></text>
-<text top="6534" left="72" width="777" height="44" font="6">Poor health plays a major part in keeping people </text>
-<text top="6588" left="72" width="801" height="44" font="6">in poverty. If you are among the P20 you are more </text>
-<text top="6642" left="72" width="721" height="44" font="6">likely to suffer from preventable diseases and </text>
-<text top="6696" left="72" width="205" height="44" font="6">to die earlier.</text>
-<text top="6786" left="72" width="709" height="44" font="6">In Mayotte the under five mortality </text>
-<text top="6840" left="72" width="486" height="44" font="6">rate is [XX] per 1,000 live births.</text>
-<text top="6930" left="72" width="801" height="44" font="6">Data is not available that allows us to disaggregate </text>
-<text top="6984" left="72" width="672" height="44" font="6">under five mortality based on income and </text>
-<text top="7038" left="72" width="747" height="44" font="6">therefore we are unable to see this information </text>
-<text top="7092" left="72" width="694" height="44" font="6">for the P20 versus the rest of the population.</text>
-<text top="7191" left="72" width="975" height="35" font="9"><b>Source: </b>Development Initiatives based on World Bank World Development Indicators</text>
-<text top="7425" left="72" width="15" height="34" font="12">1 </text>
-<text top="7425" left="72" width="15" height="34" font="12"><a name="mayotte1"></a></text>
-<text top="7426" left="108" width="501" height="32" font="10">Year of latest available data: 2013 (2011 $PPP)</text>
-<text top="2766" left="74" width="535" height="48" font="7"><b>Mayotte income trends</b></text>
-<text top="4026" left="72" width="196" height="48" font="7"><b>obesity rate</b></text>
-<text top="5304" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
-<text top="7631" left="72" width="531" height="43" font="18">If you would like more information  </text>
-<text top="7676" left="72" width="555" height="43" font="18">or to speak to us, please get in touch:</text>
-<text top="7757" left="72" width="480" height="43" font="18">Zach Christensen, Senior Analyst </text>
-<text top="7802" left="72" width="446" height="43" font="19"><a href="mailto:Zach.Christensen%40devinit.org?subject=">Zach.Christensen@devinit.org</a></text>
-<text top="7883" left="72" width="434" height="43" font="18">See more about this work at  </text>
-<text top="7928" left="72" width="332" height="43" font="19"><a href="http://www.devinit.org/p20i">www.devinit.org/p20i</a></text>
-</page>
-
-
-	
-<page number="24" position="absolute" top="0" left="0" height="11592" width="1152">
+<page number="23" position="absolute" top="0" left="0" height="11592" width="1152">
 	<fontspec id="8" size="34" family="Times" color="#ffffff"/>
 	<fontspec id="9" size="24" family="Times" color="#847f84"/>
 	<fontspec id="10" size="24" family="Times" color="#847f84"/>
@@ -2426,86 +2347,7 @@
 
 
 	
-<page number="25" position="absolute" top="0" left="0" height="8065" width="1152">
-<image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
-<text top="0" left="0" width="594" height="96" font="0"><a name="reunion"></a></text>
-<button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Africa"/>
-<text top="76" left="832" width="230" height="32" font="3"><a href="#Africa"><b>all countries in region</b></a></text>
-<text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
-<text top="197" left="72" width="1008" height="96" font="0" shrink="True"><b>Réunion</b></text>
-<text top="477" left="72" width="905" height="44" font="8">Agenda 2030 includes the specific commitment to Leave </text>
-<text top="531" left="72" width="900" height="44" font="8">No One Behind. Together with Sustainable Development </text>
-<text top="585" left="72" width="965" height="44" font="8">Goal 10 to reduce inequality, this requires faster than average </text>
-<text top="639" left="72" width="990" height="44" font="8">progress for the poorest. The test is whether the gap between </text>
-<text top="693" left="72" width="881" height="44" font="8">the poorest 20% of people (the P20) and everyone else </text>
-<text top="747" left="72" width="453" height="44" font="8">is reducing or getting wider. </text>
-<text top="837" left="72" width="974" height="44" font="8">The P20 Initiative uses data to show whether the poorest 20% </text>
-<text top="891" left="72" width="956" height="44" font="8">of people are getting their fair share of attention, investment </text>
-<text top="945" left="72" width="1009" height="44" font="8">and opportunity. It uses three bellwether indicators of progress: </text>
-<text top="999" left="72" width="979" height="44" font="8">income, nutrition and civil registration and it promotes all data </text>
-<text top="1053" left="72" width="990" height="44" font="8">being disaggregated by Income Quintile, Gender, Geography, </text>
-<text top="1107" left="72" width="288" height="44" font="8">Age and Disability.</text>
-<text top="1197" left="72" width="912" height="47" font="8">This profile provides key available data about the status </text>
-<text top="1251" left="72" width="514" height="47" font="8">of the P20 in Réunion.</text>
-<text top="1551" left="162" width="617" height="64" font="5"><b>the P20 in Réunion</b></text>
-<text top="1674" left="72" width="710" height="44" font="6">[XX] people in Réunion are among </text>
-<text top="1728" left="72" width="763" height="44" font="6">the poorest 20% of the world’s population – the </text>
-<text top="1782" left="72" width="730" height="44" font="6">global P20. That is [X]% of the total population </text>
-<text top="1836" left="72" width="591" height="44" font="6">and they live on less than $2.54 a day.</text>
-<text top="1926" left="72" width="729" height="44" font="6">The national P20 – the poorest 20% of people </text>
-<text top="1980" left="72" width="789" height="44" font="6">within Réunion – live on between $[XX] </text>
-<text top="2034" left="72" width="786" height="44" font="6">and $[XX] a day compared with an average $[XX] </text>
-<text top="2088" left="72" width="460" height="44" font="6">for the rest of the population.</text>
-<text top="2187" left="72" width="600" height="35" font="9"><b>Source: </b>Development Initiatives based on PovcalNet</text>
-<text top="2190" left="622" width="5" height="20" font="11"><a href="#reunion1"><b>1</b></a></text>
-<text top="2451" left="162" width="160" height="64" font="5"><b>income</b></text>
-<text top="2574" left="72" width="765" height="44" font="6">In 2000 the gap between the P20 and everyone </text>
-<text top="2628" left="72" width="775" height="44" font="6">else in Réunion was $[0.00] and in 2013 </text>
-<text top="2682" left="72" width="213" height="44" font="6">it was $[0.00].</text>
-<text top="3699" left="72" width="600" height="35" font="9"><b>Source: </b>Development Initiatives based on PovcalNet</text>
-<text top="3819" left="162" width="188" height="64" font="5"><b>nutrition</b></text>
-<text top="3942" left="72" width="743" height="44" font="6">In Réunion [XX]% of adults are obese.</text>
-<text top="4779" left="72" width="882" height="35" font="9"><b>Source: </b>Development Initiatives based on NCD Risk Factor Collaboration 2017</text>
-<text top="4899" left="162" width="219" height="64" font="5"><b>education</b></text>
-<text top="5022" left="72" width="613" height="44" font="6">Education is fundamental to a person’s </text>
-<text top="5076" left="72" width="193" height="44" font="6">life chances.</text>
-<text top="5166" left="72" width="684" height="44" font="6">In Réunion [XX]% of people have </text>
-<text top="5220" left="72" width="640" height="44" font="6">completed secondary school education.</text>
-<text top="5985" left="72" width="879" height="35" font="9"><b>Source: </b>Development Initiatives based on UNESCO Institute for Statistics 2018</text>
-<text top="6066" left="72" width="801" height="44" font="6">Data is not available that allows us to disaggregate </text>
-<text top="6120" left="72" width="766" height="44" font="6">secondary school completion based on income </text>
-<text top="6174" left="72" width="755" height="44" font="6">and therefore we are unable to see completion </text>
-<text top="6228" left="72" width="780" height="44" font="6">rates for the P20 versus the rest of the population </text>
-<text top="6282" left="72" width="226" height="44" font="6">in this country.</text>
-<text top="6411" left="162" width="137" height="64" font="5"><b>health</b></text>
-<text top="6534" left="72" width="777" height="44" font="6">Poor health plays a major part in keeping people </text>
-<text top="6588" left="72" width="801" height="44" font="6">in poverty. If you are among the P20 you are more </text>
-<text top="6642" left="72" width="721" height="44" font="6">likely to suffer from preventable diseases and </text>
-<text top="6696" left="72" width="205" height="44" font="6">to die earlier.</text>
-<text top="6786" left="72" width="709" height="44" font="6">In Réunion the under five mortality </text>
-<text top="6840" left="72" width="486" height="44" font="6">rate is [XX] per 1,000 live births.</text>
-<text top="6930" left="72" width="801" height="44" font="6">Data is not available that allows us to disaggregate </text>
-<text top="6984" left="72" width="672" height="44" font="6">under five mortality based on income and </text>
-<text top="7038" left="72" width="747" height="44" font="6">therefore we are unable to see this information </text>
-<text top="7092" left="72" width="694" height="44" font="6">for the P20 versus the rest of the population.</text>
-<text top="7191" left="72" width="975" height="35" font="9"><b>Source: </b>Development Initiatives based on World Bank World Development Indicators</text>
-<text top="7425" left="72" width="15" height="34" font="12">1 </text>
-<text top="7425" left="72" width="15" height="34" font="12"><a name="reunion1"></a></text>
-<text top="7426" left="108" width="501" height="32" font="10">Year of latest available data: 2013 (2011 $PPP)</text>
-<text top="2766" left="74" width="535" height="48" font="7"><b>Réunion income trends</b></text>
-<text top="4026" left="72" width="196" height="48" font="7"><b>obesity rate</b></text>
-<text top="5304" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
-<text top="7631" left="72" width="531" height="43" font="18">If you would like more information  </text>
-<text top="7676" left="72" width="555" height="43" font="18">or to speak to us, please get in touch:</text>
-<text top="7757" left="72" width="480" height="43" font="18">Zach Christensen, Senior Analyst </text>
-<text top="7802" left="72" width="446" height="43" font="19"><a href="mailto:Zach.Christensen%40devinit.org?subject=">Zach.Christensen@devinit.org</a></text>
-<text top="7883" left="72" width="434" height="43" font="18">See more about this work at  </text>
-<text top="7928" left="72" width="332" height="43" font="19"><a href="http://www.devinit.org/p20i">www.devinit.org/p20i</a></text>
-</page>
-
-
-	
-<page number="26" position="absolute" top="0" left="0" height="11592" width="1152">
+<page number="24" position="absolute" top="0" left="0" height="11592" width="1152">
 	<fontspec id="8" size="34" family="Times" color="#ffffff"/>
 	<fontspec id="9" size="24" family="Times" color="#847f84"/>
 	<fontspec id="10" size="24" family="Times" color="#847f84"/>
@@ -2624,7 +2466,126 @@
 
 
 	
-<page number="27" position="absolute" top="0" left="0" height="11592" width="1152">
+<page number="25" position="absolute" top="0" left="0" height="11592" width="1152">
+	<fontspec id="8" size="34" family="Times" color="#ffffff"/>
+	<fontspec id="9" size="24" family="Times" color="#847f84"/>
+	<fontspec id="10" size="24" family="Times" color="#847f84"/>
+	<fontspec id="11" size="13" family="Times" color="#e9443a"/>
+	<fontspec id="12" size="24" family="Times" color="#e9443a"/>
+	<fontspec id="13" size="22" family="Times" color="#453e43"/>
+	<fontspec id="14" size="22" family="Times" color="#453e43"/>
+	<fontspec id="15" size="22" family="Times" color="#aaa6ab"/>
+	<fontspec id="16" size="34" family="Times" color="#e9443a"/>
+	<fontspec id="17" size="34" family="Times" color="#f8c1b2"/>
+	<fontspec id="18" size="31" family="Times" color="#ffffff"/>
+	<fontspec id="19" size="31" family="Times" color="#f8c1b2"/>
+<image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
+<text top="0" left="0" width="594" height="96" font="0"><a name="seychelles"></a></text>
+<button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Africa"/>
+<text top="76" left="832" width="230" height="32" font="3"><a href="#Africa"><b>all countries in region</b></a></text>
+<text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
+<text top="197" left="72" width="1008" height="96" font="0" shrink="True"><b>Seychelles</b></text>
+<text top="477" left="72" width="905" height="44" font="8">Agenda 2030 includes the specific commitment to Leave </text>
+<text top="531" left="72" width="900" height="44" font="8">No One Behind. Together with Sustainable Development </text>
+<text top="585" left="72" width="965" height="44" font="8">Goal 10 to reduce inequality, this requires faster than average </text>
+<text top="639" left="72" width="990" height="44" font="8">progress for the poorest. The test is whether the gap between </text>
+<text top="693" left="72" width="881" height="44" font="8">the poorest 20% of people (the P20) and everyone else </text>
+<text top="747" left="72" width="453" height="44" font="8">is reducing or getting wider. </text>
+<text top="837" left="72" width="974" height="44" font="8">The P20 Initiative uses data to show whether the poorest 20% </text>
+<text top="891" left="72" width="956" height="44" font="8">of people are getting their fair share of attention, investment </text>
+<text top="945" left="72" width="1009" height="44" font="8">and opportunity. It uses three bellwether indicators of progress: </text>
+<text top="999" left="72" width="979" height="44" font="8">income, nutrition and civil registration and it promotes all data </text>
+<text top="1053" left="72" width="990" height="44" font="8">being disaggregated by Income Quintile, Gender, Geography, </text>
+<text top="1107" left="72" width="298" height="44" font="8">Age and Disability. </text>
+<text top="1197" left="72" width="912" height="47" font="8">This profile provides key available data about the status </text>
+<text top="1251" left="72" width="514" height="47" font="8">of the P20 in Seychelles.</text>
+<text top="1551" left="162" width="617" height="64" font="5"><b>the P20 in Seychelles</b></text>
+<text top="1674" left="72" width="710" height="44" font="6">[XX] people in Seychelles are among </text>
+<text top="1728" left="72" width="763" height="44" font="6">the poorest 20% of the world’s population – the </text>
+<text top="1782" left="72" width="730" height="44" font="6">global P20. That is [X]% of the total population </text>
+<text top="1836" left="72" width="600" height="44" font="6">and they live on less than $2.54 a day. </text>
+<text top="1926" left="72" width="729" height="44" font="6">The national P20 – the poorest 20% of people </text>
+<text top="1980" left="72" width="789" height="44" font="6">within Seychelles – live on between $[XX] </text>
+<text top="2034" left="72" width="786" height="44" font="6">and $[XX] a day compared with an average $[XX] </text>
+<text top="2088" left="72" width="460" height="44" font="6">for the rest of the population.</text>
+<text top="2187" left="72" width="600" height="35" font="9"><b>Source: </b>Development Initiatives based on PovcalNet</text>
+<text top="2190" left="622" width="5" height="20" font="11"><a href="#seychelles1"><b>1</b></a></text>
+<text top="2451" left="162" width="160" height="64" font="5"><b>income</b></text>
+<text top="2574" left="72" width="765" height="44" font="6">In 2000 the gap between the P20 and everyone </text>
+<text top="2628" left="72" width="775" height="44" font="6">else in Seychelles was $[0.00] and in 2013 </text>
+<text top="2682" left="72" width="213" height="44" font="6">it was $[0.00].</text>
+<text top="3699" left="72" width="600" height="35" font="9"><b>Source: </b>Development Initiatives based on PovcalNet</text>
+<text top="3819" left="162" width="188" height="64" font="5"><b>nutrition</b></text>
+<text top="3942" left="72" width="716" height="44" font="6">Nutrition is fundamental to the ability to learn </text>
+<text top="3996" left="72" width="790" height="44" font="6">and earn. Children who experience poor nutrition </text>
+<text top="4050" left="72" width="681" height="44" font="6">can suffer lifelong disadvantage as a result. </text>
+<text top="4140" left="72" width="707" height="44" font="6">In Seychelles, [X]% of under five year </text>
+<text top="4194" left="72" width="692" height="44" font="6">olds experienced stunting. In the P20 [XX]% </text>
+<text top="4248" left="72" width="696" height="44" font="6">experienced stunting compared with [XX]% </text>
+<text top="4302" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+<text top="5139" left="72" width="765" height="35" font="9"><b>Source: </b>Development Initiatives based on UNICEF-WHO joint child </text>
+<text top="5176" left="72" width="251" height="32" font="10">malnutrition estimates</text>
+<text top="5178" left="303" width="8" height="20" font="11"><a href="#seychelles2"><b>2</b></a></text>
+<text top="5298" left="162" width="369" height="64" font="5"><b>birth registration</b></text>
+<text top="5418" left="72" width="674" height="44" font="6">Civil Registration means people count and </text>
+<text top="5472" left="72" width="738" height="44" font="6">have rights. Worldwide around 71% of children </text>
+<text top="5526" left="72" width="687" height="44" font="6">are birth registered. If you are born into the </text>
+<text top="5580" left="72" width="752" height="44" font="6">poorest 20% of people you are much less likely </text>
+<text top="5634" left="72" width="466" height="44" font="6">to have your birth registered. </text>
+<text top="5724" left="72" width="734" height="44" font="6">In Seychelles [XX]% of births in the P20 </text>
+<text top="5778" left="72" width="707" height="44" font="6">are registered compared [XX]% in the rest of </text>
+<text top="5832" left="72" width="239" height="44" font="6">the population.</text>
+<text top="6714" left="72" width="690" height="44" font="6">Birth registration rates in Seychelles  </text>
+<text top="6768" left="72" width="451" height="44" font="6">have [increased/decreased].</text>
+<text top="6867" left="72" width="987" height="35" font="9"><b>Source: </b>Development Initiatives based on World Bank World Development Indicators: </text>
+<text top="6904" left="72" width="418" height="32" font="10">Completeness of birth registration %</text>
+<text top="6906" left="460" width="8" height="20" font="11"><a href="#seychelles3"><b>3</b></a></text>
+<text top="7023" left="162" width="219" height="64" font="5"><b>education</b></text>
+<text top="7146" left="72" width="613" height="44" font="6">Education is fundamental to a person’s </text>
+<text top="7200" left="72" width="202" height="44" font="6">life chances. </text>
+<text top="7290" left="72" width="684" height="44" font="6">In Seychelles [XX]% of people have </text>
+<text top="7344" left="72" width="640" height="44" font="6">completed secondary school education.</text>
+<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+<text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+<text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
+<text top="9183" left="162" width="137" height="64" font="5"><b>health</b></text>
+<text top="9306" left="72" width="777" height="44" font="6">Poor health plays a major part in keeping people </text>
+<text top="9360" left="72" width="801" height="44" font="6">in poverty. If you are among the P20 you are more </text>
+<text top="9414" left="72" width="721" height="44" font="6">likely to suffer from preventable diseases and </text>
+<text top="9468" left="72" width="214" height="44" font="6">to die earlier. </text>
+<text top="9558" left="72" width="790" height="44" font="6">In Seychelles the Under Five Mortality rate </text>
+<text top="9612" left="72" width="425" height="44" font="6">is [XX] per 1,000 live births. </text>
+<text top="9702" left="72" width="702" height="44" font="6">The under five mortality rate among the P20 </text>
+<text top="9756" left="72" width="742" height="44" font="6">is [XX] per 1,000 live births compared with [XX] </text>
+<text top="9810" left="72" width="770" height="44" font="6">per 1,000 live births for the rest of the population.</text>
+<text top="10647" left="72" width="889" height="35" font="9"><b>Source: </b>Development Initiatives based on Demographic Health Surveys (DHS)</text>
+<text top="10845" left="72" width="15" height="34" font="12">1 </text>
+<text top="10845" left="72" width="15" height="34" font="12"><a name="seychelles1"></a></text>
+<text top="10846" left="108" width="501" height="32" font="10">Year of latest available data: 2013 (2011 $PPP)</text>
+<text top="10899" left="72" width="21" height="34" font="12">2 </text>
+<text top="10899" left="72" width="21" height="34" font="12"><a name="seychelles2"></a></text>
+<text top="10900" left="108" width="957" height="32" font="10">Based on latest available data which varies between countries – see original source</text>
+<text top="10953" left="72" width="21" height="34" font="12">3 </text>
+<text top="10953" left="72" width="21" height="34" font="12"><a name="seychelles3"></a></text>
+<text top="10954" left="108" width="957" height="32" font="10">Based on latest available data which varies between countries – see original source</text>
+<text top="2766" left="74" width="535" height="48" font="7"><b>Seychelles income trends</b></text>
+<text top="4387" left="72" width="973" height="48" font="7"><b>stunting in children in the P20 compared with rest of country</b></text>
+<text top="5916" left="72" width="689" height="48" font="7"><b>birth registration rates for children under 5</b></text>
+<text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
+<text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
+<text top="9894" left="72" width="370" height="48" font="7"><b>under 5 mortality rates</b></text>
+<text top="11159" left="72" width="531" height="43" font="18">If you would like more information  </text>
+<text top="11204" left="72" width="555" height="43" font="18">or to speak to us, please get in touch:</text>
+<text top="11285" left="72" width="480" height="43" font="18">Zach Christensen, Senior Analyst </text>
+<text top="11330" left="72" width="446" height="43" font="19"><a href="mailto:Zach.Christensen%40devinit.org?subject=">Zach.Christensen@devinit.org</a></text>
+<text top="11411" left="72" width="434" height="43" font="18">See more about this work at  </text>
+<text top="11456" left="72" width="332" height="43" font="19"><a href="http://www.devinit.org/p20i">www.devinit.org/p20i</a></text>
+</page>
+
+
+	
+<page number="26" position="absolute" top="0" left="0" height="11592" width="1152">
 	<fontspec id="8" size="34" family="Times" color="#ffffff"/>
 	<fontspec id="9" size="24" family="Times" color="#847f84"/>
 	<fontspec id="10" size="24" family="Times" color="#847f84"/>
@@ -2728,6 +2689,125 @@
 <text top="10953" left="72" width="21" height="34" font="12"><a name="somalia3"></a></text>
 <text top="10954" left="108" width="957" height="32" font="10">Based on latest available data which varies between countries – see original source</text>
 <text top="2766" left="74" width="535" height="48" font="7"><b>Somalia income trends</b></text>
+<text top="4387" left="72" width="973" height="48" font="7"><b>stunting in children in the P20 compared with rest of country</b></text>
+<text top="5916" left="72" width="689" height="48" font="7"><b>birth registration rates for children under 5</b></text>
+<text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
+<text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
+<text top="9894" left="72" width="370" height="48" font="7"><b>under 5 mortality rates</b></text>
+<text top="11159" left="72" width="531" height="43" font="18">If you would like more information  </text>
+<text top="11204" left="72" width="555" height="43" font="18">or to speak to us, please get in touch:</text>
+<text top="11285" left="72" width="480" height="43" font="18">Zach Christensen, Senior Analyst </text>
+<text top="11330" left="72" width="446" height="43" font="19"><a href="mailto:Zach.Christensen%40devinit.org?subject=">Zach.Christensen@devinit.org</a></text>
+<text top="11411" left="72" width="434" height="43" font="18">See more about this work at  </text>
+<text top="11456" left="72" width="332" height="43" font="19"><a href="http://www.devinit.org/p20i">www.devinit.org/p20i</a></text>
+</page>
+
+
+	
+<page number="27" position="absolute" top="0" left="0" height="11592" width="1152">
+	<fontspec id="8" size="34" family="Times" color="#ffffff"/>
+	<fontspec id="9" size="24" family="Times" color="#847f84"/>
+	<fontspec id="10" size="24" family="Times" color="#847f84"/>
+	<fontspec id="11" size="13" family="Times" color="#e9443a"/>
+	<fontspec id="12" size="24" family="Times" color="#e9443a"/>
+	<fontspec id="13" size="22" family="Times" color="#453e43"/>
+	<fontspec id="14" size="22" family="Times" color="#453e43"/>
+	<fontspec id="15" size="22" family="Times" color="#aaa6ab"/>
+	<fontspec id="16" size="34" family="Times" color="#e9443a"/>
+	<fontspec id="17" size="34" family="Times" color="#f8c1b2"/>
+	<fontspec id="18" size="31" family="Times" color="#ffffff"/>
+	<fontspec id="19" size="31" family="Times" color="#f8c1b2"/>
+<image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
+<text top="0" left="0" width="594" height="96" font="0"><a name="south-sudan"></a></text>
+<button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Africa"/>
+<text top="76" left="832" width="230" height="32" font="3"><a href="#Africa"><b>all countries in region</b></a></text>
+<text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
+<text top="197" left="72" width="1008" height="96" font="0" shrink="True"><b>South Sudan</b></text>
+<text top="477" left="72" width="905" height="44" font="8">Agenda 2030 includes the specific commitment to Leave </text>
+<text top="531" left="72" width="900" height="44" font="8">No One Behind. Together with Sustainable Development </text>
+<text top="585" left="72" width="965" height="44" font="8">Goal 10 to reduce inequality, this requires faster than average </text>
+<text top="639" left="72" width="990" height="44" font="8">progress for the poorest. The test is whether the gap between </text>
+<text top="693" left="72" width="881" height="44" font="8">the poorest 20% of people (the P20) and everyone else </text>
+<text top="747" left="72" width="453" height="44" font="8">is reducing or getting wider. </text>
+<text top="837" left="72" width="974" height="44" font="8">The P20 Initiative uses data to show whether the poorest 20% </text>
+<text top="891" left="72" width="956" height="44" font="8">of people are getting their fair share of attention, investment </text>
+<text top="945" left="72" width="1009" height="44" font="8">and opportunity. It uses three bellwether indicators of progress: </text>
+<text top="999" left="72" width="979" height="44" font="8">income, nutrition and civil registration and it promotes all data </text>
+<text top="1053" left="72" width="990" height="44" font="8">being disaggregated by Income Quintile, Gender, Geography, </text>
+<text top="1107" left="72" width="298" height="44" font="8">Age and Disability. </text>
+<text top="1197" left="72" width="912" height="47" font="8">This profile provides key available data about the status </text>
+<text top="1251" left="72" width="514" height="47" font="8">of the P20 in South Sudan.</text>
+<text top="1551" left="162" width="617" height="64" font="5"><b>the P20 in South Sudan</b></text>
+<text top="1674" left="72" width="710" height="44" font="6">[XX] people in South Sudan are among </text>
+<text top="1728" left="72" width="763" height="44" font="6">the poorest 20% of the world’s population – the </text>
+<text top="1782" left="72" width="730" height="44" font="6">global P20. That is [X]% of the total population </text>
+<text top="1836" left="72" width="600" height="44" font="6">and they live on less than $2.54 a day. </text>
+<text top="1926" left="72" width="729" height="44" font="6">The national P20 – the poorest 20% of people </text>
+<text top="1980" left="72" width="789" height="44" font="6">within South Sudan – live on between $[XX] </text>
+<text top="2034" left="72" width="786" height="44" font="6">and $[XX] a day compared with an average $[XX] </text>
+<text top="2088" left="72" width="460" height="44" font="6">for the rest of the population.</text>
+<text top="2187" left="72" width="600" height="35" font="9"><b>Source: </b>Development Initiatives based on PovcalNet</text>
+<text top="2190" left="622" width="5" height="20" font="11"><a href="#south-sudan1"><b>1</b></a></text>
+<text top="2451" left="162" width="160" height="64" font="5"><b>income</b></text>
+<text top="2574" left="72" width="765" height="44" font="6">In 2000 the gap between the P20 and everyone </text>
+<text top="2628" left="72" width="775" height="44" font="6">else in South Sudan was $[0.00] and in 2013 </text>
+<text top="2682" left="72" width="213" height="44" font="6">it was $[0.00].</text>
+<text top="3699" left="72" width="600" height="35" font="9"><b>Source: </b>Development Initiatives based on PovcalNet</text>
+<text top="3819" left="162" width="188" height="64" font="5"><b>nutrition</b></text>
+<text top="3942" left="72" width="716" height="44" font="6">Nutrition is fundamental to the ability to learn </text>
+<text top="3996" left="72" width="790" height="44" font="6">and earn. Children who experience poor nutrition </text>
+<text top="4050" left="72" width="681" height="44" font="6">can suffer lifelong disadvantage as a result. </text>
+<text top="4140" left="72" width="707" height="44" font="6">In South Sudan, [X]% of under five year </text>
+<text top="4194" left="72" width="692" height="44" font="6">olds experienced stunting. In the P20 [XX]% </text>
+<text top="4248" left="72" width="696" height="44" font="6">experienced stunting compared with [XX]% </text>
+<text top="4302" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+<text top="5139" left="72" width="765" height="35" font="9"><b>Source: </b>Development Initiatives based on UNICEF-WHO joint child </text>
+<text top="5176" left="72" width="251" height="32" font="10">malnutrition estimates</text>
+<text top="5178" left="303" width="8" height="20" font="11"><a href="#south-sudan2"><b>2</b></a></text>
+<text top="5298" left="162" width="369" height="64" font="5"><b>birth registration</b></text>
+<text top="5418" left="72" width="674" height="44" font="6">Civil Registration means people count and </text>
+<text top="5472" left="72" width="738" height="44" font="6">have rights. Worldwide around 71% of children </text>
+<text top="5526" left="72" width="687" height="44" font="6">are birth registered. If you are born into the </text>
+<text top="5580" left="72" width="752" height="44" font="6">poorest 20% of people you are much less likely </text>
+<text top="5634" left="72" width="466" height="44" font="6">to have your birth registered. </text>
+<text top="5724" left="72" width="734" height="44" font="6">In South Sudan [XX]% of births in the P20 </text>
+<text top="5778" left="72" width="707" height="44" font="6">are registered compared [XX]% in the rest of </text>
+<text top="5832" left="72" width="239" height="44" font="6">the population.</text>
+<text top="6714" left="72" width="690" height="44" font="6">Birth registration rates in South Sudan  </text>
+<text top="6768" left="72" width="451" height="44" font="6">have [increased/decreased].</text>
+<text top="6867" left="72" width="987" height="35" font="9"><b>Source: </b>Development Initiatives based on World Bank World Development Indicators: </text>
+<text top="6904" left="72" width="418" height="32" font="10">Completeness of birth registration %</text>
+<text top="6906" left="460" width="8" height="20" font="11"><a href="#south-sudan3"><b>3</b></a></text>
+<text top="7023" left="162" width="219" height="64" font="5"><b>education</b></text>
+<text top="7146" left="72" width="613" height="44" font="6">Education is fundamental to a person’s </text>
+<text top="7200" left="72" width="202" height="44" font="6">life chances. </text>
+<text top="7290" left="72" width="684" height="44" font="6">In South Sudan [XX]% of people have </text>
+<text top="7344" left="72" width="640" height="44" font="6">completed secondary school education.</text>
+<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+<text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+<text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
+<text top="9183" left="162" width="137" height="64" font="5"><b>health</b></text>
+<text top="9306" left="72" width="777" height="44" font="6">Poor health plays a major part in keeping people </text>
+<text top="9360" left="72" width="801" height="44" font="6">in poverty. If you are among the P20 you are more </text>
+<text top="9414" left="72" width="721" height="44" font="6">likely to suffer from preventable diseases and </text>
+<text top="9468" left="72" width="214" height="44" font="6">to die earlier. </text>
+<text top="9558" left="72" width="790" height="44" font="6">In South Sudan the Under Five Mortality rate </text>
+<text top="9612" left="72" width="425" height="44" font="6">is [XX] per 1,000 live births. </text>
+<text top="9702" left="72" width="702" height="44" font="6">The under five mortality rate among the P20 </text>
+<text top="9756" left="72" width="742" height="44" font="6">is [XX] per 1,000 live births compared with [XX] </text>
+<text top="9810" left="72" width="770" height="44" font="6">per 1,000 live births for the rest of the population.</text>
+<text top="10647" left="72" width="889" height="35" font="9"><b>Source: </b>Development Initiatives based on Demographic Health Surveys (DHS)</text>
+<text top="10845" left="72" width="15" height="34" font="12">1 </text>
+<text top="10845" left="72" width="15" height="34" font="12"><a name="south-sudan1"></a></text>
+<text top="10846" left="108" width="501" height="32" font="10">Year of latest available data: 2013 (2011 $PPP)</text>
+<text top="10899" left="72" width="21" height="34" font="12">2 </text>
+<text top="10899" left="72" width="21" height="34" font="12"><a name="south-sudan2"></a></text>
+<text top="10900" left="108" width="957" height="32" font="10">Based on latest available data which varies between countries – see original source</text>
+<text top="10953" left="72" width="21" height="34" font="12">3 </text>
+<text top="10953" left="72" width="21" height="34" font="12"><a name="south-sudan3"></a></text>
+<text top="10954" left="108" width="957" height="32" font="10">Based on latest available data which varies between countries – see original source</text>
+<text top="2766" left="74" width="535" height="48" font="7"><b>South Sudan income trends</b></text>
 <text top="4387" left="72" width="973" height="48" font="7"><b>stunting in children in the P20 compared with rest of country</b></text>
 <text top="5916" left="72" width="689" height="48" font="7"><b>birth registration rates for children under 5</b></text>
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
@@ -16498,13 +16578,25 @@
 
 
 	
-<page number="153" position="absolute" top="0" left="0" height="8065" width="1152">
-<image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
-<text top="0" left="0" width="594" height="96" font="0"><a name="guam"></a></text>
+<page number="153" position="absolute" top="0" left="0" height="11592" width="1152">
+	<fontspec id="8" size="34" family="Times" color="#ffffff"/>
+	<fontspec id="9" size="24" family="Times" color="#847f84"/>
+	<fontspec id="10" size="24" family="Times" color="#847f84"/>
+	<fontspec id="11" size="13" family="Times" color="#e9443a"/>
+	<fontspec id="12" size="24" family="Times" color="#e9443a"/>
+	<fontspec id="13" size="22" family="Times" color="#453e43"/>
+	<fontspec id="14" size="22" family="Times" color="#453e43"/>
+	<fontspec id="15" size="22" family="Times" color="#aaa6ab"/>
+	<fontspec id="16" size="34" family="Times" color="#e9443a"/>
+	<fontspec id="17" size="34" family="Times" color="#f8c1b2"/>
+	<fontspec id="18" size="31" family="Times" color="#ffffff"/>
+	<fontspec id="19" size="31" family="Times" color="#f8c1b2"/>
+<image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
+<text top="0" left="0" width="594" height="96" font="0"><a name="kiribati"></a></text>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Oceania"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Oceania"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
-<text top="197" left="72" width="1008" height="96" font="0" shrink="True"><b>Guam</b></text>
+<text top="197" left="72" width="1008" height="96" font="0" shrink="True"><b>Kiribati</b></text>
 <text top="477" left="72" width="905" height="44" font="8">Agenda 2030 includes the specific commitment to Leave </text>
 <text top="531" left="72" width="900" height="44" font="8">No One Behind. Together with Sustainable Development </text>
 <text top="585" left="72" width="965" height="44" font="8">Goal 10 to reduce inequality, this requires faster than average </text>
@@ -16516,63 +16608,91 @@
 <text top="945" left="72" width="1009" height="44" font="8">and opportunity. It uses three bellwether indicators of progress: </text>
 <text top="999" left="72" width="979" height="44" font="8">income, nutrition and civil registration and it promotes all data </text>
 <text top="1053" left="72" width="990" height="44" font="8">being disaggregated by Income Quintile, Gender, Geography, </text>
-<text top="1107" left="72" width="288" height="44" font="8">Age and Disability.</text>
+<text top="1107" left="72" width="298" height="44" font="8">Age and Disability. </text>
 <text top="1197" left="72" width="912" height="47" font="8">This profile provides key available data about the status </text>
-<text top="1251" left="72" width="514" height="47" font="8">of the P20 in Guam.</text>
-<text top="1551" left="162" width="617" height="64" font="5"><b>the P20 in Guam</b></text>
-<text top="1674" left="72" width="710" height="44" font="6">[XX] people in Guam are among </text>
+<text top="1251" left="72" width="514" height="47" font="8">of the P20 in Kiribati.</text>
+<text top="1551" left="162" width="617" height="64" font="5"><b>the P20 in Kiribati</b></text>
+<text top="1674" left="72" width="710" height="44" font="6">[XX] people in Kiribati are among </text>
 <text top="1728" left="72" width="763" height="44" font="6">the poorest 20% of the world’s population – the </text>
 <text top="1782" left="72" width="730" height="44" font="6">global P20. That is [X]% of the total population </text>
-<text top="1836" left="72" width="591" height="44" font="6">and they live on less than $2.54 a day.</text>
+<text top="1836" left="72" width="600" height="44" font="6">and they live on less than $2.54 a day. </text>
 <text top="1926" left="72" width="729" height="44" font="6">The national P20 – the poorest 20% of people </text>
-<text top="1980" left="72" width="789" height="44" font="6">within Guam – live on between $[XX] </text>
+<text top="1980" left="72" width="789" height="44" font="6">within Kiribati – live on between $[XX] </text>
 <text top="2034" left="72" width="786" height="44" font="6">and $[XX] a day compared with an average $[XX] </text>
 <text top="2088" left="72" width="460" height="44" font="6">for the rest of the population.</text>
 <text top="2187" left="72" width="600" height="35" font="9"><b>Source: </b>Development Initiatives based on PovcalNet</text>
-<text top="2190" left="622" width="5" height="20" font="11"><a href="#guam1"><b>1</b></a></text>
+<text top="2190" left="622" width="5" height="20" font="11"><a href="#kiribati1"><b>1</b></a></text>
 <text top="2451" left="162" width="160" height="64" font="5"><b>income</b></text>
 <text top="2574" left="72" width="765" height="44" font="6">In 2000 the gap between the P20 and everyone </text>
-<text top="2628" left="72" width="775" height="44" font="6">else in Guam was $[0.00] and in 2013 </text>
+<text top="2628" left="72" width="775" height="44" font="6">else in Kiribati was $[0.00] and in 2013 </text>
 <text top="2682" left="72" width="213" height="44" font="6">it was $[0.00].</text>
 <text top="3699" left="72" width="600" height="35" font="9"><b>Source: </b>Development Initiatives based on PovcalNet</text>
 <text top="3819" left="162" width="188" height="64" font="5"><b>nutrition</b></text>
-<text top="3942" left="72" width="743" height="44" font="6">In Guam [XX]% of adults are obese.</text>
-<text top="4779" left="72" width="882" height="35" font="9"><b>Source: </b>Development Initiatives based on NCD Risk Factor Collaboration 2017</text>
-<text top="4899" left="162" width="219" height="64" font="5"><b>education</b></text>
-<text top="5022" left="72" width="613" height="44" font="6">Education is fundamental to a person’s </text>
-<text top="5076" left="72" width="193" height="44" font="6">life chances.</text>
-<text top="5166" left="72" width="684" height="44" font="6">In Guam [XX]% of people have </text>
-<text top="5220" left="72" width="640" height="44" font="6">completed secondary school education.</text>
-<text top="5985" left="72" width="879" height="35" font="9"><b>Source: </b>Development Initiatives based on UNESCO Institute for Statistics 2018</text>
-<text top="6066" left="72" width="801" height="44" font="6">Data is not available that allows us to disaggregate </text>
-<text top="6120" left="72" width="766" height="44" font="6">secondary school completion based on income </text>
-<text top="6174" left="72" width="755" height="44" font="6">and therefore we are unable to see completion </text>
-<text top="6228" left="72" width="780" height="44" font="6">rates for the P20 versus the rest of the population </text>
-<text top="6282" left="72" width="226" height="44" font="6">in this country.</text>
-<text top="6411" left="162" width="137" height="64" font="5"><b>health</b></text>
-<text top="6534" left="72" width="777" height="44" font="6">Poor health plays a major part in keeping people </text>
-<text top="6588" left="72" width="801" height="44" font="6">in poverty. If you are among the P20 you are more </text>
-<text top="6642" left="72" width="721" height="44" font="6">likely to suffer from preventable diseases and </text>
-<text top="6696" left="72" width="205" height="44" font="6">to die earlier.</text>
-<text top="6786" left="72" width="709" height="44" font="6">In Guam the under five mortality </text>
-<text top="6840" left="72" width="486" height="44" font="6">rate is [XX] per 1,000 live births.</text>
-<text top="6930" left="72" width="801" height="44" font="6">Data is not available that allows us to disaggregate </text>
-<text top="6984" left="72" width="672" height="44" font="6">under five mortality based on income and </text>
-<text top="7038" left="72" width="747" height="44" font="6">therefore we are unable to see this information </text>
-<text top="7092" left="72" width="694" height="44" font="6">for the P20 versus the rest of the population.</text>
-<text top="7191" left="72" width="975" height="35" font="9"><b>Source: </b>Development Initiatives based on World Bank World Development Indicators</text>
-<text top="7425" left="72" width="15" height="34" font="12">1 </text>
-<text top="7425" left="72" width="15" height="34" font="12"><a name="guam1"></a></text>
-<text top="7426" left="108" width="501" height="32" font="10">Year of latest available data: 2013 (2011 $PPP)</text>
-<text top="2766" left="74" width="535" height="48" font="7"><b>Guam income trends</b></text>
-<text top="4026" left="72" width="196" height="48" font="7"><b>obesity rate</b></text>
-<text top="5304" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
-<text top="7631" left="72" width="531" height="43" font="18">If you would like more information  </text>
-<text top="7676" left="72" width="555" height="43" font="18">or to speak to us, please get in touch:</text>
-<text top="7757" left="72" width="480" height="43" font="18">Zach Christensen, Senior Analyst </text>
-<text top="7802" left="72" width="446" height="43" font="19"><a href="mailto:Zach.Christensen%40devinit.org?subject=">Zach.Christensen@devinit.org</a></text>
-<text top="7883" left="72" width="434" height="43" font="18">See more about this work at  </text>
-<text top="7928" left="72" width="332" height="43" font="19"><a href="http://www.devinit.org/p20i">www.devinit.org/p20i</a></text>
+<text top="3942" left="72" width="716" height="44" font="6">Nutrition is fundamental to the ability to learn </text>
+<text top="3996" left="72" width="790" height="44" font="6">and earn. Children who experience poor nutrition </text>
+<text top="4050" left="72" width="681" height="44" font="6">can suffer lifelong disadvantage as a result. </text>
+<text top="4140" left="72" width="707" height="44" font="6">In Kiribati, [X]% of under five year </text>
+<text top="4194" left="72" width="692" height="44" font="6">olds experienced stunting. In the P20 [XX]% </text>
+<text top="4248" left="72" width="696" height="44" font="6">experienced stunting compared with [XX]% </text>
+<text top="4302" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+<text top="5139" left="72" width="765" height="35" font="9"><b>Source: </b>Development Initiatives based on UNICEF-WHO joint child </text>
+<text top="5176" left="72" width="251" height="32" font="10">malnutrition estimates</text>
+<text top="5178" left="303" width="8" height="20" font="11"><a href="#kiribati2"><b>2</b></a></text>
+<text top="5298" left="162" width="369" height="64" font="5"><b>birth registration</b></text>
+<text top="5418" left="72" width="674" height="44" font="6">Civil Registration means people count and </text>
+<text top="5472" left="72" width="738" height="44" font="6">have rights. Worldwide around 71% of children </text>
+<text top="5526" left="72" width="687" height="44" font="6">are birth registered. If you are born into the </text>
+<text top="5580" left="72" width="752" height="44" font="6">poorest 20% of people you are much less likely </text>
+<text top="5634" left="72" width="466" height="44" font="6">to have your birth registered. </text>
+<text top="5724" left="72" width="734" height="44" font="6">In Kiribati [XX]% of births in the P20 </text>
+<text top="5778" left="72" width="707" height="44" font="6">are registered compared [XX]% in the rest of </text>
+<text top="5832" left="72" width="239" height="44" font="6">the population.</text>
+<text top="6714" left="72" width="690" height="44" font="6">Birth registration rates in Kiribati  </text>
+<text top="6768" left="72" width="451" height="44" font="6">have [increased/decreased].</text>
+<text top="6867" left="72" width="987" height="35" font="9"><b>Source: </b>Development Initiatives based on World Bank World Development Indicators: </text>
+<text top="6904" left="72" width="418" height="32" font="10">Completeness of birth registration %</text>
+<text top="6906" left="460" width="8" height="20" font="11"><a href="#kiribati3"><b>3</b></a></text>
+<text top="7023" left="162" width="219" height="64" font="5"><b>education</b></text>
+<text top="7146" left="72" width="613" height="44" font="6">Education is fundamental to a person’s </text>
+<text top="7200" left="72" width="202" height="44" font="6">life chances. </text>
+<text top="7290" left="72" width="684" height="44" font="6">In Kiribati [XX]% of people have </text>
+<text top="7344" left="72" width="640" height="44" font="6">completed secondary school education.</text>
+<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+<text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+<text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
+<text top="9183" left="162" width="137" height="64" font="5"><b>health</b></text>
+<text top="9306" left="72" width="777" height="44" font="6">Poor health plays a major part in keeping people </text>
+<text top="9360" left="72" width="801" height="44" font="6">in poverty. If you are among the P20 you are more </text>
+<text top="9414" left="72" width="721" height="44" font="6">likely to suffer from preventable diseases and </text>
+<text top="9468" left="72" width="214" height="44" font="6">to die earlier. </text>
+<text top="9558" left="72" width="790" height="44" font="6">In Kiribati the Under Five Mortality rate </text>
+<text top="9612" left="72" width="425" height="44" font="6">is [XX] per 1,000 live births. </text>
+<text top="9702" left="72" width="702" height="44" font="6">The under five mortality rate among the P20 </text>
+<text top="9756" left="72" width="742" height="44" font="6">is [XX] per 1,000 live births compared with [XX] </text>
+<text top="9810" left="72" width="770" height="44" font="6">per 1,000 live births for the rest of the population.</text>
+<text top="10647" left="72" width="889" height="35" font="9"><b>Source: </b>Development Initiatives based on Demographic Health Surveys (DHS)</text>
+<text top="10845" left="72" width="15" height="34" font="12">1 </text>
+<text top="10845" left="72" width="15" height="34" font="12"><a name="kiribati1"></a></text>
+<text top="10846" left="108" width="501" height="32" font="10">Year of latest available data: 2013 (2011 $PPP)</text>
+<text top="10899" left="72" width="21" height="34" font="12">2 </text>
+<text top="10899" left="72" width="21" height="34" font="12"><a name="kiribati2"></a></text>
+<text top="10900" left="108" width="957" height="32" font="10">Based on latest available data which varies between countries – see original source</text>
+<text top="10953" left="72" width="21" height="34" font="12">3 </text>
+<text top="10953" left="72" width="21" height="34" font="12"><a name="kiribati3"></a></text>
+<text top="10954" left="108" width="957" height="32" font="10">Based on latest available data which varies between countries – see original source</text>
+<text top="2766" left="74" width="535" height="48" font="7"><b>Kiribati income trends</b></text>
+<text top="4387" left="72" width="973" height="48" font="7"><b>stunting in children in the P20 compared with rest of country</b></text>
+<text top="5916" left="72" width="689" height="48" font="7"><b>birth registration rates for children under 5</b></text>
+<text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
+<text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
+<text top="9894" left="72" width="370" height="48" font="7"><b>under 5 mortality rates</b></text>
+<text top="11159" left="72" width="531" height="43" font="18">If you would like more information  </text>
+<text top="11204" left="72" width="555" height="43" font="18">or to speak to us, please get in touch:</text>
+<text top="11285" left="72" width="480" height="43" font="18">Zach Christensen, Senior Analyst </text>
+<text top="11330" left="72" width="446" height="43" font="19"><a href="mailto:Zach.Christensen%40devinit.org?subject=">Zach.Christensen@devinit.org</a></text>
+<text top="11411" left="72" width="434" height="43" font="18">See more about this work at  </text>
+<text top="11456" left="72" width="332" height="43" font="19"><a href="http://www.devinit.org/p20i">www.devinit.org/p20i</a></text>
 </page>
 
 
@@ -16698,85 +16818,6 @@
 	
 <page number="155" position="absolute" top="0" left="0" height="8065" width="1152">
 <image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
-<text top="0" left="0" width="594" height="96" font="0"><a name="new-caledonia"></a></text>
-<button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Oceania"/>
-<text top="76" left="832" width="230" height="32" font="3"><a href="#Oceania"><b>all countries in region</b></a></text>
-<text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
-<text top="197" left="72" width="1008" height="96" font="0" shrink="True"><b>New Caledonia</b></text>
-<text top="477" left="72" width="905" height="44" font="8">Agenda 2030 includes the specific commitment to Leave </text>
-<text top="531" left="72" width="900" height="44" font="8">No One Behind. Together with Sustainable Development </text>
-<text top="585" left="72" width="965" height="44" font="8">Goal 10 to reduce inequality, this requires faster than average </text>
-<text top="639" left="72" width="990" height="44" font="8">progress for the poorest. The test is whether the gap between </text>
-<text top="693" left="72" width="881" height="44" font="8">the poorest 20% of people (the P20) and everyone else </text>
-<text top="747" left="72" width="453" height="44" font="8">is reducing or getting wider. </text>
-<text top="837" left="72" width="974" height="44" font="8">The P20 Initiative uses data to show whether the poorest 20% </text>
-<text top="891" left="72" width="956" height="44" font="8">of people are getting their fair share of attention, investment </text>
-<text top="945" left="72" width="1009" height="44" font="8">and opportunity. It uses three bellwether indicators of progress: </text>
-<text top="999" left="72" width="979" height="44" font="8">income, nutrition and civil registration and it promotes all data </text>
-<text top="1053" left="72" width="990" height="44" font="8">being disaggregated by Income Quintile, Gender, Geography, </text>
-<text top="1107" left="72" width="288" height="44" font="8">Age and Disability.</text>
-<text top="1197" left="72" width="912" height="47" font="8">This profile provides key available data about the status </text>
-<text top="1251" left="72" width="514" height="47" font="8">of the P20 in New Caledonia.</text>
-<text top="1551" left="162" width="617" height="64" font="5"><b>the P20 in New Caledonia</b></text>
-<text top="1674" left="72" width="710" height="44" font="6">[XX] people in New Caledonia are among </text>
-<text top="1728" left="72" width="763" height="44" font="6">the poorest 20% of the world’s population – the </text>
-<text top="1782" left="72" width="730" height="44" font="6">global P20. That is [X]% of the total population </text>
-<text top="1836" left="72" width="591" height="44" font="6">and they live on less than $2.54 a day.</text>
-<text top="1926" left="72" width="729" height="44" font="6">The national P20 – the poorest 20% of people </text>
-<text top="1980" left="72" width="789" height="44" font="6">within New Caledonia – live on between $[XX] </text>
-<text top="2034" left="72" width="786" height="44" font="6">and $[XX] a day compared with an average $[XX] </text>
-<text top="2088" left="72" width="460" height="44" font="6">for the rest of the population.</text>
-<text top="2187" left="72" width="600" height="35" font="9"><b>Source: </b>Development Initiatives based on PovcalNet</text>
-<text top="2190" left="622" width="5" height="20" font="11"><a href="#new-caledonia1"><b>1</b></a></text>
-<text top="2451" left="162" width="160" height="64" font="5"><b>income</b></text>
-<text top="2574" left="72" width="765" height="44" font="6">In 2000 the gap between the P20 and everyone </text>
-<text top="2628" left="72" width="775" height="44" font="6">else in New Caledonia was $[0.00] and in 2013 </text>
-<text top="2682" left="72" width="213" height="44" font="6">it was $[0.00].</text>
-<text top="3699" left="72" width="600" height="35" font="9"><b>Source: </b>Development Initiatives based on PovcalNet</text>
-<text top="3819" left="162" width="188" height="64" font="5"><b>nutrition</b></text>
-<text top="3942" left="72" width="743" height="44" font="6">In New Caledonia [XX]% of adults are obese.</text>
-<text top="4779" left="72" width="882" height="35" font="9"><b>Source: </b>Development Initiatives based on NCD Risk Factor Collaboration 2017</text>
-<text top="4899" left="162" width="219" height="64" font="5"><b>education</b></text>
-<text top="5022" left="72" width="613" height="44" font="6">Education is fundamental to a person’s </text>
-<text top="5076" left="72" width="193" height="44" font="6">life chances.</text>
-<text top="5166" left="72" width="684" height="44" font="6">In New Caledonia [XX]% of people have </text>
-<text top="5220" left="72" width="640" height="44" font="6">completed secondary school education.</text>
-<text top="5985" left="72" width="879" height="35" font="9"><b>Source: </b>Development Initiatives based on UNESCO Institute for Statistics 2018</text>
-<text top="6066" left="72" width="801" height="44" font="6">Data is not available that allows us to disaggregate </text>
-<text top="6120" left="72" width="766" height="44" font="6">secondary school completion based on income </text>
-<text top="6174" left="72" width="755" height="44" font="6">and therefore we are unable to see completion </text>
-<text top="6228" left="72" width="780" height="44" font="6">rates for the P20 versus the rest of the population </text>
-<text top="6282" left="72" width="226" height="44" font="6">in this country.</text>
-<text top="6411" left="162" width="137" height="64" font="5"><b>health</b></text>
-<text top="6534" left="72" width="777" height="44" font="6">Poor health plays a major part in keeping people </text>
-<text top="6588" left="72" width="801" height="44" font="6">in poverty. If you are among the P20 you are more </text>
-<text top="6642" left="72" width="721" height="44" font="6">likely to suffer from preventable diseases and </text>
-<text top="6696" left="72" width="205" height="44" font="6">to die earlier.</text>
-<text top="6786" left="72" width="709" height="44" font="6">In New Caledonia the under five mortality </text>
-<text top="6840" left="72" width="486" height="44" font="6">rate is [XX] per 1,000 live births.</text>
-<text top="6930" left="72" width="801" height="44" font="6">Data is not available that allows us to disaggregate </text>
-<text top="6984" left="72" width="672" height="44" font="6">under five mortality based on income and </text>
-<text top="7038" left="72" width="747" height="44" font="6">therefore we are unable to see this information </text>
-<text top="7092" left="72" width="694" height="44" font="6">for the P20 versus the rest of the population.</text>
-<text top="7191" left="72" width="975" height="35" font="9"><b>Source: </b>Development Initiatives based on World Bank World Development Indicators</text>
-<text top="7425" left="72" width="15" height="34" font="12">1 </text>
-<text top="7425" left="72" width="15" height="34" font="12"><a name="new-caledonia1"></a></text>
-<text top="7426" left="108" width="501" height="32" font="10">Year of latest available data: 2013 (2011 $PPP)</text>
-<text top="2766" left="74" width="535" height="48" font="7"><b>New Caledonia income trends</b></text>
-<text top="4026" left="72" width="196" height="48" font="7"><b>obesity rate</b></text>
-<text top="5304" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
-<text top="7631" left="72" width="531" height="43" font="18">If you would like more information  </text>
-<text top="7676" left="72" width="555" height="43" font="18">or to speak to us, please get in touch:</text>
-<text top="7757" left="72" width="480" height="43" font="18">Zach Christensen, Senior Analyst </text>
-<text top="7802" left="72" width="446" height="43" font="19"><a href="mailto:Zach.Christensen%40devinit.org?subject=">Zach.Christensen@devinit.org</a></text>
-<text top="7883" left="72" width="434" height="43" font="18">See more about this work at  </text>
-<text top="7928" left="72" width="332" height="43" font="19"><a href="http://www.devinit.org/p20i">www.devinit.org/p20i</a></text>
-</page>
-
-
-	
-<page number="156" position="absolute" top="0" left="0" height="8065" width="1152">
-<image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
 <text top="0" left="0" width="594" height="96" font="0"><a name="new-zealand"></a></text>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Oceania"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Oceania"><b>all countries in region</b></a></text>
@@ -16854,7 +16895,7 @@
 
 
 	
-<page number="157" position="absolute" top="0" left="0" height="11592" width="1152">
+<page number="156" position="absolute" top="0" left="0" height="11592" width="1152">
 	<fontspec id="8" size="34" family="Times" color="#ffffff"/>
 	<fontspec id="9" size="24" family="Times" color="#847f84"/>
 	<fontspec id="10" size="24" family="Times" color="#847f84"/>
@@ -16973,7 +17014,7 @@
 
 
 	
-<page number="158" position="absolute" top="0" left="0" height="11592" width="1152">
+<page number="157" position="absolute" top="0" left="0" height="11592" width="1152">
 	<fontspec id="8" size="34" family="Times" color="#ffffff"/>
 	<fontspec id="9" size="24" family="Times" color="#847f84"/>
 	<fontspec id="10" size="24" family="Times" color="#847f84"/>
@@ -17092,7 +17133,7 @@
 
 
 	
-<page number="159" position="absolute" top="0" left="0" height="11592" width="1152">
+<page number="158" position="absolute" top="0" left="0" height="11592" width="1152">
 	<fontspec id="8" size="34" family="Times" color="#ffffff"/>
 	<fontspec id="9" size="24" family="Times" color="#847f84"/>
 	<fontspec id="10" size="24" family="Times" color="#847f84"/>
@@ -17211,7 +17252,7 @@
 
 
 	
-<page number="160" position="absolute" top="0" left="0" height="11592" width="1152">
+<page number="159" position="absolute" top="0" left="0" height="11592" width="1152">
 	<fontspec id="8" size="34" family="Times" color="#ffffff"/>
 	<fontspec id="9" size="24" family="Times" color="#847f84"/>
 	<fontspec id="10" size="24" family="Times" color="#847f84"/>
@@ -17315,6 +17356,125 @@
 <text top="10953" left="72" width="21" height="34" font="12"><a name="tonga3"></a></text>
 <text top="10954" left="108" width="957" height="32" font="10">Based on latest available data which varies between countries – see original source</text>
 <text top="2766" left="74" width="535" height="48" font="7"><b>Tonga income trends</b></text>
+<text top="4387" left="72" width="973" height="48" font="7"><b>stunting in children in the P20 compared with rest of country</b></text>
+<text top="5916" left="72" width="689" height="48" font="7"><b>birth registration rates for children under 5</b></text>
+<text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
+<text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
+<text top="9894" left="72" width="370" height="48" font="7"><b>under 5 mortality rates</b></text>
+<text top="11159" left="72" width="531" height="43" font="18">If you would like more information  </text>
+<text top="11204" left="72" width="555" height="43" font="18">or to speak to us, please get in touch:</text>
+<text top="11285" left="72" width="480" height="43" font="18">Zach Christensen, Senior Analyst </text>
+<text top="11330" left="72" width="446" height="43" font="19"><a href="mailto:Zach.Christensen%40devinit.org?subject=">Zach.Christensen@devinit.org</a></text>
+<text top="11411" left="72" width="434" height="43" font="18">See more about this work at  </text>
+<text top="11456" left="72" width="332" height="43" font="19"><a href="http://www.devinit.org/p20i">www.devinit.org/p20i</a></text>
+</page>
+
+
+	
+<page number="160" position="absolute" top="0" left="0" height="11592" width="1152">
+	<fontspec id="8" size="34" family="Times" color="#ffffff"/>
+	<fontspec id="9" size="24" family="Times" color="#847f84"/>
+	<fontspec id="10" size="24" family="Times" color="#847f84"/>
+	<fontspec id="11" size="13" family="Times" color="#e9443a"/>
+	<fontspec id="12" size="24" family="Times" color="#e9443a"/>
+	<fontspec id="13" size="22" family="Times" color="#453e43"/>
+	<fontspec id="14" size="22" family="Times" color="#453e43"/>
+	<fontspec id="15" size="22" family="Times" color="#aaa6ab"/>
+	<fontspec id="16" size="34" family="Times" color="#e9443a"/>
+	<fontspec id="17" size="34" family="Times" color="#f8c1b2"/>
+	<fontspec id="18" size="31" family="Times" color="#ffffff"/>
+	<fontspec id="19" size="31" family="Times" color="#f8c1b2"/>
+<image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
+<text top="0" left="0" width="594" height="96" font="0"><a name="tuvalu"></a></text>
+<button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Oceania"/>
+<text top="76" left="832" width="230" height="32" font="3"><a href="#Oceania"><b>all countries in region</b></a></text>
+<text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
+<text top="197" left="72" width="1008" height="96" font="0" shrink="True"><b>Tuvalu</b></text>
+<text top="477" left="72" width="905" height="44" font="8">Agenda 2030 includes the specific commitment to Leave </text>
+<text top="531" left="72" width="900" height="44" font="8">No One Behind. Together with Sustainable Development </text>
+<text top="585" left="72" width="965" height="44" font="8">Goal 10 to reduce inequality, this requires faster than average </text>
+<text top="639" left="72" width="990" height="44" font="8">progress for the poorest. The test is whether the gap between </text>
+<text top="693" left="72" width="881" height="44" font="8">the poorest 20% of people (the P20) and everyone else </text>
+<text top="747" left="72" width="453" height="44" font="8">is reducing or getting wider. </text>
+<text top="837" left="72" width="974" height="44" font="8">The P20 Initiative uses data to show whether the poorest 20% </text>
+<text top="891" left="72" width="956" height="44" font="8">of people are getting their fair share of attention, investment </text>
+<text top="945" left="72" width="1009" height="44" font="8">and opportunity. It uses three bellwether indicators of progress: </text>
+<text top="999" left="72" width="979" height="44" font="8">income, nutrition and civil registration and it promotes all data </text>
+<text top="1053" left="72" width="990" height="44" font="8">being disaggregated by Income Quintile, Gender, Geography, </text>
+<text top="1107" left="72" width="298" height="44" font="8">Age and Disability. </text>
+<text top="1197" left="72" width="912" height="47" font="8">This profile provides key available data about the status </text>
+<text top="1251" left="72" width="514" height="47" font="8">of the P20 in Tuvalu.</text>
+<text top="1551" left="162" width="617" height="64" font="5"><b>the P20 in Tuvalu</b></text>
+<text top="1674" left="72" width="710" height="44" font="6">[XX] people in Tuvalu are among </text>
+<text top="1728" left="72" width="763" height="44" font="6">the poorest 20% of the world’s population – the </text>
+<text top="1782" left="72" width="730" height="44" font="6">global P20. That is [X]% of the total population </text>
+<text top="1836" left="72" width="600" height="44" font="6">and they live on less than $2.54 a day. </text>
+<text top="1926" left="72" width="729" height="44" font="6">The national P20 – the poorest 20% of people </text>
+<text top="1980" left="72" width="789" height="44" font="6">within Tuvalu – live on between $[XX] </text>
+<text top="2034" left="72" width="786" height="44" font="6">and $[XX] a day compared with an average $[XX] </text>
+<text top="2088" left="72" width="460" height="44" font="6">for the rest of the population.</text>
+<text top="2187" left="72" width="600" height="35" font="9"><b>Source: </b>Development Initiatives based on PovcalNet</text>
+<text top="2190" left="622" width="5" height="20" font="11"><a href="#tuvalu1"><b>1</b></a></text>
+<text top="2451" left="162" width="160" height="64" font="5"><b>income</b></text>
+<text top="2574" left="72" width="765" height="44" font="6">In 2000 the gap between the P20 and everyone </text>
+<text top="2628" left="72" width="775" height="44" font="6">else in Tuvalu was $[0.00] and in 2013 </text>
+<text top="2682" left="72" width="213" height="44" font="6">it was $[0.00].</text>
+<text top="3699" left="72" width="600" height="35" font="9"><b>Source: </b>Development Initiatives based on PovcalNet</text>
+<text top="3819" left="162" width="188" height="64" font="5"><b>nutrition</b></text>
+<text top="3942" left="72" width="716" height="44" font="6">Nutrition is fundamental to the ability to learn </text>
+<text top="3996" left="72" width="790" height="44" font="6">and earn. Children who experience poor nutrition </text>
+<text top="4050" left="72" width="681" height="44" font="6">can suffer lifelong disadvantage as a result. </text>
+<text top="4140" left="72" width="707" height="44" font="6">In Tuvalu, [X]% of under five year </text>
+<text top="4194" left="72" width="692" height="44" font="6">olds experienced stunting. In the P20 [XX]% </text>
+<text top="4248" left="72" width="696" height="44" font="6">experienced stunting compared with [XX]% </text>
+<text top="4302" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+<text top="5139" left="72" width="765" height="35" font="9"><b>Source: </b>Development Initiatives based on UNICEF-WHO joint child </text>
+<text top="5176" left="72" width="251" height="32" font="10">malnutrition estimates</text>
+<text top="5178" left="303" width="8" height="20" font="11"><a href="#tuvalu2"><b>2</b></a></text>
+<text top="5298" left="162" width="369" height="64" font="5"><b>birth registration</b></text>
+<text top="5418" left="72" width="674" height="44" font="6">Civil Registration means people count and </text>
+<text top="5472" left="72" width="738" height="44" font="6">have rights. Worldwide around 71% of children </text>
+<text top="5526" left="72" width="687" height="44" font="6">are birth registered. If you are born into the </text>
+<text top="5580" left="72" width="752" height="44" font="6">poorest 20% of people you are much less likely </text>
+<text top="5634" left="72" width="466" height="44" font="6">to have your birth registered. </text>
+<text top="5724" left="72" width="734" height="44" font="6">In Tuvalu [XX]% of births in the P20 </text>
+<text top="5778" left="72" width="707" height="44" font="6">are registered compared [XX]% in the rest of </text>
+<text top="5832" left="72" width="239" height="44" font="6">the population.</text>
+<text top="6714" left="72" width="690" height="44" font="6">Birth registration rates in Tuvalu  </text>
+<text top="6768" left="72" width="451" height="44" font="6">have [increased/decreased].</text>
+<text top="6867" left="72" width="987" height="35" font="9"><b>Source: </b>Development Initiatives based on World Bank World Development Indicators: </text>
+<text top="6904" left="72" width="418" height="32" font="10">Completeness of birth registration %</text>
+<text top="6906" left="460" width="8" height="20" font="11"><a href="#tuvalu3"><b>3</b></a></text>
+<text top="7023" left="162" width="219" height="64" font="5"><b>education</b></text>
+<text top="7146" left="72" width="613" height="44" font="6">Education is fundamental to a person’s </text>
+<text top="7200" left="72" width="202" height="44" font="6">life chances. </text>
+<text top="7290" left="72" width="684" height="44" font="6">In Tuvalu [XX]% of people have </text>
+<text top="7344" left="72" width="640" height="44" font="6">completed secondary school education.</text>
+<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+<text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+<text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
+<text top="9183" left="162" width="137" height="64" font="5"><b>health</b></text>
+<text top="9306" left="72" width="777" height="44" font="6">Poor health plays a major part in keeping people </text>
+<text top="9360" left="72" width="801" height="44" font="6">in poverty. If you are among the P20 you are more </text>
+<text top="9414" left="72" width="721" height="44" font="6">likely to suffer from preventable diseases and </text>
+<text top="9468" left="72" width="214" height="44" font="6">to die earlier. </text>
+<text top="9558" left="72" width="790" height="44" font="6">In Tuvalu the Under Five Mortality rate </text>
+<text top="9612" left="72" width="425" height="44" font="6">is [XX] per 1,000 live births. </text>
+<text top="9702" left="72" width="702" height="44" font="6">The under five mortality rate among the P20 </text>
+<text top="9756" left="72" width="742" height="44" font="6">is [XX] per 1,000 live births compared with [XX] </text>
+<text top="9810" left="72" width="770" height="44" font="6">per 1,000 live births for the rest of the population.</text>
+<text top="10647" left="72" width="889" height="35" font="9"><b>Source: </b>Development Initiatives based on Demographic Health Surveys (DHS)</text>
+<text top="10845" left="72" width="15" height="34" font="12">1 </text>
+<text top="10845" left="72" width="15" height="34" font="12"><a name="tuvalu1"></a></text>
+<text top="10846" left="108" width="501" height="32" font="10">Year of latest available data: 2013 (2011 $PPP)</text>
+<text top="10899" left="72" width="21" height="34" font="12">2 </text>
+<text top="10899" left="72" width="21" height="34" font="12"><a name="tuvalu2"></a></text>
+<text top="10900" left="108" width="957" height="32" font="10">Based on latest available data which varies between countries – see original source</text>
+<text top="10953" left="72" width="21" height="34" font="12">3 </text>
+<text top="10953" left="72" width="21" height="34" font="12"><a name="tuvalu3"></a></text>
+<text top="10954" left="108" width="957" height="32" font="10">Based on latest available data which varies between countries – see original source</text>
+<text top="2766" left="74" width="535" height="48" font="7"><b>Tuvalu income trends</b></text>
 <text top="4387" left="72" width="973" height="48" font="7"><b>stunting in children in the P20 compared with rest of country</b></text>
 <text top="5916" left="72" width="689" height="48" font="7"><b>birth registration rates for children under 5</b></text>
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
@@ -18360,7 +18520,126 @@
 
 
 	
-<page number="171" position="absolute" top="0" left="0" height="8065" width="1152">
+<page number="171" position="absolute" top="0" left="0" height="11592" width="1152">
+	<fontspec id="8" size="34" family="Times" color="#ffffff"/>
+	<fontspec id="9" size="24" family="Times" color="#847f84"/>
+	<fontspec id="10" size="24" family="Times" color="#847f84"/>
+	<fontspec id="11" size="13" family="Times" color="#e9443a"/>
+	<fontspec id="12" size="24" family="Times" color="#e9443a"/>
+	<fontspec id="13" size="22" family="Times" color="#453e43"/>
+	<fontspec id="14" size="22" family="Times" color="#453e43"/>
+	<fontspec id="15" size="22" family="Times" color="#aaa6ab"/>
+	<fontspec id="16" size="34" family="Times" color="#e9443a"/>
+	<fontspec id="17" size="34" family="Times" color="#f8c1b2"/>
+	<fontspec id="18" size="31" family="Times" color="#ffffff"/>
+	<fontspec id="19" size="31" family="Times" color="#f8c1b2"/>
+<image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
+<text top="0" left="0" width="594" height="96" font="0"><a name="kosovo"></a></text>
+<button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Europe"/>
+<text top="76" left="832" width="230" height="32" font="3"><a href="#Europe"><b>all countries in region</b></a></text>
+<text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
+<text top="197" left="72" width="1008" height="96" font="0" shrink="True"><b>Kosovo</b></text>
+<text top="477" left="72" width="905" height="44" font="8">Agenda 2030 includes the specific commitment to Leave </text>
+<text top="531" left="72" width="900" height="44" font="8">No One Behind. Together with Sustainable Development </text>
+<text top="585" left="72" width="965" height="44" font="8">Goal 10 to reduce inequality, this requires faster than average </text>
+<text top="639" left="72" width="990" height="44" font="8">progress for the poorest. The test is whether the gap between </text>
+<text top="693" left="72" width="881" height="44" font="8">the poorest 20% of people (the P20) and everyone else </text>
+<text top="747" left="72" width="453" height="44" font="8">is reducing or getting wider. </text>
+<text top="837" left="72" width="974" height="44" font="8">The P20 Initiative uses data to show whether the poorest 20% </text>
+<text top="891" left="72" width="956" height="44" font="8">of people are getting their fair share of attention, investment </text>
+<text top="945" left="72" width="1009" height="44" font="8">and opportunity. It uses three bellwether indicators of progress: </text>
+<text top="999" left="72" width="979" height="44" font="8">income, nutrition and civil registration and it promotes all data </text>
+<text top="1053" left="72" width="990" height="44" font="8">being disaggregated by Income Quintile, Gender, Geography, </text>
+<text top="1107" left="72" width="298" height="44" font="8">Age and Disability. </text>
+<text top="1197" left="72" width="912" height="47" font="8">This profile provides key available data about the status </text>
+<text top="1251" left="72" width="514" height="47" font="8">of the P20 in Kosovo.</text>
+<text top="1551" left="162" width="617" height="64" font="5"><b>the P20 in Kosovo</b></text>
+<text top="1674" left="72" width="710" height="44" font="6">[XX] people in Kosovo are among </text>
+<text top="1728" left="72" width="763" height="44" font="6">the poorest 20% of the world’s population – the </text>
+<text top="1782" left="72" width="730" height="44" font="6">global P20. That is [X]% of the total population </text>
+<text top="1836" left="72" width="600" height="44" font="6">and they live on less than $2.54 a day. </text>
+<text top="1926" left="72" width="729" height="44" font="6">The national P20 – the poorest 20% of people </text>
+<text top="1980" left="72" width="789" height="44" font="6">within Kosovo – live on between $[XX] </text>
+<text top="2034" left="72" width="786" height="44" font="6">and $[XX] a day compared with an average $[XX] </text>
+<text top="2088" left="72" width="460" height="44" font="6">for the rest of the population.</text>
+<text top="2187" left="72" width="600" height="35" font="9"><b>Source: </b>Development Initiatives based on PovcalNet</text>
+<text top="2190" left="622" width="5" height="20" font="11"><a href="#kosovo1"><b>1</b></a></text>
+<text top="2451" left="162" width="160" height="64" font="5"><b>income</b></text>
+<text top="2574" left="72" width="765" height="44" font="6">In 2000 the gap between the P20 and everyone </text>
+<text top="2628" left="72" width="775" height="44" font="6">else in Kosovo was $[0.00] and in 2013 </text>
+<text top="2682" left="72" width="213" height="44" font="6">it was $[0.00].</text>
+<text top="3699" left="72" width="600" height="35" font="9"><b>Source: </b>Development Initiatives based on PovcalNet</text>
+<text top="3819" left="162" width="188" height="64" font="5"><b>nutrition</b></text>
+<text top="3942" left="72" width="716" height="44" font="6">Nutrition is fundamental to the ability to learn </text>
+<text top="3996" left="72" width="790" height="44" font="6">and earn. Children who experience poor nutrition </text>
+<text top="4050" left="72" width="681" height="44" font="6">can suffer lifelong disadvantage as a result. </text>
+<text top="4140" left="72" width="707" height="44" font="6">In Kosovo, [X]% of under five year </text>
+<text top="4194" left="72" width="692" height="44" font="6">olds experienced stunting. In the P20 [XX]% </text>
+<text top="4248" left="72" width="696" height="44" font="6">experienced stunting compared with [XX]% </text>
+<text top="4302" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+<text top="5139" left="72" width="765" height="35" font="9"><b>Source: </b>Development Initiatives based on UNICEF-WHO joint child </text>
+<text top="5176" left="72" width="251" height="32" font="10">malnutrition estimates</text>
+<text top="5178" left="303" width="8" height="20" font="11"><a href="#kosovo2"><b>2</b></a></text>
+<text top="5298" left="162" width="369" height="64" font="5"><b>birth registration</b></text>
+<text top="5418" left="72" width="674" height="44" font="6">Civil Registration means people count and </text>
+<text top="5472" left="72" width="738" height="44" font="6">have rights. Worldwide around 71% of children </text>
+<text top="5526" left="72" width="687" height="44" font="6">are birth registered. If you are born into the </text>
+<text top="5580" left="72" width="752" height="44" font="6">poorest 20% of people you are much less likely </text>
+<text top="5634" left="72" width="466" height="44" font="6">to have your birth registered. </text>
+<text top="5724" left="72" width="734" height="44" font="6">In Kosovo [XX]% of births in the P20 </text>
+<text top="5778" left="72" width="707" height="44" font="6">are registered compared [XX]% in the rest of </text>
+<text top="5832" left="72" width="239" height="44" font="6">the population.</text>
+<text top="6714" left="72" width="690" height="44" font="6">Birth registration rates in Kosovo  </text>
+<text top="6768" left="72" width="451" height="44" font="6">have [increased/decreased].</text>
+<text top="6867" left="72" width="987" height="35" font="9"><b>Source: </b>Development Initiatives based on World Bank World Development Indicators: </text>
+<text top="6904" left="72" width="418" height="32" font="10">Completeness of birth registration %</text>
+<text top="6906" left="460" width="8" height="20" font="11"><a href="#kosovo3"><b>3</b></a></text>
+<text top="7023" left="162" width="219" height="64" font="5"><b>education</b></text>
+<text top="7146" left="72" width="613" height="44" font="6">Education is fundamental to a person’s </text>
+<text top="7200" left="72" width="202" height="44" font="6">life chances. </text>
+<text top="7290" left="72" width="684" height="44" font="6">In Kosovo [XX]% of people have </text>
+<text top="7344" left="72" width="640" height="44" font="6">completed secondary school education.</text>
+<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+<text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+<text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
+<text top="9183" left="162" width="137" height="64" font="5"><b>health</b></text>
+<text top="9306" left="72" width="777" height="44" font="6">Poor health plays a major part in keeping people </text>
+<text top="9360" left="72" width="801" height="44" font="6">in poverty. If you are among the P20 you are more </text>
+<text top="9414" left="72" width="721" height="44" font="6">likely to suffer from preventable diseases and </text>
+<text top="9468" left="72" width="214" height="44" font="6">to die earlier. </text>
+<text top="9558" left="72" width="790" height="44" font="6">In Kosovo the Under Five Mortality rate </text>
+<text top="9612" left="72" width="425" height="44" font="6">is [XX] per 1,000 live births. </text>
+<text top="9702" left="72" width="702" height="44" font="6">The under five mortality rate among the P20 </text>
+<text top="9756" left="72" width="742" height="44" font="6">is [XX] per 1,000 live births compared with [XX] </text>
+<text top="9810" left="72" width="770" height="44" font="6">per 1,000 live births for the rest of the population.</text>
+<text top="10647" left="72" width="889" height="35" font="9"><b>Source: </b>Development Initiatives based on Demographic Health Surveys (DHS)</text>
+<text top="10845" left="72" width="15" height="34" font="12">1 </text>
+<text top="10845" left="72" width="15" height="34" font="12"><a name="kosovo1"></a></text>
+<text top="10846" left="108" width="501" height="32" font="10">Year of latest available data: 2013 (2011 $PPP)</text>
+<text top="10899" left="72" width="21" height="34" font="12">2 </text>
+<text top="10899" left="72" width="21" height="34" font="12"><a name="kosovo2"></a></text>
+<text top="10900" left="108" width="957" height="32" font="10">Based on latest available data which varies between countries – see original source</text>
+<text top="10953" left="72" width="21" height="34" font="12">3 </text>
+<text top="10953" left="72" width="21" height="34" font="12"><a name="kosovo3"></a></text>
+<text top="10954" left="108" width="957" height="32" font="10">Based on latest available data which varies between countries – see original source</text>
+<text top="2766" left="74" width="535" height="48" font="7"><b>Kosovo income trends</b></text>
+<text top="4387" left="72" width="973" height="48" font="7"><b>stunting in children in the P20 compared with rest of country</b></text>
+<text top="5916" left="72" width="689" height="48" font="7"><b>birth registration rates for children under 5</b></text>
+<text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
+<text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
+<text top="9894" left="72" width="370" height="48" font="7"><b>under 5 mortality rates</b></text>
+<text top="11159" left="72" width="531" height="43" font="18">If you would like more information  </text>
+<text top="11204" left="72" width="555" height="43" font="18">or to speak to us, please get in touch:</text>
+<text top="11285" left="72" width="480" height="43" font="18">Zach Christensen, Senior Analyst </text>
+<text top="11330" left="72" width="446" height="43" font="19"><a href="mailto:Zach.Christensen%40devinit.org?subject=">Zach.Christensen@devinit.org</a></text>
+<text top="11411" left="72" width="434" height="43" font="18">See more about this work at  </text>
+<text top="11456" left="72" width="332" height="43" font="19"><a href="http://www.devinit.org/p20i">www.devinit.org/p20i</a></text>
+</page>
+
+
+	
+<page number="172" position="absolute" top="0" left="0" height="8065" width="1152">
 <image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
 <text top="0" left="0" width="594" height="96" font="0"><a name="latvia"></a></text>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Europe"/>
@@ -18439,7 +18718,7 @@
 
 
 	
-<page number="172" position="absolute" top="0" left="0" height="8065" width="1152">
+<page number="173" position="absolute" top="0" left="0" height="8065" width="1152">
 <image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
 <text top="0" left="0" width="594" height="96" font="0"><a name="lithuania"></a></text>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Europe"/>
@@ -18518,7 +18797,7 @@
 
 
 	
-<page number="173" position="absolute" top="0" left="0" height="11592" width="1152">
+<page number="174" position="absolute" top="0" left="0" height="11592" width="1152">
 	<fontspec id="8" size="34" family="Times" color="#ffffff"/>
 	<fontspec id="9" size="24" family="Times" color="#847f84"/>
 	<fontspec id="10" size="24" family="Times" color="#847f84"/>
@@ -18637,7 +18916,7 @@
 
 
 	
-<page number="174" position="absolute" top="0" left="0" height="8065" width="1152">
+<page number="175" position="absolute" top="0" left="0" height="8065" width="1152">
 <image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
 <text top="0" left="0" width="594" height="96" font="0"><a name="poland"></a></text>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Europe"/>
@@ -18716,7 +18995,7 @@
 
 
 	
-<page number="175" position="absolute" top="0" left="0" height="11592" width="1152">
+<page number="176" position="absolute" top="0" left="0" height="11592" width="1152">
 	<fontspec id="8" size="34" family="Times" color="#ffffff"/>
 	<fontspec id="9" size="24" family="Times" color="#847f84"/>
 	<fontspec id="10" size="24" family="Times" color="#847f84"/>
@@ -18835,7 +19114,7 @@
 
 
 	
-<page number="176" position="absolute" top="0" left="0" height="11592" width="1152">
+<page number="177" position="absolute" top="0" left="0" height="11592" width="1152">
 	<fontspec id="8" size="34" family="Times" color="#ffffff"/>
 	<fontspec id="9" size="24" family="Times" color="#847f84"/>
 	<fontspec id="10" size="24" family="Times" color="#847f84"/>
@@ -18954,7 +19233,7 @@
 
 
 	
-<page number="177" position="absolute" top="0" left="0" height="11592" width="1152">
+<page number="178" position="absolute" top="0" left="0" height="11592" width="1152">
 	<fontspec id="8" size="34" family="Times" color="#ffffff"/>
 	<fontspec id="9" size="24" family="Times" color="#847f84"/>
 	<fontspec id="10" size="24" family="Times" color="#847f84"/>
@@ -19073,7 +19352,7 @@
 
 
 	
-<page number="178" position="absolute" top="0" left="0" height="11592" width="1152">
+<page number="179" position="absolute" top="0" left="0" height="11592" width="1152">
 	<fontspec id="8" size="34" family="Times" color="#ffffff"/>
 	<fontspec id="9" size="24" family="Times" color="#847f84"/>
 	<fontspec id="10" size="24" family="Times" color="#847f84"/>
@@ -19192,7 +19471,7 @@
 
 
 	
-<page number="179" position="absolute" top="0" left="0" height="8065" width="1152">
+<page number="180" position="absolute" top="0" left="0" height="8065" width="1152">
 <image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
 <text top="0" left="0" width="594" height="96" font="0"><a name="slovakia"></a></text>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Europe"/>
@@ -19271,7 +19550,7 @@
 
 
 	
-<page number="180" position="absolute" top="0" left="0" height="8065" width="1152">
+<page number="181" position="absolute" top="0" left="0" height="8065" width="1152">
 <image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
 <text top="0" left="0" width="594" height="96" font="0"><a name="slovenia"></a></text>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Europe"/>
@@ -19350,7 +19629,7 @@
 
 
 	
-<page number="181" position="absolute" top="0" left="0" height="11592" width="1152">
+<page number="182" position="absolute" top="0" left="0" height="11592" width="1152">
 	<fontspec id="8" size="34" family="Times" color="#ffffff"/>
 	<fontspec id="9" size="24" family="Times" color="#847f84"/>
 	<fontspec id="10" size="24" family="Times" color="#847f84"/>
@@ -19469,7 +19748,7 @@
 
 
 	
-<page number="182" position="absolute" top="0" left="0" height="11592" width="1152">
+<page number="183" position="absolute" top="0" left="0" height="11592" width="1152">
 	<fontspec id="8" size="34" family="Times" color="#ffffff"/>
 	<fontspec id="9" size="24" family="Times" color="#847f84"/>
 	<fontspec id="10" size="24" family="Times" color="#847f84"/>
@@ -19588,7 +19867,7 @@
 
 
 	
-<page number="183" position="absolute" top="0" left="0" height="8065" width="1152">
+<page number="184" position="absolute" top="0" left="0" height="8065" width="1152">
 <image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
 <text top="0" left="0" width="594" height="96" font="0"><a name="austria"></a></text>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Europe"/>
@@ -19667,7 +19946,7 @@
 
 
 	
-<page number="184" position="absolute" top="0" left="0" height="8065" width="1152">
+<page number="185" position="absolute" top="0" left="0" height="8065" width="1152">
 <image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
 <text top="0" left="0" width="594" height="96" font="0"><a name="belgium"></a></text>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Europe"/>
@@ -19734,85 +20013,6 @@
 <text top="7425" left="72" width="15" height="34" font="12"><a name="belgium1"></a></text>
 <text top="7426" left="108" width="501" height="32" font="10">Year of latest available data: 2013 (2011 $PPP)</text>
 <text top="2766" left="74" width="535" height="48" font="7"><b>Belgium income trends</b></text>
-<text top="4026" left="72" width="196" height="48" font="7"><b>obesity rate</b></text>
-<text top="5304" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
-<text top="7631" left="72" width="531" height="43" font="18">If you would like more information  </text>
-<text top="7676" left="72" width="555" height="43" font="18">or to speak to us, please get in touch:</text>
-<text top="7757" left="72" width="480" height="43" font="18">Zach Christensen, Senior Analyst </text>
-<text top="7802" left="72" width="446" height="43" font="19"><a href="mailto:Zach.Christensen%40devinit.org?subject=">Zach.Christensen@devinit.org</a></text>
-<text top="7883" left="72" width="434" height="43" font="18">See more about this work at  </text>
-<text top="7928" left="72" width="332" height="43" font="19"><a href="http://www.devinit.org/p20i">www.devinit.org/p20i</a></text>
-</page>
-
-
-	
-<page number="185" position="absolute" top="0" left="0" height="8065" width="1152">
-<image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
-<text top="0" left="0" width="594" height="96" font="0"><a name="channel-islands"></a></text>
-<button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Europe"/>
-<text top="76" left="832" width="230" height="32" font="3"><a href="#Europe"><b>all countries in region</b></a></text>
-<text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
-<text top="197" left="72" width="1008" height="96" font="0" shrink="True"><b>Channel Islands</b></text>
-<text top="477" left="72" width="905" height="44" font="8">Agenda 2030 includes the specific commitment to Leave </text>
-<text top="531" left="72" width="900" height="44" font="8">No One Behind. Together with Sustainable Development </text>
-<text top="585" left="72" width="965" height="44" font="8">Goal 10 to reduce inequality, this requires faster than average </text>
-<text top="639" left="72" width="990" height="44" font="8">progress for the poorest. The test is whether the gap between </text>
-<text top="693" left="72" width="881" height="44" font="8">the poorest 20% of people (the P20) and everyone else </text>
-<text top="747" left="72" width="453" height="44" font="8">is reducing or getting wider. </text>
-<text top="837" left="72" width="974" height="44" font="8">The P20 Initiative uses data to show whether the poorest 20% </text>
-<text top="891" left="72" width="956" height="44" font="8">of people are getting their fair share of attention, investment </text>
-<text top="945" left="72" width="1009" height="44" font="8">and opportunity. It uses three bellwether indicators of progress: </text>
-<text top="999" left="72" width="979" height="44" font="8">income, nutrition and civil registration and it promotes all data </text>
-<text top="1053" left="72" width="990" height="44" font="8">being disaggregated by Income Quintile, Gender, Geography, </text>
-<text top="1107" left="72" width="288" height="44" font="8">Age and Disability.</text>
-<text top="1197" left="72" width="912" height="47" font="8">This profile provides key available data about the status </text>
-<text top="1251" left="72" width="514" height="47" font="8">of the P20 in Channel Islands.</text>
-<text top="1551" left="162" width="617" height="64" font="5"><b>the P20 in Channel Islands</b></text>
-<text top="1674" left="72" width="710" height="44" font="6">[XX] people in Channel Islands are among </text>
-<text top="1728" left="72" width="763" height="44" font="6">the poorest 20% of the world’s population – the </text>
-<text top="1782" left="72" width="730" height="44" font="6">global P20. That is [X]% of the total population </text>
-<text top="1836" left="72" width="591" height="44" font="6">and they live on less than $2.54 a day.</text>
-<text top="1926" left="72" width="729" height="44" font="6">The national P20 – the poorest 20% of people </text>
-<text top="1980" left="72" width="789" height="44" font="6">within Channel Islands – live on between $[XX] </text>
-<text top="2034" left="72" width="786" height="44" font="6">and $[XX] a day compared with an average $[XX] </text>
-<text top="2088" left="72" width="460" height="44" font="6">for the rest of the population.</text>
-<text top="2187" left="72" width="600" height="35" font="9"><b>Source: </b>Development Initiatives based on PovcalNet</text>
-<text top="2190" left="622" width="5" height="20" font="11"><a href="#channel-islands1"><b>1</b></a></text>
-<text top="2451" left="162" width="160" height="64" font="5"><b>income</b></text>
-<text top="2574" left="72" width="765" height="44" font="6">In 2000 the gap between the P20 and everyone </text>
-<text top="2628" left="72" width="775" height="44" font="6">else in Channel Islands was $[0.00] and in 2013 </text>
-<text top="2682" left="72" width="213" height="44" font="6">it was $[0.00].</text>
-<text top="3699" left="72" width="600" height="35" font="9"><b>Source: </b>Development Initiatives based on PovcalNet</text>
-<text top="3819" left="162" width="188" height="64" font="5"><b>nutrition</b></text>
-<text top="3942" left="72" width="743" height="44" font="6">In Channel Islands [XX]% of adults are obese.</text>
-<text top="4779" left="72" width="882" height="35" font="9"><b>Source: </b>Development Initiatives based on NCD Risk Factor Collaboration 2017</text>
-<text top="4899" left="162" width="219" height="64" font="5"><b>education</b></text>
-<text top="5022" left="72" width="613" height="44" font="6">Education is fundamental to a person’s </text>
-<text top="5076" left="72" width="193" height="44" font="6">life chances.</text>
-<text top="5166" left="72" width="684" height="44" font="6">In Channel Islands [XX]% of people have </text>
-<text top="5220" left="72" width="640" height="44" font="6">completed secondary school education.</text>
-<text top="5985" left="72" width="879" height="35" font="9"><b>Source: </b>Development Initiatives based on UNESCO Institute for Statistics 2018</text>
-<text top="6066" left="72" width="801" height="44" font="6">Data is not available that allows us to disaggregate </text>
-<text top="6120" left="72" width="766" height="44" font="6">secondary school completion based on income </text>
-<text top="6174" left="72" width="755" height="44" font="6">and therefore we are unable to see completion </text>
-<text top="6228" left="72" width="780" height="44" font="6">rates for the P20 versus the rest of the population </text>
-<text top="6282" left="72" width="226" height="44" font="6">in this country.</text>
-<text top="6411" left="162" width="137" height="64" font="5"><b>health</b></text>
-<text top="6534" left="72" width="777" height="44" font="6">Poor health plays a major part in keeping people </text>
-<text top="6588" left="72" width="801" height="44" font="6">in poverty. If you are among the P20 you are more </text>
-<text top="6642" left="72" width="721" height="44" font="6">likely to suffer from preventable diseases and </text>
-<text top="6696" left="72" width="205" height="44" font="6">to die earlier.</text>
-<text top="6786" left="72" width="709" height="44" font="6">In Channel Islands the under five mortality </text>
-<text top="6840" left="72" width="486" height="44" font="6">rate is [XX] per 1,000 live births.</text>
-<text top="6930" left="72" width="801" height="44" font="6">Data is not available that allows us to disaggregate </text>
-<text top="6984" left="72" width="672" height="44" font="6">under five mortality based on income and </text>
-<text top="7038" left="72" width="747" height="44" font="6">therefore we are unable to see this information </text>
-<text top="7092" left="72" width="694" height="44" font="6">for the P20 versus the rest of the population.</text>
-<text top="7191" left="72" width="975" height="35" font="9"><b>Source: </b>Development Initiatives based on World Bank World Development Indicators</text>
-<text top="7425" left="72" width="15" height="34" font="12">1 </text>
-<text top="7425" left="72" width="15" height="34" font="12"><a name="channel-islands1"></a></text>
-<text top="7426" left="108" width="501" height="32" font="10">Year of latest available data: 2013 (2011 $PPP)</text>
-<text top="2766" left="74" width="535" height="48" font="7"><b>Channel Islands income trends</b></text>
 <text top="4026" left="72" width="196" height="48" font="7"><b>obesity rate</b></text>
 <text top="5304" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <text top="7631" left="72" width="531" height="43" font="18">If you would like more information  </text>
