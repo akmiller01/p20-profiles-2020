@@ -33,8 +33,22 @@ gapdata <- gapdata[keep]
 gapdata.m = melt(gapdata,id.vars=c("longname","Year"))
 gapdata.w = dcast(gapdata.m,longname~variable+Year)
 
+stuntingdata <- read.csv("data/stunting.csv")
+if(!"longname" %in% names(stuntingdata)){setnames(stuntingdata,"CountryName","longname")}
+if(is.factor(stuntingdata$longname)){stuntingdata$longname=unfactor(stuntingdata$longname)}
+stuntingdata$longname[which(stuntingdata$longname=="Cabo Verde")] = "Cape Verde"
+stuntingdata$longname[which(stuntingdata$longname=="Congo")] = "Republic of Congo"
+stuntingdata$longname[which(stuntingdata$longname=="Cote d'Ivoire")] = "Côte d’Ivoire"
+stuntingdata$longname[which(stuntingdata$longname=="Lao People's Democratic Republic")] = "Lao People’s Democratic Republic"
+stuntingdata$longname[which(stuntingdata$longname=="Democratic People's Republic of Korea")] = "Democratic People’s Republic of Korea"
+missing_from_stunting = setdiff(countries$longname,stuntingdata$longname)
+stunting_missing_from_countries = setdiff(stuntingdata$longname,countries$longname)
+
+regdata <- read.csv("data/birthregP20.csv")
+
 countries <- merge(countries,incomedata,by="longname",all.x=T)
 countries <- merge(countries,gapdata.w,by="longname",all.x=T)
+countries <- merge(countries,stuntingdata,by="longname",all.x=T)
 
 names(countries) = gsub(".","",names(countries),fixed=T)
 write.csv(countries,"data/countries_merged.csv",na="",row.names=F)

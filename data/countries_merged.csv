@@ -1,197 +1,197 @@
-"longname","name","sentencename","slug","regionslug","lowincome","P20pop","PercentinP20","MaximumIncomeConsumptionNP20","NationalP20Average","NationalRestAverage","GapBetweenNP20Rest2013","minimumincome","growinggap","stuntingtrends","gap_1999","gap_2013"
-"Afghanistan","Afghanistan","Afghanistan","afghanistan","Asia",TRUE,,,,,,,,,,,
-"Albania","Albania","Albania","albania","Europe",TRUE,89652.92,3.09148,4.31,3.34445225,8.608708855,5.264256605,2.92,"increasing","",3.603180318,5.264256605
-"Algeria","Algeria","Algeria","algeria","Africa",TRUE,420145.056,1.09584,5.07,4.01440065,9.726660111,5.712259461,3.56,"decreasing","decreasing",4.544180095,5.712259461
-"Angola","Angola","Angola","angola","Africa",TRUE,10863892,41.7842,1.59,1.121327625,4.883613299,3.762285674,0.89,"increasing","increasing",2.135826809,3.762285674
-"Argentina","Argentina","Argentina","argentina","LAC",TRUE,,,,,,,,,,,
-"Armenia","Armenia","Armenia","armenia","Asia",TRUE,210615.397,7.28773,3.43,2.657833255,7.039541686,4.381708431,2.31,"decreasing","decreasing",3.129256421,4.381708431
-"Aruba","Aruba","Aruba","aruba","LAC",FALSE,,,,,,,,,,,
-"Australia","Australia","Australia","australia","Oceania",FALSE,80683.2512,0.348976,28.175,20.46960239,65.24780488,44.77820249,16.75,"increasing","",29.10062869,44.77820249
-"Austria","Austria","Austria","austria","Europe",FALSE,40217.8416,0.474267,31.175,22.85348843,64.74388817,41.89039974,19,"increasing","",33.52159056,41.89039974
-"Azerbaijan","Azerbaijan","Azerbaijan","azerbaijan","Asia",TRUE,0,0,11.5,10.23131425,16.57806185,6.3467476,9.51,"decreasing","increasing",5.136515929,6.3467476
-"Bahamas","Bahamas","the Bahamas","bahamas","LAC",FALSE,,,,,,,,,,,
-"Bahrain","Bahrain","Bahrain","bahrain","Asia",FALSE,,,,,,,,,,,
-"Bangladesh","Bangladesh","Bangladesh","bangladesh","Asia",TRUE,59577689.71,37.8103,2,1.617996,4.221048945,2.603052945,1.44,"increasing","decreasing",2.020566886,2.603052945
-"Barbados","Barbados","Barbados","barbados","LAC",FALSE,,,,,,,,,,,
-"Belarus","Belarus","Belarus","belarus","Europe",TRUE,0,0,12.25,9.72538525,23.07120163,13.34581638,8.38,"increasing","",3.639936518,13.34581638
-"Belgium","Belgium","Belgium","belgium","Europe",FALSE,27653.6182,0.247349,28.35,20.48130158,54.715702,34.23440042,17,"increasing","",29.86641565,34.23440042
-"Belize","Belize","Belize","belize","LAC",TRUE,62618.14,18.4171,2.67,1.5108996,11.38585044,9.87495084,0.9,"decreasing","decreasing",9.1356238,9.87495084
-"Benin","Benin","Benin","benin","Africa",TRUE,6652080,66.5208,1.06,0.64472751,3.229796205,2.585068695,0.29,"increasing","decreasing",1.967967615,2.585068695
-"Bhutan","Bhutan","Bhutan","bhutan","Asia",TRUE,9456.148,1.24423,5.6,4.2292936,14.65408756,10.42479396,3.57,"increasing","",2.858051521,10.42479396
-"Bolivia (Plurinational State of)","Bolivia","Bolivia","bolivia","LAC",TRUE,971865.44,9.34486,4.45,2.532394875,17.08005197,14.5476571,1.44,"increasing","decreasing",9.6001243,14.547657095
-"Bosnia and Herzegovina","Bosnia and Herzegovina","Bosnia and Herzegovina","bosnia-and-herzegovina","Europe",TRUE,11602.836,0.322301,9.55,7.01089375,21.50697519,14.49608144,6.08,"increasing","decreasing",7.71078709,14.49608144
-"Botswana","Botswana","Botswana","botswana","Africa",TRUE,444739.74,20.8798,2.46,1.66135116,14.205717,12.54436584,1.29,"increasing","",8.429250505,12.54436584
-"Brazil","Brazil","Brazil","brazil","LAC",TRUE,11759798.35,5.80989,5.6,3.396386,24.30841035,20.91202435,2.29,"increasing","",13.01417304,20.91202435
-"Brunei Darussalam","Brunei Darussalam","Brunei Darussalam","brunei-darussalam","Asia",FALSE,,,,,,,,,,,
-"Bulgaria","Bulgaria","Bulgaria","bulgaria","Europe",TRUE,233889.713,3.21719,8.46,5.02823484,20.70105088,15.67281604,3.27,"increasing","",5.608679461,15.67281604
-"Burkina Faso","Burkina Faso","Burkina Faso","burkina-faso","Africa",TRUE,11107534.35,65.0705,1.36,1.07971556,3.126819055,2.047103495,1,"increasing","decreasing",1.713295365,2.047103495
-"Burundi","Burundi","Burundi","burundi","Africa",TRUE,8007196.8,83.4083,0.82,0.61599302,2.052941471,1.436948451,0.52,"increasing","about.the.same",1.1987111,1.436948451
-"Cambodia","Cambodia","Cambodia","cambodia","Asia",TRUE,,,,,,,,,,,
-"Cameroon","Cameroon","Cameroon","cameroon","Africa",TRUE,8209529.88,37.9018,1.62,1.14511158,5.835859091,4.690747511,0.87,"increasing","decreasing",3.403156645,4.690747511
-"Canada","Canada","Canada","canada","NA",FALSE,238030.7388,0.676993,28.375,18.90480119,66.99147094,48.08666975,14.75,"increasing","",36.99990382,48.08666975
-"Cape Verde","Cape Verde","Cape Verde","cape-verde","Africa",TRUE,79745.64,15.3357,2.86,2.07004083,9.879256916,7.809216086,1.7,"increasing","",6.197595506,7.809216086
-"Central African Republic","CAR","CAR","car","Africa",TRUE,3878122.5,86.1805,0.42,0.27830355,2.017869318,1.739565768,0.21,"increasing","",1.927340375,1.739565768
-"Chad","Chad","Chad","chad","Africa",TRUE,6460984.14,49.2078,1.27,0.844574765,4.131870007,3.287295242,0.63,"increasing","increasing",1.450427182,3.287295242
-"Chile","Chile","Chile","chile","LAC",FALSE,270947.772,1.55182,7.38,5.14222533,24.07895052,18.93672519,4.11,"increasing","decreasing",15.30439249,18.93672519
-"China","China","China","china","Asia",TRUE,,6.00424,3.97,,,,2.07,"increasing","decreasing",,
-"China, Hong Kong Special Administrative Region","Hong Kong","Hong Kong","hong-kong","Asia",FALSE,,,,,,,,,,,
-"China, Macao Special Administrative Region","Macao","Macao","macao","Asia",FALSE,,,,,,,,,,,
-"Colombia","Colombia","Colombia","colombia","LAC",TRUE,4533216.858,9.57587,3.94,2.46426118,17.01509909,14.55083791,1.76,"increasing","",9.37804187,14.55083791
-"Comoros","Comoros","Comoros","comoros","Africa",TRUE,209499.18,28.3107,2.06,1.33407145,7.182673918,5.848602468,0.98,"decreasing","",7.583331748,5.848602468
-"Costa Rica","Costa Rica","Costa Rica","costa-rica","LAC",TRUE,128014.032,2.71792,7.22,4.68466812,27.34186037,22.65719225,3.54,"increasing","",12.58336717,22.65719225
-"Côte d’Ivoire","Côte d’Ivoire","Côte d’Ivoire","cote-d-ivoire","Africa",TRUE,10659712.18,48.5194,1.45,0.998540325,4.302926563,3.304386238,0.79,"decreasing","decreasing",3.418767629,3.304386238
-"Croatia","Croatia","Croatia","croatia","Europe",TRUE,72038.73,1.69105,8.75,6.00439,19.7399299,13.7355399,4.61,"increasing","",11.02239204,13.7355399
-"Cuba","Cuba","Cuba","cuba","LAC",TRUE,,,,,,,,,,,
-"Cyprus","Cyprus","Cyprus","cyprus","Asia",FALSE,0,0,22.75,17.52087838,52.72498589,35.20410751,15.25,"increasing","",25.51376494,35.20410751
-"Czech Republic","Czech Republic","the Czech Republic","czech-republic","Europe",FALSE,0,0,16.75,12.51266038,29.98238285,17.46972247,10.5,"increasing","",12.923272695,17.46972247
-"Democratic People’s Republic of Korea","DPRK","the DPRK","dprk","Asia",TRUE,,,,,,,,,,,
-"Democratic Republic of the Congo","DRC","the DRC","drc","Africa",TRUE,60814278.72,85.2696,0.62,0.42943556,1.830916452,1.401480892,0.33,"decreasing","decreasing",0.720377896,1.401480892
-"Denmark","Denmark","Denmark","denmark","Europe",FALSE,13607.616,0.24256,31.1,23.3721165,58.39765581,35.02553931,20,"increasing","",28.03321994,35.02553931
-"Djibouti","Djibouti","Djibouti","djibouti","Africa",TRUE,294124.5,32.6805,1.8,1.194471,5.769889099,4.575418099,0.9,"decreasing","increasing",3.907174583,4.575418099
-"Dominican Republic","Dominican Republic","the Dominican Republic","dominican-republic","LAC",TRUE,599989.116,5.83647,4.31,3.014670445,14.48312691,11.46845647,2.43,"increasing","decreasing",14.3030068,11.468456465
-"Ecuador","Ecuador","Ecuador","ecuador","LAC",TRUE,931660.38,5.9493,4.58,3.0653482,16.13525199,13.06990379,2.35,"increasing","decreasing",8.183325755,13.06990379
-"Egypt","Egypt","Egypt","egypt","Africa",TRUE,7906737.685,8.80385,3.12,2.52094284,6.077353331,3.556410491,2.18,"increasing","about.the.same",3.564576631,3.556410491
-"El Salvador","El Salvador","El Salvador","el-salvador","LAC",TRUE,439258.125,7.02813,3.99,2.800966035,11.93514205,9.134176015,2.22,"increasing","decreasing",9.50745526,9.134176015
-"Equatorial Guinea","Equatorial Guinea","Equatorial Guinea","equatorial-guinea","Africa",TRUE,,,,,,,,,,,
-"Eritrea","Eritrea","Eritrea","eritrea","Africa",TRUE,,,,,,,,,,,
-"Estonia","Estonia","Estonia","estonia","Europe",FALSE,15662.196,1.18653,13,8.573669,29.36661015,20.79294115,6.58,"increasing","",8.99011561,20.79294115
-"Ethiopia","Ethiopia","Ethiopia","ethiopia","Africa",TRUE,47651385.75,50.2175,1.6,1.1689856,3.75095223,2.58196663,0.87,"increasing","decreasing",1.497056397,2.58196663
-"Fiji","Fiji","Fiji","fiji","Oceania",TRUE,56444.52,6.41415,3.56,2.75576396,8.445442572,5.689678612,2.37,"increasing","",5.543198656,5.689678612
-"Finland","Finland","Finland","finland","Europe",FALSE,0,0,29.8,22.8832561,55.74219967,32.85894357,19.75,"increasing","",24.56606995,32.85894357
-"France","France","France","france","Europe",FALSE,0,0,27.925,20.80405519,59.82830127,39.02424608,17.5,"increasing","",29.43402584,39.02424608
-"French Guiana","French Guiana","French Guiana","french-guiana","LAC",FALSE,,,,,,,,,,,
-"French Polynesia","French Polynesia","French Polynesia","french-polynesia","Oceania",FALSE,,,,,,,,,,,
-"Gabon","Gabon","Gabon","gabon","Africa",TRUE,306053.02,16.8161,2.75,1.973956875,7.985579274,6.011622399,1.61,"decreasing","",6.768968723,6.011622399
-"Gambia","Gambia","Gambia","gambia","Africa",TRUE,580344.18,31.2013,2.02,1.46221235,5.406981159,3.944768809,1.57,"increasing","decreasing",2.495337765,3.944768809
-"Georgia","Georgia","Georgia","georgia","Asia",TRUE,507090.78,13.4151,3.04,2.13866432,8.139484605,6.000820285,1.68,"decreasing","",4.190668667,6.000820285
-"Germany","Germany","Germany","germany","Europe",FALSE,0,0,28.675,21.50197743,60.37710838,38.87513095,18.25,"increasing","",34.43662863,38.87513095
-"Ghana","Ghana","Ghana","ghana","Africa",TRUE,5692970.2,21.6052,2.44,1.68791758,7.453390468,5.765472888,1.32,"increasing","decreasing",3.026769566,5.765472888
-"Greece","Greece","Greece","greece","Europe",FALSE,187874.414,1.71262,9.98,6.35303846,25.28471299,18.93167453,4.48,"increasing","",21.93650563,18.93167453
-"Grenada","Grenada","Grenada","grenada","LAC",TRUE,,,,,,,,,,,
-"Guadeloupe","Guadeloupe","Guadeloupe","guadeloupe","LAC",FALSE,,,,,,,,,,,
-"Guatemala","Guatemala","Guatemala","guatemala","LAC",TRUE,2628147.6,16.8471,2.81,1.88302034,10.55034081,8.66732047,1.46,"increasing","decreasing",10.64938379,8.66732047
-"Guinea","Guinea","Guinea","guinea","Africa",TRUE,6294619.94,54.5461,1.48,1.10190514,3.370859331,2.268954191,0.92,"increasing","decreasing",2.298264112,2.268954191
-"Guinea-Bissau","Guinea-Bissau","Guinea-Bissau","guinea-bissau","Africa",TRUE,1301786.64,77.4873,0.77,0.51807448,2.756206038,2.238131558,0.41,"decreasing","decreasing",1.781491304,2.238131558
-"Guyana","Guyana","Guyana","guyana","LAC",TRUE,87898.56,11.5656,3.66,2.27837745,12.04955632,9.77117887,1.57,"increasing","decreasing",6.671317958,9.77117887
-"Haiti","Haiti","Haiti","haiti","LAC",TRUE,3739520.05,35.8535,1.74,1.21370046,5.173876255,3.960175795,0.98,"increasing","decreasing",3.269752245,3.960175795
-"Honduras","Honduras","Honduras","honduras","LAC",TRUE,2193517.38,25.3293,2.09,1.281591135,9.637752901,8.356161766,0.88,"increasing","decreasing",7.083881116,8.356161766
-"Hungary","Hungary","Hungary","hungary","Europe",FALSE,24133.3802,0.244018,10.5,7.319487,22.41468989,15.09520289,5.64,"increasing","",8.167261975,15.09520289
-"Iceland","Iceland","Iceland","iceland","Europe",FALSE,0,0,29.75,23.45498925,53.60200611,30.14701686,20.75,"increasing","",29.38565135,30.14701686
-"India","India","India","india","Asia",TRUE,,36.8458,2.02,,,,1.58,"increasing","decreasing",,
-"Indonesia","Indonesia","Indonesia","indonesia","Asia",TRUE,65173193.79,25.8593,2.32,1.87963384,6.13999565,4.26036181,1.66,"increasing","increasing",1.744673318,4.26036181
-"Iran (Islamic Republic of)","Iran","Iran","iran","Asia",TRUE,328513.6448,0.424217,7.63,5.636315335,19.32967459,13.69335926,4.66,"increasing","",10.29509839,13.693359255
-"Iraq","Iraq","Iraq","iraq","Asia",TRUE,2449798.428,7.23081,3.41,2.66592777,6.9090934,4.24316563,2.31,"increasing","",3.973176335,4.24316563
-"Ireland","Ireland","Ireland","ireland","Europe",FALSE,34086.46,0.74101,22,15.687485,49.56319724,33.87571224,13.75,"increasing","",28.18184576,33.87571224
-"Israel","Israel","Israel","israel","Asia",FALSE,54077.764,0.67094,12,7.831464,39.32829838,31.49683438,5.75,"increasing","",22.18065651,31.49683438
-"Italy","Italy","Italy","italy","Europe",FALSE,1049429.451,1.74237,19.5,12.324975,46.34807132,34.02309632,8.29,"increasing","",33.79838891,34.02309632
-"Jamaica","Jamaica","Jamaica","jamaica","LAC",TRUE,139742.91,4.90326,4.23,3.0522411,13.68867945,10.63643835,2.52,"increasing","increasing",10.11105888,10.63643835
-"Japan","Japan","Japan","japan","Asia",FALSE,443441.883,0.347934,22.75,15.6009035,49.04648645,33.44558295,12,"increasing","",29.15654244,33.44558295
-"Jordan","Jordan","Jordan","jordan","Asia",TRUE,89853.281,1.06841,5.29,4.15866473,11.64190916,7.48324443,3.69,"increasing","decreasing",6.274280598,7.48324443
-"Kazakhstan","Kazakhstan","Kazakhstan","kazakhstan","Asia",TRUE,12290.40672,0.0721268,7.26,5.96215521,13.70261188,7.74045667,5.38,"increasing","decreasing",4.837831933,7.74045667
-"Kenya","Kenya","Kenya","kenya","Africa",TRUE,21959213.39,48.9833,1.4,0.9560096,4.861572942,3.905563342,0.74,"decreasing","decreasing",3.650063104,3.905563342
-"Kiribati","Kiribati","Kiribati","kiribati","Oceania",TRUE,26745.73,24.3143,2.29,1.613482475,5.714574587,4.101092112,1.32,"decreasing","",4.304735334,4.101092112
-"Kosovo","Kosovo","Kosovo","kosovo","Europe",TRUE,19479.642,1.07031,5.25,4.107539625,9.569772628,5.462233003,3.6,"increasing","",2.939605906,5.462233003
-"Kuwait","Kuwait","Kuwait","kuwait","Asia",FALSE,,,,,,,,,,,
-"Kyrgyzstan","Kyrgyzstan","Kyrgyzstan","kyrgyzstan","Asia",TRUE,691090.4,12.082,2.91,2.34716817,5.723276451,3.376108281,2.09,"decreasing","decreasing",3.489801408,3.376108281
-"Lao People’s Democratic Republic","Laos","Laos","laos","Asia",TRUE,2477992.33,38.1817,1.9,1.47507735,4.509929293,3.034851943,1.26,"increasing","",1.877320408,3.034851943
-"Latvia","Latvia","Latvia","latvia","Europe",FALSE,35152.89,1.7489,9.93,6.405391185,23.06017275,16.65478157,4.66,"increasing","",7.829235815,16.654781565
-"Lebanon","Lebanon","Lebanon","lebanon","Asia",TRUE,3227.65344,0.0611298,11.5,8.4142165,24.67276094,16.25854444,6.93,"increasing","",15.76767441,16.25854444
-"Lesotho","Lesotho","Lesotho","lesotho","Africa",TRUE,1428771.88,67.3949,0.66,0.39265512,3.362500604,2.969845484,0.27,"increasing","decreasing",2.467421463,2.969845484
-"Liberia","Liberia","Liberia","liberia","Africa",TRUE,2594489.04,60.4776,1.35,1.005332175,3.098738189,2.093406014,0.91,"increasing","decreasing",1.581202893,2.093406014
-"Lithuania","Lithuania","Lithuania","lithuania","Europe",FALSE,44284.56,1.4961,10.25,6.956864625,24.12086604,17.16400142,5.45,"increasing","",8.0185366,17.164001415
-"Luxembourg","Luxembourg","Luxembourg","luxembourg","Europe",FALSE,723.897,0.134055,36,26.989974,81.67894486,54.68897086,23,"increasing","",45.65523762,54.68897086
-"Madagascar","Madagascar","Madagascar","madagascar","Africa",TRUE,19802403.04,86.2474,0.63,0.43964298,1.809871447,1.370228467,0.35,"decreasing","",1.649356744,1.370228467
-"Malawi","Malawi","Malawi","malawi","Africa",TRUE,13587160.78,81.9491,0.72,0.52792632,2.255475954,1.727549634,0.44,"decreasing","decreasing",3.406413992,1.727549634
-"Malaysia","Malaysia","Malaysia","malaysia","Asia",TRUE,113966.9658,0.383598,8.39,5.788911225,30.32626534,24.53735412,4.59,"increasing","increasing",14.84581048,24.537354115
-"Maldives","Maldives","the Maldives","maldives","Asia",TRUE,44729.1,11.469,3.25,2.375338875,8.73448035,6.359141475,2.02,"increasing","",,6.359141475
-"Mali","Mali","Mali","mali","Africa",TRUE,11483824.32,69.6834,1.17,0.913116555,2.634624971,1.721508416,0.8,"increasing","increasing",1.61237049,1.721508416
-"Malta","Malta","Malta","malta","Europe",FALSE,0,0,23,17.216236,45.58511908,28.36888308,14.5,"increasing","",19.73245041,28.36888308
-"Martinique","Martinique","Martinique","martinique","LAC",FALSE,,,,,,,,,,,
-"Mauritania","Mauritania","Mauritania","mauritania","Africa",TRUE,613095.3,15.5214,2.81,2.05881956,6.460541685,4.401722125,1.71,"increasing","decreasing",3.930904167,4.401722125
-"Mauritius","Mauritius","Mauritius","mauritius","Africa",TRUE,17910.9,1.4215,5.87,4.421727185,13.79207505,9.370347865,3.74,"increasing","",6.367650419,9.370347865
-"Mexico","Mexico","Mexico","mexico","LAC",TRUE,9508381.014,7.75941,3.79,2.67536858,11.95034964,9.27498106,2.08,"decreasing","decreasing",8.99115576,9.27498106
-"Micronesia (Federated States of)","Micronesia","Micronesia","micronesia","Oceania",TRUE,27944.1,27.9441,2.15,1.384134525,5.906500615,4.52236609,1,"decreasing","",6.070742643,4.52236609
-"Mongolia","Mongolia","Mongolia","mongolia","Asia",TRUE,33905.032,1.18136,5.38,4.09647457,12.0154841,7.91900953,3.49,"increasing","decreasing",2.713549208,7.91900953
-"Montenegro","Montenegro","Montenegro","montenegro","Europe",TRUE,11994.334,1.93457,7.05,5.280072825,15.94058453,10.66051171,4.79,"increasing","increasing",7.60058466,10.660511705
-"Morocco","Morocco","Morocco","morocco","Africa",TRUE,1516996.1,4.4855,4.22,3.1355866,11.20504856,8.06946196,2.64,"increasing","",5.395006823,8.06946196
-"Mozambique","Mozambique","Mozambique","mozambique","Africa",TRUE,20074034.31,75.9517,0.78,0.53993472,2.923762895,2.383828175,0.43,"increasing","",1.43319529,2.383828175
-"Myanmar","Myanmar","Myanmar","myanmar","Asia",TRUE,11982653.55,23.2899,2.42,1.82421173,5.761549807,3.937338077,1.56,"increasing","decreasing",1.026824666,3.937338077
-"Namibia","Namibia","Namibia","namibia","Africa",TRUE,729326.8,31.4365,2,1.421946,10.50718473,9.08523873,1.14,"increasing","decreasing",6.418800402,9.08523873
-"Nepal","Nepal","Nepal","nepal","Asia",TRUE,6981909.57,24.9443,2.35,1.882679,5.185974086,3.303295086,1.64,"increasing","decreasing",1.989617175,3.303295086
-"Netherlands","Netherlands","the Netherlands","netherlands","Europe",FALSE,0,0,28.95,21.55499753,55.13111363,33.5761161,18,"increasing","",32.20716058,33.5761161
-"Netherlands Antilles","Netherlands Antilles","the Netherlands Antilles","netherlands-antilles","LAC",FALSE,,,,,,,,,,,
-"New Zealand","New Zealand","New Zealand","new-zealand","Oceania",FALSE,,,,,,,,,,,
-"Nicaragua","Nicaragua","Nicaragua","nicaragua","LAC",TRUE,496754.79,8.34882,3.68,2.59197672,11.89036198,9.29838526,1.95,"increasing","decreasing",4.991723705,9.29838526
-"Niger","Niger","Niger","niger","Africa",TRUE,12179668.23,66.0861,1.3,1.0222537,2.890811917,1.868558217,0.98,"increasing","decreasing",1.383425997,1.868558217
-"Nigeria","Nigeria","Nigeria","nigeria","Africa",TRUE,111571968.3,64.9316,1.02,0.71856042,3.164044827,2.445484407,0.57,"increasing","decreasing",2.020994863,2.445484407
-"Norway","Norway","Norway","norway","Europe",FALSE,12505.0804,0.246163,43,32.1749865,78.39323968,46.21825318,27.45,"increasing","",30.56432298,46.21825318
-"Occupied Palestinian Territory","Palestine","Palestine","palestine","Asia",TRUE,35618.6805,0.854165,5.5,4.20081475,12.62239905,8.4215843,3.53,"increasing","decreasing",8.585000625,8.4215843
-"Oman","Oman","Oman","oman","Asia",FALSE,,,,,,,,,,,
-"Pakistan","Pakistan","Pakistan","pakistan","Asia",TRUE,43410337.29,23.8899,2.41,1.973771925,4.848365238,2.874593313,1.8,"increasing","increasing",2.344026497,2.874593313
-"Panama","Panama","Panama","panama","LAC",TRUE,212027.904,5.52156,5.84,3.57480708,25.84196946,22.26716238,2.44,"increasing","",15.26070707,22.26716238
-"Papua New Guinea","Papua New Guinea","Papua New Guinea","papua-new-guinea","Oceania",TRUE,3795743.82,50.0098,1.29,0.850587945,3.980284521,3.129696576,0.65,"increasing","",2.947477377,3.129696576
-"Paraguay","Paraguay","Paraguay","paraguay","LAC",TRUE,268366.542,4.14786,5.46,3.67830099,19.91846585,16.24016486,2.79,"increasing","decreasing",13.8029672,16.24016486
-"Peru","Peru","Peru","peru","LAC",TRUE,2349732.48,7.6864,4.54,2.88111124,15.27210575,12.39099451,2.05,"increasing","decreasing",9.66852221,12.39099451
-"Philippines","Philippines","the Philippines","philippines","Asia",TRUE,23795328.48,24.1626,2.35,1.798643,6.713147469,4.914504469,1.54,"increasing","decreasing",4.697659244,4.914504469
-"Poland","Poland","Poland","poland","Europe",FALSE,13193.67948,0.0346837,8.58,6.55826457,19.00224208,12.44397751,5.6,"increasing","",9.820890565,12.44397751
-"Portugal","Portugal","Portugal","portugal","Europe",FALSE,128128.724,1.22494,12.25,7.818482875,29.3622149,21.54373203,5.78,"increasing","",22.00910075,21.543732025
-"Puerto Rico","Puerto Rico","Puerto Rico","puerto-rico","LAC",FALSE,,,,,,,,,,,
-"Qatar","Qatar","Qatar","qatar","Asia",FALSE,,,,,,,,,,,
-"Republic of Congo","Congo","Congo","congo","Africa",TRUE,2349991.25,49.4735,1.23,0.82579617,4.714249588,3.888453418,0.64,"increasing","decreasing",2.450404161,3.888453418
-"Republic of Korea","Korea","Korea","korea","Asia",FALSE,170957.7,0.339,21.25,14.33481438,45.66848819,31.33367381,11,"increasing","",21.19729211,31.33367381
-"Republic of Moldova","Moldova","Moldova","moldova","Europe",TRUE,16095.8636,0.452131,5.52,4.38503004,10.89642742,6.51139738,3.91,"decreasing","decreasing",2.834933141,6.51139738
-"Romania","Romania","Romania","romania","Europe",TRUE,400355.244,2.00378,5.11,3.892667695,9.981970063,6.089302368,3.31,"decreasing","",3.515135308,6.089302368
-"Russian Federation","Russia","Russia","russia","Europe",TRUE,99035.38994,0.0690094,10.5,7.917,29.10662671,21.18962671,6.65,"increasing","",7.46161335,21.18962671
-"Rwanda","Rwanda","Rwanda","rwanda","Africa",TRUE,8120243.52,73.3536,0.96,0.714012,3.268833986,2.554821986,0.6,"increasing","decreasing",1.578700043,2.554821986
-"Saint Lucia","Saint Lucia","Saint Lucia","saint-lucia","LAC",TRUE,75659.76,42.0332,1.5,0.98910975,4.755941741,3.766831991,0.75,"increasing","",3.369998513,3.766831991
-"Saint Vincent and the Grenadines","Saint Vincent","Saint Vincent","saint-vincent","LAC",TRUE,,,,,,,,,,,
-"Samoa","Samoa","Samoa","samoa","Oceania",TRUE,8573.218,4.51222,3.88,3.02792872,11.08471645,8.05678773,2.63,"increasing","",5.966941127,8.05678773
-"Sao Tome and Principe","Sao Tome and Principe","Sao Tome and Principe","sao-tome-and-principe","Africa",TRUE,95896.42,50.4718,1.62,1.26345096,3.452552328,2.189101368,1.13,"increasing","decreasing",,2.189101368
-"Saudi Arabia","Saudi Arabia","Saudi Arabia","saudi-arabia","Asia",FALSE,,,,,,,,,,,
-"Senegal","Senegal","Senegal","senegal","Africa",TRUE,7586280.64,53.7272,1.37,0.969172935,3.755428684,2.786255749,0.8,"increasing","decreasing",2.220306623,2.786255749
-"Serbia","Serbia","Serbia","serbia","Europe",TRUE,61465.0916,0.858451,6.4,4.8985088,12.90044129,8.00193249,4.12,"decreasing","decreasing",7.76326123,8.00193249
-"Seychelles","Seychelles","Seychelles","seychelles","Africa",TRUE,1363.599,1.51511,9.3,6.2342643,27.16939283,20.93512853,4.66,"increasing","",17.10488244,20.93512853
-"Sierra Leone","Sierra Leone","Sierra Leone","sierra-leone","Africa",TRUE,3658008.88,52.8614,1.58,1.22455846,3.567649426,2.343090966,1.05,"increasing","decreasing",1.774132397,2.343090966
-"Singapore","Singapore","Singapore","singapore","Asia",FALSE,,,,,,,,,,,
-"Slovakia","Slovakia","Slovakia","slovakia","Europe",FALSE,23787.6077,0.439697,13.25,9.268587,25.71107243,16.44248543,7.11,"increasing","",10.85683678,16.44248543
-"Slovenia","Slovenia","Slovenia","slovenia","Europe",FALSE,0,0,20.5,15.07126175,37.2457599,22.17449815,12.5,"increasing","",16.68022408,22.17449815
-"Solomon Islands","Solomon Islands","the Solomon Islands","solomon-islands","Oceania",TRUE,236332.32,42.2022,1.72,1.27432478,4.247994147,2.973669367,1.05,"decreasing","decreasing",3.790977001,2.973669367
-"Somalia","Somalia","Somalia","somalia","Africa",TRUE,,,,,,,,,,,
-"South Africa","South Africa","South Africa","south-africa","Africa",TRUE,14568929.97,27.3287,2.06,1.38317361,14.07483673,12.69166312,1.22,"increasing","increasing",6.801542849,12.69166312
-"South Sudan","South Sudan","South Sudan","south-sudan","Africa",TRUE,9032344.36,80.7902,0.54,0.33142122,2.061881681,1.730460461,0.23,"increasing","",,1.730460461
-"Spain","Spain","Spain","spain","Europe",FALSE,694829.142,1.49041,16,10.051888,41.81511019,31.76322219,6.89,"increasing","",24.96514754,31.76322219
-"Sri Lanka","Sri Lanka","Sri Lanka","sri-lanka","Asia",TRUE,1283236.747,6.23233,3.6,2.7999432,9.133973104,6.334029904,2.38,"increasing","decreasing",4.247744142,6.334029904
-"State of Libya","Libya","Libya","libya","Africa",TRUE,,,,,,,,,,,
-"Sudan","Sudan","Sudan","sudan","Africa",TRUE,6311778.55,17.1283,2.71,1.94908349,6.655482552,4.706399062,1.59,"increasing","about.the.same",2.491369001,4.706399062
-"Suriname","Suriname","Suriname","suriname","LAC",TRUE,114153.84,21.1396,2.31,0.5569872,13.8737943,13.3168071,0.01,"increasing","",8.507087425,13.3168071
-"Swaziland","Swaziland","Swaziland","swaziland","Africa",TRUE,651972.28,51.3364,1.23,0.842143485,5.055820293,4.213676808,0.64,"increasing","decreasing",3.590732766,4.213676808
-"Sweden","Sweden","Sweden","sweden","Europe",FALSE,47097.984,0.490604,31.25,22.11517188,58.99997415,36.88480227,18,"increasing","",23.6451535,36.88480227
-"Switzerland","Switzerland","Switzerland","switzerland","Europe",FALSE,0,0,34.05,26.17847423,75.89332665,49.71485242,22.75,"increasing","",46.29598992,49.71485242
-"Syrian Arab Republic","Syria","Syria","syria","Asia",TRUE,3573030.65,18.0365,2.64,2.047254,6.180857733,4.133603733,1.78,"increasing","",4.948529215,4.133603733
-"Tajikistan","Tajikistan","Tajikistan","tajikistan","Asia",TRUE,1010516.3,12.3535,3.02,2.262131,6.758330264,4.496199264,2.08,"decreasing","decreasing",1.508420465,4.496199264
-"Thailand","Thailand","Thailand","thailand","Asia",TRUE,163487.6206,0.239929,6.68,5.11706704,17.18055516,12.06348812,4.42,"increasing","decreasing",7.297133589,12.06348812
-"The former Yugoslav Republic of Macedonia","Macedonia","Macedonia","macedonia","Europe",TRUE,188496.256,9.06232,4.24,2.56305456,11.53640074,8.97334618,1.6,"increasing","",5.703957007,8.97334618
-"Timor-Leste","Timor-Leste","Timor-Leste","timor-leste","Asia",TRUE,693266.52,58.7514,1.6,1.2901576,3.094698956,1.804541356,1.17,"increasing","decreasing",1.227885905,1.804541356
-"Togo","Togo","Togo","togo","Africa",TRUE,4568234.88,64.8897,0.94,0.65207847,3.1582023,2.50612383,0.53,"increasing","decreasing",2.420021234,2.50612383
-"Tonga","Tonga","Tonga","tonga","Oceania",TRUE,4004.099,3.64009,4.56,3.3487728,11.59640954,8.24763674,2.83,"increasing","",8.27600877,8.24763674
-"Trinidad and Tobago","Trinidad and Tobago","Trinidad and Tobago","trinidad-and-tobago","LAC",FALSE,22539.735,1.66961,6.68,4.58938712,19.69270801,15.10332089,3.62,"increasing","",14.76231012,15.10332089
-"Tunisia","Tunisia","Tunisia","tunisia","Africa",TRUE,315126.018,2.86218,5.39,3.805164825,13.18154441,9.376379585,3.06,"increasing","increasing",6.512757865,9.376379585
-"Turkey","Turkey","Turkey","turkey","Asia",TRUE,1018473.599,1.34381,7.19,4.970447,20.01497729,15.04453029,3.93,"increasing","decreasing",9.74159561,15.04453029
-"Turkmenistan","Turkmenistan","Turkmenistan","turkmenistan","Asia",TRUE,689395.23,12.8379,3.07,2.277330605,8.850379678,6.573049073,1.91,"increasing","decreasing",2.539223782,6.573049073
-"Tuvalu","Tuvalu","Tuvalu","tuvalu","Oceania",TRUE,829.589,8.29589,3.63,2.70970062,9.605341968,6.895641348,2.25,"increasing","",6.677374375,6.895641348
-"Uganda","Uganda","Uganda","uganda","Africa",TRUE,20352926.1,54.2022,1.45,1.057904775,3.890195039,2.832290264,0.87,"increasing","decreasing",1.838288221,2.832290264
-"Ukraine","Ukraine","Ukraine","ukraine","Europe",TRUE,20303.50621,0.0446329,8.35,6.7273445,14.69199949,7.96465499,5.99,"increasing","",3.051538035,7.96465499
-"United Arab Emirates","UAE","the UAE","uae","Asia",FALSE,,,,,,,,,,,
-"United Kingdom of Great Britain and Northern Ireland","United Kingdom","the United Kingdom","united-kingdom","Europe",FALSE,153951.1193,0.240061,23,16.9246075,53.16336867,36.23876117,14.5,"increasing","",32.52203023,36.23876117
-"United Republic of Tanzania","Tanzania","Tanzania","tanzania","Africa",TRUE,33119775.36,65.4024,1.27,0.99413695,3.124632886,2.130495936,0.87,"increasing","decreasing",1.034607251,2.130495936
-"United States of America","US","the US","usa","NA",FALSE,4271830.38,1.35099,25.25,16.13809563,74.78903774,58.65094211,12,"increasing","decreasing",55.92585231,58.65094211
-"United States Virgin Islands","US Virgin Islands","the US Virgin Islands","us-virgin-islands","LAC",FALSE,,,,,,,,,,,
-"Uruguay","Uruguay","Uruguay","uruguay","LAC",FALSE,14207.5604,0.416644,10,6.923955,29.42343591,22.49948091,5.49,"increasing","",21.712114925,22.49948091
-"Uzbekistan","Uzbekistan","Uzbekistan","uzbekistan","Asia",TRUE,11391075.36,37.6689,1.94,1.41026845,4.399720559,2.989452109,1.13,"decreasing","",2.422548886,2.989452109
-"Vanuatu","Vanuatu","Vanuatu","vanuatu","Oceania",TRUE,63923.75,25.5695,2.28,1.68715212,5.831937997,4.144785877,1.38,"increasing","increasing",4.390587388,4.144785877
-"Venezuela (Bolivarian Republic of)","Venezuela","Venezuela","venezuela","LAC",TRUE,2960860.184,9.76537,4.89,2.2957083,17.45089484,15.15518654,0.01,"increasing","",9.82196308,15.15518654
-"Viet Nam","Viet Nam","Viet Nam","viet-nam","Asia",TRUE,5950064.736,6.62886,3.93,2.839914285,9.355144716,6.515230431,2.26,"increasing","decreasing",2.280722649,6.515230431
-"Western Sahara","Western Sahara","Western Sahara","western-sahara","Africa",FALSE,,,,,,,,,,,
-"Yemen","Yemen","Yemen","yemen","Asia",TRUE,8294775.44,32.4268,2.04,1.5548421,4.896673037,3.341830937,1.34,"decreasing","decreasing",4.435929705,3.341830937
-"Zambia","Zambia","Zambia","zambia","Africa",TRUE,10334708.85,68.2159,0.7,0.471366,3.543021514,3.071655514,0.46,"decreasing","decreasing",3.25796278,3.071655514
-"Zimbabwe","Zimbabwe","Zimbabwe","zimbabwe","Africa",TRUE,4197776.1,27.8922,2.13,1.633331925,6.602297156,4.968965231,1.36,"decreasing","decreasing",6.951903118,4.968965231
+"longname","name","sentencename","slug","regionslug","lowincome","P20pop","PercentinP20","MaximumIncomeConsumptionNP20","NationalP20Average","NationalRestAverage","GapBetweenNP20Rest2013","minimumincome","growinggap","stuntingtrends","gap_1999","gap_2013","nationalstunting","nationalP20stunting","restP20stunting"
+"Afghanistan","Afghanistan","Afghanistan","afghanistan","Asia",TRUE,,,,,,,,,,,,40.9,,
+"Albania","Albania","Albania","albania","Europe",TRUE,89652.92,3.09148,4.31,3.34445225,8.608708855,5.264256605,2.92,"increasing","",3.603180318,5.264256605,,,
+"Algeria","Algeria","Algeria","algeria","Africa",TRUE,420145.056,1.09584,5.07,4.01440065,9.726660111,5.712259461,3.56,"decreasing","decreasing",4.544180095,5.712259461,11.7,12.6,11.4
+"Angola","Angola","Angola","angola","Africa",TRUE,10863892,41.7842,1.59,1.121327625,4.883613299,3.762285674,0.89,"increasing","increasing",2.135826809,3.762285674,37.6,47.4,34.6
+"Argentina","Argentina","Argentina","argentina","LAC",TRUE,,,,,,,,,,,,,,
+"Armenia","Armenia","Armenia","armenia","Asia",TRUE,210615.397,7.28773,3.43,2.657833255,7.039541686,4.381708431,2.31,"decreasing","decreasing",3.129256421,4.381708431,9.4,12,8.7
+"Aruba","Aruba","Aruba","aruba","LAC",FALSE,,,,,,,,,,,,,,
+"Australia","Australia","Australia","australia","Oceania",FALSE,80683.2512,0.348976,28.175,20.46960239,65.24780488,44.77820249,16.75,"increasing","",29.10062869,44.77820249,,,
+"Austria","Austria","Austria","austria","Europe",FALSE,40217.8416,0.474267,31.175,22.85348843,64.74388817,41.89039974,19,"increasing","",33.52159056,41.89039974,,,
+"Azerbaijan","Azerbaijan","Azerbaijan","azerbaijan","Asia",TRUE,0,0,11.5,10.23131425,16.57806185,6.3467476,9.51,"decreasing","increasing",5.136515929,6.3467476,18,,
+"Bahamas","Bahamas","the Bahamas","bahamas","LAC",FALSE,,,,,,,,,,,,,,
+"Bahrain","Bahrain","Bahrain","bahrain","Asia",FALSE,,,,,,,,,,,,,,
+"Bangladesh","Bangladesh","Bangladesh","bangladesh","Asia",TRUE,59577689.71,37.8103,2,1.617996,4.221048945,2.603052945,1.44,"increasing","decreasing",2.020566886,2.603052945,36.2,49.3,32.3
+"Barbados","Barbados","Barbados","barbados","LAC",FALSE,,,,,,,,,,,,7.7,7.5,7.8
+"Belarus","Belarus","Belarus","belarus","Europe",TRUE,0,0,12.25,9.72538525,23.07120163,13.34581638,8.38,"increasing","",3.639936518,13.34581638,,,
+"Belgium","Belgium","Belgium","belgium","Europe",FALSE,27653.6182,0.247349,28.35,20.48130158,54.715702,34.23440042,17,"increasing","",29.86641565,34.23440042,,,
+"Belize","Belize","Belize","belize","LAC",TRUE,62618.14,18.4171,2.67,1.5108996,11.38585044,9.87495084,0.9,"decreasing","decreasing",9.1356238,9.87495084,15,,
+"Benin","Benin","Benin","benin","Africa",TRUE,6652080,66.5208,1.06,0.64472751,3.229796205,2.585068695,0.29,"increasing","decreasing",1.967967615,2.585068695,34,46.4,30.7
+"Bhutan","Bhutan","Bhutan","bhutan","Asia",TRUE,9456.148,1.24423,5.6,4.2292936,14.65408756,10.42479396,3.57,"increasing","",2.858051521,10.42479396,,,
+"Bolivia (Plurinational State of)","Bolivia","Bolivia","bolivia","LAC",TRUE,971865.44,9.34486,4.45,2.532394875,17.08005197,14.5476571,1.44,"increasing","decreasing",9.6001243,14.547657095,16.1,,
+"Bosnia and Herzegovina","Bosnia and Herzegovina","Bosnia and Herzegovina","bosnia-and-herzegovina","Europe",TRUE,11602.836,0.322301,9.55,7.01089375,21.50697519,14.49608144,6.08,"increasing","decreasing",7.71078709,14.49608144,8.9,10.1,8.6
+"Botswana","Botswana","Botswana","botswana","Africa",TRUE,444739.74,20.8798,2.46,1.66135116,14.205717,12.54436584,1.29,"increasing","",8.429250505,12.54436584,,,
+"Brazil","Brazil","Brazil","brazil","LAC",TRUE,11759798.35,5.80989,5.6,3.396386,24.30841035,20.91202435,2.29,"increasing","",13.01417304,20.91202435,,,
+"Brunei Darussalam","Brunei Darussalam","Brunei Darussalam","brunei-darussalam","Asia",FALSE,,,,,,,,,,,,,,
+"Bulgaria","Bulgaria","Bulgaria","bulgaria","Europe",TRUE,233889.713,3.21719,8.46,5.02823484,20.70105088,15.67281604,3.27,"increasing","",5.608679461,15.67281604,,,
+"Burkina Faso","Burkina Faso","Burkina Faso","burkina-faso","Africa",TRUE,11107534.35,65.0705,1.36,1.07971556,3.126819055,2.047103495,1,"increasing","decreasing",1.713295365,2.047103495,27.3,,
+"Burundi","Burundi","Burundi","burundi","Africa",TRUE,8007196.8,83.4083,0.82,0.61599302,2.052941471,1.436948451,0.52,"increasing","about.the.same",1.1987111,1.436948451,55.9,69.1,52.3
+"Cambodia","Cambodia","Cambodia","cambodia","Asia",TRUE,,,,,,,,,,,,32.4,41.8,29.5
+"Cameroon","Cameroon","Cameroon","cameroon","Africa",TRUE,8209529.88,37.9018,1.62,1.14511158,5.835859091,4.690747511,0.87,"increasing","decreasing",3.403156645,4.690747511,31.7,41.6,28.6
+"Canada","Canada","Canada","canada","NA",FALSE,238030.7388,0.676993,28.375,18.90480119,66.99147094,48.08666975,14.75,"increasing","",36.99990382,48.08666975,,,
+"Cape Verde","Cape Verde","Cape Verde","cape-verde","Africa",TRUE,79745.64,15.3357,2.86,2.07004083,9.879256916,7.809216086,1.7,"increasing","",6.197595506,7.809216086,,,
+"Central African Republic","CAR","CAR","car","Africa",TRUE,3878122.5,86.1805,0.42,0.27830355,2.017869318,1.739565768,0.21,"increasing","",1.927340375,1.739565768,,,
+"Chad","Chad","Chad","chad","Africa",TRUE,6460984.14,49.2078,1.27,0.844574765,4.131870007,3.287295242,0.63,"increasing","increasing",1.450427182,3.287295242,39.8,41.2,39.4
+"Chile","Chile","Chile","chile","LAC",FALSE,270947.772,1.55182,7.38,5.14222533,24.07895052,18.93672519,4.11,"increasing","decreasing",15.30439249,18.93672519,1.8,,
+"China","China","China","china","Asia",TRUE,,6.00424,3.97,,,,2.07,"increasing","decreasing",,,8.1,,
+"China, Hong Kong Special Administrative Region","Hong Kong","Hong Kong","hong-kong","Asia",FALSE,,,,,,,,,,,,,,
+"China, Macao Special Administrative Region","Macao","Macao","macao","Asia",FALSE,,,,,,,,,,,,,,
+"Colombia","Colombia","Colombia","colombia","LAC",TRUE,4533216.858,9.57587,3.94,2.46426118,17.01509909,14.55083791,1.76,"increasing","",9.37804187,14.55083791,,,
+"Comoros","Comoros","Comoros","comoros","Africa",TRUE,209499.18,28.3107,2.06,1.33407145,7.182673918,5.848602468,0.98,"decreasing","",7.583331748,5.848602468,31.1,38.7,28.4
+"Costa Rica","Costa Rica","Costa Rica","costa-rica","LAC",TRUE,128014.032,2.71792,7.22,4.68466812,27.34186037,22.65719225,3.54,"increasing","",12.58336717,22.65719225,,,
+"Côte d’Ivoire","Côte d’Ivoire","Côte d’Ivoire","cote-d-ivoire","Africa",TRUE,10659712.18,48.5194,1.45,0.998540325,4.302926563,3.304386238,0.79,"decreasing","decreasing",3.418767629,3.304386238,21.6,,
+"Croatia","Croatia","Croatia","croatia","Europe",TRUE,72038.73,1.69105,8.75,6.00439,19.7399299,13.7355399,4.61,"increasing","",11.02239204,13.7355399,,,
+"Cuba","Cuba","Cuba","cuba","LAC",TRUE,,,,,,,,,,,,,,
+"Cyprus","Cyprus","Cyprus","cyprus","Asia",FALSE,0,0,22.75,17.52087838,52.72498589,35.20410751,15.25,"increasing","",25.51376494,35.20410751,,,
+"Czech Republic","Czech Republic","the Czech Republic","czech-republic","Europe",FALSE,0,0,16.75,12.51266038,29.98238285,17.46972247,10.5,"increasing","",12.923272695,17.46972247,,,
+"Democratic People’s Republic of Korea","DPRK","the DPRK","dprk","Asia",TRUE,,,,,,,,,,,,27.9,,
+"Democratic Republic of the Congo","DRC","the DRC","drc","Africa",TRUE,60814278.72,85.2696,0.62,0.42943556,1.830916452,1.401480892,0.33,"decreasing","decreasing",0.720377896,1.401480892,42.7,49.4,40.7
+"Denmark","Denmark","Denmark","denmark","Europe",FALSE,13607.616,0.24256,31.1,23.3721165,58.39765581,35.02553931,20,"increasing","",28.03321994,35.02553931,,,
+"Djibouti","Djibouti","Djibouti","djibouti","Africa",TRUE,294124.5,32.6805,1.8,1.194471,5.769889099,4.575418099,0.9,"decreasing","increasing",3.907174583,4.575418099,33.5,,
+"Dominican Republic","Dominican Republic","the Dominican Republic","dominican-republic","LAC",TRUE,599989.116,5.83647,4.31,3.014670445,14.48312691,11.46845647,2.43,"increasing","decreasing",14.3030068,11.468456465,7.1,11.6,5.7
+"Ecuador","Ecuador","Ecuador","ecuador","LAC",TRUE,931660.38,5.9493,4.58,3.0653482,16.13525199,13.06990379,2.35,"increasing","decreasing",8.183325755,13.06990379,23.9,,
+"Egypt","Egypt","Egypt","egypt","Africa",TRUE,7906737.685,8.80385,3.12,2.52094284,6.077353331,3.556410491,2.18,"increasing","about.the.same",3.564576631,3.556410491,22.3,24.8,21.7
+"El Salvador","El Salvador","El Salvador","el-salvador","LAC",TRUE,439258.125,7.02813,3.99,2.800966035,11.93514205,9.134176015,2.22,"increasing","decreasing",9.50745526,9.134176015,13.6,23.6,10.4
+"Equatorial Guinea","Equatorial Guinea","Equatorial Guinea","equatorial-guinea","Africa",TRUE,,,,,,,,,,,,26.2,,
+"Eritrea","Eritrea","Eritrea","eritrea","Africa",TRUE,,,,,,,,,,,,,,
+"Estonia","Estonia","Estonia","estonia","Europe",FALSE,15662.196,1.18653,13,8.573669,29.36661015,20.79294115,6.58,"increasing","",8.99011561,20.79294115,,,
+"Ethiopia","Ethiopia","Ethiopia","ethiopia","Africa",TRUE,47651385.75,50.2175,1.6,1.1689856,3.75095223,2.58196663,0.87,"increasing","decreasing",1.497056397,2.58196663,38.4,44.6,36.6
+"Fiji","Fiji","Fiji","fiji","Oceania",TRUE,56444.52,6.41415,3.56,2.75576396,8.445442572,5.689678612,2.37,"increasing","",5.543198656,5.689678612,,,
+"Finland","Finland","Finland","finland","Europe",FALSE,0,0,29.8,22.8832561,55.74219967,32.85894357,19.75,"increasing","",24.56606995,32.85894357,,,
+"France","France","France","france","Europe",FALSE,0,0,27.925,20.80405519,59.82830127,39.02424608,17.5,"increasing","",29.43402584,39.02424608,,,
+"French Guiana","French Guiana","French Guiana","french-guiana","LAC",FALSE,,,,,,,,,,,,,,
+"French Polynesia","French Polynesia","French Polynesia","french-polynesia","Oceania",FALSE,,,,,,,,,,,,,,
+"Gabon","Gabon","Gabon","gabon","Africa",TRUE,306053.02,16.8161,2.75,1.973956875,7.985579274,6.011622399,1.61,"decreasing","",6.768968723,6.011622399,17,30.7,13.1
+"Gambia","Gambia","Gambia","gambia","Africa",TRUE,580344.18,31.2013,2.02,1.46221235,5.406981159,3.944768809,1.57,"increasing","decreasing",2.495337765,3.944768809,24.6,29.5,23.2
+"Georgia","Georgia","Georgia","georgia","Asia",TRUE,507090.78,13.4151,3.04,2.13866432,8.139484605,6.000820285,1.68,"decreasing","",4.190668667,6.000820285,,,
+"Germany","Germany","Germany","germany","Europe",FALSE,0,0,28.675,21.50197743,60.37710838,38.87513095,18.25,"increasing","",34.43662863,38.87513095,,,
+"Ghana","Ghana","Ghana","ghana","Africa",TRUE,5692970.2,21.6052,2.44,1.68791758,7.453390468,5.765472888,1.32,"increasing","decreasing",3.026769566,5.765472888,18.8,24.8,17
+"Greece","Greece","Greece","greece","Europe",FALSE,187874.414,1.71262,9.98,6.35303846,25.28471299,18.93167453,4.48,"increasing","",21.93650563,18.93167453,,,
+"Grenada","Grenada","Grenada","grenada","LAC",TRUE,,,,,,,,,,,,,,
+"Guadeloupe","Guadeloupe","Guadeloupe","guadeloupe","LAC",FALSE,,,,,,,,,,,,,,
+"Guatemala","Guatemala","Guatemala","guatemala","LAC",TRUE,2628147.6,16.8471,2.81,1.88302034,10.55034081,8.66732047,1.46,"increasing","decreasing",10.64938379,8.66732047,46.7,66.4,39.6
+"Guinea","Guinea","Guinea","guinea","Africa",TRUE,6294619.94,54.5461,1.48,1.10190514,3.370859331,2.268954191,0.92,"increasing","decreasing",2.298264112,2.268954191,32.4,,
+"Guinea-Bissau","Guinea-Bissau","Guinea-Bissau","guinea-bissau","Africa",TRUE,1301786.64,77.4873,0.77,0.51807448,2.756206038,2.238131558,0.41,"decreasing","decreasing",1.781491304,2.238131558,27.6,30.7,26.7
+"Guyana","Guyana","Guyana","guyana","LAC",TRUE,87898.56,11.5656,3.66,2.27837745,12.04955632,9.77117887,1.57,"increasing","decreasing",6.671317958,9.77117887,11.3,20.4,7.5
+"Haiti","Haiti","Haiti","haiti","LAC",TRUE,3739520.05,35.8535,1.74,1.21370046,5.173876255,3.960175795,0.98,"increasing","decreasing",3.269752245,3.960175795,22,31.2,19
+"Honduras","Honduras","Honduras","honduras","LAC",TRUE,2193517.38,25.3293,2.09,1.281591135,9.637752901,8.356161766,0.88,"increasing","decreasing",7.083881116,8.356161766,22.6,42,16.1
+"Hungary","Hungary","Hungary","hungary","Europe",FALSE,24133.3802,0.244018,10.5,7.319487,22.41468989,15.09520289,5.64,"increasing","",8.167261975,15.09520289,,,
+"Iceland","Iceland","Iceland","iceland","Europe",FALSE,0,0,29.75,23.45498925,53.60200611,30.14701686,20.75,"increasing","",29.38565135,30.14701686,,,
+"India","India","India","india","Asia",TRUE,,36.8458,2.02,,,,1.58,"increasing","decreasing",,,37.9,50.7,33.6
+"Indonesia","Indonesia","Indonesia","indonesia","Asia",TRUE,65173193.79,25.8593,2.32,1.87963384,6.13999565,4.26036181,1.66,"increasing","increasing",1.744673318,4.26036181,36.4,,
+"Iran (Islamic Republic of)","Iran","Iran","iran","Asia",TRUE,328513.6448,0.424217,7.63,5.636315335,19.32967459,13.69335926,4.66,"increasing","",10.29509839,13.693359255,6.8,,
+"Iraq","Iraq","Iraq","iraq","Asia",TRUE,2449798.428,7.23081,3.41,2.66592777,6.9090934,4.24316563,2.31,"increasing","",3.973176335,4.24316563,22.1,24.4,21.3
+"Ireland","Ireland","Ireland","ireland","Europe",FALSE,34086.46,0.74101,22,15.687485,49.56319724,33.87571224,13.75,"increasing","",28.18184576,33.87571224,,,
+"Israel","Israel","Israel","israel","Asia",FALSE,54077.764,0.67094,12,7.831464,39.32829838,31.49683438,5.75,"increasing","",22.18065651,31.49683438,,,
+"Italy","Italy","Italy","italy","Europe",FALSE,1049429.451,1.74237,19.5,12.324975,46.34807132,34.02309632,8.29,"increasing","",33.79838891,34.02309632,,,
+"Jamaica","Jamaica","Jamaica","jamaica","LAC",TRUE,139742.91,4.90326,4.23,3.0522411,13.68867945,10.63643835,2.52,"increasing","increasing",10.11105888,10.63643835,6.2,,
+"Japan","Japan","Japan","japan","Asia",FALSE,443441.883,0.347934,22.75,15.6009035,49.04648645,33.44558295,12,"increasing","",29.15654244,33.44558295,,,
+"Jordan","Jordan","Jordan","jordan","Asia",TRUE,89853.281,1.06841,5.29,4.15866473,11.64190916,7.48324443,3.69,"increasing","decreasing",6.274280598,7.48324443,7.8,14,5.9
+"Kazakhstan","Kazakhstan","Kazakhstan","kazakhstan","Asia",TRUE,12290.40672,0.0721268,7.26,5.96215521,13.70261188,7.74045667,5.38,"increasing","decreasing",4.837831933,7.74045667,8,10.3,7.4
+"Kenya","Kenya","Kenya","kenya","Africa",TRUE,21959213.39,48.9833,1.4,0.9560096,4.861572942,3.905563342,0.74,"decreasing","decreasing",3.650063104,3.905563342,26.2,36,23.1
+"Kiribati","Kiribati","Kiribati","kiribati","Oceania",TRUE,26745.73,24.3143,2.29,1.613482475,5.714574587,4.101092112,1.32,"decreasing","",4.304735334,4.101092112,,,
+"Kosovo","Kosovo","Kosovo","kosovo","Europe",TRUE,19479.642,1.07031,5.25,4.107539625,9.569772628,5.462233003,3.6,"increasing","",2.939605906,5.462233003,,,
+"Kuwait","Kuwait","Kuwait","kuwait","Asia",FALSE,,,,,,,,,,,,4.9,,
+"Kyrgyzstan","Kyrgyzstan","Kyrgyzstan","kyrgyzstan","Asia",TRUE,691090.4,12.082,2.91,2.34716817,5.723276451,3.376108281,2.09,"decreasing","decreasing",3.489801408,3.376108281,12.9,17.7,11.6
+"Lao People’s Democratic Republic","Laos","Laos","laos","Asia",TRUE,2477992.33,38.1817,1.9,1.47507735,4.509929293,3.034851943,1.26,"increasing","",1.877320408,3.034851943,44.2,60.6,37.4
+"Latvia","Latvia","Latvia","latvia","Europe",FALSE,35152.89,1.7489,9.93,6.405391185,23.06017275,16.65478157,4.66,"increasing","",7.829235815,16.654781565,,,
+"Lebanon","Lebanon","Lebanon","lebanon","Asia",TRUE,3227.65344,0.0611298,11.5,8.4142165,24.67276094,16.25854444,6.93,"increasing","",15.76767441,16.25854444,,,
+"Lesotho","Lesotho","Lesotho","lesotho","Africa",TRUE,1428771.88,67.3949,0.66,0.39265512,3.362500604,2.969845484,0.27,"increasing","decreasing",2.467421463,2.969845484,33.4,45.6,30.2
+"Liberia","Liberia","Liberia","liberia","Africa",TRUE,2594489.04,60.4776,1.35,1.005332175,3.098738189,2.093406014,0.91,"increasing","decreasing",1.581202893,2.093406014,32.1,35.5,31
+"Lithuania","Lithuania","Lithuania","lithuania","Europe",FALSE,44284.56,1.4961,10.25,6.956864625,24.12086604,17.16400142,5.45,"increasing","",8.0185366,17.164001415,,,
+"Luxembourg","Luxembourg","Luxembourg","luxembourg","Europe",FALSE,723.897,0.134055,36,26.989974,81.67894486,54.68897086,23,"increasing","",45.65523762,54.68897086,,,
+"Madagascar","Madagascar","Madagascar","madagascar","Africa",TRUE,19802403.04,86.2474,0.63,0.43964298,1.809871447,1.370228467,0.35,"decreasing","",1.649356744,1.370228467,,,
+"Malawi","Malawi","Malawi","malawi","Africa",TRUE,13587160.78,81.9491,0.72,0.52792632,2.255475954,1.727549634,0.44,"decreasing","decreasing",3.406413992,1.727549634,37.4,45.7,34.8
+"Malaysia","Malaysia","Malaysia","malaysia","Asia",TRUE,113966.9658,0.383598,8.39,5.788911225,30.32626534,24.53735412,4.59,"increasing","increasing",14.84581048,24.537354115,20.7,,
+"Maldives","Maldives","the Maldives","maldives","Asia",TRUE,44729.1,11.469,3.25,2.375338875,8.73448035,6.359141475,2.02,"increasing","",,6.359141475,,,
+"Mali","Mali","Mali","mali","Africa",TRUE,11483824.32,69.6834,1.17,0.913116555,2.634624971,1.721508416,0.8,"increasing","increasing",1.61237049,1.721508416,30.4,40.5,27.9
+"Malta","Malta","Malta","malta","Europe",FALSE,0,0,23,17.216236,45.58511908,28.36888308,14.5,"increasing","",19.73245041,28.36888308,,,
+"Martinique","Martinique","Martinique","martinique","LAC",FALSE,,,,,,,,,,,,,,
+"Mauritania","Mauritania","Mauritania","mauritania","Africa",TRUE,613095.3,15.5214,2.81,2.05881956,6.460541685,4.401722125,1.71,"increasing","decreasing",3.930904167,4.401722125,27.9,,
+"Mauritius","Mauritius","Mauritius","mauritius","Africa",TRUE,17910.9,1.4215,5.87,4.421727185,13.79207505,9.370347865,3.74,"increasing","",6.367650419,9.370347865,,,
+"Mexico","Mexico","Mexico","mexico","LAC",TRUE,9508381.014,7.75941,3.79,2.67536858,11.95034964,9.27498106,2.08,"decreasing","decreasing",8.99115576,9.27498106,12.4,22.9,9.1
+"Micronesia (Federated States of)","Micronesia","Micronesia","micronesia","Oceania",TRUE,27944.1,27.9441,2.15,1.384134525,5.906500615,4.52236609,1,"decreasing","",6.070742643,4.52236609,,,
+"Mongolia","Mongolia","Mongolia","mongolia","Asia",TRUE,33905.032,1.18136,5.38,4.09647457,12.0154841,7.91900953,3.49,"increasing","decreasing",2.713549208,7.91900953,10.8,18.6,8.6
+"Montenegro","Montenegro","Montenegro","montenegro","Europe",TRUE,11994.334,1.93457,7.05,5.280072825,15.94058453,10.66051171,4.79,"increasing","increasing",7.60058466,10.660511705,9.4,4.7,10.4
+"Morocco","Morocco","Morocco","morocco","Africa",TRUE,1516996.1,4.4855,4.22,3.1355866,11.20504856,8.06946196,2.64,"increasing","",5.395006823,8.06946196,14.9,,
+"Mozambique","Mozambique","Mozambique","mozambique","Africa",TRUE,20074034.31,75.9517,0.78,0.53993472,2.923762895,2.383828175,0.43,"increasing","",1.43319529,2.383828175,42.9,51.4,40.4
+"Myanmar","Myanmar","Myanmar","myanmar","Asia",TRUE,11982653.55,23.2899,2.42,1.82421173,5.761549807,3.937338077,1.56,"increasing","decreasing",1.026824666,3.937338077,29.4,38.3,25.7
+"Namibia","Namibia","Namibia","namibia","Africa",TRUE,729326.8,31.4365,2,1.421946,10.50718473,9.08523873,1.14,"increasing","decreasing",6.418800402,9.08523873,22.7,30.8,20
+"Nepal","Nepal","Nepal","nepal","Asia",TRUE,6981909.57,24.9443,2.35,1.882679,5.185974086,3.303295086,1.64,"increasing","decreasing",1.989617175,3.303295086,36,48.4,32.8
+"Netherlands","Netherlands","the Netherlands","netherlands","Europe",FALSE,0,0,28.95,21.55499753,55.13111363,33.5761161,18,"increasing","",32.20716058,33.5761161,,,
+"Netherlands Antilles","Netherlands Antilles","the Netherlands Antilles","netherlands-antilles","LAC",FALSE,,,,,,,,,,,,,,
+"New Zealand","New Zealand","New Zealand","new-zealand","Oceania",FALSE,,,,,,,,,,,,,,
+"Nicaragua","Nicaragua","Nicaragua","nicaragua","LAC",TRUE,496754.79,8.34882,3.68,2.59197672,11.89036198,9.29838526,1.95,"increasing","decreasing",4.991723705,9.29838526,17.3,,
+"Niger","Niger","Niger","niger","Africa",TRUE,12179668.23,66.0861,1.3,1.0222537,2.890811917,1.868558217,0.98,"increasing","decreasing",1.383425997,1.868558217,42.2,,
+"Nigeria","Nigeria","Nigeria","nigeria","Africa",TRUE,111571968.3,64.9316,1.02,0.71856042,3.164044827,2.445484407,0.57,"increasing","decreasing",2.020994863,2.445484407,43.6,62.8,38
+"Norway","Norway","Norway","norway","Europe",FALSE,12505.0804,0.246163,43,32.1749865,78.39323968,46.21825318,27.45,"increasing","",30.56432298,46.21825318,,,
+"Occupied Palestinian Territory","Palestine","Palestine","palestine","Asia",TRUE,35618.6805,0.854165,5.5,4.20081475,12.62239905,8.4215843,3.53,"increasing","decreasing",8.585000625,8.4215843,7.4,7.3,7.4
+"Oman","Oman","Oman","oman","Asia",FALSE,,,,,,,,,,,,14.1,,
+"Pakistan","Pakistan","Pakistan","pakistan","Asia",TRUE,43410337.29,23.8899,2.41,1.973771925,4.848365238,2.874593313,1.8,"increasing","increasing",2.344026497,2.874593313,45,61.1,40.4
+"Panama","Panama","Panama","panama","LAC",TRUE,212027.904,5.52156,5.84,3.57480708,25.84196946,22.26716238,2.44,"increasing","",15.26070707,22.26716238,,,
+"Papua New Guinea","Papua New Guinea","Papua New Guinea","papua-new-guinea","Oceania",TRUE,3795743.82,50.0098,1.29,0.850587945,3.980284521,3.129696576,0.65,"increasing","",2.947477377,3.129696576,,,
+"Paraguay","Paraguay","Paraguay","paraguay","LAC",TRUE,268366.542,4.14786,5.46,3.67830099,19.91846585,16.24016486,2.79,"increasing","decreasing",13.8029672,16.24016486,5.6,12.3,3.4
+"Peru","Peru","Peru","peru","LAC",TRUE,2349732.48,7.6864,4.54,2.88111124,15.27210575,12.39099451,2.05,"increasing","decreasing",9.66852221,12.39099451,13.1,,
+"Philippines","Philippines","the Philippines","philippines","Asia",TRUE,23795328.48,24.1626,2.35,1.798643,6.713147469,4.914504469,1.54,"increasing","decreasing",4.697659244,4.914504469,33.4,,
+"Poland","Poland","Poland","poland","Europe",FALSE,13193.67948,0.0346837,8.58,6.55826457,19.00224208,12.44397751,5.6,"increasing","",9.820890565,12.44397751,,,
+"Portugal","Portugal","Portugal","portugal","Europe",FALSE,128128.724,1.22494,12.25,7.818482875,29.3622149,21.54373203,5.78,"increasing","",22.00910075,21.543732025,,,
+"Puerto Rico","Puerto Rico","Puerto Rico","puerto-rico","LAC",FALSE,,,,,,,,,,,,,,
+"Qatar","Qatar","Qatar","qatar","Asia",FALSE,,,,,,,,,,,,,,
+"Republic of Congo","Congo","Congo","congo","Africa",TRUE,2349991.25,49.4735,1.23,0.82579617,4.714249588,3.888453418,0.64,"increasing","decreasing",2.450404161,3.888453418,21.2,,
+"Republic of Korea","Korea","Korea","korea","Asia",FALSE,170957.7,0.339,21.25,14.33481438,45.66848819,31.33367381,11,"increasing","",21.19729211,31.33367381,,,
+"Republic of Moldova","Moldova","Moldova","moldova","Europe",TRUE,16095.8636,0.452131,5.52,4.38503004,10.89642742,6.51139738,3.91,"decreasing","decreasing",2.834933141,6.51139738,6.4,11.4,5.3
+"Romania","Romania","Romania","romania","Europe",TRUE,400355.244,2.00378,5.11,3.892667695,9.981970063,6.089302368,3.31,"decreasing","",3.515135308,6.089302368,,,
+"Russian Federation","Russia","Russia","russia","Europe",TRUE,99035.38994,0.0690094,10.5,7.917,29.10662671,21.18962671,6.65,"increasing","",7.46161335,21.18962671,,,
+"Rwanda","Rwanda","Rwanda","rwanda","Africa",TRUE,8120243.52,73.3536,0.96,0.714012,3.268833986,2.554821986,0.6,"increasing","decreasing",1.578700043,2.554821986,36.7,,
+"Saint Lucia","Saint Lucia","Saint Lucia","saint-lucia","LAC",TRUE,75659.76,42.0332,1.5,0.98910975,4.755941741,3.766831991,0.75,"increasing","",3.369998513,3.766831991,2.5,5.2,1.8
+"Saint Vincent and the Grenadines","Saint Vincent","Saint Vincent","saint-vincent","LAC",TRUE,,,,,,,,,,,,,,
+"Samoa","Samoa","Samoa","samoa","Oceania",TRUE,8573.218,4.51222,3.88,3.02792872,11.08471645,8.05678773,2.63,"increasing","",5.966941127,8.05678773,4.9,6.3,4.5
+"Sao Tome and Principe","Sao Tome and Principe","Sao Tome and Principe","sao-tome-and-principe","Africa",TRUE,95896.42,50.4718,1.62,1.26345096,3.452552328,2.189101368,1.13,"increasing","decreasing",,2.189101368,17.2,25.5,14.8
+"Saudi Arabia","Saudi Arabia","Saudi Arabia","saudi-arabia","Asia",FALSE,,,,,,,,,,,,,,
+"Senegal","Senegal","Senegal","senegal","Africa",TRUE,7586280.64,53.7272,1.37,0.969172935,3.755428684,2.786255749,0.8,"increasing","decreasing",2.220306623,2.786255749,17.1,25.6,14.3
+"Serbia","Serbia","Serbia","serbia","Europe",TRUE,61465.0916,0.858451,6.4,4.8985088,12.90044129,8.00193249,4.12,"decreasing","decreasing",7.76326123,8.00193249,6,13.6,4.5
+"Seychelles","Seychelles","Seychelles","seychelles","Africa",TRUE,1363.599,1.51511,9.3,6.2342643,27.16939283,20.93512853,4.66,"increasing","",17.10488244,20.93512853,7.9,,
+"Sierra Leone","Sierra Leone","Sierra Leone","sierra-leone","Africa",TRUE,3658008.88,52.8614,1.58,1.22455846,3.567649426,2.343090966,1.05,"increasing","decreasing",1.774132397,2.343090966,37.8,42.4,36.4
+"Singapore","Singapore","Singapore","singapore","Asia",FALSE,,,,,,,,,,,,,,
+"Slovakia","Slovakia","Slovakia","slovakia","Europe",FALSE,23787.6077,0.439697,13.25,9.268587,25.71107243,16.44248543,7.11,"increasing","",10.85683678,16.44248543,,,
+"Slovenia","Slovenia","Slovenia","slovenia","Europe",FALSE,0,0,20.5,15.07126175,37.2457599,22.17449815,12.5,"increasing","",16.68022408,22.17449815,,,
+"Solomon Islands","Solomon Islands","the Solomon Islands","solomon-islands","Oceania",TRUE,236332.32,42.2022,1.72,1.27432478,4.247994147,2.973669367,1.05,"decreasing","decreasing",3.790977001,2.973669367,31.6,36.6,30.1
+"Somalia","Somalia","Somalia","somalia","Africa",TRUE,,,,,,,,,,,,,,
+"South Africa","South Africa","South Africa","south-africa","Africa",TRUE,14568929.97,27.3287,2.06,1.38317361,14.07483673,12.69166312,1.22,"increasing","increasing",6.801542849,12.69166312,27.4,,
+"South Sudan","South Sudan","South Sudan","south-sudan","Africa",TRUE,9032344.36,80.7902,0.54,0.33142122,2.061881681,1.730460461,0.23,"increasing","",,1.730460461,,,
+"Spain","Spain","Spain","spain","Europe",FALSE,694829.142,1.49041,16,10.051888,41.81511019,31.76322219,6.89,"increasing","",24.96514754,31.76322219,,,
+"Sri Lanka","Sri Lanka","Sri Lanka","sri-lanka","Asia",TRUE,1283236.747,6.23233,3.6,2.7999432,9.133973104,6.334029904,2.38,"increasing","decreasing",4.247744142,6.334029904,17.3,,
+"State of Libya","Libya","Libya","libya","Africa",TRUE,,,,,,,,,,,,,,
+"Sudan","Sudan","Sudan","sudan","Africa",TRUE,6311778.55,17.1283,2.71,1.94908349,6.655482552,4.706399062,1.59,"increasing","about.the.same",2.491369001,4.706399062,38.2,44,36.9
+"Suriname","Suriname","Suriname","suriname","LAC",TRUE,114153.84,21.1396,2.31,0.5569872,13.8737943,13.3168071,0.01,"increasing","",8.507087425,13.3168071,,,
+"Swaziland","Swaziland","Swaziland","swaziland","Africa",TRUE,651972.28,51.3364,1.23,0.842143485,5.055820293,4.213676808,0.64,"increasing","decreasing",3.590732766,4.213676808,25.5,30.3,24.1
+"Sweden","Sweden","Sweden","sweden","Europe",FALSE,47097.984,0.490604,31.25,22.11517188,58.99997415,36.88480227,18,"increasing","",23.6451535,36.88480227,,,
+"Switzerland","Switzerland","Switzerland","switzerland","Europe",FALSE,0,0,34.05,26.17847423,75.89332665,49.71485242,22.75,"increasing","",46.29598992,49.71485242,,,
+"Syrian Arab Republic","Syria","Syria","syria","Asia",TRUE,3573030.65,18.0365,2.64,2.047254,6.180857733,4.133603733,1.78,"increasing","",4.948529215,4.133603733,,,
+"Tajikistan","Tajikistan","Tajikistan","tajikistan","Asia",TRUE,1010516.3,12.3535,3.02,2.262131,6.758330264,4.496199264,2.08,"decreasing","decreasing",1.508420465,4.496199264,26.8,31.7,25.6
+"Thailand","Thailand","Thailand","thailand","Asia",TRUE,163487.6206,0.239929,6.68,5.11706704,17.18055516,12.06348812,4.42,"increasing","decreasing",7.297133589,12.06348812,10.5,,
+"The former Yugoslav Republic of Macedonia","Macedonia","Macedonia","macedonia","Europe",TRUE,188496.256,9.06232,4.24,2.56305456,11.53640074,8.97334618,1.6,"increasing","",5.703957007,8.97334618,4.9,7.2,4.3
+"Timor-Leste","Timor-Leste","Timor-Leste","timor-leste","Asia",TRUE,693266.52,58.7514,1.6,1.2901576,3.094698956,1.804541356,1.17,"increasing","decreasing",1.227885905,1.804541356,50.2,,
+"Togo","Togo","Togo","togo","Africa",TRUE,4568234.88,64.8897,0.94,0.65207847,3.1582023,2.50612383,0.53,"increasing","decreasing",2.420021234,2.50612383,27.6,33.4,25.9
+"Tonga","Tonga","Tonga","tonga","Oceania",TRUE,4004.099,3.64009,4.56,3.3487728,11.59640954,8.24763674,2.83,"increasing","",8.27600877,8.24763674,8.1,,
+"Trinidad and Tobago","Trinidad and Tobago","Trinidad and Tobago","trinidad-and-tobago","LAC",FALSE,22539.735,1.66961,6.68,4.58938712,19.69270801,15.10332089,3.62,"increasing","",14.76231012,15.10332089,11,,
+"Tunisia","Tunisia","Tunisia","tunisia","Africa",TRUE,315126.018,2.86218,5.39,3.805164825,13.18154441,9.376379585,3.06,"increasing","increasing",6.512757865,9.376379585,10.1,15.6,8.8
+"Turkey","Turkey","Turkey","turkey","Asia",TRUE,1018473.599,1.34381,7.19,4.970447,20.01497729,15.04453029,3.93,"increasing","decreasing",9.74159561,15.04453029,9.5,,
+"Turkmenistan","Turkmenistan","Turkmenistan","turkmenistan","Asia",TRUE,689395.23,12.8379,3.07,2.277330605,8.850379678,6.573049073,1.91,"increasing","decreasing",2.539223782,6.573049073,11.5,15.5,10.3
+"Tuvalu","Tuvalu","Tuvalu","tuvalu","Oceania",TRUE,829.589,8.29589,3.63,2.70970062,9.605341968,6.895641348,2.25,"increasing","",6.677374375,6.895641348,,,
+"Uganda","Uganda","Uganda","uganda","Africa",TRUE,20352926.1,54.2022,1.45,1.057904775,3.890195039,2.832290264,0.87,"increasing","decreasing",1.838288221,2.832290264,28.9,32.3,28
+"Ukraine","Ukraine","Ukraine","ukraine","Europe",TRUE,20303.50621,0.0446329,8.35,6.7273445,14.69199949,7.96465499,5.99,"increasing","",3.051538035,7.96465499,,,
+"United Arab Emirates","UAE","the UAE","uae","Asia",FALSE,,,,,,,,,,,,,,
+"United Kingdom of Great Britain and Northern Ireland","United Kingdom","the United Kingdom","united-kingdom","Europe",FALSE,153951.1193,0.240061,23,16.9246075,53.16336867,36.23876117,14.5,"increasing","",32.52203023,36.23876117,,,
+"United Republic of Tanzania","Tanzania","Tanzania","tanzania","Africa",TRUE,33119775.36,65.4024,1.27,0.99413695,3.124632886,2.130495936,0.87,"increasing","decreasing",1.034607251,2.130495936,34.5,39.9,32.7
+"United States of America","US","the US","usa","NA",FALSE,4271830.38,1.35099,25.25,16.13809563,74.78903774,58.65094211,12,"increasing","decreasing",55.92585231,58.65094211,2.1,,
+"United States Virgin Islands","US Virgin Islands","the US Virgin Islands","us-virgin-islands","LAC",FALSE,,,,,,,,,,,,,,
+"Uruguay","Uruguay","Uruguay","uruguay","LAC",FALSE,14207.5604,0.416644,10,6.923955,29.42343591,22.49948091,5.49,"increasing","",21.712114925,22.49948091,10.7,,
+"Uzbekistan","Uzbekistan","Uzbekistan","uzbekistan","Asia",TRUE,11391075.36,37.6689,1.94,1.41026845,4.399720559,2.989452109,1.13,"decreasing","",2.422548886,2.989452109,,,
+"Vanuatu","Vanuatu","Vanuatu","vanuatu","Oceania",TRUE,63923.75,25.5695,2.28,1.68715212,5.831937997,4.144785877,1.38,"increasing","increasing",4.390587388,4.144785877,28.5,,
+"Venezuela (Bolivarian Republic of)","Venezuela","Venezuela","venezuela","LAC",TRUE,2960860.184,9.76537,4.89,2.2957083,17.45089484,15.15518654,0.01,"increasing","",9.82196308,15.15518654,,,
+"Viet Nam","Viet Nam","Viet Nam","viet-nam","Asia",TRUE,5950064.736,6.62886,3.93,2.839914285,9.355144716,6.515230431,2.26,"increasing","decreasing",2.280722649,6.515230431,24.6,,
+"Western Sahara","Western Sahara","Western Sahara","western-sahara","Africa",FALSE,,,,,,,,,,,,,,
+"Yemen","Yemen","Yemen","yemen","Asia",TRUE,8294775.44,32.4268,2.04,1.5548421,4.896673037,3.341830937,1.34,"decreasing","decreasing",4.435929705,3.341830937,46.4,58.9,42.8
+"Zambia","Zambia","Zambia","zambia","Africa",TRUE,10334708.85,68.2159,0.7,0.471366,3.543021514,3.071655514,0.46,"decreasing","decreasing",3.25796278,3.071655514,40,47.2,37.7
+"Zimbabwe","Zimbabwe","Zimbabwe","zimbabwe","Africa",TRUE,4197776.1,27.8922,2.13,1.633331925,6.602297156,4.968965231,1.36,"decreasing","decreasing",6.951903118,4.968965231,27.1,33.1,25.2

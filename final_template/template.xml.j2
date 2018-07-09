@@ -553,18 +553,47 @@
 <text top="2187" left="72" width="600" height="35" font="9"><b>Source: </b>Development Initiatives based on PovcalNet</text>
 <text top="2190" left="622" width="5" height="20" font="11"><a href="#{{ country.slug }}1"><b>1</b></a></text>
 <text top="2451" left="162" width="160" height="64" font="5"><b>income</b></text>
-<text top="2574" left="72" width="765" height="44" font="6">In 2000 the gap between the P20 and everyone </text>
-<text top="2628" left="72" width="775" height="44" font="6">else in {{ country.sentencename }} was $[0.00] and in 2013 </text>
-<text top="2682" left="72" width="213" height="44" font="6">it was $[0.00].</text>
+{% if country.gap_1999 is not none %}
+	<text top="2574" left="72" width="765" height="44" font="6">In 1999 the gap between the national P20 and </text>
+	<text top="2628" left="72" width="775" height="44" font="6">everyone else in {{ country.sentencename }} was {{ country.gap_1999|dollar }} and </text>
+	<text top="2682" left="72" width="213" height="44" font="6">in 2013 it was {{ country.gap_2013|dollar }}.</text>
+{% else %}
+	{% if country.gap_2013 is not none %}
+		<text top="2574" left="72" width="765" height="44" font="6">In 2013 the gap between the national P20 and </text>
+		<text top="2628" left="72" width="775" height="44" font="6">everyone else in {{ country.sentencename }} was {{ country.gap_2013|dollar }}.</text>
+	{% else %}
+		<text top="2574" left="72" width="765" height="44" font="6">Lorum</text>
+		<text top="2628" left="72" width="775" height="44" font="6">ipsum</text>
+		<text top="2682" left="72" width="213" height="44" font="6">dolor.</text>
+	{% endif %}
+{% endif %}
+<text top="2766" left="74" width="535" height="48" font="7"><b>{{ country.name }} income trends</b></text>
+<image top="2850" left="74" width="1000" height="770" src="placeholder.png"/>
 <text top="3699" left="72" width="600" height="35" font="9"><b>Source: </b>Development Initiatives based on PovcalNet</text>
 <text top="3819" left="162" width="188" height="64" font="5"><b>nutrition</b></text>
 <text top="3942" left="72" width="716" height="44" font="6">Nutrition is fundamental to the ability to learn </text>
 <text top="3996" left="72" width="790" height="44" font="6">and earn. Children who experience poor nutrition </text>
 <text top="4050" left="72" width="681" height="44" font="6">can suffer lifelong disadvantage as a result. </text>
-<text top="4140" left="72" width="707" height="44" font="6">In {{ country.sentencename }}, [X]% of under five year </text>
-<text top="4194" left="72" width="692" height="44" font="6">olds experienced stunting. In the P20 [XX]% </text>
-<text top="4248" left="72" width="696" height="44" font="6">experienced stunting compared with [XX]% </text>
-<text top="4302" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+{% if country.nationalstunting is not none %}
+	{% if country.nationalP20stunting is not none %}
+		<text top="4140" left="72" width="707" height="44" font="6">In {{ country.sentencename }}, {{ country.nationalstunting|percent }} of under five year </text>
+		<text top="4194" left="72" width="692" height="44" font="6">olds experienced stunting. In the national P20 {{ country.nationalP20stunting|percent }} </text>
+		<text top="4248" left="72" width="696" height="44" font="6">experienced stunting compared with {{ country.restP20stunting|percent }} </text>
+		<text top="4302" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+	{% else %}
+		<text top="4140" left="72" width="707" height="44" font="6">In {{ country.sentencename }}, {{ country.nationalstunting|percent }} of under five year </text>
+		<text top="4194" left="72" width="692" height="44" font="6">olds experienced stunting. It is not possible to </text>
+		<text top="4248" left="72" width="696" height="44" font="6">disaggregate stunting rates between the </text>
+		<text top="4302" left="72" width="448" height="44" font="6">national P20 and the rest of the population.</text>
+	{% endif %}
+{% else %}
+	<text top="4140" left="72" width="707" height="44" font="6">Lorum</text>
+	<text top="4194" left="72" width="692" height="44" font="6">ipsum</text>
+	<text top="4248" left="72" width="696" height="44" font="6">dolor</text>
+	<text top="4302" left="72" width="448" height="44" font="6">amet</text>
+{% endif %}
+<text top="4387" left="72" width="973" height="48" font="7"><b>stunting in children in the P20 compared with rest of country</b></text>
+<image top="4477" left="74" width="1000" height="600" src="placeholder.png"/>
 <text top="5139" left="72" width="765" height="35" font="9"><b>Source: </b>Development Initiatives based on UNICEF-WHO joint child </text>
 <text top="5176" left="72" width="251" height="32" font="10">malnutrition estimates</text>
 <text top="5178" left="303" width="8" height="20" font="11"><a href="#{{ country.slug }}2"><b>2</b></a></text>
@@ -577,6 +606,8 @@
 <text top="5724" left="72" width="734" height="44" font="6">In {{ country.sentencename }} [XX]% of births in the P20 </text>
 <text top="5778" left="72" width="707" height="44" font="6">are registered compared [XX]% in the rest of </text>
 <text top="5832" left="72" width="239" height="44" font="6">the population.</text>
+<text top="5916" left="72" width="689" height="48" font="7"><b>birth registration rates for children under 5</b></text>
+<image top="6006" left="74" width="1000" height="600" src="placeholder.png"/>
 <text top="6714" left="72" width="690" height="44" font="6">Birth registration rates in {{ country.sentencename }}  </text>
 <text top="6768" left="72" width="451" height="44" font="6">have [increased/decreased].</text>
 <text top="6867" left="72" width="987" height="35" font="9"><b>Source: </b>Development Initiatives based on World Bank World Development Indicators: </text>
@@ -587,9 +618,13 @@
 <text top="7200" left="72" width="202" height="44" font="6">life chances. </text>
 <text top="7290" left="72" width="684" height="44" font="6">In {{ country.sentencename }} [XX]% of people have </text>
 <text top="7344" left="72" width="640" height="44" font="6">completed secondary school education.</text>
+<text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
+<image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
 <text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
 <text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+<text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
+<image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
 <text top="9183" left="162" width="137" height="64" font="5"><b>health</b></text>
 <text top="9306" left="72" width="777" height="44" font="6">Poor health plays a major part in keeping people </text>
@@ -601,6 +636,8 @@
 <text top="9702" left="72" width="702" height="44" font="6">The under five mortality rate among the P20 </text>
 <text top="9756" left="72" width="742" height="44" font="6">is [XX] per 1,000 live births compared with [XX] </text>
 <text top="9810" left="72" width="770" height="44" font="6">per 1,000 live births for the rest of the population.</text>
+<text top="9894" left="72" width="370" height="48" font="7"><b>under 5 mortality rates</b></text>
+<image top="9984" left="74" width="1000" height="670" src="placeholder.png"/>
 <text top="10647" left="72" width="889" height="35" font="9"><b>Source: </b>Development Initiatives based on Demographic Health Surveys (DHS)</text>
 <text top="10845" left="72" width="15" height="34" font="12">1 </text>
 <text top="10845" left="72" width="15" height="34" font="12"><a name="{{ country.slug }}1"></a></text>
@@ -611,12 +648,6 @@
 <text top="10953" left="72" width="21" height="34" font="12">3 </text>
 <text top="10953" left="72" width="21" height="34" font="12"><a name="{{ country.slug }}3"></a></text>
 <text top="10954" left="108" width="957" height="32" font="10">Based on latest available data which varies between countries – see original source</text>
-<text top="2766" left="74" width="535" height="48" font="7"><b>{{ country.name }} income trends</b></text>
-<text top="4387" left="72" width="973" height="48" font="7"><b>stunting in children in the P20 compared with rest of country</b></text>
-<text top="5916" left="72" width="689" height="48" font="7"><b>birth registration rates for children under 5</b></text>
-<text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
-<text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
-<text top="9894" left="72" width="370" height="48" font="7"><b>under 5 mortality rates</b></text>
 <text top="11159" left="72" width="531" height="43" font="18">If you would like more information  </text>
 <text top="11204" left="72" width="555" height="43" font="18">or to speak to us, please get in touch:</text>
 <text top="11285" left="72" width="480" height="43" font="18">Zach Christensen, Senior Analyst </text>
@@ -683,18 +714,35 @@
 <text top="2187" left="72" width="600" height="35" font="9"><b>Source: </b>Development Initiatives based on PovcalNet</text>
 <text top="2190" left="622" width="5" height="20" font="11"><a href="#{{ country.slug }}1"><b>1</b></a></text>
 <text top="2451" left="162" width="160" height="64" font="5"><b>income</b></text>
-<text top="2574" left="72" width="765" height="44" font="6">In 2000 the gap between the P20 and everyone </text>
-<text top="2628" left="72" width="775" height="44" font="6">else in {{ country.sentencename }} was $[0.00] and in 2013 </text>
-<text top="2682" left="72" width="213" height="44" font="6">it was $[0.00].</text>
+{% if country.gap_1999 is not none %}
+	<text top="2574" left="72" width="765" height="44" font="6">In 1999 the gap between the national P20 and </text>
+	<text top="2628" left="72" width="775" height="44" font="6">everyone else in {{ country.sentencename }} was {{ country.gap_1999|dollar }} and </text>
+	<text top="2682" left="72" width="213" height="44" font="6">in 2013 it was {{ country.gap_2013|dollar }}.</text>
+{% else %}
+	{% if country.gap_2013 is not none %}
+		<text top="2574" left="72" width="765" height="44" font="6">In 2013 the gap between the national P20 and </text>
+		<text top="2628" left="72" width="775" height="44" font="6">everyone else in {{ country.sentencename }} was {{ country.gap_2013|dollar }}.</text>
+	{% else %}
+		<text top="2574" left="72" width="765" height="44" font="6">Lorum</text>
+		<text top="2628" left="72" width="775" height="44" font="6">ipsum</text>
+		<text top="2682" left="72" width="213" height="44" font="6">dolor.</text>
+	{% endif %}
+{% endif %}
+<text top="2766" left="74" width="535" height="48" font="7"><b>{{ country.name }} income trends</b></text>
+<image top="2850" left="74" width="1000" height="770" src="placeholder.png"/>
 <text top="3699" left="72" width="600" height="35" font="9"><b>Source: </b>Development Initiatives based on PovcalNet</text>
 <text top="3819" left="162" width="188" height="64" font="5"><b>nutrition</b></text>
 <text top="3942" left="72" width="743" height="44" font="6">In {{ country.sentencename }} [XX]% of adults are obese.</text>
+<text top="4026" left="72" width="196" height="48" font="7"><b>obesity rate</b></text>
+<image top="4116" left="74" width="1000" height="650" src="placeholder.png"/>
 <text top="4779" left="72" width="882" height="35" font="9"><b>Source: </b>Development Initiatives based on NCD Risk Factor Collaboration 2017</text>
 <text top="4899" left="162" width="219" height="64" font="5"><b>education</b></text>
 <text top="5022" left="72" width="613" height="44" font="6">Education is fundamental to a person’s </text>
 <text top="5076" left="72" width="193" height="44" font="6">life chances.</text>
 <text top="5166" left="72" width="684" height="44" font="6">In {{ country.sentencename }} [XX]% of people have </text>
 <text top="5220" left="72" width="640" height="44" font="6">completed secondary school education.</text>
+<text top="5304" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
+<image top="5394" left="74" width="1000" height="570" src="placeholder.png"/>
 <text top="5985" left="72" width="879" height="35" font="9"><b>Source: </b>Development Initiatives based on UNESCO Institute for Statistics 2018</text>
 <text top="6066" left="72" width="801" height="44" font="6">Data is not available that allows us to disaggregate </text>
 <text top="6120" left="72" width="766" height="44" font="6">secondary school completion based on income </text>
@@ -716,9 +764,6 @@
 <text top="7425" left="72" width="15" height="34" font="12">1 </text>
 <text top="7425" left="72" width="15" height="34" font="12"><a name="{{ country.slug }}1"></a></text>
 <text top="7426" left="108" width="501" height="32" font="10">Year of latest available data: 2013 (2011 $PPP)</text>
-<text top="2766" left="74" width="535" height="48" font="7"><b>{{ country.name }} income trends</b></text>
-<text top="4026" left="72" width="196" height="48" font="7"><b>obesity rate</b></text>
-<text top="5304" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <text top="7631" left="72" width="531" height="43" font="18">If you would like more information  </text>
 <text top="7676" left="72" width="555" height="43" font="18">or to speak to us, please get in touch:</text>
 <text top="7757" left="72" width="480" height="43" font="18">Zach Christensen, Senior Analyst </text>
