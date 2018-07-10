@@ -61,10 +61,32 @@ regdata$longname[which(regdata$longname=="Libyan Arab Jamahiriya")] = "State of 
 missing_from_reg = setdiff(countries$longname,regdata$longname)
 reg_missing_from_countries = setdiff(regdata$longname,countries$longname)
 
+nateducdata <- read.csv("data/ntl_secondarycompletion.csv")
+if(!"longname" %in% names(nateducdata)){setnames(nateducdata,"CountryName","longname")}
+if(is.factor(nateducdata$longname)){nateducdata$longname=unfactor(nateducdata$longname)}
+nateducdata$longname[which(nateducdata$longname=="Cabo Verde")] = "Cape Verde"
+nateducdata$longname[which(nateducdata$longname=="Congo")] = "Republic of Congo"
+nateducdata$longname[which(nateducdata$longname=="Cote d'Ivoire")] = "Côte d’Ivoire"
+nateducdata$longname[which(nateducdata$longname=="Lao People's Democratic Republic")] = "Lao People’s Democratic Republic"
+nateducdata$longname[which(nateducdata$longname=="Korea, Dem. People’s Rep.")] = "Democratic People’s Republic of Korea"
+nateducdata$longname[which(nateducdata$longname=="Libyan Arab Jamahiriya")] = "State of Libya"
+nateducdata$longname[which(nateducdata$longname=="Virgin Islands (U.S.)")] = "United States Virgin Islands"
+nateducdata$longname[which(nateducdata$longname=="aint Vincent and the Grenadines")] = "Saint Vincent and the Grenadines"
+nateducdata$longname[which(nateducdata$longname=="Macao SAR, China")] = "China, Macao Special Administrative Region"
+missing_from_nateduc = setdiff(countries$longname,nateducdata$longname)
+nateduc_missing_from_countries = setdiff(nateducdata$longname,countries$longname)
+nateducdata = subset(nateducdata,!is.na(Secondary.Completion))
+nateducdata = nateducdata[order(nateducdata$longname,-nateducdata$Year),]
+nateducdata$dup = duplicated(nateducdata$longname)
+nateducdata = subset(nateducdata,!dup)
+nateducdata$dup = NULL
+setnames(nateducdata,"Year","nateducYear")
+
 countries <- merge(countries,incomedata,by="longname",all.x=T)
 countries <- merge(countries,gapdata.w,by="longname",all.x=T)
 countries <- merge(countries,stuntingdata,by="longname",all.x=T)
 countries <- merge(countries,regdata,by="longname",all.x=T)
+countries <- merge(countries,nateducdata,by="longname",all.x=T)
 
 names(countries) = gsub(".","",names(countries),fixed=T)
 write.csv(countries,"data/countries_merged.csv",na="",row.names=F)
