@@ -14,6 +14,11 @@ incomedata$longname[which(incomedata$longname=="Cabo Verde")] = "Cape Verde"
 incomedata$longname[which(incomedata$longname=="Congo")] = "Republic of Congo"
 incomedata$longname[which(incomedata$longname=="Cote d'Ivoire")] = "Côte d’Ivoire"
 incomedata$longname[which(incomedata$longname=="Lao People's Democratic Republic")] = "Lao People’s Democratic Republic"
+if(is.factor(incomedata$birthregtrends)){incomedata$birthregtrends=unfactor(incomedata$birthregtrends)}
+incomedata$birthregtrends[which(incomedata$birthregtrends=="")] = NA
+incomedata$birthregtrends[which(incomedata$birthregtrends=="increasing")] = "increased"
+incomedata$birthregtrends[which(incomedata$birthregtrends=="decreasing")] = "decreased"
+incomedata$birthregtrends[which(incomedata$birthregtrends=="about.the.same")] = "stayed constant"
 missing_from_income = setdiff(countries$longname,incomedata$longname)
 income_missing_from_countries = setdiff(incomedata$longname,countries$longname)
 

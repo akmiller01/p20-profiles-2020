@@ -614,8 +614,13 @@
 {% endif %}
 <text top="5916" left="72" width="689" height="48" font="7"><b>birth registration rates for children under 5</b></text>
 <image top="6006" left="74" width="1000" height="600" src="placeholder.png"/>
-<text top="6714" left="72" width="690" height="44" font="6">Birth registration rates in {{ country.sentencename }}  </text>
-<text top="6768" left="72" width="451" height="44" font="6">have [increased/decreased].</text>
+{% if country.birthregtrends is not none %}
+	<text top="6714" left="72" width="690" height="44" font="6">Birth registration rates in {{ country.sentencename }}  </text>
+	<text top="6768" left="72" width="451" height="44" font="6">have {{ country.birthregtrends }}.</text>
+{% else %}
+	<text top="6714" left="72" width="690" height="44" font="6">Lorum  </text>
+	<text top="6768" left="72" width="451" height="44" font="6">ipsum</text>
+{% endif %}
 <text top="6867" left="72" width="987" height="35" font="9"><b>Source: </b>Development Initiatives based on World Bank World Development Indicators: </text>
 <text top="6904" left="72" width="418" height="32" font="10">Completeness of birth registration %</text>
 <text top="6906" left="460" width="8" height="20" font="11"><a href="#{{ country.slug }}3"><b>3</b></a></text>
