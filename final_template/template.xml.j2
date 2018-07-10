@@ -637,9 +637,13 @@
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
 {% if country.secondarycompletionP20 is not none %}
-<text top="8118" left="72" width="698" height="44" font="6">{{ country.secondarycompletionP20|percent }} of people in the national P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with {{ country.secondarycompletionrest|percent }} </text>
-<text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+	<text top="8118" left="72" width="698" height="44" font="6">{{ country.secondarycompletionP20|percent }} of people in the national P20 have completed </text>
+	<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with {{ country.secondarycompletionrest|percent }} </text>
+	<text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+{% else %}
+	<text top="8118" left="72" width="698" height="44" font="6">Lorum </text>
+	<text top="8172" left="72" width="723" height="44" font="6">ipsum </text>
+	<text top="8226" left="72" width="448" height="44" font="6">dolor.</text>
 {% endif %}
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
@@ -649,13 +653,25 @@
 <text top="9360" left="72" width="801" height="44" font="6">in poverty. If you are among the P20 you are more </text>
 <text top="9414" left="72" width="721" height="44" font="6">likely to suffer from preventable diseases and </text>
 <text top="9468" left="72" width="214" height="44" font="6">to die earlier. </text>
-<text top="9558" left="72" width="790" height="44" font="6">In {{ country.sentencename }} the Under Five Mortality rate </text>
-<text top="9612" left="72" width="425" height="44" font="6">is [XX] per 1,000 live births. </text>
-<text top="9702" left="72" width="702" height="44" font="6">The under five mortality rate among the P20 </text>
-<text top="9756" left="72" width="742" height="44" font="6">is [XX] per 1,000 live births compared with [XX] </text>
-<text top="9810" left="72" width="770" height="44" font="6">per 1,000 live births for the rest of the population.</text>
-<text top="9894" left="72" width="370" height="48" font="7"><b>under 5 mortality rates</b></text>
-<image top="9984" left="74" width="1000" height="670" src="placeholder.png"/>
+{% if country.NtlUnder5Mortality is not none %}
+	<text top="9558" left="72" width="790" height="44" font="6">In {{ country.sentencename }} the Under Five Mortality rate </text>
+	<text top="9612" left="72" width="425" height="44" font="6">is {{ country.NtlUnder5Mortality|people }} per 1,000 live births. </text>
+{% else %}
+	<text top="9558" left="72" width="790" height="44" font="6">Lorum </text>
+	<text top="9612" left="72" width="425" height="44" font="6">ipsum. </text>
+{% endif %}
+{% if country.U5MortalityNP20 is not none %}
+	<text top="9702" left="72" width="702" height="44" font="6">The under five mortality rate among the P20 </text>
+	<text top="9756" left="72" width="742" height="44" font="6">is {{ country.U5MortalityNP20|people }} per 1,000 live births compared with {{ country.U5MortalityRest|people }} </text>
+	<text top="9810" left="72" width="770" height="44" font="6">per 1,000 live births for the rest of the population.</text>
+{% else %}
+	<text top="9702" left="72" width="702" height="44" font="6">Data is not available that allows us to disaggregate </text>
+	<text top="9756" left="72" width="742" height="44" font="6">under five mortality based on income and </text>
+	<text top="9810" left="72" width="770" height="44" font="6">therefore we are unable to see this information </text>
+	<text top="9864" left="72" width="694" height="44" font="6">for the P20 versus the rest of the population.</text>
+{% endif %}
+<text top="9948" left="72" width="370" height="48" font="7"><b>under 5 mortality rates</b></text>
+<image top="10068" left="74" width="1000" height="590" src="placeholder.png"/>
 <text top="10647" left="72" width="889" height="35" font="9"><b>Source: </b>Development Initiatives based on Demographic Health Surveys (DHS)</text>
 <text top="10845" left="72" width="15" height="34" font="12">1 </text>
 <text top="10845" left="72" width="15" height="34" font="12"><a name="{{ country.slug }}1"></a></text>
@@ -750,15 +766,24 @@
 <image top="2850" left="74" width="1000" height="770" src="placeholder.png"/>
 <text top="3699" left="72" width="600" height="35" font="9"><b>Source: </b>Development Initiatives based on PovcalNet</text>
 <text top="3819" left="162" width="188" height="64" font="5"><b>nutrition</b></text>
-<text top="3942" left="72" width="743" height="44" font="6">In {{ country.sentencename }} [XX]% of adults are obese.</text>
+{% if country.obesityrate is not none %}
+	<text top="3942" left="72" width="743" height="44" font="6">In {{ country.sentencename }} {{ country.obesityrate|percent }} of adults are obese.</text>
+{% else %}
+	<text top="3942" left="72" width="743" height="44" font="6">Lorum.</text>
+{% endif %}
 <text top="4026" left="72" width="196" height="48" font="7"><b>obesity rate</b></text>
 <image top="4116" left="74" width="1000" height="650" src="placeholder.png"/>
 <text top="4779" left="72" width="882" height="35" font="9"><b>Source: </b>Development Initiatives based on NCD Risk Factor Collaboration 2017</text>
 <text top="4899" left="162" width="219" height="64" font="5"><b>education</b></text>
 <text top="5022" left="72" width="613" height="44" font="6">Education is fundamental to a person’s </text>
 <text top="5076" left="72" width="193" height="44" font="6">life chances.</text>
-<text top="5166" left="72" width="684" height="44" font="6">In {{ country.sentencename }} [XX]% of people have </text>
+{% if country.SecondaryCompletion is not none %}
+<text top="5166" left="72" width="684" height="44" font="6">In {{ country.sentencename }} {{ country.SecondaryCompletion|percent }} of people have </text>
 <text top="5220" left="72" width="640" height="44" font="6">completed secondary school education.</text>
+{% else %}
+<text top="5166" left="72" width="684" height="44" font="6">Lorum</text>
+<text top="5220" left="72" width="640" height="44" font="6">ipsum.</text>
+{% endif %}
 <text top="5304" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="5394" left="74" width="1000" height="570" src="placeholder.png"/>
 <text top="5985" left="72" width="879" height="35" font="9"><b>Source: </b>Development Initiatives based on UNESCO Institute for Statistics 2018</text>
@@ -772,8 +797,13 @@
 <text top="6588" left="72" width="801" height="44" font="6">in poverty. If you are among the P20 you are more </text>
 <text top="6642" left="72" width="721" height="44" font="6">likely to suffer from preventable diseases and </text>
 <text top="6696" left="72" width="205" height="44" font="6">to die earlier.</text>
+{% if country.NtlUnder5Mortality is not none %}
 <text top="6786" left="72" width="709" height="44" font="6">In {{ country.sentencename }} the under five mortality </text>
-<text top="6840" left="72" width="486" height="44" font="6">rate is [XX] per 1,000 live births.</text>
+<text top="6840" left="72" width="486" height="44" font="6">rate is {{ country.NtlUnder5Mortality|people }} per 1,000 live births.</text>
+{% else %}
+<text top="6786" left="72" width="709" height="44" font="6">Lorum </text>
+<text top="6840" left="72" width="486" height="44" font="6">ipsum.</text>
+{% endif %}
 <text top="6930" left="72" width="801" height="44" font="6">Data is not available that allows us to disaggregate </text>
 <text top="6984" left="72" width="672" height="44" font="6">under five mortality based on income and </text>
 <text top="7038" left="72" width="747" height="44" font="6">therefore we are unable to see this information </text>
