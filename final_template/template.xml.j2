@@ -496,6 +496,7 @@
 	<fontspec id="17" size="34" family="Times" color="#f8c1b2"/>
 	<fontspec id="18" size="31" family="Times" color="#ffffff"/>
 	<fontspec id="19" size="31" family="Times" color="#f8c1b2"/>
+	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="0" left="0" width="594" height="96" font="0"><a name="{{ country.slug }}"></a></text>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="{{ country.regionslug }}"/>
@@ -541,14 +542,8 @@
 		<text top="2088" left="72" width="460" height="44" font="6">for the rest of the population.</text>
 	{% endif %}
 {% else %}
-	<text top="1674" left="72" width="710" height="44" font="6">Lorum </text>
-	<text top="1728" left="72" width="763" height="44" font="6">ipsum</text>
-	<text top="1782" left="72" width="730" height="44" font="6">dolor</text>
-	<text top="1836" left="72" width="600" height="44" font="6">sit.</text>
-	<text top="1926" left="72" width="729" height="44" font="6">Amet</text>
-	<text top="1980" left="72" width="789" height="44" font="6">consectetur</text>
-	<text top="2034" left="72" width="786" height="44" font="6">adipiscing</text>
-	<text top="2088" left="72" width="460" height="44" font="6">elit.</text>
+	<image top="1674" left="72" width="1004" height="458" src="no_data.png"/>
+	<text top="1822" left="440" width="100" height="44" font="20"><b>No data available</b></text>
 {% endif %}
 <text top="2187" left="72" width="600" height="35" font="9"><b>Source: </b>Development Initiatives based on PovcalNet</text>
 <text top="2190" left="622" width="5" height="20" font="11"><a href="#{{ country.slug }}1"><b>1</b></a></text>
@@ -562,13 +557,13 @@
 		<text top="2574" left="72" width="765" height="44" font="6">In 2013 the gap between the national P20 and </text>
 		<text top="2628" left="72" width="775" height="44" font="6">everyone else in {{ country.sentencename }} was {{ country.gap_2013|dollar }}.</text>
 	{% else %}
-		<text top="2574" left="72" width="765" height="44" font="6">Lorum</text>
-		<text top="2628" left="72" width="775" height="44" font="6">ipsum</text>
-		<text top="2682" left="72" width="213" height="44" font="6">dolor.</text>
+		<image top="2574" left="72" width="1004" height="152" src="no_data_quarter.png"/>
+		<text top="2626" left="440" width="100" height="44" font="20"><b>No data available</b></text>
 	{% endif %}
 {% endif %}
 <text top="2766" left="74" width="535" height="48" font="7"><b>{{ country.name }} income trends</b></text>
-<image top="2850" left="74" width="1000" height="770" src="placeholder.png"/>
+<image top="2850" left="74" width="1000" height="770" src="../charts/{{ country.slug }}_c1.png"/>
+<text top="{{ (2850 + 0.323144105 * 770)|roundInt  }}" left="440" width="100" height="44" font="20"><b>No data available</b></text>
 <text top="3699" left="72" width="600" height="35" font="9"><b>Source: </b>Development Initiatives based on PovcalNet</text>
 <text top="3819" left="162" width="188" height="64" font="5"><b>nutrition</b></text>
 <text top="3942" left="72" width="716" height="44" font="6">Nutrition is fundamental to the ability to learn </text>
@@ -587,13 +582,12 @@
 		<text top="4302" left="72" width="448" height="44" font="6">national P20 and the rest of the population.</text>
 	{% endif %}
 {% else %}
-	<text top="4140" left="72" width="707" height="44" font="6">Lorum</text>
-	<text top="4194" left="72" width="692" height="44" font="6">ipsum</text>
-	<text top="4248" left="72" width="696" height="44" font="6">dolor</text>
-	<text top="4302" left="72" width="448" height="44" font="6">amet</text>
+	<image top="4140" left="72" width="1004" height="202" src="no_data_quarter.png"/>
+	<text top="{{ (4140 + 0.3421 * 202) | roundInt }}" left="440" width="100" height="44" font="20"><b>No data available</b></text>
 {% endif %}
 <text top="4387" left="72" width="973" height="48" font="7"><b>stunting in children in the P20 compared with rest of country</b></text>
-<image top="4477" left="74" width="1000" height="600" src="placeholder.png"/>
+<image top="4477" left="74" width="1000" height="600" src="../charts/{{ country.slug }}_c2.png"/>
+<text top="{{ (4477 + 0.323144105 * 600)|roundInt  }}" left="440" width="100" height="44" font="20"><b>No data available</b></text>
 <text top="5139" left="72" width="765" height="35" font="9"><b>Source: </b>Development Initiatives based on UNICEF-WHO joint child </text>
 <text top="5176" left="72" width="251" height="32" font="10">malnutrition estimates</text>
 <text top="5178" left="303" width="8" height="20" font="11"><a href="#{{ country.slug }}2"><b>2</b></a></text>
@@ -608,18 +602,20 @@
 	<text top="5778" left="72" width="707" height="44" font="6">national P20 are registered compared to </text>
 	<text top="5832" left="72" width="239" height="44" font="6">{{ country.restreg|percent }} in the rest of the population.</text>
 {% else %}
-	<text top="5724" left="72" width="734" height="44" font="6">Lorum</text>
-	<text top="5778" left="72" width="707" height="44" font="6">ipsum</text>
-	<text top="5832" left="72" width="239" height="44" font="6">dolor</text>
+	<image top="5724" left="72" width="1004" height="152" src="no_data_quarter.png"/>
+	<text top="{{ (5724 + 0.3421 * 152) | roundInt }}" left="440" width="100" height="44" font="20"><b>No data available</b></text>
 {% endif %}
 <text top="5916" left="72" width="689" height="48" font="7"><b>birth registration rates for children under 5</b></text>
-<image top="6006" left="74" width="1000" height="600" src="placeholder.png"/>
+{% if country.birthregtrends is not none %}
+	<image top="6006" left="74" width="1000" height="600" src="../charts/{{ country.slug }}_c3.png"/>
+	<text top="{{ (6006 + 0.323144105 * 600)|roundInt  }}" left="440" width="100" height="44" font="20"><b>No data available</b></text>
+{% else %}
+	<image top="6006" left="74" width="1000" height="770" src="../charts/{{ country.slug }}_c3.png"/>
+	<text top="{{ (6006 + 0.323144105 * 770)|roundInt  }}" left="440" width="100" height="44" font="20"><b>No data available</b></text>
+{% endif %}
 {% if country.birthregtrends is not none %}
 	<text top="6714" left="72" width="690" height="44" font="6">Birth registration rates in {{ country.sentencename }}  </text>
 	<text top="6768" left="72" width="451" height="44" font="6">have {{ country.birthregtrends }}.</text>
-{% else %}
-	<text top="6714" left="72" width="690" height="44" font="6">Lorum  </text>
-	<text top="6768" left="72" width="451" height="44" font="6">ipsum</text>
 {% endif %}
 <text top="6867" left="72" width="987" height="35" font="9"><b>Source: </b>Development Initiatives based on World Bank World Development Indicators: </text>
 <text top="6904" left="72" width="418" height="32" font="10">Completeness of birth registration %</text>
@@ -631,22 +627,25 @@
 	<text top="7290" left="72" width="684" height="44" font="6">As of {{ country.nateducYear|year }}, {{ country.SecondaryCompletion|percent }} of people in {{ country.sentencename }} have </text>
 	<text top="7344" left="72" width="640" height="44" font="6">completed secondary school education.</text>
 {% else %}
-	<text top="7290" left="72" width="684" height="44" font="6">Lorum </text>
-	<text top="7344" left="72" width="640" height="44" font="6">ipsum.</text>
+	<image top="7280" left="72" width="1004" height="152" src="no_data_quarter.png"/>
+	<text top="{{ (7280 + 0.3421 * 152) | roundInt }}" left="440" width="100" height="44" font="20"><b>No data available</b></text>
 {% endif %}
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
-<image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
+{% if country.secondarycompletionP20 is not none %}
+	<image top="7518" left="74" width="1000" height="550" src="../charts/{{ country.slug }}_c4.png"/>
+	<text top="{{ (7518 + 0.323144105 * 550)|roundInt  }}" left="440" width="100" height="44" font="20"><b>No data available</b></text>
+{% else %}
+	<image top="7518" left="74" width="1000" height="750" src="../charts/{{ country.slug }}_c4.png"/>
+	<text top="{{ (7518 + 0.323144105 * 750)|roundInt  }}" left="440" width="100" height="44" font="20"><b>No data available</b></text>
+{% endif %}
 {% if country.secondarycompletionP20 is not none %}
 	<text top="8118" left="72" width="698" height="44" font="6">{{ country.secondarycompletionP20|percent }} of people in the national P20 have completed </text>
 	<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with {{ country.secondarycompletionrest|percent }} </text>
 	<text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
-{% else %}
-	<text top="8118" left="72" width="698" height="44" font="6">Lorum </text>
-	<text top="8172" left="72" width="723" height="44" font="6">ipsum </text>
-	<text top="8226" left="72" width="448" height="44" font="6">dolor.</text>
 {% endif %}
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
-<image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
+<image top="8400" left="74" width="1000" height="660" src="../charts/{{ country.slug }}_c5.png"/>
+<text top="{{ (8400 + 0.323144105 * 660)|roundInt  }}" left="440" width="100" height="44" font="20"><b>No data available</b></text>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
 <text top="9183" left="162" width="137" height="64" font="5"><b>health</b></text>
 <text top="9306" left="72" width="777" height="44" font="6">Poor health plays a major part in keeping people </text>
@@ -657,8 +656,8 @@
 	<text top="9558" left="72" width="790" height="44" font="6">In {{ country.sentencename }} the Under Five Mortality rate </text>
 	<text top="9612" left="72" width="425" height="44" font="6">is {{ country.NtlUnder5Mortality|people }} per 1,000 live births. </text>
 {% else %}
-	<text top="9558" left="72" width="790" height="44" font="6">Lorum </text>
-	<text top="9612" left="72" width="425" height="44" font="6">ipsum. </text>
+	<image top="9548" left="72" width="1004" height="152" src="no_data_quarter.png"/>
+	<text top="{{ (9548 + 0.3421 * 152) | roundInt }}" left="440" width="100" height="44" font="20"><b>No data available</b></text>
 {% endif %}
 {% if country.U5MortalityNP20 is not none %}
 	<text top="9702" left="72" width="702" height="44" font="6">The under five mortality rate among the P20 </text>
@@ -671,7 +670,8 @@
 	<text top="9864" left="72" width="694" height="44" font="6">for the P20 versus the rest of the population.</text>
 {% endif %}
 <text top="9948" left="72" width="370" height="48" font="7"><b>under 5 mortality rates</b></text>
-<image top="10068" left="74" width="1000" height="590" src="placeholder.png"/>
+<image top="10068" left="74" width="1000" height="590" src="../charts/{{ country.slug }}_c6.png"/>
+<text top="{{ (10068 + 0.323144105 * 590)|roundInt  }}" left="440" width="100" height="44" font="20"><b>No data available</b></text>
 <text top="10647" left="72" width="889" height="35" font="9"><b>Source: </b>Development Initiatives based on Demographic Health Surveys (DHS)</text>
 <text top="10845" left="72" width="15" height="34" font="12">1 </text>
 <text top="10845" left="72" width="15" height="34" font="12"><a name="{{ country.slug }}1"></a></text>
@@ -736,14 +736,8 @@
 		<text top="2088" left="72" width="460" height="44" font="6">for the rest of the population.</text>
 	{% endif %}
 {% else %}
-	<text top="1674" left="72" width="710" height="44" font="6">Lorum </text>
-	<text top="1728" left="72" width="763" height="44" font="6">ipsum</text>
-	<text top="1782" left="72" width="730" height="44" font="6">dolor</text>
-	<text top="1836" left="72" width="600" height="44" font="6">sit.</text>
-	<text top="1926" left="72" width="729" height="44" font="6">Amet</text>
-	<text top="1980" left="72" width="789" height="44" font="6">consectetur</text>
-	<text top="2034" left="72" width="786" height="44" font="6">adipiscing</text>
-	<text top="2088" left="72" width="460" height="44" font="6">elit.</text>
+	<image top="1674" left="72" width="1004" height="458" src="no_data.png"/>
+	<text top="1822" left="440" width="100" height="44" font="20"><b>No data available</b></text>
 {% endif %}
 <text top="2187" left="72" width="600" height="35" font="9"><b>Source: </b>Development Initiatives based on PovcalNet</text>
 <text top="2190" left="622" width="5" height="20" font="11"><a href="#{{ country.slug }}1"><b>1</b></a></text>
@@ -757,22 +751,21 @@
 		<text top="2574" left="72" width="765" height="44" font="6">In 2013 the gap between the national P20 and </text>
 		<text top="2628" left="72" width="775" height="44" font="6">everyone else in {{ country.sentencename }} was {{ country.gap_2013|dollar }}.</text>
 	{% else %}
-		<text top="2574" left="72" width="765" height="44" font="6">Lorum</text>
-		<text top="2628" left="72" width="775" height="44" font="6">ipsum</text>
-		<text top="2682" left="72" width="213" height="44" font="6">dolor.</text>
+		<image top="2574" left="72" width="1004" height="152" src="no_data_quarter.png"/>
+		<text top="2626" left="440" width="100" height="44" font="20"><b>No data available</b></text>
 	{% endif %}
 {% endif %}
 <text top="2766" left="74" width="535" height="48" font="7"><b>{{ country.name }} income trends</b></text>
-<image top="2850" left="74" width="1000" height="770" src="placeholder.png"/>
+<image top="2850" left="74" width="1000" height="770" src="../charts/{{ country.slug }}_c1.png"/>
+<text top="{{ (2850 + 0.323144105 * 770)|roundInt  }}" left="440" width="100" height="44" font="20"><b>No data available</b></text>
 <text top="3699" left="72" width="600" height="35" font="9"><b>Source: </b>Development Initiatives based on PovcalNet</text>
 <text top="3819" left="162" width="188" height="64" font="5"><b>nutrition</b></text>
 {% if country.obesityrate is not none %}
 	<text top="3942" left="72" width="743" height="44" font="6">In {{ country.sentencename }} {{ country.obesityrate|percent }} of adults are obese.</text>
-{% else %}
-	<text top="3942" left="72" width="743" height="44" font="6">Lorum.</text>
 {% endif %}
 <text top="4026" left="72" width="196" height="48" font="7"><b>obesity rate</b></text>
-<image top="4116" left="74" width="1000" height="650" src="placeholder.png"/>
+<image top="4116" left="74" width="1000" height="650" src="../charts/{{ country.slug }}_c2.png"/>
+<text top="{{ (4116 + 0.323144105 * 650)|roundInt  }}" left="440" width="100" height="44" font="20"><b>No data available</b></text>
 <text top="4779" left="72" width="882" height="35" font="9"><b>Source: </b>Development Initiatives based on NCD Risk Factor Collaboration 2017</text>
 <text top="4899" left="162" width="219" height="64" font="5"><b>education</b></text>
 <text top="5022" left="72" width="613" height="44" font="6">Education is fundamental to a person’s </text>
@@ -781,11 +774,12 @@
 	<text top="5166" left="72" width="684" height="44" font="6">In {{ country.sentencename }} {{ country.SecondaryCompletion|percent }} of people have </text>
 	<text top="5220" left="72" width="640" height="44" font="6">completed secondary school education.</text>
 {% else %}
-	<text top="5166" left="72" width="684" height="44" font="6">Lorum</text>
-	<text top="5220" left="72" width="640" height="44" font="6">ipsum.</text>
+	<image top="5156" left="72" width="1004" height="152" src="no_data_quarter.png"/>
+	<text top="{{ (5156 + 0.3421 * 152) | roundInt }}" left="440" width="100" height="44" font="20"><b>No data available</b></text>
 {% endif %}
 <text top="5304" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
-<image top="5394" left="74" width="1000" height="570" src="placeholder.png"/>
+<image top="5394" left="74" width="1000" height="570" src="../charts/{{ country.slug }}_c3.png"/>
+<text top="{{ (5394 + 0.323144105 * 570)|roundInt  }}" left="440" width="100" height="44" font="20"><b>No data available</b></text>
 <text top="5985" left="72" width="879" height="35" font="9"><b>Source: </b>Development Initiatives based on UNESCO Institute for Statistics 2018</text>
 <text top="6066" left="72" width="801" height="44" font="6">Data is not available that allows us to disaggregate </text>
 <text top="6120" left="72" width="766" height="44" font="6">secondary school completion based on income </text>
@@ -801,8 +795,8 @@
 	<text top="6786" left="72" width="709" height="44" font="6">In {{ country.sentencename }} the under five mortality </text>
 	<text top="6840" left="72" width="486" height="44" font="6">rate is {{ country.NtlUnder5Mortality|people }} per 1,000 live births.</text>
 {% else %}
-	<text top="6786" left="72" width="709" height="44" font="6">Lorum </text>
-	<text top="6840" left="72" width="486" height="44" font="6">ipsum.</text>
+	<image top="6776" left="72" width="1004" height="152" src="no_data_quarter.png"/>
+	<text top="{{ (6776 + 0.3421 * 152) | roundInt }}" left="440" width="100" height="44" font="20"><b>No data available</b></text>
 {% endif %}
 <text top="6930" left="72" width="801" height="44" font="6">Data is not available that allows us to disaggregate </text>
 <text top="6984" left="72" width="672" height="44" font="6">under five mortality based on income and </text>
