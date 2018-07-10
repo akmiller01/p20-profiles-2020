@@ -49,21 +49,21 @@ simple_style = theme_bw() +
 countries <- read.csv("data/countries.csv",na.strings="")
 countries$original.order = c(1:nrow(countries))
 
-# for(theslug in countries$slug){
-#   country = subset(countries,slug==theslug)[1,]
-#   lowincome = country$lowincome
-#   if(lowincome){
-#     for(i in c(1:6)){
-#       chart_name = paste0("charts/",theslug,"_c",i,".png")
-#       file.copy("final_template/no_data_text.png",chart_name,overwrite=T)
-#     }
-#   }else{
-#     for(i in c(1,4,7)){
-#       chart_name = paste0("charts/",theslug,"_c",i,".png")
-#       file.copy("final_template/no_data_text.png",chart_name,overwrite=T)
-#     }
-#   }
-# }
+for(theslug in countries$slug){
+  country = subset(countries,slug==theslug)[1,]
+  lowincome = country$lowincome
+  if(lowincome){
+    for(i in c(1:6)){
+      chart_name = paste0("charts/",theslug,"_c",i,".png")
+      file.copy("final_template/no_data_text.png",chart_name,overwrite=T)
+    }
+  }else{
+    for(i in c(1,4,7)){
+      chart_name = paste0("charts/",theslug,"_c",i,".png")
+      file.copy("final_template/no_data_text.png",chart_name,overwrite=T)
+    }
+  }
+}
 
 c1_data = read.csv("data/IncomeGapGraph.csv")
 if(!"longname" %in% names(c1_data)){setnames(c1_data,"Country","longname")}
@@ -197,34 +197,36 @@ for(theslug in countries$slug){
     c1_max = max(c1_data_melt$value)
     c1_year_min = min(c1_data_melt$Year,na.rm=T)
     c1_year_max = max(c1_data_melt$Year,na.rm=T)
-    c1 = ggplot(c1_data_melt,aes(x=Year,y=value,group=variable,color=variable)) +
-      geom_line(size=line.size) +
-      two_tone +
-      scale_y_continuous(expand=c(0,0), limits=c(0,c1_max*1.1),label=dollar) +
-      expand_limits(x=c(c1_year_min-0.5,c1_year_max+0.5)) +
-      geom_vline(xintercept=c(c1_year_min,1999,c1_year_max),linetype="dotted") +
-      geom_text(
-        data=subset(c1_data_melt,Year %in% c(c1_year_min,1999,c1_year_max) & variable=="national P20")
-        ,aes(label=dollar_format(largest_with_cents=10)(value),y=c1_max)
-        ,size=4
-        ,hjust=1.1
-        ,show.legend=F
+    if(!is.na(c1_max)){
+      c1 = ggplot(c1_data_melt,aes(x=Year,y=value,group=variable,color=variable)) +
+        geom_line(size=line.size) +
+        two_tone +
+        scale_y_continuous(expand=c(0,0), limits=c(0,c1_max*1.1),label=dollar) +
+        expand_limits(x=c(c1_year_min-0.5,c1_year_max+0.5)) +
+        geom_vline(xintercept=c(c1_year_min,1999,c1_year_max),linetype="dotted") +
+        geom_text(
+          data=subset(c1_data_melt,Year %in% c(c1_year_min,1999,c1_year_max) & variable=="national P20")
+          ,aes(label=dollar_format(largest_with_cents=10)(value),y=c1_max)
+          ,size=4
+          ,hjust=1.1
+          ,show.legend=F
         ) +
-      geom_text(
-        data=subset(c1_data_melt,Year %in% c(c1_year_min,1999,c1_year_max) & variable=="rest of population")
-        ,aes(label=dollar_format(largest_with_cents=10)(value),y=c1_max)
-        ,size=4
-        ,hjust=-0.2
-        ,show.legend=F
-      ) +
-      labs(y = y_axis_lab, x="",title="\n") +
-      simple_style +
-      theme(
-        legend.position="bottom",
-        legend.title=element_blank(),
-        axis.line.x = element_line(colour = dark.grey),
+        geom_text(
+          data=subset(c1_data_melt,Year %in% c(c1_year_min,1999,c1_year_max) & variable=="rest of population")
+          ,aes(label=dollar_format(largest_with_cents=10)(value),y=c1_max)
+          ,size=4
+          ,hjust=-0.2
+          ,show.legend=F
+        ) +
+        labs(y = y_axis_lab, x="",title="\n") +
+        simple_style +
+        theme(
+          legend.position="bottom",
+          legend.title=element_blank(),
+          axis.line.x = element_line(colour = dark.grey),
         )
-    ggsave(c1_chart_name,c1,units="in",dpi=dpi,width=(1000/dpi),height=(770/dpi),scale=3)
+      ggsave(c1_chart_name,c1,units="in",dpi=dpi,width=(1000/dpi),height=(770/dpi),scale=3) 
+    }
   }
   ###C2####
   c2_chart_name = paste0("charts/",theslug,"_c2.png")
@@ -238,20 +240,22 @@ for(theslug in countries$slug){
       c2_data_melt = melt(c2_data_sub,id.vars=c("longname"))
       c2_data_melt$value = c2_data_melt$value/100
       c2_max = max(c2_data_melt$value)
-      c2 = ggplot(c2_data_melt,aes(x=variable,y=value,fill=variable)) +
-        geom_bar(stat="identity") +
-        two_tone_fill +
-        scale_y_continuous(expand=c(0,0), limits=c(0,c2_max*1.2),label=percent) +
-        geom_text(aes(label=percent(value),color=variable),vjust=-1,size=6) +
-        two_tone +
-        labs(y = y_axis_lab, x="") +
-        simple_style +
-        theme(
-          legend.position="none",
-          legend.title=element_blank(),
-          axis.line.x = element_line(colour = dark.grey),
-        )
-      ggsave(c2_chart_name,c2,units="in",dpi=dpi,width=(1000/dpi),height=(600/dpi),scale=3)
+      if(!is.na(c2_max)){
+        c2 = ggplot(c2_data_melt,aes(x=variable,y=value,fill=variable)) +
+          geom_bar(stat="identity") +
+          two_tone_fill +
+          scale_y_continuous(expand=c(0,0), limits=c(0,c2_max*1.2),label=percent) +
+          geom_text(aes(label=percent(value),color=variable),vjust=-1,size=6) +
+          two_tone +
+          labs(y = y_axis_lab, x="") +
+          simple_style +
+          theme(
+            legend.position="none",
+            legend.title=element_blank(),
+            axis.line.x = element_line(colour = dark.grey),
+          )
+        ggsave(c2_chart_name,c2,units="in",dpi=dpi,width=(1000/dpi),height=(600/dpi),scale=3)
+      }
     } 
   }
   ###C3####
@@ -264,20 +268,22 @@ for(theslug in countries$slug){
       c3_data_melt = melt(c3_data_sub,id.vars=c("longname"))
       c3_data_melt$value = c3_data_melt$value/100
       c3_max = max(c3_data_melt$value)
-      c3 = ggplot(c3_data_melt,aes(x=variable,y=value,fill=variable)) +
-        geom_bar(stat="identity") +
-        two_tone_fill +
-        scale_y_continuous(expand=c(0,0), limits=c(0,c3_max*1.2),label=percent) +
-        geom_text(aes(label=percent(value),color=variable),vjust=-1,size=6) +
-        two_tone +
-        labs(y = y_axis_lab, x="") +
-        simple_style +
-        theme(
-          legend.position="none",
-          legend.title=element_blank(),
-          axis.line.x = element_line(colour = dark.grey),
-        )
-      ggsave(c3_chart_name,c3,units="in",dpi=dpi,width=(1000/dpi),height=(600/dpi),scale=3)
+      if(!is.na(c3_max)){
+        c3 = ggplot(c3_data_melt,aes(x=variable,y=value,fill=variable)) +
+          geom_bar(stat="identity") +
+          two_tone_fill +
+          scale_y_continuous(expand=c(0,0), limits=c(0,c3_max*1.2),label=percent) +
+          geom_text(aes(label=percent(value),color=variable),vjust=-1,size=6) +
+          two_tone +
+          labs(y = y_axis_lab, x="") +
+          simple_style +
+          theme(
+            legend.position="none",
+            legend.title=element_blank(),
+            axis.line.x = element_line(colour = dark.grey),
+          )
+        ggsave(c3_chart_name,c3,units="in",dpi=dpi,width=(1000/dpi),height=(600/dpi),scale=3) 
+      }
     } 
   }
   ###C4####
@@ -286,34 +292,36 @@ for(theslug in countries$slug){
   if(nrow(c4_data_sub)>0){
     names(c4_data_sub) = c("longname","completed \nsecondary education","not completed \nsecondary education")
     c4_data_melt = melt(c4_data_sub,id.vars=c("longname"))
-    c4_data_melt$value = c4_data_melt$value/100
-    c4_data_melt$ymax = cumsum(c4_data_melt$value)
-    c4_data_melt$ymin = c(0, head(c4_data_melt$ymax, n=-1))
-    c4 = ggplot(c4_data_melt,aes(fill=variable,ymax=ymax,ymin=ymin,xmax=2,xmin=1)) +
-      geom_rect(color="white") +
-      geom_text(
-        aes(label=percent(value),x=1.5,y=ymin+(0.5*value)),
-        color="white",
-        size=5
+    if(!is.na(max(c4_data_melt$value,na.rm=T))){
+      c4_data_melt$value = c4_data_melt$value/100
+      c4_data_melt$ymax = cumsum(c4_data_melt$value)
+      c4_data_melt$ymin = c(0, head(c4_data_melt$ymax, n=-1))
+      c4 = ggplot(c4_data_melt,aes(fill=variable,ymax=ymax,ymin=ymin,xmax=2,xmin=1)) +
+        geom_rect(color="white") +
+        geom_text(
+          aes(label=percent(value),x=1.5,y=ymin+(0.5*value)),
+          color="white",
+          size=5
         ) +
-      two_tone_fill +
-      coord_polar(theta="y") +
-      xlim(c(0,2)) +
-      simple_style +
-      theme(
-        axis.title=element_blank(),
-        axis.text=element_blank(),
-        axis.line=element_blank(),
-        panel.grid=element_blank(),
-        legend.title=element_blank(),
-        legend.position="right"
+        two_tone_fill +
+        coord_polar(theta="y") +
+        xlim(c(0,2)) +
+        simple_style +
+        theme(
+          axis.title=element_blank(),
+          axis.text=element_blank(),
+          axis.line=element_blank(),
+          panel.grid=element_blank(),
+          legend.title=element_blank(),
+          legend.position="right"
         ) + 
-      guides(fill=guide_legend(
+        guides(fill=guide_legend(
           keywidth=0.5,
           keyheight=0.5,
           default.unit="inch")
         )
-    ggsave(c4_chart_name,c4,units="in",dpi=dpi,width=(1000/dpi),height=(550/dpi),scale=3)
+      ggsave(c4_chart_name,c4,units="in",dpi=dpi,width=(1000/dpi),height=(550/dpi),scale=3)
+    }
   }
   ###C5####
   c5_chart_name = paste0("charts/",theslug,"_c5.png")
@@ -325,20 +333,22 @@ for(theslug in countries$slug){
       c5_data_melt = melt(c5_data_sub,id.vars=c("longname"))
       c5_data_melt$value = c5_data_melt$value/100
       c5_max = max(c5_data_melt$value)
-      c5 = ggplot(c5_data_melt,aes(x=variable,y=value,fill=variable)) +
-        geom_bar(stat="identity") +
-        two_tone_fill +
-        scale_y_continuous(expand=c(0,0), limits=c(0,c5_max*1.2),label=percent) +
-        geom_text(aes(label=percent(value),color=variable),vjust=-1,size=6) +
-        two_tone +
-        labs(y = y_axis_lab, x="") +
-        simple_style +
-        theme(
-          legend.position="none",
-          legend.title=element_blank(),
-          axis.line.x = element_line(colour = dark.grey),
-        )
-      ggsave(c5_chart_name,c5,units="in",dpi=dpi,width=(1000/dpi),height=(660/dpi),scale=3)
+      if(!is.na(c5_max)){
+        c5 = ggplot(c5_data_melt,aes(x=variable,y=value,fill=variable)) +
+          geom_bar(stat="identity") +
+          two_tone_fill +
+          scale_y_continuous(expand=c(0,0), limits=c(0,c5_max*1.2),label=percent) +
+          geom_text(aes(label=percent(value),color=variable),vjust=-1,size=6) +
+          two_tone +
+          labs(y = y_axis_lab, x="") +
+          simple_style +
+          theme(
+            legend.position="none",
+            legend.title=element_blank(),
+            axis.line.x = element_line(colour = dark.grey),
+          )
+        ggsave(c5_chart_name,c5,units="in",dpi=dpi,width=(1000/dpi),height=(660/dpi),scale=3) 
+      }
     } 
   }
   ###C6####
@@ -351,20 +361,22 @@ for(theslug in countries$slug){
       c6_data_melt = melt(c6_data_sub,id.vars=c("longname"))
       c6_data_melt$value = c6_data_melt$value/100
       c6_max = max(c6_data_melt$value)
-      c6 = ggplot(c6_data_melt,aes(x=variable,y=value,fill=variable)) +
-        geom_bar(stat="identity") +
-        two_tone_fill +
-        scale_y_continuous(expand=c(0,0), limits=c(0,c6_max*1.2),label=percent) +
-        geom_text(aes(label=percent(value),color=variable),vjust=-1,size=6) +
-        two_tone +
-        labs(y = y_axis_lab, x="") +
-        simple_style +
-        theme(
-          legend.position="none",
-          legend.title=element_blank(),
-          axis.line.x = element_line(colour = dark.grey),
-        )
-      ggsave(c6_chart_name,c6,units="in",dpi=dpi,width=(1000/dpi),height=(590/dpi),scale=3)
+      if(!is.na(c6_max)){
+        c6 = ggplot(c6_data_melt,aes(x=variable,y=value,fill=variable)) +
+          geom_bar(stat="identity") +
+          two_tone_fill +
+          scale_y_continuous(expand=c(0,0), limits=c(0,c6_max*1.2),label=percent) +
+          geom_text(aes(label=percent(value),color=variable),vjust=-1,size=6) +
+          two_tone +
+          labs(y = y_axis_lab, x="") +
+          simple_style +
+          theme(
+            legend.position="none",
+            legend.title=element_blank(),
+            axis.line.x = element_line(colour = dark.grey),
+          )
+        ggsave(c6_chart_name,c6,units="in",dpi=dpi,width=(1000/dpi),height=(590/dpi),scale=3) 
+      }
     } 
   }
   ###C7####
@@ -377,19 +389,21 @@ for(theslug in countries$slug){
       c7_max = max(c7_data_melt$value)
       c7_year_min = min(c7_data_melt$Year,na.rm=T)
       c7_year_max = max(c7_data_melt$Year,na.rm=T)
-      c7 = ggplot(c7_data_melt,aes(x=Year,y=value,group=variable,color=variable)) +
-        geom_line(size=line.size) +
-        two_tone +
-        scale_y_continuous(expand=c(0,0), limits=c(0,c7_max*1.1),label=percent) +
-        expand_limits(x=c(c1_year_min-0.5,c1_year_max+0.5)) +
-        labs(y = y_axis_lab, x="") +
-        simple_style +
-        theme(
-          legend.position="none",
-          legend.title=element_blank(),
-          axis.line.x = element_line(colour = dark.grey),
-        )
-      ggsave(c7_chart_name,c1,units="in",dpi=dpi,width=(1000/dpi),height=(650/dpi),scale=3)
+      if(!is.na(c7_max)){
+        c7 = ggplot(c7_data_melt,aes(x=Year,y=value,group=variable,color=variable)) +
+          geom_line(size=line.size) +
+          two_tone +
+          scale_y_continuous(expand=c(0,0), limits=c(0,c7_max*1.1),label=percent) +
+          expand_limits(x=c(c7_year_min-0.5,c7_year_max+0.5)) +
+          labs(y = y_axis_lab, x="") +
+          simple_style +
+          theme(
+            legend.position="none",
+            legend.title=element_blank(),
+            axis.line.x = element_line(colour = dark.grey),
+          )
+        ggsave(c7_chart_name,c7,units="in",dpi=dpi,width=(1000/dpi),height=(650/dpi),scale=3) 
+      }
     }
   }
 }
