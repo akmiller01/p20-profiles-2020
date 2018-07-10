@@ -49,9 +49,13 @@ stuntingdata$longname[which(stuntingdata$longname=="Democratic People's Republic
 missing_from_stunting = setdiff(countries$longname,stuntingdata$longname)
 stunting_missing_from_countries = setdiff(stuntingdata$longname,countries$longname)
 
-regdata <- read.csv("data/birthregP20.csv")
+regdata <- read.csv("data/birthregP20.csv",fileEncoding="latin1")
 if(!"longname" %in% names(regdata)){setnames(regdata,"CountryName","longname")}
 if(is.factor(regdata$longname)){regdata$longname=unfactor(regdata$longname)}
+if(is.factor(regdata$NP20.Reg)){regdata$NP20.Reg=unfactor(regdata$NP20.Reg)}
+regdata$NP20.Reg = gsub("\u0096","",regdata$NP20.Reg)
+regdata$NP20.Reg[which(regdata$longname=="Solomon Islands")] <- "87"
+regdata$NP20.Reg = as.numeric(regdata$NP20.Reg)
 regdata$longname[which(regdata$longname=="Cabo Verde")] = "Cape Verde"
 regdata$longname[which(regdata$longname=="Congo")] = "Republic of Congo"
 regdata$longname[which(regdata$longname=="Cote d'Ivoire")] = "Côte d’Ivoire"
