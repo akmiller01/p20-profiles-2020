@@ -1,1 +1,8 @@
-TODO: Add rectangle hyperlinks over all country links, as well as the "Back to region" link on the profile pages.
+In R:
+
+1. `collect_data.R`
+2. `render_charts.R`
+
+In console:
+
+1. `python render.py`
