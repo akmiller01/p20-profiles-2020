@@ -86,11 +86,28 @@ nateducdata = subset(nateducdata,!dup)
 nateducdata$dup = NULL
 setnames(nateducdata,"Year","nateducYear")
 
+p20educdata <- read.csv("data/P20_secondarycompletion.csv")
+if(!"longname" %in% names(p20educdata)){setnames(p20educdata,"CountryName","longname")}
+if(is.factor(p20educdata$longname)){p20educdata$longname=unfactor(p20educdata$longname)}
+p20educdata$longname[which(p20educdata$longname=="Cabo Verde")] = "Cape Verde"
+p20educdata$longname[which(p20educdata$longname=="Congo")] = "Republic of Congo"
+p20educdata$longname[which(p20educdata$longname=="Cote d'Ivoire")] = "Côte d’Ivoire"
+p20educdata$longname[which(p20educdata$longname=="Lao People's Democratic Republic")] = "Lao People’s Democratic Republic"
+p20educdata$longname[which(p20educdata$longname=="Korea, Dem. People’s Rep.")] = "Democratic People’s Republic of Korea"
+p20educdata$longname[which(p20educdata$longname=="Libyan Arab Jamahiriya")] = "State of Libya"
+p20educdata$longname[which(p20educdata$longname=="Virgin Islands (U.S.)")] = "United States Virgin Islands"
+p20educdata$longname[which(p20educdata$longname=="aint Vincent and the Grenadines")] = "Saint Vincent and the Grenadines"
+p20educdata$longname[which(p20educdata$longname=="Macao SAR, China")] = "China, Macao Special Administrative Region"
+missing_from_p20educ = setdiff(countries$longname,p20educdata$longname)
+p20educ_missing_from_countries = setdiff(p20educdata$longname,countries$longname)
+setnames(p20educdata,"Year","p20educYear")
+
 countries <- merge(countries,incomedata,by="longname",all.x=T)
 countries <- merge(countries,gapdata.w,by="longname",all.x=T)
 countries <- merge(countries,stuntingdata,by="longname",all.x=T)
 countries <- merge(countries,regdata,by="longname",all.x=T)
 countries <- merge(countries,nateducdata,by="longname",all.x=T)
+countries <- merge(countries,p20educdata,by="longname",all.x=T)
 
 names(countries) = gsub(".","",names(countries),fixed=T)
 write.csv(countries,"data/countries_merged.csv",na="",row.names=F)

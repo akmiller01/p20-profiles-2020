@@ -636,9 +636,11 @@
 {% endif %}
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+{% if country.secondarycompletionP20 is not none %}
+<text top="8118" left="72" width="698" height="44" font="6">{{ country.secondarycompletionP20|percent }} of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with {{ country.secondarycompletionrest|percent }} </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+{% endif %}
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>

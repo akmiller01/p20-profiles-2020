@@ -586,9 +586,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">25% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 40% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -727,9 +729,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">40% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 73% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -870,9 +874,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">38% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 62% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -1013,9 +1019,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">4% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 38% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -1152,9 +1160,7 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
-<text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -1295,9 +1301,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">93% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 98% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -1704,9 +1712,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">84% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 93% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -2023,9 +2033,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">29% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 60% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -2250,9 +2262,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">100% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 100% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -2483,9 +2497,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">7% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 31% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -2626,9 +2642,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">1% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 13% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -2767,9 +2785,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">16% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 43% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -2910,9 +2930,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">81% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 95% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -3053,9 +3075,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">91% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 98% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -3194,9 +3218,7 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
-<text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -3335,9 +3357,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">51% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 78% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -3564,9 +3588,7 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
-<text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -3707,9 +3729,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">1% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 8% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -3850,9 +3874,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">3% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 13% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -3991,9 +4017,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">17% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 45% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -4134,9 +4162,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">11% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 45% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -4365,9 +4395,7 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
-<text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -4506,9 +4534,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">1% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 11% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -4649,9 +4679,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">5% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 14% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -4882,9 +4914,7 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
-<text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -5199,9 +5229,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">51% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 82% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -5342,9 +5374,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">20% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 50% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -5483,9 +5517,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">51% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 74% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -5626,9 +5662,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">2% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 26% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -5767,9 +5805,7 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
-<text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -5906,9 +5942,7 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
-<text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -6223,9 +6257,7 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
-<text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -6366,9 +6398,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">27% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 55% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -6599,9 +6633,7 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
-<text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -6742,9 +6774,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">78% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 86% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -6885,9 +6919,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">81% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 89% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -7028,9 +7064,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">71% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 84% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -7171,9 +7209,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">51% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 78% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -7312,9 +7352,7 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
-<text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -7451,9 +7489,7 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
-<text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -7684,9 +7720,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">4% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 22% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -7825,9 +7863,7 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
-<text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -8232,9 +8268,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">14% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 45% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -8375,9 +8413,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">27% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 50% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -8516,9 +8556,7 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
-<text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -8747,9 +8785,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">27% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 58% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -8976,9 +9016,7 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
-<text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -9207,9 +9245,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">15% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 55% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -9350,9 +9390,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">6% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 23% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -9493,9 +9535,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">3% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 18% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -9636,9 +9680,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">69% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 88% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -9779,9 +9825,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">7% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 35% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -9922,9 +9970,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">28% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 55% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -10243,9 +10293,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">59% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 86% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -10386,9 +10438,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">39% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 77% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -10529,9 +10583,7 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
-<text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -10672,9 +10724,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">15% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 42% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -11085,9 +11139,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">90% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 98% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -11318,9 +11374,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">75% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 91% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -11461,9 +11519,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">99% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 100% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -11604,9 +11664,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">42% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 77% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -11745,9 +11807,7 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
-<text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -11886,9 +11946,7 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
-<text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -12117,9 +12175,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">92% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 97% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -12260,9 +12320,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">3% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 40% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -12491,9 +12553,7 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
-<text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -12634,9 +12694,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">8% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 30% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -12777,9 +12839,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">3% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 26% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -13098,9 +13162,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">0% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 14% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -13241,9 +13307,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">6% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 24% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -13384,9 +13452,7 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
-<text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -13526,9 +13592,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">64% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 80% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -13669,9 +13737,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">5% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 32% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -13896,9 +13966,7 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
-<text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -14127,9 +14195,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">4% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 25% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -14268,9 +14338,7 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
-<text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -14411,9 +14479,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">76% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 91% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -14552,9 +14622,7 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
-<text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -14695,9 +14763,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">66% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 94% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -14838,9 +14908,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">83% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 98% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -14981,9 +15053,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">6% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 40% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -15124,9 +15198,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">1% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 15% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -15267,9 +15343,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">13% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 50% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -15410,9 +15488,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">23% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 60% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -15553,9 +15633,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">57% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 72% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -15960,9 +16042,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">22% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 44% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -16103,9 +16187,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">1% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 6% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -16246,9 +16332,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">22% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 73% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -16479,9 +16567,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">77% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 88% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -16710,9 +16800,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">11% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 54% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -16851,9 +16943,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">57% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 85% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -16992,9 +17086,7 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
-<text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -17135,9 +17227,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">47% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 86% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -17278,9 +17372,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">73% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 91% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -17421,9 +17517,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">27% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 72% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -17920,9 +18018,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">7% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 38% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -18153,9 +18253,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">84% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 97% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -18294,9 +18396,7 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
-<text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -18435,9 +18535,7 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
-<text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -18578,9 +18676,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">11% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 28% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -18721,9 +18821,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">93% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 97% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -18860,9 +18962,7 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
-<text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -19003,9 +19103,7 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
-<text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -19147,9 +19245,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">9% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 38% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -19378,9 +19478,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">3% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 25% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -19521,9 +19623,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">91% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 100% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -19664,9 +19768,7 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
-<text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -19807,9 +19909,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">14% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 41% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -20216,9 +20320,7 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
-<text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -20355,9 +20457,7 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
-<text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -20498,9 +20598,7 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
-<text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -20640,9 +20738,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">2% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 14% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -20873,9 +20973,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">77% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 91% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -21012,9 +21114,7 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
-<text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -21155,9 +21255,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">19% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 42% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -21296,9 +21398,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">12% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 54% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -21439,9 +21543,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">25% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 57% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -21758,9 +21864,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">16% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 40% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -21901,9 +22009,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">84% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 91% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -22044,9 +22154,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">77% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 87% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -22187,9 +22299,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">60% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 94% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -22330,9 +22444,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">24% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 46% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -22473,9 +22589,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">5% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 27% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -22616,9 +22734,7 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
-<text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -22849,9 +22965,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">43% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 78% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -22992,9 +23110,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">44% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 75% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -23135,9 +23255,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">100% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 100% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -23276,9 +23398,7 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
-<text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -23419,9 +23539,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">3% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 20% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -23560,9 +23682,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">99% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 100% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -23881,9 +24005,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">7% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 29% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -24290,9 +24416,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">95% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 98% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -24433,9 +24561,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">11% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 41% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -24574,9 +24704,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">70% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 82% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -24717,9 +24849,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">60% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 90% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -24948,9 +25082,7 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
-<text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -25091,9 +25223,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">19% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 53% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
@@ -25234,9 +25368,11 @@
 
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="7518" left="74" width="1000" height="550" src="placeholder.png"/>
-<text top="8118" left="72" width="698" height="44" font="6">[XX]% of people in the P20 have completed </text>
-<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with [XX]% </text>
+
+<text top="8118" left="72" width="698" height="44" font="6">40% of people in the national P20 have completed </text>
+<text top="8172" left="72" width="723" height="44" font="6">a secondary education compared with 76% </text>
 <text top="8226" left="72" width="448" height="44" font="6">of the rest of the population.</text>
+
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="placeholder.png"/>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
