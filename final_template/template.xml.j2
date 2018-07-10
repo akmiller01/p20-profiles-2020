@@ -628,7 +628,7 @@
 <text top="7146" left="72" width="613" height="44" font="6">Education is fundamental to a person’s </text>
 <text top="7200" left="72" width="202" height="44" font="6">life chances. </text>
 {% if country.SecondaryCompletion is not none %}
-	<text top="7290" left="72" width="684" height="44" font="6">As of {{ country.nateducYear }}, {{ country.SecondaryCompletion|percent }} of people in {{ country.sentencename }} have </text>
+	<text top="7290" left="72" width="684" height="44" font="6">As of {{ country.nateducYear|year }}, {{ country.SecondaryCompletion|percent }} of people in {{ country.sentencename }} have </text>
 	<text top="7344" left="72" width="640" height="44" font="6">completed secondary school education.</text>
 {% else %}
 	<text top="7290" left="72" width="684" height="44" font="6">Lorum </text>

@@ -10,6 +10,12 @@ from reportlab.lib.fonts import addMapping
 from xml.etree import ElementTree
 
 
+def year(num):
+    if num is not None:
+        return "{:}".format(round(num))
+    return "NA"
+
+
 def people(num):
     if num is not None:
         return "{:,}".format(round(num))
@@ -52,6 +58,7 @@ class ReportMaker(object):
         templateEnv.filters['dollar'] = dollar
         templateEnv.filters['roundDollar'] = roundDollar
         templateEnv.filters['percent'] = percent
+        templateEnv.filters['year'] = year
         TEMPLATE_FILE = "template.xml.j2"
         template = templateEnv.get_template(TEMPLATE_FILE)
 
