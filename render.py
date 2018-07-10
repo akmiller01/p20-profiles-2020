@@ -1,6 +1,8 @@
 import jinja2
 import pandas as pd
 import progressbar
+from PIL import Image as PILImage
+from os.path import basename, dirname
 from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
 from reportlab.pdfgen import canvas
 from reportlab.platypus import Image, Paragraph
@@ -101,7 +103,17 @@ class ReportMaker(object):
             self.c.setPageSize((self.width,self.height))
             for image in page.findall("image"):
                 src = self.template_folder+"/"+image.get("src")
-                logo = Image(src)
+                if "charts" in src:
+                    chart_name = basename(src)
+                    chart_path = dirname(src)
+                    dest = chart_path+"/reduced_"+chart_name
+                    pilImg = PILImage.open(src)
+                    size = (pilImg.size[0]/1.5,pilImg.size[1]/1.5)
+                    pilImg.thumbnail(size,PILImage.NEAREST)
+                    pilImg.save(dest,optimize=True)
+                else:
+                    dest = src
+                logo = Image(dest)
                 logo.drawHeight = int(image.get("height"))
                 logo.drawWidth = int(image.get("width"))
                 logo.wrapOn(self.c, self.width, self.height)
