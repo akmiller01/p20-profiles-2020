@@ -563,7 +563,6 @@
 {% endif %}
 <text top="2766" left="74" width="535" height="48" font="7"><b>{{ country.name }} income trends</b></text>
 <image top="2850" left="74" width="1000" height="770" src="../charts/{{ country.slug }}_c1.png"/>
-<text top="{{ (2850 + 0.323144105 * 770)|roundInt  }}" left="440" width="100" height="44" font="20"><b>No data available</b></text>
 <text top="3699" left="72" width="600" height="35" font="9"><b>Source: </b>Development Initiatives based on PovcalNet</text>
 <text top="3819" left="162" width="188" height="64" font="5"><b>nutrition</b></text>
 <text top="3942" left="72" width="716" height="44" font="6">Nutrition is fundamental to the ability to learn </text>
@@ -587,7 +586,6 @@
 {% endif %}
 <text top="4387" left="72" width="973" height="48" font="7"><b>stunting in children in the P20 compared with rest of country</b></text>
 <image top="4477" left="74" width="1000" height="600" src="../charts/{{ country.slug }}_c2.png"/>
-<text top="{{ (4477 + 0.323144105 * 600)|roundInt  }}" left="440" width="100" height="44" font="20"><b>No data available</b></text>
 <text top="5139" left="72" width="765" height="35" font="9"><b>Source: </b>Development Initiatives based on UNICEF-WHO joint child </text>
 <text top="5176" left="72" width="251" height="32" font="10">malnutrition estimates</text>
 <text top="5178" left="303" width="8" height="20" font="11"><a href="#{{ country.slug }}2"><b>2</b></a></text>
@@ -608,10 +606,8 @@
 <text top="5916" left="72" width="689" height="48" font="7"><b>birth registration rates for children under 5</b></text>
 {% if country.birthregtrends is not none %}
 	<image top="6006" left="74" width="1000" height="600" src="../charts/{{ country.slug }}_c3.png"/>
-	<text top="{{ (6006 + 0.323144105 * 600)|roundInt  }}" left="440" width="100" height="44" font="20"><b>No data available</b></text>
 {% else %}
 	<image top="6006" left="74" width="1000" height="770" src="../charts/{{ country.slug }}_c3.png"/>
-	<text top="{{ (6006 + 0.323144105 * 770)|roundInt  }}" left="440" width="100" height="44" font="20"><b>No data available</b></text>
 {% endif %}
 {% if country.birthregtrends is not none %}
 	<text top="6714" left="72" width="690" height="44" font="6">Birth registration rates in {{ country.sentencename }}  </text>
@@ -633,10 +629,8 @@
 <text top="7428" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 {% if country.secondarycompletionP20 is not none %}
 	<image top="7518" left="74" width="1000" height="550" src="../charts/{{ country.slug }}_c4.png"/>
-	<text top="{{ (7518 + 0.323144105 * 550)|roundInt  }}" left="440" width="100" height="44" font="20"><b>No data available</b></text>
 {% else %}
 	<image top="7518" left="74" width="1000" height="750" src="../charts/{{ country.slug }}_c4.png"/>
-	<text top="{{ (7518 + 0.323144105 * 750)|roundInt  }}" left="440" width="100" height="44" font="20"><b>No data available</b></text>
 {% endif %}
 {% if country.secondarycompletionP20 is not none %}
 	<text top="8118" left="72" width="698" height="44" font="6">{{ country.secondarycompletionP20|percent }} of people in the national P20 have completed </text>
@@ -645,7 +639,6 @@
 {% endif %}
 <text top="8310" left="72" width="575" height="48" font="7"><b>secondary school completion rates </b></text>
 <image top="8400" left="74" width="1000" height="660" src="../charts/{{ country.slug }}_c5.png"/>
-<text top="{{ (8400 + 0.323144105 * 660)|roundInt  }}" left="440" width="100" height="44" font="20"><b>No data available</b></text>
 <text top="9063" left="72" width="498" height="35" font="9"><b>Source: </b>Demographic Health Surveys (DHS)</text>
 <text top="9183" left="162" width="137" height="64" font="5"><b>health</b></text>
 <text top="9306" left="72" width="777" height="44" font="6">Poor health plays a major part in keeping people </text>
@@ -671,7 +664,6 @@
 {% endif %}
 <text top="9948" left="72" width="370" height="48" font="7"><b>under 5 mortality rates</b></text>
 <image top="10068" left="74" width="1000" height="590" src="../charts/{{ country.slug }}_c6.png"/>
-<text top="{{ (10068 + 0.323144105 * 590)|roundInt  }}" left="440" width="100" height="44" font="20"><b>No data available</b></text>
 <text top="10647" left="72" width="889" height="35" font="9"><b>Source: </b>Development Initiatives based on Demographic Health Surveys (DHS)</text>
 <text top="10845" left="72" width="15" height="34" font="12">1 </text>
 <text top="10845" left="72" width="15" height="34" font="12"><a name="{{ country.slug }}1"></a></text>
@@ -757,7 +749,6 @@
 {% endif %}
 <text top="2766" left="74" width="535" height="48" font="7"><b>{{ country.name }} income trends</b></text>
 <image top="2850" left="74" width="1000" height="770" src="../charts/{{ country.slug }}_c1.png"/>
-<text top="{{ (2850 + 0.323144105 * 770)|roundInt  }}" left="440" width="100" height="44" font="20"><b>No data available</b></text>
 <text top="3699" left="72" width="600" height="35" font="9"><b>Source: </b>Development Initiatives based on PovcalNet</text>
 <text top="3819" left="162" width="188" height="64" font="5"><b>nutrition</b></text>
 {% if country.obesityrate is not none %}
@@ -765,7 +756,6 @@
 {% endif %}
 <text top="4026" left="72" width="196" height="48" font="7"><b>obesity rate</b></text>
 <image top="4116" left="74" width="1000" height="650" src="../charts/{{ country.slug }}_c2.png"/>
-<text top="{{ (4116 + 0.323144105 * 650)|roundInt  }}" left="440" width="100" height="44" font="20"><b>No data available</b></text>
 <text top="4779" left="72" width="882" height="35" font="9"><b>Source: </b>Development Initiatives based on NCD Risk Factor Collaboration 2017</text>
 <text top="4899" left="162" width="219" height="64" font="5"><b>education</b></text>
 <text top="5022" left="72" width="613" height="44" font="6">Education is fundamental to a person’s </text>
@@ -779,7 +769,6 @@
 {% endif %}
 <text top="5304" left="72" width="889" height="48" font="7"><b>percentage who have completed secondary education</b></text>
 <image top="5394" left="74" width="1000" height="570" src="../charts/{{ country.slug }}_c3.png"/>
-<text top="{{ (5394 + 0.323144105 * 570)|roundInt  }}" left="440" width="100" height="44" font="20"><b>No data available</b></text>
 <text top="5985" left="72" width="879" height="35" font="9"><b>Source: </b>Development Initiatives based on UNESCO Institute for Statistics 2018</text>
 <text top="6066" left="72" width="801" height="44" font="6">Data is not available that allows us to disaggregate </text>
 <text top="6120" left="72" width="766" height="44" font="6">secondary school completion based on income </text>

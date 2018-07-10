@@ -180,19 +180,3 @@ countries <- merge(countries,obesitydata,by="longname",all.x=T)
 countries = countries[order(countries$original.order),]
 names(countries) = gsub(".","",names(countries),fixed=T)
 write.csv(countries,"data/countries_merged.csv",na="",row.names=F)
-
-# for(theslug in countries$slug){
-#   country = subset(countries,slug==theslug)[1,]
-#   lowincome = country$lowincome
-#   if(lowincome){
-#     for(i in c(1:6)){
-#       chart_name = paste0("charts/",theslug,"_c",i,".png")
-#       file.copy("final_template/no_data.png",chart_name)
-#     }
-#   }else{
-#     for(i in c(1:3)){
-#       chart_name = paste0("charts/",theslug,"_c",i,".png")
-#       file.copy("final_template/no_data.png",chart_name)
-#     }
-#   }
-# }
