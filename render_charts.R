@@ -3,6 +3,14 @@ new.packages <- list.of.packages[!(list.of.packages %in% installed.packages()[,"
 if(length(new.packages)) install.packages(new.packages)
 lapply(list.of.packages, require, character.only=T)
 
+# C1: Income trends line
+# C2: Stunting bar (LI only)
+# C3: Birth reg bar (LI only)
+# C4: Secondary educ donut
+# C5: Secondary educ bar (LI only)
+# C6: Under 5 mort bar (LI only)
+# C7: Obesity line (HI only)
+
 setwd("~/git/p20-profiles-2018")
 
 getmode <- function(v) {
@@ -40,21 +48,21 @@ simple_style = theme_bw() +
 countries <- read.csv("data/countries.csv",na.strings="")
 countries$original.order = c(1:nrow(countries))
 
-# for(theslug in countries$slug){
-#   country = subset(countries,slug==theslug)[1,]
-#   lowincome = country$lowincome
-#   if(lowincome){
-#     for(i in c(1:6)){
-#       chart_name = paste0("charts/",theslug,"_c",i,".png")
-#       file.copy("final_template/no_data_text.png",chart_name,overwrite=T)
-#     }
-#   }else{
-#     for(i in c(1:3)){
-#       chart_name = paste0("charts/",theslug,"_c",i,".png")
-#       file.copy("final_template/no_data_text.png",chart_name,overwrite=T)
-#     }
-#   }
-# }
+for(theslug in countries$slug){
+  country = subset(countries,slug==theslug)[1,]
+  lowincome = country$lowincome
+  if(lowincome){
+    for(i in c(1:6)){
+      chart_name = paste0("charts/",theslug,"_c",i,".png")
+      file.copy("final_template/no_data_text.png",chart_name,overwrite=T)
+    }
+  }else{
+    for(i in c(1,4,7)){
+      chart_name = paste0("charts/",theslug,"_c",i,".png")
+      file.copy("final_template/no_data_text.png",chart_name,overwrite=T)
+    }
+  }
+}
 
 c1_data = read.csv("data/IncomeGapGraph.csv")
 if(!"longname" %in% names(c1_data)){setnames(c1_data,"Country","longname")}
