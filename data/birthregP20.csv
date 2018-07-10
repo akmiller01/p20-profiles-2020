@@ -1,198 +1,198 @@
-CountryName,NP20.Reg,rest.reg
-Afghanistan,30,46
-Albania,98,98.75
-Algeria,99,100
-Andorra,,
-Angola,10,32.5
-Antigua and Barbuda,,
-Argentina,99,99.75
-Armenia,98,99
-Australia,,
-Austria,,
-Azerbaijan,92,94.5
-Bahamas,,
-Bahrain,,
-Bangladesh,15,21.25
-Barbados,98,98.75
-Belarus,,
-Belgium,,
-Belize,94,96.75
-Benin,69,89.5
-Bhutan,100,100
-Bolivia (Plurinational State of),68,80
-Bosnia and Herzegovina,100,99.75
-Botswana,,
-Brazil,,
-Brunei Darussalam,,
-Bulgaria,,
-Burkina Faso,62,82
-Burundi,64,78.5
-Cabo Verde,,
-Cambodia,59,78.25
-Cameroon,38,76.5
-Canada,,
-Central African Republic,46,66.5
-Chad,6,14.75
-Chile,,
-China,,
-Colombia,,
-Comoros,85,88.5
-Congo,,
-Cook Islands,,
-Costa Rica,,
-Cote d'Ivoire,44,73.25
-Croatia,,
-Cuba,,
-Cyprus,,
-Czech Republic,,
-Democratic People's Republic of Korea,,
-Democratic Republic of the Congo,16,27.75
-Denmark,,
-Djibouti,,
-Dominica,,
-Dominican Republic,73,93.5
-Ecuador,,
-Egypt,99,99.75
-El Salvador,98,98.75
-Equatorial Guinea,60,50
-Eritrea,,
-Estonia,,
-Ethiopia,1,3.75
-Fiji,,
-Finland,,
-France,,
-Gabon,92,88.75
-Gambia,69,73
-Georgia,99,100
-Germany,,
-Ghana,58,74.75
-Greece,,
-Grenada,,
-Guatemala,,
-Guinea,38,65.5
-Guinea-Bissau,13,28.75
-Guyana,84,91.25
-Haiti,71,83.75
-Holy See,,
-Honduras,92,94.25
-Hungary,,
-Iceland,,
-India,57,
-Indonesia,,
-Iran (Islamic Republic of),,
-Iraq,98,99.75
-Ireland,,
-Israel,,
-Italy,,
-Jamaica,99,99.5
-Japan,,
-Jordan,,
-Kazakhstan,99,100
-Kenya,52,72.5
-Kiribati,93,93.75
-Kuwait,,
-Kyrgyzstan,96,98.25
-Lao People's Democratic Republic,66,79.75
-Latvia,,
-Lebanon,,
-Lesotho,34,47.25
-Liberia,16,27.75
-Libyan Arab Jamahiriya,,
-Liechtenstein,,
-Lithuania,,
-Luxembourg,,
-Madagascar,72,87.75
-Malawi,65,68.25
-Malaysia,,
-Maldives,92,93
-Mali,69,92.25
-Malta,,
-Marshall Islands,92,96.5
-Mauritania,,
-Mauritius,,
-Mexico,83,95.75
-Micronesia (Federated States of),,
-Monaco,,
-Mongolia,99,99.5
-Montenegro,99,99.5
-Morocco,,
-Mozambique,42,50.25
-Myanmar,69,87.5
-Namibia,83,89
-Nauru,71,85.25
-Nepal,55,59
-Netherlands,,
-New Zealand,,
-Nicaragua,,
-Niger,50,68.25
-Nigeria,7,38.5
-Niue,,
-Norway,,
-Oman,,
-Pakistan,5,44.25
-Palau,,
-Panama,90,97.75
-Papua New Guinea,,
-Paraguay,,
-Peru,95,98.5
-Philippines,,
-Poland,,
-Portugal,,
-Qatar,,
-Republic of Korea,,
-Republic of Moldova,99,99.75
-Romania,,
-Russian Federation,,
-Rwanda,43,60.5
-Saint Kitts and Nevis,,
-Saint Lucia,,
-Saint Vincent and the Grenadines,,
-Samoa,47,63.25
-San Marino,,
-Sao Tome and Principe,88,97.5
-Saudi Arabia,,
-Senegal,44,77.5
-Serbia,97,100
-Seychelles,,
-Sierra Leone,77,77
-Singapore,,
-Slovakia,,
-Slovenia,,
-Solomon Islands,87,88.375
-Somalia,1,3.75
-South Africa,,
-South Sudan,21,39.25
-Spain,,
-Sri Lanka,97,97.75
-Occupied Palestinian Territory,100,99.25
-Sudan,37,77.75
-Suriname,98,99.5
-Swaziland,39,59.5
-Sweden,,
-Switzerland,,
-Syrian Arab Republic,93,97.25
-Tajikistan,86,89.25
-Thailand,100,99.5
-The former Yugoslav Republic of Macedonia,99,100
-Timor-Leste,50,56.5
-Togo,67,81.5
-Tonga,92,93.75
-Trinidad and Tobago,96,97
-Tunisia,98,99.75
-Turkey,98,99
-Turkmenistan,100,99.5
-Tuvalu,39,53
-Uganda,27,31.25
-Ukraine,100,99.75
-United Arab Emirates,,
-United Kingdom of Great Britain and Northern Ireland,,
-United Republic of Tanzania,8,34.25
-United States of America,,
-Uruguay,,
-Uzbekistan,100,100
-Vanuatu,33,45.5
-Venezuela (Bolivarian Republic of),,
-Viet Nam,91,97.5
-Yemen,17,36
-Zambia,5,14.5
-Zimbabwe,24,50.75
+"CountryName","NP20.Reg","rest.reg"
+"Afghanistan","30",46
+"Albania","98",98.75
+"Algeria","99",100
+"Andorra","–",
+"Angola","10",32.5
+"Antigua and Barbuda","–",
+"Argentina","99",99.75
+"Armenia","98",99
+"Australia","–",
+"Austria","–",
+"Azerbaijan","92",94.5
+"Bahamas","–",
+"Bahrain","–",
+"Bangladesh","15",21.25
+"Barbados","98",98.75
+"Belarus","–",
+"Belgium","–",
+"Belize","94",96.75
+"Benin","69",89.5
+"Bhutan","100",100
+"Bolivia (Plurinational State of)","68",80
+"Bosnia and Herzegovina","100",99.75
+"Botswana","–",
+"Brazil","–",
+"Brunei Darussalam","–",
+"Bulgaria","–",
+"Burkina Faso","62",82
+"Burundi","64",78.5
+"Cabo Verde","–",
+"Cambodia","59",78.25
+"Cameroon","38",76.5
+"Canada","–",
+"Central African Republic","46",66.5
+"Chad","6",14.75
+"Chile","–",
+"China","–",
+"Colombia","–",
+"Comoros","85",88.5
+"Congo","–",
+"Cook Islands","–",
+"Costa Rica","–",
+"Cote d'Ivoire","44",73.25
+"Croatia","–",
+"Cuba","–",
+"Cyprus","–",
+"Czech Republic","–",
+"Democratic People's Republic of Korea","–",
+"Democratic Republic of the Congo","16",27.75
+"Denmark","–",
+"Djibouti","–",
+"Dominica","–",
+"Dominican Republic","73",93.5
+"Ecuador","–",
+"Egypt","99",99.75
+"El Salvador","98",98.75
+"Equatorial Guinea","60",50
+"Eritrea","–",
+"Estonia","–",
+"Ethiopia","1",3.75
+"Fiji","–",
+"Finland","–",
+"France","–",
+"Gabon","92",88.75
+"Gambia","69",73
+"Georgia","99",100
+"Germany","–",
+"Ghana","58",74.75
+"Greece","–",
+"Grenada","–",
+"Guatemala","–",
+"Guinea","38",65.5
+"Guinea-Bissau","13",28.75
+"Guyana","84",91.25
+"Haiti","71",83.75
+"Holy See","–",
+"Honduras","92",94.25
+"Hungary","–",
+"Iceland","–",
+"India","57",
+"Indonesia","–",
+"Iran (Islamic Republic of)","–",
+"Iraq","98",99.75
+"Ireland","–",
+"Israel","–",
+"Italy","–",
+"Jamaica","99",99.5
+"Japan","–",
+"Jordan","–",
+"Kazakhstan","99",100
+"Kenya","52",72.5
+"Kiribati","93",93.75
+"Kuwait","–",
+"Kyrgyzstan","96",98.25
+"Lao People's Democratic Republic","66",79.75
+"Latvia","–",
+"Lebanon","–",
+"Lesotho","34",47.25
+"Liberia","16",27.75
+"State of Libya","–",
+"Liechtenstein","–",
+"Lithuania","–",
+"Luxembourg","–",
+"Madagascar","72",87.75
+"Malawi","65",68.25
+"Malaysia","–",
+"Maldives","92",93
+"Mali","69",92.25
+"Malta","–",
+"Marshall Islands","92",96.5
+"Mauritania","–",
+"Mauritius","–",
+"Mexico","83",95.75
+"Micronesia (Federated States of)","–",
+"Monaco","–",
+"Mongolia","99",99.5
+"Montenegro","99",99.5
+"Morocco","–",
+"Mozambique","42",50.25
+"Myanmar","69",87.5
+"Namibia","83",89
+"Nauru","71",85.25
+"Nepal","55",59
+"Netherlands","–",
+"New Zealand","–",
+"Nicaragua","–",
+"Niger","50",68.25
+"Nigeria","7",38.5
+"Niue","–",
+"Norway","–",
+"Oman","–",
+"Pakistan","5",44.25
+"Palau","–",
+"Panama","90",97.75
+"Papua New Guinea","–",
+"Paraguay","–",
+"Peru","95",98.5
+"Philippines","–",
+"Poland","–",
+"Portugal","–",
+"Qatar","–",
+"Republic of Korea","–",
+"Republic of Moldova","99",99.75
+"Romania","–",
+"Russian Federation","–",
+"Rwanda","43",60.5
+"Saint Kitts and Nevis","–",
+"Saint Lucia","–",
+"Saint Vincent and the Grenadines","–",
+"Samoa","47",63.25
+"San Marino","–",
+"Sao Tome and Principe","88",97.5
+"Saudi Arabia","–",
+"Senegal","44",77.5
+"Serbia","97",100
+"Seychelles","–",
+"Sierra Leone","77",77
+"Singapore","–",
+"Slovakia","–",
+"Slovenia","–",
+"Solomon Islands","87 ",88.375
+"Somalia","1",3.75
+"South Africa","–",
+"South Sudan","21",39.25
+"Spain","–",
+"Sri Lanka","97",97.75
+"Occupied Palestinian Territory","100",99.25
+"Sudan","37",77.75
+"Suriname","98",99.5
+"Swaziland","39",59.5
+"Sweden","–",
+"Switzerland","–",
+"Syrian Arab Republic","93",97.25
+"Tajikistan","86",89.25
+"Thailand","100",99.5
+"The former Yugoslav Republic of Macedonia","99",100
+"Timor-Leste","50",56.5
+"Togo","67",81.5
+"Tonga","92",93.75
+"Trinidad and Tobago","96",97
+"Tunisia","98",99.75
+"Turkey","98",99
+"Turkmenistan","100",99.5
+"Tuvalu","39",53
+"Uganda","27",31.25
+"Ukraine","100",99.75
+"United Arab Emirates","–",
+"United Kingdom of Great Britain and Northern Ireland","–",
+"United Republic of Tanzania","8",34.25
+"United States of America","–",
+"Uruguay","–",
+"Uzbekistan","100",100
+"Vanuatu","33",45.5
+"Venezuela (Bolivarian Republic of)","–",
+"Viet Nam","91",97.5
+"Yemen","17",36
+"Zambia","5",14.5
+"Zimbabwe","24",50.75
