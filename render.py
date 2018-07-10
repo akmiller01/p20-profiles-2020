@@ -36,6 +36,11 @@ def percent(num):
         return "{}%".format(round(num))
     return "NA"
 
+def roundInt(num):
+    if num is not None:
+        return round(float(num))
+    return "NA"
+
 
 ########################################################################
 class ReportMaker(object):
@@ -59,6 +64,7 @@ class ReportMaker(object):
         templateEnv.filters['roundDollar'] = roundDollar
         templateEnv.filters['percent'] = percent
         templateEnv.filters['year'] = year
+        templateEnv.filters['roundInt'] = roundInt
         TEMPLATE_FILE = "template.xml.j2"
         template = templateEnv.get_template(TEMPLATE_FILE)
 
