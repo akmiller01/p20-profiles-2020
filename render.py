@@ -187,6 +187,8 @@ class ReportMaker(object):
                 right = ((left+padleft) + int(button.get("width")))+padright
                 rect = (left, bottom, right, top)
                 self.c.linkAbsolute("", button.get("href"), rect, Border='[0 0 0]')
+            for bookmark in page.findall("bookmark"):
+                self.c.bookmarkPage(bookmark.get("name"),fit="FitH")
 
             self.c.showPage()
 
