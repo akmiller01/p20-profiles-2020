@@ -188,7 +188,7 @@ class ReportMaker(object):
                 rect = (left, bottom, right, top)
                 self.c.linkAbsolute("", button.get("href"), rect, Border='[0 0 0]')
             for bookmark in page.findall("bookmark"):
-                self.c.bookmarkPage(bookmark.get("name"),fit="XYZ")
+                self.c.bookmarkPage(bookmark.get("name"),fit="XYZ",top=0,left=0)
 
             self.c.showPage()
 
