@@ -176,6 +176,8 @@ c7_data$longname[which(c7_data$longname=="Macao SAR, China")] = "China, Macao Sp
 missing_from_obesity = setdiff(countries$longname,c7_data$longname)
 obesity_missing_from_countries = setdiff(c7_data$longname,countries$longname)
 
+# test_slugs = c("uganda","usa","united-kingdom")
+# for(theslug in test_slugs){
 for(theslug in countries$slug){
   country = subset(countries,slug==theslug)[1,]
   lowincome = country$lowincome
@@ -206,14 +208,14 @@ for(theslug in countries$slug){
         geom_vline(xintercept=c(c1_year_min,1999,c1_year_max),linetype="dotted") +
         geom_text(
           data=subset(c1_data_melt,Year %in% c(c1_year_min,1999,c1_year_max) & variable=="national P20")
-          ,aes(label=dollar_format(largest_with_cents=10)(value),y=c1_max)
+          ,aes(label=dollar_format(largest_with_cents=10)(value),y=c1_max,fontface="bold")
           ,size=4
           ,hjust=1.1
           ,show.legend=F
         ) +
         geom_text(
           data=subset(c1_data_melt,Year %in% c(c1_year_min,1999,c1_year_max) & variable=="rest of population")
-          ,aes(label=dollar_format(largest_with_cents=10)(value),y=c1_max)
+          ,aes(label=dollar_format(largest_with_cents=10)(value),y=c1_max,fontface="bold")
           ,size=4
           ,hjust=-0.2
           ,show.legend=F
@@ -245,7 +247,7 @@ for(theslug in countries$slug){
           geom_bar(stat="identity") +
           two_tone_fill +
           scale_y_continuous(expand=c(0,0), limits=c(0,c2_max*1.2),label=percent) +
-          geom_text(aes(label=percent(value),color=variable),vjust=-1,size=6) +
+          geom_text(aes(label=percent(value),color=variable),vjust=-1,size=6,fontface="bold") +
           two_tone +
           labs(y = y_axis_lab, x="") +
           simple_style +
@@ -273,7 +275,7 @@ for(theslug in countries$slug){
           geom_bar(stat="identity") +
           two_tone_fill +
           scale_y_continuous(expand=c(0,0), limits=c(0,c3_max*1.2),label=percent) +
-          geom_text(aes(label=percent(value),color=variable),vjust=-1,size=6) +
+          geom_text(aes(label=percent(value),color=variable),vjust=-1,size=6,fontface="bold") +
           two_tone +
           labs(y = y_axis_lab, x="") +
           simple_style +
@@ -299,7 +301,8 @@ for(theslug in countries$slug){
       c4 = ggplot(c4_data_melt,aes(fill=variable,ymax=ymax,ymin=ymin,xmax=2,xmin=1)) +
         geom_rect(color="white") +
         geom_text(
-          aes(label=percent(value),x=1.5,y=ymin+(0.5*value)),
+          data=subset(c4_data_melt,value>0.01),
+          aes(label=percent(value),x=1.5,y=ymin+(0.5*value),fontface="bold"),
           color="white",
           size=5
         ) +
@@ -338,7 +341,7 @@ for(theslug in countries$slug){
           geom_bar(stat="identity") +
           two_tone_fill +
           scale_y_continuous(expand=c(0,0), limits=c(0,c5_max*1.2),label=percent) +
-          geom_text(aes(label=percent(value),color=variable),vjust=-1,size=6) +
+          geom_text(aes(label=percent(value),color=variable),vjust=-1,size=6,fontface="bold") +
           two_tone +
           labs(y = y_axis_lab, x="") +
           simple_style +
@@ -366,7 +369,7 @@ for(theslug in countries$slug){
           geom_bar(stat="identity") +
           two_tone_fill +
           scale_y_continuous(expand=c(0,0), limits=c(0,c6_max*1.2),label=percent) +
-          geom_text(aes(label=percent(value),color=variable),vjust=-1,size=6) +
+          geom_text(aes(label=percent(value),color=variable),vjust=-1,size=6,fontface="bold") +
           two_tone +
           labs(y = y_axis_lab, x="") +
           simple_style +
