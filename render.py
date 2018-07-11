@@ -2,7 +2,7 @@ import jinja2
 import pandas as pd
 import progressbar
 from PIL import Image as PILImage
-from os.path import basename, dirname
+from os.path import basename, dirname, isfile
 from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
 from reportlab.pdfgen import canvas
 from reportlab.platypus import Image, Paragraph
@@ -107,10 +107,11 @@ class ReportMaker(object):
                     chart_name = basename(src)
                     chart_path = dirname(src)
                     dest = chart_path+"/reduced_"+chart_name
-                    pilImg = PILImage.open(src)
-                    size = (pilImg.size[0]/1.5,pilImg.size[1]/1.5)
-                    pilImg.thumbnail(size,PILImage.NEAREST)
-                    pilImg.save(dest,optimize=True)
+                    if not isfile(dest):
+                        pilImg = PILImage.open(src)
+                        size = (pilImg.size[0]/1.5,pilImg.size[1]/1.5)
+                        pilImg.thumbnail(size,PILImage.NEAREST)
+                        pilImg.save(dest,optimize=True)
                 else:
                     dest = src
                 logo = Image(dest)
@@ -188,7 +189,7 @@ class ReportMaker(object):
                 rect = (left, bottom, right, top)
                 self.c.linkAbsolute("", button.get("href"), rect, Border='[0 0 0]')
             for bookmark in page.findall("bookmark"):
-                self.c.bookmarkPage(bookmark.get("name"),fit="XYZ",top=0,left=0)
+                self.c.bookmarkPage(bookmark.get("name"),fit="XYZ",bottom=0,left=0)
 
             self.c.showPage()
 

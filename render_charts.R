@@ -11,7 +11,10 @@ lapply(list.of.packages, require, character.only=T)
 # C6: Under 5 mort bar (LI only)
 # C7: Obesity line (HI only)
 
-setwd("~/git/p20-profiles-2018")
+wd = "~/git/p20-profiles-2018"
+setwd(wd)
+
+unlink("charts/*.png")
 
 getmode <- function(v) {
   uniqv <- unique(v)
