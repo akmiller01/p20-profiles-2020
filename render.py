@@ -192,7 +192,8 @@ class ReportMaker(object):
                 # Works with Adobe Reader, Ubuntu Document Viewer, and Firefox. NOT Chrome
                 # self.c.bookmarkPage(bookmark.get("name"),fit="XYZ",top=self.height,left=0,zoom=0)
                 # Works with Ubuntu Document Viewer, Firefox, and Chrome. NOT Adobe Reader
-                self.c.bookmarkPage(bookmark.get("name"),fit="XYZ")
+                # self.c.bookmarkPage(bookmark.get("name"),fit="XYZ")
+                pass
 
             self.c.showPage()
 
