@@ -570,13 +570,13 @@
 <text top="4050" left="72" width="681" height="44" font="6">can suffer lifelong disadvantage as a result. </text>
 {% if country.nationalstunting is not none %}
 	{% if country.nationalP20stunting is not none %}
-		<text top="4140" left="72" width="707" height="44" font="6">In {{ country.sentencename }}, {{ country.nationalstunting|percent }} of under five year </text>
-		<text top="4194" left="72" width="692" height="44" font="6">olds experienced stunting. In the national P20 {{ country.nationalP20stunting|percent }} </text>
-		<text top="4248" left="72" width="696" height="44" font="6">experienced stunting compared with {{ country.restP20stunting|percent }} </text>
+		<text top="4140" left="72" width="707" height="44" font="6">In {{ country.sentencename }}, {{ country.nationalstunting|percent }} of children under </text>
+		<text top="4194" left="72" width="692" height="44" font="6">five years old experience stunting. In the national P20 {{ country.nationalP20stunting|percent }} </text>
+		<text top="4248" left="72" width="696" height="44" font="6">experience stunting compared with {{ country.restP20stunting|percent }} </text>
 		<text top="4302" left="72" width="448" height="44" font="6">of the rest of the population.</text>
 	{% else %}
-		<text top="4140" left="72" width="707" height="44" font="6">In {{ country.sentencename }}, {{ country.nationalstunting|percent }} of under five year </text>
-		<text top="4194" left="72" width="692" height="44" font="6">olds experienced stunting. It is not possible to </text>
+		<text top="4140" left="72" width="707" height="44" font="6">In {{ country.sentencename }}, {{ country.nationalstunting|percent }} of children under</text>
+		<text top="4194" left="72" width="692" height="44" font="6">five years old experience stunting. It is not possible to </text>
 		<text top="4248" left="72" width="696" height="44" font="6">disaggregate stunting rates between the </text>
 		<text top="4302" left="72" width="448" height="44" font="6">national P20 and the rest of the population.</text>
 	{% endif %}
@@ -603,7 +603,7 @@
 	<image top="5724" left="72" width="1004" height="152" src="no_data_quarter.png"/>
 	<text top="{{ (5724 + 0.3421 * 152) | roundInt }}" left="440" width="100" height="44" font="20"><b>No data available</b></text>
 {% endif %}
-<text top="5916" left="72" width="689" height="48" font="7"><b>birth registration rates for children under 5</b></text>
+<text top="5916" left="72" width="689" height="48" font="7"><b>birth registration rates for children under five</b></text>
 <image top="6006" left="74" width="1000" height="600" src="../charts/{{ country.slug }}_c3.png"/>
 {% if country.birthregtrends is not none %}
 	<text top="6714" left="72" width="690" height="44" font="6">Birth registration rates in {{ country.sentencename }}  </text>
@@ -644,23 +644,23 @@
 <text top="9414" left="72" width="721" height="44" font="6">likely to suffer from preventable diseases and </text>
 <text top="9468" left="72" width="214" height="44" font="6">to die earlier. </text>
 {% if country.NtlUnder5Mortality is not none %}
-	<text top="9558" left="72" width="790" height="44" font="6">In {{ country.sentencename }} the Under Five Mortality rate </text>
+	<text top="9558" left="72" width="790" height="44" font="6">In {{ country.sentencename }} the under-five mortality rate </text>
 	<text top="9612" left="72" width="425" height="44" font="6">is {{ country.NtlUnder5Mortality|people }} per 1,000 live births. </text>
 {% else %}
 	<image top="9548" left="72" width="1004" height="152" src="no_data_quarter.png"/>
 	<text top="{{ (9548 + 0.3421 * 152) | roundInt }}" left="440" width="100" height="44" font="20"><b>No data available</b></text>
 {% endif %}
 {% if country.U5MortalityNP20 is not none %}
-	<text top="9702" left="72" width="702" height="44" font="6">The under five mortality rate among the P20 </text>
+	<text top="9702" left="72" width="702" height="44" font="6">The under-five mortality rate among the P20 </text>
 	<text top="9756" left="72" width="742" height="44" font="6">is {{ country.U5MortalityNP20|people }} per 1,000 live births compared with {{ country.U5MortalityRest|people }} </text>
 	<text top="9810" left="72" width="770" height="44" font="6">per 1,000 live births for the rest of the population.</text>
 {% else %}
 	<text top="9702" left="72" width="702" height="44" font="6">Data is not available that allows us to disaggregate </text>
-	<text top="9756" left="72" width="742" height="44" font="6">under five mortality based on income and </text>
+	<text top="9756" left="72" width="742" height="44" font="6">under-five mortality based on income and </text>
 	<text top="9810" left="72" width="770" height="44" font="6">therefore we are unable to see this information </text>
 	<text top="9864" left="72" width="694" height="44" font="6">for the P20 versus the rest of the population.</text>
 {% endif %}
-<text top="9948" left="72" width="370" height="48" font="7"><b>under 5 mortality rates</b></text>
+<text top="9948" left="72" width="370" height="48" font="7"><b>under-five mortality rates</b></text>
 <image top="10068" left="74" width="1000" height="590" src="../charts/{{ country.slug }}_c6.png"/>
 <text top="10647" left="72" width="889" height="35" font="9"><b>Source: </b>Development Initiatives based on Demographic Health Surveys (DHS)</text>
 <text top="10845" left="72" width="15" height="34" font="12">1 </text>
@@ -779,14 +779,14 @@
 <text top="6642" left="72" width="721" height="44" font="6">likely to suffer from preventable diseases and </text>
 <text top="6696" left="72" width="205" height="44" font="6">to die earlier.</text>
 {% if country.NtlUnder5Mortality is not none %}
-	<text top="6786" left="72" width="709" height="44" font="6">In {{ country.sentencename }} the under five mortality </text>
+	<text top="6786" left="72" width="709" height="44" font="6">In {{ country.sentencename }} the under-five mortality </text>
 	<text top="6840" left="72" width="486" height="44" font="6">rate is {{ country.NtlUnder5Mortality|people }} per 1,000 live births.</text>
 {% else %}
 	<image top="6776" left="72" width="1004" height="152" src="no_data_quarter.png"/>
 	<text top="{{ (6776 + 0.3421 * 152) | roundInt }}" left="440" width="100" height="44" font="20"><b>No data available</b></text>
 {% endif %}
 <text top="6930" left="72" width="801" height="44" font="6">Data is not available that allows us to disaggregate </text>
-<text top="6984" left="72" width="672" height="44" font="6">under five mortality based on income and </text>
+<text top="6984" left="72" width="672" height="44" font="6">under-five mortality based on income and </text>
 <text top="7038" left="72" width="747" height="44" font="6">therefore we are unable to see this information </text>
 <text top="7092" left="72" width="694" height="44" font="6">for the P20 versus the rest of the population.</text>
 <text top="7191" left="72" width="975" height="35" font="9"><b>Source: </b>Development Initiatives based on World Bank World Development Indicators</text>
