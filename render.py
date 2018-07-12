@@ -188,12 +188,6 @@ class ReportMaker(object):
                 right = ((left+padleft) + int(button.get("width")))+padright
                 rect = (left, bottom, right, top)
                 self.c.linkAbsolute("", button.get("href"), rect, Border='[0 0 0]')
-            for bookmark in page.findall("bookmark"):
-                # Works with Adobe Reader, Ubuntu Document Viewer, and Firefox. NOT Chrome
-                # self.c.bookmarkPage(bookmark.get("name"),fit="XYZ",top=self.height,left=0,zoom=0)
-                # Works with Ubuntu Document Viewer, Firefox, and Chrome. NOT Adobe Reader
-                # self.c.bookmarkPage(bookmark.get("name"),fit="XYZ")
-                pass
 
             self.c.showPage()
 
