@@ -8,7 +8,6 @@
 	<fontspec id="2" size="25" family="Times" color="#ffffff"/>
 <image top="0" left="0" width="1152" height="1544" src="cover.png"/>
 <text top="1" left="1" width="584" height="89" font="1"><a name="ALL"></a></text>
-<bookmark name="ALL"/>
 <text top="337" left="242" width="416" height="96" font="0"><b>explore key  </b></text>
 <text top="424" left="242" width="504" height="96" font="0"><b>data on the P20</b></text>
 <text top="511" left="242" width="584" height="89" font="1">select your region:</text>
@@ -34,7 +33,6 @@
 	<fontspec id="7" size="34" family="Times" color="#453e43"/>
 <image top="8" left="0" width="1152" height="6138" src="toc1.png"/>
 <text top="1" left="1" width="192" height="96" font="4"><a name="Africa"></a></text>
-<bookmark name="Africa"/>
 <button top="84" left="951" width="111" height="32" pl="45" pr="17" pt="7" pb="25" href="ALL"/>
 <text top="84" left="951" width="111" height="32" font="3"><a href="#ALL"><b>all regions</b></a></text>
 <text top="107" left="72" width="192" height="96" font="4"><b>Africa</b></text>
@@ -158,7 +156,6 @@
 <page number="3" position="absolute" top="0" left="0" height="5680" width="1152">
 <image top="8" left="0" width="1152" height="5680" src="toc2.png"/>
 <text top="1" left="1" width="138" height="96" font="4"><a name="Asia"></a></text>
-<bookmark name="Asia"/>
 <button top="84" left="951" width="111" height="32" pl="45" pr="17" pt="7" pb="25" href="ALL"/>
 <text top="84" left="951" width="111" height="32" font="3"><a href="#ALL"><b>all regions</b></a></text>
 <text top="107" left="72" width="138" height="96" font="4"><b>Asia</b></text>
@@ -271,7 +268,6 @@
 <page number="4" position="absolute" top="0" left="0" height="4266" width="1152">
 <image top="8" left="0" width="1152" height="4266" src="toc3.png"/>
 <text top="1" left="1" width="467" height="96" font="4"><a name="LAC"></a></text>
-<bookmark name="LAC"/>
 <button top="84" left="951" width="111" height="32" pl="45" pr="17" pt="7" pb="25" href="ALL"/>
 <text top="84" left="951" width="111" height="32" font="3"><a href="#ALL"><b>all regions</b></a></text>
 <text top="107" left="72" width="467" height="96" font="4"><b>Latin America  </b></text>
@@ -357,7 +353,6 @@
 <page number="5" position="absolute" top="0" left="0" height="1536" width="1152">
 <image top="8" left="0" width="1152" height="1536" src="toc4.png"/>
 <text top="1" left="1" width="268" height="96" font="4"><a name="Oceania"></a></text>
-<bookmark name="Oceania"/>
 <button top="84" left="951" width="111" height="32" pl="45" pr="17" pt="7" pb="25" href="ALL"/>
 <text top="84" left="951" width="111" height="32" font="3"><a href="#ALL"><b>all regions</b></a></text>
 <text top="107" left="72" width="268" height="96" font="4"><b>Oceania</b></text>
@@ -389,7 +384,6 @@
 <page number="6" position="absolute" top="0" left="0" height="4284" width="1152">
 <image top="8" left="0" width="1152" height="4284" src="toc5_shift.png"/>
 <text top="1" left="1" width="231" height="96" font="4"><a name="Europe"></a></text>
-<bookmark name="Europe"/>
 <button top="84" left="951" width="111" height="32" pl="45" pr="17" pt="7" pb="25" href="ALL"/>
 <text top="84" left="951" width="111" height="32" font="3"><a href="#ALL"><b>all regions</b></a></text>
 <text top="107" left="72" width="231" height="96" font="4"><b>Europe</b></text>
@@ -479,7 +473,6 @@
 <page number="7" position="absolute" top="0" left="0" height="1536" width="1152">
 <image top="8" left="0" width="1152" height="1536" src="toc6.png"/>
 <text top="1" left="1" width="473" height="96" font="4"><a name="NA"></a></text>
-<bookmark name="NA"/>
 <button top="84" left="951" width="111" height="32" pl="45" pr="17" pt="7" pb="25" href="ALL"/>
 <text top="84" left="951" width="111" height="32" font="3"><a href="#ALL"><b>all regions</b></a></text>
 <text top="107" left="72" width="473" height="96" font="4"><b>North America</b></text>
@@ -506,7 +499,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="algeria"></a></text>
-<bookmark name="algeria"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Africa"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Africa"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -658,7 +650,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="egypt"></a></text>
-<bookmark name="egypt"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Africa"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Africa"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -809,7 +800,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="libya"></a></text>
-<bookmark name="libya"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Africa"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Africa"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -946,7 +936,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="morocco"></a></text>
-<bookmark name="morocco"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Africa"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Africa"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -1096,7 +1085,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="tunisia"></a></text>
-<bookmark name="tunisia"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Africa"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Africa"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -1235,7 +1223,6 @@
 <page number="13" position="absolute" top="0" left="0" height="8065" width="1152">
 <image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="western-sahara"></a></text>
-<bookmark name="western-sahara"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Africa"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Africa"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -1334,7 +1321,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="burundi"></a></text>
-<bookmark name="burundi"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Africa"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Africa"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -1485,7 +1471,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="comoros"></a></text>
-<bookmark name="comoros"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Africa"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Africa"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -1636,7 +1621,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="djibouti"></a></text>
-<bookmark name="djibouti"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Africa"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Africa"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -1786,7 +1770,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="eritrea"></a></text>
-<bookmark name="eritrea"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Africa"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Africa"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -1922,7 +1905,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="ethiopia"></a></text>
-<bookmark name="ethiopia"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Africa"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Africa"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -2073,7 +2055,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="kenya"></a></text>
-<bookmark name="kenya"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Africa"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Africa"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -2224,7 +2205,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="madagascar"></a></text>
-<bookmark name="madagascar"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Africa"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Africa"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -2371,7 +2351,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="malawi"></a></text>
-<bookmark name="malawi"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Africa"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Africa"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -2522,7 +2501,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="mauritius"></a></text>
-<bookmark name="mauritius"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Africa"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Africa"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -2668,7 +2646,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="mozambique"></a></text>
-<bookmark name="mozambique"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Africa"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Africa"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -2819,7 +2796,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="rwanda"></a></text>
-<bookmark name="rwanda"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Africa"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Africa"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -2970,7 +2946,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="seychelles"></a></text>
-<bookmark name="seychelles"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Africa"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Africa"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -3120,7 +3095,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="somalia"></a></text>
-<bookmark name="somalia"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Africa"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Africa"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -3258,7 +3232,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="south-sudan"></a></text>
-<bookmark name="south-sudan"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Africa"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Africa"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -3407,7 +3380,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="sudan"></a></text>
-<bookmark name="sudan"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Africa"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Africa"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -3559,7 +3531,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="uganda"></a></text>
-<bookmark name="uganda"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Africa"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Africa"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -3710,7 +3681,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="tanzania"></a></text>
-<bookmark name="tanzania"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Africa"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Africa"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -3861,7 +3831,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="zambia"></a></text>
-<bookmark name="zambia"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Africa"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Africa"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -4012,7 +3981,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="zimbabwe"></a></text>
-<bookmark name="zimbabwe"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Africa"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Africa"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -4163,7 +4131,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="angola"></a></text>
-<bookmark name="angola"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Africa"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Africa"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -4314,7 +4281,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="cameroon"></a></text>
-<bookmark name="cameroon"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Africa"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Africa"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -4465,7 +4431,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="car"></a></text>
-<bookmark name="car"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Africa"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Africa"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -4612,7 +4577,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="chad"></a></text>
-<bookmark name="chad"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Africa"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Africa"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -4763,7 +4727,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="congo"></a></text>
-<bookmark name="congo"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Africa"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Africa"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -4913,7 +4876,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="drc"></a></text>
-<bookmark name="drc"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Africa"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Africa"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -5065,7 +5027,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="equatorial-guinea"></a></text>
-<bookmark name="equatorial-guinea"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Africa"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Africa"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -5207,7 +5168,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="gabon"></a></text>
-<bookmark name="gabon"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Africa"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Africa"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -5358,7 +5318,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="sao-tome-and-principe"></a></text>
-<bookmark name="sao-tome-and-principe"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Africa"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Africa"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -5510,7 +5469,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="botswana"></a></text>
-<bookmark name="botswana"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Africa"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Africa"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -5656,7 +5614,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="lesotho"></a></text>
-<bookmark name="lesotho"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Africa"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Africa"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -5807,7 +5764,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="namibia"></a></text>
-<bookmark name="namibia"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Africa"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Africa"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -5958,7 +5914,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="south-africa"></a></text>
-<bookmark name="south-africa"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Africa"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Africa"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -6107,7 +6062,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="swaziland"></a></text>
-<bookmark name="swaziland"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Africa"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Africa"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -6258,7 +6212,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="benin"></a></text>
-<bookmark name="benin"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Africa"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Africa"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -6409,7 +6362,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="burkina-faso"></a></text>
-<bookmark name="burkina-faso"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Africa"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Africa"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -6560,7 +6512,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="cape-verde"></a></text>
-<bookmark name="cape-verde"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Africa"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Africa"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -6706,7 +6657,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="cote-d-ivoire"></a></text>
-<bookmark name="cote-d-ivoire"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Africa"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Africa"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -6857,7 +6807,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="gambia"></a></text>
-<bookmark name="gambia"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Africa"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Africa"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -7008,7 +6957,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="ghana"></a></text>
-<bookmark name="ghana"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Africa"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Africa"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -7159,7 +7107,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="guinea"></a></text>
-<bookmark name="guinea"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Africa"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Africa"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -7310,7 +7257,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="guinea-bissau"></a></text>
-<bookmark name="guinea-bissau"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Africa"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Africa"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -7462,7 +7408,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="liberia"></a></text>
-<bookmark name="liberia"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Africa"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Africa"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -7613,7 +7558,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="mali"></a></text>
-<bookmark name="mali"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Africa"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Africa"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -7764,7 +7708,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="mauritania"></a></text>
-<bookmark name="mauritania"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Africa"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Africa"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -7914,7 +7857,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="niger"></a></text>
-<bookmark name="niger"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Africa"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Africa"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -8065,7 +8007,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="nigeria"></a></text>
-<bookmark name="nigeria"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Africa"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Africa"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -8216,7 +8157,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="senegal"></a></text>
-<bookmark name="senegal"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Africa"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Africa"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -8367,7 +8307,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="sierra-leone"></a></text>
-<bookmark name="sierra-leone"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Africa"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Africa"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -8518,7 +8457,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="togo"></a></text>
-<bookmark name="togo"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Africa"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Africa"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -8669,7 +8607,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="kazakhstan"></a></text>
-<bookmark name="kazakhstan"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Asia"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Asia"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -8820,7 +8757,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="kyrgyzstan"></a></text>
-<bookmark name="kyrgyzstan"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Asia"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Asia"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -8971,7 +8907,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="tajikistan"></a></text>
-<bookmark name="tajikistan"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Asia"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Asia"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -9122,7 +9057,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="turkmenistan"></a></text>
-<bookmark name="turkmenistan"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Asia"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Asia"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -9273,7 +9207,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="uzbekistan"></a></text>
-<bookmark name="uzbekistan"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Asia"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Asia"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -9420,7 +9353,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="china"></a></text>
-<bookmark name="china"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Asia"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Asia"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -9557,7 +9489,6 @@
 <page number="69" position="absolute" top="0" left="0" height="8065" width="1152">
 <image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="hong-kong"></a></text>
-<bookmark name="hong-kong"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Asia"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Asia"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -9645,7 +9576,6 @@
 <page number="70" position="absolute" top="0" left="0" height="8065" width="1152">
 <image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="macao"></a></text>
-<bookmark name="macao"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Asia"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Asia"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -9744,7 +9674,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="dprk"></a></text>
-<bookmark name="dprk"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Asia"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Asia"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -9872,7 +9801,6 @@
 <page number="72" position="absolute" top="0" left="0" height="8065" width="1152">
 <image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="japan"></a></text>
-<bookmark name="japan"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Asia"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Asia"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -9982,7 +9910,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="mongolia"></a></text>
-<bookmark name="mongolia"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Asia"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Asia"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -10121,7 +10048,6 @@
 <page number="74" position="absolute" top="0" left="0" height="8065" width="1152">
 <image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="korea"></a></text>
-<bookmark name="korea"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Asia"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Asia"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -10218,7 +10144,6 @@
 <page number="75" position="absolute" top="0" left="0" height="8065" width="1152">
 <image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="brunei-darussalam"></a></text>
-<bookmark name="brunei-darussalam"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Asia"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Asia"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -10319,7 +10244,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="cambodia"></a></text>
-<bookmark name="cambodia"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Asia"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Asia"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -10461,7 +10385,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="indonesia"></a></text>
-<bookmark name="indonesia"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Asia"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Asia"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -10611,7 +10534,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="laos"></a></text>
-<bookmark name="laos"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Asia"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Asia"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -10763,7 +10685,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="malaysia"></a></text>
-<bookmark name="malaysia"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Asia"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Asia"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -10913,7 +10834,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="myanmar"></a></text>
-<bookmark name="myanmar"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Asia"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Asia"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -11064,7 +10984,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="philippines"></a></text>
-<bookmark name="philippines"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Asia"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Asia"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -11201,7 +11120,6 @@
 <page number="82" position="absolute" top="0" left="0" height="8065" width="1152">
 <image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="singapore"></a></text>
-<bookmark name="singapore"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Asia"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Asia"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -11302,7 +11220,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="thailand"></a></text>
-<bookmark name="thailand"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Asia"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Asia"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -11454,7 +11371,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="timor-leste"></a></text>
-<bookmark name="timor-leste"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Asia"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Asia"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -11605,7 +11521,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="viet-nam"></a></text>
-<bookmark name="viet-nam"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Asia"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Asia"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -11756,7 +11671,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="afghanistan"></a></text>
-<bookmark name="afghanistan"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Asia"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Asia"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -11898,7 +11812,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="bangladesh"></a></text>
-<bookmark name="bangladesh"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Asia"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Asia"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -12049,7 +11962,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="bhutan"></a></text>
-<bookmark name="bhutan"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Asia"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Asia"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -12197,7 +12109,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="india"></a></text>
-<bookmark name="india"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Asia"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Asia"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -12347,7 +12258,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="iran"></a></text>
-<bookmark name="iran"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Asia"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Asia"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -12497,7 +12407,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="maldives"></a></text>
-<bookmark name="maldives"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Asia"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Asia"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -12645,7 +12554,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="nepal"></a></text>
-<bookmark name="nepal"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Asia"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Asia"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -12796,7 +12704,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="pakistan"></a></text>
-<bookmark name="pakistan"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Asia"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Asia"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -12947,7 +12854,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="sri-lanka"></a></text>
-<bookmark name="sri-lanka"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Asia"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Asia"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -13099,7 +13005,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="armenia"></a></text>
-<bookmark name="armenia"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Asia"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Asia"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -13250,7 +13155,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="azerbaijan"></a></text>
-<bookmark name="azerbaijan"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Asia"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Asia"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -13386,7 +13290,6 @@
 <page number="97" position="absolute" top="0" left="0" height="8065" width="1152">
 <image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="bahrain"></a></text>
-<bookmark name="bahrain"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Asia"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Asia"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -13474,7 +13377,6 @@
 <page number="98" position="absolute" top="0" left="0" height="8065" width="1152">
 <image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="cyprus"></a></text>
-<bookmark name="cyprus"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Asia"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Asia"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -13582,7 +13484,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="georgia"></a></text>
-<bookmark name="georgia"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Asia"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Asia"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -13729,7 +13630,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="iraq"></a></text>
-<bookmark name="iraq"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Asia"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Asia"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -13868,7 +13768,6 @@
 <page number="101" position="absolute" top="0" left="0" height="8065" width="1152">
 <image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="israel"></a></text>
-<bookmark name="israel"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Asia"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Asia"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -13978,7 +13877,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="jordan"></a></text>
-<bookmark name="jordan"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Asia"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Asia"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -14115,7 +14013,6 @@
 <page number="103" position="absolute" top="0" left="0" height="8065" width="1152">
 <image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="kuwait"></a></text>
-<bookmark name="kuwait"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Asia"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Asia"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -14216,7 +14113,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="lebanon"></a></text>
-<bookmark name="lebanon"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Asia"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Asia"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -14362,7 +14258,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="palestine"></a></text>
-<bookmark name="palestine"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Asia"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Asia"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -14501,7 +14396,6 @@
 <page number="106" position="absolute" top="0" left="0" height="8065" width="1152">
 <image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="oman"></a></text>
-<bookmark name="oman"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Asia"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Asia"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -14589,7 +14483,6 @@
 <page number="107" position="absolute" top="0" left="0" height="8065" width="1152">
 <image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="qatar"></a></text>
-<bookmark name="qatar"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Asia"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Asia"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -14677,7 +14570,6 @@
 <page number="108" position="absolute" top="0" left="0" height="8065" width="1152">
 <image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="saudi-arabia"></a></text>
-<bookmark name="saudi-arabia"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Asia"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Asia"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -14778,7 +14670,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="syria"></a></text>
-<bookmark name="syria"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Asia"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Asia"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -14926,7 +14817,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="turkey"></a></text>
-<bookmark name="turkey"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Asia"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Asia"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -15064,7 +14954,6 @@
 <page number="111" position="absolute" top="0" left="0" height="8065" width="1152">
 <image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="uae"></a></text>
-<bookmark name="uae"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Asia"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Asia"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -15165,7 +15054,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="yemen"></a></text>
-<bookmark name="yemen"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Asia"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Asia"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -15302,7 +15190,6 @@
 <page number="113" position="absolute" top="0" left="0" height="8065" width="1152">
 <image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="aruba"></a></text>
-<bookmark name="aruba"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="LAC"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#LAC"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -15388,7 +15275,6 @@
 <page number="114" position="absolute" top="0" left="0" height="8065" width="1152">
 <image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="bahamas"></a></text>
-<bookmark name="bahamas"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="LAC"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#LAC"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -15476,7 +15362,6 @@
 <page number="115" position="absolute" top="0" left="0" height="8065" width="1152">
 <image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="barbados"></a></text>
-<bookmark name="barbados"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="LAC"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#LAC"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -15577,7 +15462,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="cuba"></a></text>
-<bookmark name="cuba"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="LAC"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#LAC"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -15714,7 +15598,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="dominican-republic"></a></text>
-<bookmark name="dominican-republic"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="LAC"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#LAC"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -15865,7 +15748,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="grenada"></a></text>
-<bookmark name="grenada"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="LAC"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#LAC"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -15989,7 +15871,6 @@
 <page number="119" position="absolute" top="0" left="0" height="8065" width="1152">
 <image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="guadeloupe"></a></text>
-<bookmark name="guadeloupe"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="LAC"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#LAC"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -16088,7 +15969,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="haiti"></a></text>
-<bookmark name="haiti"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="LAC"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#LAC"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -16239,7 +16119,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="jamaica"></a></text>
-<bookmark name="jamaica"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="LAC"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#LAC"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -16378,7 +16257,6 @@
 <page number="122" position="absolute" top="0" left="0" height="8065" width="1152">
 <image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="martinique"></a></text>
-<bookmark name="martinique"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="LAC"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#LAC"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -16464,7 +16342,6 @@
 <page number="123" position="absolute" top="0" left="0" height="8065" width="1152">
 <image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="netherlands-antilles"></a></text>
-<bookmark name="netherlands-antilles"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="LAC"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#LAC"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -16550,7 +16427,6 @@
 <page number="124" position="absolute" top="0" left="0" height="8065" width="1152">
 <image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="puerto-rico"></a></text>
-<bookmark name="puerto-rico"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="LAC"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#LAC"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -16651,7 +16527,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="saint-lucia"></a></text>
-<bookmark name="saint-lucia"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="LAC"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#LAC"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -16802,7 +16677,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="saint-vincent"></a></text>
-<bookmark name="saint-vincent"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="LAC"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#LAC"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -16926,7 +16800,6 @@
 <page number="127" position="absolute" top="0" left="0" height="8065" width="1152">
 <image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="trinidad-and-tobago"></a></text>
-<bookmark name="trinidad-and-tobago"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="LAC"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#LAC"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -17023,7 +16896,6 @@
 <page number="128" position="absolute" top="0" left="0" height="8065" width="1152">
 <image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="us-virgin-islands"></a></text>
-<bookmark name="us-virgin-islands"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="LAC"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#LAC"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -17122,7 +16994,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="belize"></a></text>
-<bookmark name="belize"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="LAC"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#LAC"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -17274,7 +17145,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="costa-rica"></a></text>
-<bookmark name="costa-rica"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="LAC"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#LAC"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -17421,7 +17291,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="el-salvador"></a></text>
-<bookmark name="el-salvador"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="LAC"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#LAC"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -17573,7 +17442,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="guatemala"></a></text>
-<bookmark name="guatemala"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="LAC"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#LAC"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -17723,7 +17591,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="honduras"></a></text>
-<bookmark name="honduras"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="LAC"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#LAC"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -17874,7 +17741,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="mexico"></a></text>
-<bookmark name="mexico"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="LAC"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#LAC"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -18026,7 +17892,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="nicaragua"></a></text>
-<bookmark name="nicaragua"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="LAC"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#LAC"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -18176,7 +18041,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="panama"></a></text>
-<bookmark name="panama"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="LAC"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#LAC"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -18324,7 +18188,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="argentina"></a></text>
-<bookmark name="argentina"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="LAC"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#LAC"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -18462,7 +18325,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="bolivia"></a></text>
-<bookmark name="bolivia"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="LAC"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#LAC"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -18613,7 +18475,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="brazil"></a></text>
-<bookmark name="brazil"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="LAC"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#LAC"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -18746,7 +18607,6 @@
 <page number="140" position="absolute" top="0" left="0" height="8065" width="1152">
 <image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="chile"></a></text>
-<bookmark name="chile"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="LAC"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#LAC"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -18856,7 +18716,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="colombia"></a></text>
-<bookmark name="colombia"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="LAC"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#LAC"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -19002,7 +18861,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="ecuador"></a></text>
-<bookmark name="ecuador"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="LAC"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#LAC"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -19140,7 +18998,6 @@
 <page number="143" position="absolute" top="0" left="0" height="8065" width="1152">
 <image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="french-guiana"></a></text>
-<bookmark name="french-guiana"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="LAC"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#LAC"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -19239,7 +19096,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="guyana"></a></text>
-<bookmark name="guyana"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="LAC"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#LAC"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -19390,7 +19246,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="paraguay"></a></text>
-<bookmark name="paraguay"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="LAC"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#LAC"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -19540,7 +19395,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="peru"></a></text>
-<bookmark name="peru"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="LAC"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#LAC"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -19691,7 +19545,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="suriname"></a></text>
-<bookmark name="suriname"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="LAC"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#LAC"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -19826,7 +19679,6 @@
 <page number="148" position="absolute" top="0" left="0" height="8065" width="1152">
 <image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="uruguay"></a></text>
-<bookmark name="uruguay"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="LAC"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#LAC"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -19936,7 +19788,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="venezuela"></a></text>
-<bookmark name="venezuela"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="LAC"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#LAC"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -20070,7 +19921,6 @@
 <page number="150" position="absolute" top="0" left="0" height="8065" width="1152">
 <image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="australia"></a></text>
-<bookmark name="australia"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Oceania"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Oceania"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -20180,7 +20030,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="fiji"></a></text>
-<bookmark name="fiji"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Oceania"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Oceania"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -20326,7 +20175,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="kiribati"></a></text>
-<bookmark name="kiribati"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Oceania"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Oceania"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -20473,7 +20321,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="marshall-islands"></a></text>
-<bookmark name="marshall-islands"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Oceania"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Oceania"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -20611,7 +20458,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="micronesia"></a></text>
-<bookmark name="micronesia"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Oceania"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Oceania"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -20744,7 +20590,6 @@
 <page number="155" position="absolute" top="0" left="0" height="8065" width="1152">
 <image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="new-zealand"></a></text>
-<bookmark name="new-zealand"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Oceania"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Oceania"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -20845,7 +20690,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="papua-new-guinea"></a></text>
-<bookmark name="papua-new-guinea"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Oceania"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Oceania"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -20991,7 +20835,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="samoa"></a></text>
-<bookmark name="samoa"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Oceania"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Oceania"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -21142,7 +20985,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="solomon-islands"></a></text>
-<bookmark name="solomon-islands"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Oceania"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Oceania"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -21293,7 +21135,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="tonga"></a></text>
-<bookmark name="tonga"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Oceania"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Oceania"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -21444,7 +21285,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="tuvalu"></a></text>
-<bookmark name="tuvalu"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Oceania"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Oceania"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -21591,7 +21431,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="vanuatu"></a></text>
-<bookmark name="vanuatu"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Oceania"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Oceania"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -21743,7 +21582,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="albania"></a></text>
-<bookmark name="albania"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Europe"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Europe"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -21890,7 +21728,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="belarus"></a></text>
-<bookmark name="belarus"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Europe"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Europe"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -22035,7 +21872,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="bosnia-and-herzegovina"></a></text>
-<bookmark name="bosnia-and-herzegovina"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Europe"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Europe"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -22187,7 +22023,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="bulgaria"></a></text>
-<bookmark name="bulgaria"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Europe"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Europe"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -22333,7 +22168,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="croatia"></a></text>
-<bookmark name="croatia"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Europe"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Europe"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -22466,7 +22300,6 @@
 <page number="167" position="absolute" top="0" left="0" height="8065" width="1152">
 <image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="czech-republic"></a></text>
-<bookmark name="czech-republic"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Europe"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Europe"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -22561,7 +22394,6 @@
 <page number="168" position="absolute" top="0" left="0" height="8065" width="1152">
 <image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="estonia"></a></text>
-<bookmark name="estonia"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Europe"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Europe"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -22658,7 +22490,6 @@
 <page number="169" position="absolute" top="0" left="0" height="8065" width="1152">
 <image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="greece"></a></text>
-<bookmark name="greece"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Europe"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Europe"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -22755,7 +22586,6 @@
 <page number="170" position="absolute" top="0" left="0" height="8065" width="1152">
 <image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="hungary"></a></text>
-<bookmark name="hungary"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Europe"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Europe"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -22865,7 +22695,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="kosovo"></a></text>
-<bookmark name="kosovo"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Europe"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Europe"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -22998,7 +22827,6 @@
 <page number="172" position="absolute" top="0" left="0" height="8065" width="1152">
 <image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="latvia"></a></text>
-<bookmark name="latvia"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Europe"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Europe"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -23095,7 +22923,6 @@
 <page number="173" position="absolute" top="0" left="0" height="8065" width="1152">
 <image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="lithuania"></a></text>
-<bookmark name="lithuania"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Europe"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Europe"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -23205,7 +23032,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="montenegro"></a></text>
-<bookmark name="montenegro"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Europe"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Europe"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -23344,7 +23170,6 @@
 <page number="175" position="absolute" top="0" left="0" height="8065" width="1152">
 <image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="poland"></a></text>
-<bookmark name="poland"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Europe"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Europe"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -23454,7 +23279,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="moldova"></a></text>
-<bookmark name="moldova"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Europe"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Europe"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -23605,7 +23429,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="romania"></a></text>
-<bookmark name="romania"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Europe"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Europe"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -23751,7 +23574,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="russia"></a></text>
-<bookmark name="russia"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Europe"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Europe"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -23897,7 +23719,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="serbia"></a></text>
-<bookmark name="serbia"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Europe"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Europe"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -24036,7 +23857,6 @@
 <page number="180" position="absolute" top="0" left="0" height="8065" width="1152">
 <image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="slovakia"></a></text>
-<bookmark name="slovakia"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Europe"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Europe"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -24133,7 +23953,6 @@
 <page number="181" position="absolute" top="0" left="0" height="8065" width="1152">
 <image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="slovenia"></a></text>
-<bookmark name="slovenia"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Europe"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Europe"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -24241,7 +24060,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="macedonia"></a></text>
-<bookmark name="macedonia"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Europe"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Europe"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -24393,7 +24211,6 @@
 	<fontspec id="20" size="34" family="Times" color="#aaa6ab"/>
 <image top="0" left="0" width="1152" height="11592" src="li_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="ukraine"></a></text>
-<bookmark name="ukraine"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Europe"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Europe"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -24528,7 +24345,6 @@
 <page number="184" position="absolute" top="0" left="0" height="8065" width="1152">
 <image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="austria"></a></text>
-<bookmark name="austria"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Europe"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Europe"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -24625,7 +24441,6 @@
 <page number="185" position="absolute" top="0" left="0" height="8065" width="1152">
 <image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="belgium"></a></text>
-<bookmark name="belgium"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Europe"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Europe"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -24722,7 +24537,6 @@
 <page number="186" position="absolute" top="0" left="0" height="8065" width="1152">
 <image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="denmark"></a></text>
-<bookmark name="denmark"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Europe"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Europe"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -24819,7 +24633,6 @@
 <page number="187" position="absolute" top="0" left="0" height="8065" width="1152">
 <image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="finland"></a></text>
-<bookmark name="finland"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Europe"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Europe"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -24914,7 +24727,6 @@
 <page number="188" position="absolute" top="0" left="0" height="8065" width="1152">
 <image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="france"></a></text>
-<bookmark name="france"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Europe"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Europe"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -25009,7 +24821,6 @@
 <page number="189" position="absolute" top="0" left="0" height="8065" width="1152">
 <image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="germany"></a></text>
-<bookmark name="germany"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Europe"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Europe"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -25104,7 +24915,6 @@
 <page number="190" position="absolute" top="0" left="0" height="8065" width="1152">
 <image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="iceland"></a></text>
-<bookmark name="iceland"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Europe"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Europe"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -25199,7 +25009,6 @@
 <page number="191" position="absolute" top="0" left="0" height="8065" width="1152">
 <image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="ireland"></a></text>
-<bookmark name="ireland"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Europe"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Europe"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -25296,7 +25105,6 @@
 <page number="192" position="absolute" top="0" left="0" height="8065" width="1152">
 <image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="italy"></a></text>
-<bookmark name="italy"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Europe"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Europe"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -25393,7 +25201,6 @@
 <page number="193" position="absolute" top="0" left="0" height="8065" width="1152">
 <image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="luxembourg"></a></text>
-<bookmark name="luxembourg"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Europe"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Europe"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -25490,7 +25297,6 @@
 <page number="194" position="absolute" top="0" left="0" height="8065" width="1152">
 <image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="malta"></a></text>
-<bookmark name="malta"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Europe"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Europe"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -25585,7 +25391,6 @@
 <page number="195" position="absolute" top="0" left="0" height="8065" width="1152">
 <image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="netherlands"></a></text>
-<bookmark name="netherlands"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Europe"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Europe"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -25680,7 +25485,6 @@
 <page number="196" position="absolute" top="0" left="0" height="8065" width="1152">
 <image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="norway"></a></text>
-<bookmark name="norway"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Europe"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Europe"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -25777,7 +25581,6 @@
 <page number="197" position="absolute" top="0" left="0" height="8065" width="1152">
 <image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="portugal"></a></text>
-<bookmark name="portugal"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Europe"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Europe"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -25874,7 +25677,6 @@
 <page number="198" position="absolute" top="0" left="0" height="8065" width="1152">
 <image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="spain"></a></text>
-<bookmark name="spain"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Europe"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Europe"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -25971,7 +25773,6 @@
 <page number="199" position="absolute" top="0" left="0" height="8065" width="1152">
 <image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="sweden"></a></text>
-<bookmark name="sweden"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Europe"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Europe"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -26068,7 +25869,6 @@
 <page number="200" position="absolute" top="0" left="0" height="8065" width="1152">
 <image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="switzerland"></a></text>
-<bookmark name="switzerland"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Europe"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Europe"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -26163,7 +25963,6 @@
 <page number="201" position="absolute" top="0" left="0" height="8065" width="1152">
 <image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="united-kingdom"></a></text>
-<bookmark name="united-kingdom"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="Europe"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#Europe"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -26260,7 +26059,6 @@
 <page number="202" position="absolute" top="0" left="0" height="8065" width="1152">
 <image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="canada"></a></text>
-<bookmark name="canada"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="NA"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#NA"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
@@ -26357,7 +26155,6 @@
 <page number="203" position="absolute" top="0" left="0" height="8065" width="1152">
 <image top="0" left="0" width="1152" height="8065" src="hi_profile_bg_noc.png"/>
 <text top="1" left="1" width="594" height="96" font="0"><a name="usa"></a></text>
-<bookmark name="usa"/>
 <button top="76" left="832" width="230" height="32" pl="45" pr="17" pt="7" pb="25" href="NA"/>
 <text top="76" left="832" width="230" height="32" font="3"><a href="#NA"><b>all countries in region</b></a></text>
 <text top="112" left="72" width="368" height="89" font="1">P20 profile: </text>
