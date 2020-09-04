@@ -59,18 +59,18 @@ if __name__ == "__main__":
             else:
                 country[chart_name] = "<p><b>No data</b></p>"
 
-    templateLoader = jinja2.FileSystemLoader(searchpath="./html_template/")
-    templateEnv = jinja2.Environment(loader=templateLoader)
-    templateEnv.filters['people'] = people
-    templateEnv.filters['dollar'] = dollar
-    templateEnv.filters['roundDollar'] = roundDollar
-    templateEnv.filters['percent'] = percent
-    templateEnv.filters['year'] = year
-    templateEnv.filters['roundInt'] = roundInt
-    TEMPLATE_FILE = "template.html.j2"
-    template = templateEnv.get_template(TEMPLATE_FILE)
+        templateLoader = jinja2.FileSystemLoader(searchpath="./html_template/")
+        templateEnv = jinja2.Environment(loader=templateLoader)
+        templateEnv.filters['people'] = people
+        templateEnv.filters['dollar'] = dollar
+        templateEnv.filters['roundDollar'] = roundDollar
+        templateEnv.filters['percent'] = percent
+        templateEnv.filters['year'] = year
+        templateEnv.filters['roundInt'] = roundInt
+        TEMPLATE_FILE = "template.html.j2"
+        template = templateEnv.get_template(TEMPLATE_FILE)
 
-    output = template.render(countries=countries)
-    html_file = "index.html"
-    with open(html_file, "w") as outfile:
-        outfile.write(output)
+        output = template.render(country=country)
+        html_file = "render_interactive/{}.html".format(country["slug"])
+        with open(html_file, "w") as outfile:
+            outfile.write(output)

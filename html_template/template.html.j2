@@ -1,15 +1,6 @@
 <html>
 <head>
 	<meta charset="UTF-8">
-	<script>
-		function showHideInput(sel) {
-			Array.prototype.forEach.call(document.getElementsByClassName('country_div'), function(element) {
-			    element.style.display = 'none';
-			});
-	    var value = sel.value;
-	    document.getElementById(value).style.display = 'block';
-		};
-	</script>
 	<script src="assets/htmlwidgets-1.5.1/htmlwidgets.js"></script>
 	<script src="assets/plotly-binding-4.9.1/plotly.js"></script>
 	<script src="assets/typedarray-0.1/typedarray.min.js"></script>
@@ -21,14 +12,7 @@
 </head>
 <body>
 
-<select name="country" id="country_select" onchange="showHideInput(this)">
-{% for country in countries %}
-	<option value={{ country.slug }}>{{ country.longname }}</option>
-{% endfor %}
-</select>
-
-{% for country in countries %}
-<div class="country_div" id="{{ country.slug }}" {% if not loop.first %}style="display: none;"{% endif %}>
+<div class="country_div" id="{{ country.slug }}">
 	{% if country.lowincome %}
 <h1>P20 profile: </h1>
 <h2>{{ country.longname }}</h2>
@@ -228,6 +212,5 @@
 <p>See more about this work at <a href="http://www.devinit.org/p20i">www.devinit.org/p20i</a></p>
 {% endif %}
 </div>
-{% endfor %}
 </body>
 </html>
