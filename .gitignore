@@ -3,3 +3,4 @@ fonts/*
 !fonts/Arial-Bold.ttf
 !fonts/Arial-Italic.ttf
 venv
+index.html

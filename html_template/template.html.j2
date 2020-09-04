@@ -1,0 +1,226 @@
+<html>
+<head>
+	<meta charset="UTF-8">
+	<script>
+		function showHideInput(sel) {
+			Array.prototype.forEach.call(document.getElementsByClassName('country_div'), function(element) {
+			    element.style.display = 'none';
+			});
+	    var value = sel.value;
+	    document.getElementById(value).style.display = 'block';
+		};
+	</script>
+
+</head>
+<body>
+
+<select name="country" id="country_select" onchange="showHideInput(this)">
+{% for country in countries %}
+	<option value={{ country.slug }}>{{ country.longname }}</option>
+{% endfor %}
+</select>
+
+{% for country in countries %}
+<div class="country_div" id="{{ country.slug }}" {% if not loop.first %}style="display: none;"{% endif %}>
+	{% if country.lowincome %}
+<h1>P20 profile: </h1>
+<h2>{{ country.longname }}</h2>
+<p>Agenda 2030 includes the specific commitment to Leave No One Behind. Together with Sustainable Development Goal 10 to reduce inequality, this requires faster than average progress for the poorest. The test is whether the gap between the poorest 20% of people (the P20) and everyone else is reducing or getting wider.</p>
+<p>The P20 Initiative uses data to show whether the poorest 20% of people are getting their fair share of attention, investment and opportunity. It uses three bellwether indicators of progress: income, nutrition and civil registration and it promotes all data being disaggregated by Income Quintile, Gender, Geography, Age and Disability.</p>
+<p>This profile provides key available data about the status of the P20 in {{ country.sentencename }}.</p>
+
+<h2>The P20 in {{ country.sentencename }}</h2>
+{% if country.P20pop is not none %}
+	<p>{{ country.P20pop|people }} people in {{ country.sentencename }} are among the poorest 20% of the world’s population – the global P20. That is {{ country.PercentinP20|percent }} of the total population and they live on less than $2.54 a day.</p>
+	{% if country.PercentinP20>0 %}
+		{% if country.minimumincome>2.54 %}
+			<p>The national P20 – the poorest 20% of people within {{ country.sentencename }} – live on less than {{ country.MaximumIncomeConsumptionNP20|dollar }} a day compared with an average {{ country.NationalRestAverage|dollar }} for the rest of the population.<p>
+		{% else %}
+			<p>The national P20 – the poorest 20% of people within {{ country.sentencename }} – live on between {{ country.minimumincome|dollar }} and {{ country.MaximumIncomeConsumptionNP20|dollar }} a day compared with an average {{ country.NationalRestAverage|dollar }} for the rest of the population.</p>
+		{% endif %}
+	{% else %}
+		<p>The national P20 – the poorest 20% of people within {{ country.sentencename }} – live on between {{ country.minimumincome|dollar }} and {{ country.MaximumIncomeConsumptionNP20|dollar }} a day compared with an average {{ country.NationalRestAverage|dollar }} for the rest of the population.</p>
+	{% endif %}
+{% else %}
+	<img width="1004" height="458" src="no_data.png"/>
+	<p><b>No data available</b></p>
+{% endif %}
+<p><b>Source: </b>Development Initiatives based on PovcalNet<a href="#{{ country.slug }}1"><sup>1</sup></a></p>
+
+<h2>Income</h2>
+{% if country.gap_1999 is not none %}
+	<p>In 1999 the gap between the national P20 and everyone else in {{ country.sentencename }} was {{ country.gap_1999|dollar }} and in 2013 it was {{ country.gap_2013|dollar }}.</p>
+{% else %}
+	{% if country.gap_2013 is not none %}
+		<p>In 2013 the gap between the national P20 and everyone else in {{ country.sentencename }} was {{ country.gap_2013|dollar }}.</p>
+	{% else %}
+		<img width="1004" height="152" src="no_data_quarter.png"/>
+		<p><b>No data available</b></p>
+	{% endif %}
+{% endif %}
+<h3>{{ country.name }} income trends</h3>
+<img width="1000" height="770" src="charts/{{ country.slug }}_c1.png"/>
+<p><b>Source: </b>Development Initiatives based on PovcalNet</p>
+
+<h2>Nutrition</h2>
+<p>Nutrition is fundamental to the ability to learn and earn. Children who experience poor nutrition can suffer lifelong disadvantage as a result.</p>
+{% if country.nationalstunting is not none %}
+	{% if country.nationalP20stunting is not none %}
+		<p>In {{ country.sentencename }}, {{ country.nationalstunting|percent }} of children under five years old experience stunting. In the national P20 {{ country.nationalP20stunting|percent }} experience stunting compared with {{ country.restP20stunting|percent }} of the rest of the population.</p>
+	{% else %}
+		<p>In {{ country.sentencename }}, {{ country.nationalstunting|percent }} of children under five years old experience stunting. It is not possible to disaggregate stunting rates between the national P20 and the rest of the population.</p>
+	{% endif %}
+{% else %}
+	<img width="1004" height="202" src="no_data_quarter.png"/>
+	<p><b>No data available</b></p>
+{% endif %}
+
+<h3>Stunting in children in the P20 compared with rest of country</h3>
+<img width="1000" height="600" src="charts/{{ country.slug }}_c2.png"/>
+<p><b>Source: </b>Development Initiatives based on UNICEF-WHO joint child malnutrition estimates<a href="#{{ country.slug }}2"><sup>2</sup></a></p>
+
+<h2>Birth registration</h2>
+<p>Civil Registration means people count and have rights. Worldwide around 71% of children are birth registered. If you are born into the poorest 20% of people you are much less likely to have your birth registered.</p>
+{% if country.restreg is not none %}
+	<p>In {{ country.sentencename }} {{ country.NP20Reg|percent }} of births in the national P20 are registered compared to {{ country.restreg|percent }} in the rest of the population.</p>
+{% else %}
+	<img width="1004" height="152" src="no_data_quarter.png"/>
+	<p><b>No data available</b></p>
+{% endif %}
+
+<h3>Birth registration rates for children under five</h3>
+<img width="1000" height="600" src="charts/{{ country.slug }}_c3.png"/>
+{% if country.birthregtrends is not none %}
+	<p>Birth registration rates in {{ country.sentencename }} have {{ country.birthregtrends }}.</p>
+{% else %}
+	<img width="1004" height="152" src="no_data_quarter.png"/>
+	<p><b>No data available</b></p>
+{% endif %}
+<p><b>Source: </b>Development Initiatives based on World Bank World Development Indicators: Completeness of birth registration %<a href="#{{ country.slug }}3"><sup>3</sup></a></p>
+
+<h2>Education</h2>
+<p>Education is fundamental to a person’s life chances. </p>
+{% if country.SecondaryCompletion is not none %}
+	<p>As of {{ country.nateducYear|year }}, {{ country.SecondaryCompletion|percent }} of people in {{ country.sentencename }} have completed secondary school education.</p>
+{% else %}
+	<img width="1004" height="152" src="no_data_quarter.png"/>
+	<p><b>No data available</b></p>
+{% endif %}
+
+<h3>percentage who have completed secondary education</h3>
+<img width="1000" height="550" src="charts/{{ country.slug }}_c4.png"/>
+{% if country.secondarycompletionP20 is not none %}
+	<p>{{ country.secondarycompletionP20|percent }} of people in the national P20 have completed a secondary education compared with {{ country.secondarycompletionrest|percent }} of the rest of the population.</p>
+{% else %}
+	<img width="1004" height="152" src="no_data_quarter.png"/>
+	<p><b>No data available</b></p>
+{% endif %}
+
+<h3>Secondary school completion rates </h3>
+<img width="1000" height="660" src="charts/{{ country.slug }}_c5.png"/>
+<p><b>Source: </b>Demographic Health Surveys (DHS)</p>
+
+<h2>Health</h2>
+<p>Poor health plays a major part in keeping people in poverty. If you are among the P20 you are more likely to suffer from preventable diseases and to die earlier.</p>
+{% if country.NtlUnder5Mortality is not none %}
+	<p>In {{ country.sentencename }} the under-five mortality rate is {{ country.NtlUnder5Mortality|people }} per 1,000 live births.</p>
+{% else %}
+	<img width="1004" height="152" src="no_data_quarter.png"/>
+	<p><b>No data available</b></p>
+{% endif %}
+{% if country.U5MortalityNP20 is not none %}
+	<p>The under-five mortality rate among the P20 is {{ country.U5MortalityNP20|people }} per 1,000 live births compared with {{ country.U5MortalityRest|people }} per 1,000 live births for the rest of the population.</p>
+{% else %}
+	<p>Data is not available that allows us to disaggregate under-five mortality based on income and therefore we are unable to see this information for the P20 versus the rest of the population.</p>
+{% endif %}
+
+<h3>Under-five mortality rates</h3>
+<img width="1000" height="590" src="charts/{{ country.slug }}_c6.png"/>
+<p><b>Source: </b>Development Initiatives based on Demographic Health Surveys (DHS)</p>
+<p><a name="{{ country.slug }}1">1</a> Year of latest available data: 2013 (2011 $PPP)</p>
+<p><a name="{{ country.slug }}2">2</a> Based on latest available data which varies between countries – see original source</p>
+<p><a name="{{ country.slug }}3">3</a> Based on latest available data which varies between countries – see original source</p>
+<p>If you would like more information or to speak to us, please get in touch: Zach Christensen, Senior Analyst <a href="mailto:Zach.Christensen%40devinit.org?subject=">Zach.Christensen@devinit.org</a></p>
+<p>See more about this work at <a href="http://www.devinit.org/p20i">www.devinit.org/p20i</a></p>
+{% else %}
+
+<h1>P20 profile: </h1>
+<h2>{{ country.longname }}</h2>
+<p>Agenda 2030 includes the specific commitment to Leave No One Behind. Together with Sustainable Development Goal 10 to reduce inequality, this requires faster than average progress for the poorest. The test is whether the gap between the poorest 20% of people (the P20) and everyone else is reducing or getting wider.</p>
+<p>The P20 Initiative uses data to show whether the poorest 20% of people are getting their fair share of attention, investment and opportunity. It uses three bellwether indicators of progress: income, nutrition and civil registration and it promotes all data being disaggregated by Income Quintile, Gender, Geography, Age and Disability.</p>
+<p>This profile provides key available data about the status of the P20 in {{ country.sentencename }}.</p>
+<h2>The P20 in {{ country.sentencename }}</h2>
+{% if country.P20pop is not none %}
+	<p>{{ country.P20pop|people }} people in {{ country.sentencename }} are among the poorest 20% of the world’s population – the global P20. That is {{ country.PercentinP20|percent }} of the total population and they live on less than $2.54 a day.</p>
+	{% if country.PercentinP20>0 %}
+		{% if country.minimumincome>2.54 %}
+			<p>The national P20 – the poorest 20% of people within {{ country.sentencename }} – live on less than {{ country.MaximumIncomeConsumptionNP20|dollar }} a day compared with an average {{ country.NationalRestAverage|dollar }} for the rest of the population.</p>
+		{% else %}
+			<p>The national P20 – the poorest 20% of people within {{ country.sentencename }} – live on between {{ country.minimumincome|dollar }} and {{ country.MaximumIncomeConsumptionNP20|dollar }} a day compared with an average {{ country.NationalRestAverage|dollar }} for the rest of the population.</p>
+		{% endif %}
+	{% else %}
+		<p>The national P20 – the poorest 20% of people within {{ country.sentencename }} – live on between {{ country.minimumincome|dollar }} and {{ country.MaximumIncomeConsumptionNP20|dollar }} a day compared with an average {{ country.NationalRestAverage|dollar }} for the rest of the population.</p>
+	{% endif %}
+{% else %}
+	<img top="1674" left="72" width="1004" height="458" src="no_data.png"/>
+	<p><b>No data available</b></p>
+{% endif %}
+<p><b>Source: </b>Development Initiatives based on PovcalNet<a href="#{{ country.slug }}1"><sup>1</sup></a></p>
+
+<h2>Income</h2>
+{% if country.gap_1999 is not none %}
+	<p>In 1999 the gap between the national P20 and everyone else in {{ country.sentencename }} was {{ country.gap_1999|dollar }} and in 2013 it was {{ country.gap_2013|dollar }}.</p>
+{% else %}
+	{% if country.gap_2013 is not none %}
+		<p>In 2013 the gap between the national P20 and everyone else in {{ country.sentencename }} was {{ country.gap_2013|dollar }}.</p>
+	{% else %}
+		<img width="1004" height="152" src="no_data_quarter.png"/>
+		<p><b>No data available</b></p>
+	{% endif %}
+{% endif %}
+
+<h3>{{ country.name }} income trends</h3>
+<img width="1000" height="770" src="charts/{{ country.slug }}_c1.png"/>
+<p><b>Source: </b>Development Initiatives based on PovcalNet</p>
+
+<h2>Nutrition</h2>
+{% if country.obesityrate is not none %}
+	<p>In {{ country.sentencename }} {{ country.obesityrate|percent }} of adults are obese.</p>
+{% endif %}
+
+<h3>Obesity rate</h3>
+<img width="1000" height="650" src="charts/{{ country.slug }}_c7.png"/>
+<p><b>Source: </b>Development Initiatives based on NCD Risk Factor Collaboration 2017</p>
+
+<h2>Education</h2>
+<p>Education is fundamental to a person’s life chances.</p>
+{% if country.SecondaryCompletion is not none %}
+	<p>In {{ country.sentencename }} {{ country.SecondaryCompletion|percent }} of people have completed secondary school education.</p>
+{% else %}
+	<img width="1004" height="152" src="no_data_quarter.png"/>
+	<p><b>No data available</b></p>
+{% endif %}
+
+<h3>Percentage who have completed secondary education</h3>
+<img width="1000" height="570" src="charts/{{ country.slug }}_c4.png"/>
+<p><b>Source: </b>Development Initiatives based on UNESCO Institute for Statistics 2018</p>
+<p>Data is not available that allows us to disaggregate secondary school completion based on income and therefore we are unable to see completion rates for the P20 versus the rest of the population in this country.</p>
+
+<h2>Health</h2>
+<p>Poor health plays a major part in keeping people in poverty. If you are among the P20 you are more likely to suffer from preventable diseases and to die earlier.</p>
+{% if country.NtlUnder5Mortality is not none %}
+	<p>In {{ country.sentencename }} the under-five mortality rate is {{ country.NtlUnder5Mortality|people }} per 1,000 live births.</p>
+{% else %}
+	<img top="6776" left="72" width="1004" height="152" src="no_data_quarter.png"/>
+	<p><b>No data available</b></p>
+{% endif %}
+<p>Data is not available that allows us to disaggregate under-five mortality based on income and therefore we are unable to see this information for the P20 versus the rest of the population.</p>
+<p><b>Source: </b>Development Initiatives based on World Bank World Development Indicators</p>
+<p><a name="{{ country.slug }}1">1</a> Year of latest available data: 2013 (2011 $PPP)</p>
+<p>If you would like more information or to speak to us, please get in touch: Zach Christensen, Senior Analyst <a href="mailto:Zach.Christensen%40devinit.org?subject=">Zach.Christensen@devinit.org</a></p>
+<p>See more about this work at <a href="http://www.devinit.org/p20i">www.devinit.org/p20i</a></p>
+{% endif %}
+</div>
+{% endfor %}
+</body>
+</html>
