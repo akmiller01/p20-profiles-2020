@@ -50,7 +50,7 @@
 	{% endif %}
 {% endif %}
 <h3>{{ country.name }} income trends</h3>
-{{ country.c1 }}
+	{{ country.c1 }}
 <p><b>Source: </b>Development Initiatives based on PovcalNet</p>
 
 <h2>Nutrition</h2>
@@ -67,7 +67,7 @@
 {% endif %}
 
 <h3>Stunting in children in the P20 compared with rest of country</h3>
-{{ country.c2 }}
+	{{ country.c2 }}
 <p><b>Source: </b>Development Initiatives based on UNICEF-WHO joint child malnutrition estimates<a href="#{{ country.slug }}2"><sup>2</sup></a></p>
 
 <h2>Birth registration</h2>
@@ -80,7 +80,7 @@
 {% endif %}
 
 <h3>Birth registration rates for children under five</h3>
-{{ country.c3 }}
+	{{ country.c3 }}
 {% if country.birthregtrends is not none %}
 	<p>Birth registration rates in {{ country.sentencename }} have {{ country.birthregtrends }}.</p>
 {% else %}
@@ -99,7 +99,7 @@
 {% endif %}
 
 <h3>percentage who have completed secondary education</h3>
-{{ country.c4 }}
+	{{ country.c4 }}
 {% if country.secondarycompletionP20 is not none %}
 	<p>{{ country.secondarycompletionP20|percent }} of people in the national P20 have completed a secondary education compared with {{ country.secondarycompletionrest|percent }} of the rest of the population.</p>
 {% else %}
@@ -108,7 +108,7 @@
 {% endif %}
 
 <h3>Secondary school completion rates </h3>
-{{ country.c5 }}
+	{{ country.c5 }}
 <p><b>Source: </b>Demographic Health Surveys (DHS)</p>
 
 <h2>Health</h2>
@@ -126,7 +126,7 @@
 {% endif %}
 
 <h3>Under-five mortality rates</h3>
-{{ country.c6 }}
+	{{ country.c6 }}
 <p><b>Source: </b>Development Initiatives based on Demographic Health Surveys (DHS)</p>
 <p><a name="{{ country.slug }}1">1</a> Year of latest available data: 2013 (2011 $PPP)</p>
 <p><a name="{{ country.slug }}2">2</a> Based on latest available data which varies between countries – see original source</p>
@@ -171,7 +171,7 @@
 {% endif %}
 
 <h3>{{ country.name }} income trends</h3>
-{{ country.c1 }}
+	{{ country.c1 }}
 <p><b>Source: </b>Development Initiatives based on PovcalNet</p>
 
 <h2>Nutrition</h2>
@@ -180,7 +180,7 @@
 {% endif %}
 
 <h3>Obesity rate</h3>
-{{ country.c7 }}
+	{{ country.c7 }}
 <p><b>Source: </b>Development Initiatives based on NCD Risk Factor Collaboration 2017</p>
 
 <h2>Education</h2>
@@ -193,7 +193,7 @@
 {% endif %}
 
 <h3>Percentage who have completed secondary education</h3>
-{{ country.c4 }}
+	{{ country.c4 }}
 <p><b>Source: </b>Development Initiatives based on UNESCO Institute for Statistics 2018</p>
 <p>Data is not available that allows us to disaggregate secondary school completion based on income and therefore we are unable to see completion rates for the P20 versus the rest of the population in this country.</p>
 

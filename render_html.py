@@ -55,6 +55,11 @@ if __name__ == "__main__":
                     soup = BeautifulSoup(chart_html, 'html.parser')
                     body = soup.find('body')
                     chart_contents = body.decode_contents()
+                    chart_contents = chart_contents.replace('style="width:100%;height:600px;"', 'style="width:1200px;height:600px;"')
+                    chart_contents = chart_contents.replace(
+                        '{"viewer":{"width":"100%","height":400,"padding":15,"fill":true},"browser":{"width":"100%","height":400,"padding":40,"fill":true}}',
+                        '{"viewer":{"width":"1200","height":600,"padding":15,"fill":false},"browser":{"width":"1200","height":600,"padding":40,"fill":false}}'
+                    )
                     country[chart_name] = chart_contents
             else:
                 country[chart_name] = "<p><b>No data</b></p>"
