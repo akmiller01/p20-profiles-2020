@@ -1,6 +1,9 @@
+charts_interactive
+assets
 fonts/*
 !fonts/Arial.ttf
 !fonts/Arial-Bold.ttf
 !fonts/Arial-Italic.ttf
 venv
 index.html
+p20_profiles

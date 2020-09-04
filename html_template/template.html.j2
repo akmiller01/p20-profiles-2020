@@ -10,7 +10,14 @@
 	    document.getElementById(value).style.display = 'block';
 		};
 	</script>
-
+	<script src="assets/htmlwidgets-1.5.1/htmlwidgets.js"></script>
+	<script src="assets/plotly-binding-4.9.1/plotly.js"></script>
+	<script src="assets/typedarray-0.1/typedarray.min.js"></script>
+	<script src="assets/jquery-1.11.3/jquery.min.js"></script>
+	<link href="assets/crosstalk-1.1.0.1/css/crosstalk.css" rel="stylesheet" />
+	<script src="assets/crosstalk-1.1.0.1/js/crosstalk.min.js"></script>
+	<link href="assets/plotly-htmlwidgets-css-1.49.4/plotly-htmlwidgets.css" rel="stylesheet" />
+	<script src="assets/plotly-main-1.49.4/plotly-latest.min.js"></script>
 </head>
 <body>
 
@@ -59,7 +66,7 @@
 	{% endif %}
 {% endif %}
 <h3>{{ country.name }} income trends</h3>
-<img width="1000" height="770" src="charts/{{ country.slug }}_c1.png"/>
+{{ country.c1 }}
 <p><b>Source: </b>Development Initiatives based on PovcalNet</p>
 
 <h2>Nutrition</h2>
@@ -76,7 +83,7 @@
 {% endif %}
 
 <h3>Stunting in children in the P20 compared with rest of country</h3>
-<img width="1000" height="600" src="charts/{{ country.slug }}_c2.png"/>
+{{ country.c2 }}
 <p><b>Source: </b>Development Initiatives based on UNICEF-WHO joint child malnutrition estimates<a href="#{{ country.slug }}2"><sup>2</sup></a></p>
 
 <h2>Birth registration</h2>
@@ -89,7 +96,7 @@
 {% endif %}
 
 <h3>Birth registration rates for children under five</h3>
-<img width="1000" height="600" src="charts/{{ country.slug }}_c3.png"/>
+{{ country.c3 }}
 {% if country.birthregtrends is not none %}
 	<p>Birth registration rates in {{ country.sentencename }} have {{ country.birthregtrends }}.</p>
 {% else %}
@@ -108,7 +115,7 @@
 {% endif %}
 
 <h3>percentage who have completed secondary education</h3>
-<img width="1000" height="550" src="charts/{{ country.slug }}_c4.png"/>
+{{ country.c4 }}
 {% if country.secondarycompletionP20 is not none %}
 	<p>{{ country.secondarycompletionP20|percent }} of people in the national P20 have completed a secondary education compared with {{ country.secondarycompletionrest|percent }} of the rest of the population.</p>
 {% else %}
@@ -117,7 +124,7 @@
 {% endif %}
 
 <h3>Secondary school completion rates </h3>
-<img width="1000" height="660" src="charts/{{ country.slug }}_c5.png"/>
+{{ country.c5 }}
 <p><b>Source: </b>Demographic Health Surveys (DHS)</p>
 
 <h2>Health</h2>
@@ -135,7 +142,7 @@
 {% endif %}
 
 <h3>Under-five mortality rates</h3>
-<img width="1000" height="590" src="charts/{{ country.slug }}_c6.png"/>
+{{ country.c6 }}
 <p><b>Source: </b>Development Initiatives based on Demographic Health Surveys (DHS)</p>
 <p><a name="{{ country.slug }}1">1</a> Year of latest available data: 2013 (2011 $PPP)</p>
 <p><a name="{{ country.slug }}2">2</a> Based on latest available data which varies between countries – see original source</p>
@@ -180,7 +187,7 @@
 {% endif %}
 
 <h3>{{ country.name }} income trends</h3>
-<img width="1000" height="770" src="charts/{{ country.slug }}_c1.png"/>
+{{ country.c1 }}
 <p><b>Source: </b>Development Initiatives based on PovcalNet</p>
 
 <h2>Nutrition</h2>
@@ -189,7 +196,7 @@
 {% endif %}
 
 <h3>Obesity rate</h3>
-<img width="1000" height="650" src="charts/{{ country.slug }}_c7.png"/>
+{{ country.c7 }}
 <p><b>Source: </b>Development Initiatives based on NCD Risk Factor Collaboration 2017</p>
 
 <h2>Education</h2>
@@ -202,7 +209,7 @@
 {% endif %}
 
 <h3>Percentage who have completed secondary education</h3>
-<img width="1000" height="570" src="charts/{{ country.slug }}_c4.png"/>
+{{ country.c4 }}
 <p><b>Source: </b>Development Initiatives based on UNESCO Institute for Statistics 2018</p>
 <p>Data is not available that allows us to disaggregate secondary school completion based on income and therefore we are unable to see completion rates for the P20 versus the rest of the population in this country.</p>
 

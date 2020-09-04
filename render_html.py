@@ -1,5 +1,7 @@
+import os
 import jinja2
 import pandas as pd
+from bs4 import BeautifulSoup
 
 
 def year(num):
@@ -43,6 +45,20 @@ if __name__ == "__main__":
     countries_df = pd.read_csv(csv_file, keep_default_na=False, na_values=[""])
     countries_df = countries_df.where(countries_df.notnull(), None)
     countries = countries_df.to_dict('records')
+    for country in countries:
+        for chart_number in range(0, 8):
+            chart_name = "c{}".format(chart_number)
+            chart_filename = "charts_interactive/{}_{}.html".format(country["slug"], chart_name)
+            if os.path.isfile(chart_filename):
+                with open(chart_filename, "r") as chart_html_file:
+                    chart_html = chart_html_file.read()
+                    soup = BeautifulSoup(chart_html, 'html.parser')
+                    body = soup.find('body')
+                    chart_contents = body.decode_contents()
+                    country[chart_name] = chart_contents
+            else:
+                country[chart_name] = "<p><b>No data</b></p>"
+
     templateLoader = jinja2.FileSystemLoader(searchpath="./html_template/")
     templateEnv = jinja2.Environment(loader=templateLoader)
     templateEnv.filters['people'] = people
