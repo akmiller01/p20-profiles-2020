@@ -227,7 +227,7 @@ for(theslug in countries$slug){
             legend.title=element_blank(),
             axis.line.x = element_line(colour = dark.grey)
           )
-        htmlwidgets::saveWidget(ggplotly(c2, tooltip=c("x","y","fill")), c2_chart_name, selfcontained=F)
+        htmlwidgets::saveWidget(ggplotly(c2, tooltip=c("x","y")), c2_chart_name, selfcontained=F)
       }
     } 
   }
@@ -254,7 +254,7 @@ for(theslug in countries$slug){
             legend.title=element_blank(),
             axis.line.x = element_line(colour = dark.grey)
           )
-        htmlwidgets::saveWidget(ggplotly(c3, tooltip=c("x","y","fill")), c3_chart_name, selfcontained=F)
+        htmlwidgets::saveWidget(ggplotly(c3, tooltip=c("x","y")), c3_chart_name, selfcontained=F)
       }
     } 
   }
@@ -279,7 +279,7 @@ for(theslug in countries$slug){
           legend.title=element_blank(),
           axis.line.x = element_line(colour = dark.grey)
         )
-      htmlwidgets::saveWidget(ggplotly(c4, tooltip=c("x","y","fill")), c4_chart_name, selfcontained=F)
+      htmlwidgets::saveWidget(ggplotly(c4, tooltip=c("x","y")), c4_chart_name, selfcontained=F)
     }
   }
   ###C5####
@@ -305,7 +305,7 @@ for(theslug in countries$slug){
             legend.title=element_blank(),
             axis.line.x = element_line(colour = dark.grey)
           )
-        htmlwidgets::saveWidget(ggplotly(c5, tooltip=c("x","y","fill")), c5_chart_name, selfcontained=F)
+        htmlwidgets::saveWidget(ggplotly(c5, tooltip=c("x","y")), c5_chart_name, selfcontained=F)
       }
     } 
   }
@@ -332,7 +332,7 @@ for(theslug in countries$slug){
             legend.title=element_blank(),
             axis.line.x = element_line(colour = dark.grey)
           )
-        htmlwidgets::saveWidget(ggplotly(c6, tooltip=c("x","y","fill")), c6_chart_name, selfcontained=F)
+        htmlwidgets::saveWidget(ggplotly(c6, tooltip=c("x","y")), c6_chart_name, selfcontained=F)
       }
     } 
   }
